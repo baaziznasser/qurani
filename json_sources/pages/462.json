@@ -1,0 +1,195 @@
+﻿{
+	"number": 462,
+	"ayahs": [
+		{
+			"number": 4090,
+			"text": "۞ فَمَنْ أَظْلَمُ مِمَّنْ كَذَبَ عَلَى اللَّهِ وَكَذَّبَ بِالصِّدْقِ إِذْ جَاءَهُ ۚ أَلَيْسَ فِي جَهَنَّمَ مَثْوًى لِلْكَافِرِينَ",
+			"surah": {
+				"number": 39,
+				"name": "سُورَةُ الزُّمَرِ",
+				"englishName": "Az-Zumar",
+				"englishNameTranslation": "The Groups",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 75
+			},
+			"numberInSurah": 32,
+			"juz": 24,
+			"manzil": 6,
+			"page": 462,
+			"ruku": 399,
+			"hizbQuarter": 185,
+			"sajda": false
+		},
+		{
+			"number": 4091,
+			"text": "وَالَّذِي جَاءَ بِالصِّدْقِ وَصَدَّقَ بِهِ ۙ أُولَٰئِكَ هُمُ الْمُتَّقُونَ",
+			"surah": {
+				"number": 39,
+				"name": "سُورَةُ الزُّمَرِ",
+				"englishName": "Az-Zumar",
+				"englishNameTranslation": "The Groups",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 75
+			},
+			"numberInSurah": 33,
+			"juz": 24,
+			"manzil": 6,
+			"page": 462,
+			"ruku": 399,
+			"hizbQuarter": 185,
+			"sajda": false
+		},
+		{
+			"number": 4092,
+			"text": "لَهُمْ مَا يَشَاءُونَ عِنْدَ رَبِّهِمْ ۚ ذَٰلِكَ جَزَاءُ الْمُحْسِنِينَ",
+			"surah": {
+				"number": 39,
+				"name": "سُورَةُ الزُّمَرِ",
+				"englishName": "Az-Zumar",
+				"englishNameTranslation": "The Groups",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 75
+			},
+			"numberInSurah": 34,
+			"juz": 24,
+			"manzil": 6,
+			"page": 462,
+			"ruku": 399,
+			"hizbQuarter": 185,
+			"sajda": false
+		},
+		{
+			"number": 4093,
+			"text": "لِيُكَفِّرَ اللَّهُ عَنْهُمْ أَسْوَأَ الَّذِي عَمِلُوا وَيَجْزِيَهُمْ أَجْرَهُمْ بِأَحْسَنِ الَّذِي كَانُوا يَعْمَلُونَ",
+			"surah": {
+				"number": 39,
+				"name": "سُورَةُ الزُّمَرِ",
+				"englishName": "Az-Zumar",
+				"englishNameTranslation": "The Groups",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 75
+			},
+			"numberInSurah": 35,
+			"juz": 24,
+			"manzil": 6,
+			"page": 462,
+			"ruku": 399,
+			"hizbQuarter": 185,
+			"sajda": false
+		},
+		{
+			"number": 4094,
+			"text": "أَلَيْسَ اللَّهُ بِكَافٍ عَبْدَهُ ۖ وَيُخَوِّفُونَكَ بِالَّذِينَ مِنْ دُونِهِ ۚ وَمَنْ يُضْلِلِ اللَّهُ فَمَا لَهُ مِنْ هَادٍ",
+			"surah": {
+				"number": 39,
+				"name": "سُورَةُ الزُّمَرِ",
+				"englishName": "Az-Zumar",
+				"englishNameTranslation": "The Groups",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 75
+			},
+			"numberInSurah": 36,
+			"juz": 24,
+			"manzil": 6,
+			"page": 462,
+			"ruku": 399,
+			"hizbQuarter": 185,
+			"sajda": false
+		},
+		{
+			"number": 4095,
+			"text": "وَمَنْ يَهْدِ اللَّهُ فَمَا لَهُ مِنْ مُضِلٍّ ۗ أَلَيْسَ اللَّهُ بِعَزِيزٍ ذِي انْتِقَامٍ",
+			"surah": {
+				"number": 39,
+				"name": "سُورَةُ الزُّمَرِ",
+				"englishName": "Az-Zumar",
+				"englishNameTranslation": "The Groups",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 75
+			},
+			"numberInSurah": 37,
+			"juz": 24,
+			"manzil": 6,
+			"page": 462,
+			"ruku": 399,
+			"hizbQuarter": 185,
+			"sajda": false
+		},
+		{
+			"number": 4096,
+			"text": "وَلَئِنْ سَأَلْتَهُمْ مَنْ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ لَيَقُولُنَّ اللَّهُ ۚ قُلْ أَفَرَأَيْتُمْ مَا تَدْعُونَ مِنْ دُونِ اللَّهِ إِنْ أَرَادَنِيَ اللَّهُ بِضُرٍّ هَلْ هُنَّ كَاشِفَاتُ ضُرِّهِ أَوْ أَرَادَنِي بِرَحْمَةٍ هَلْ هُنَّ مُمْسِكَاتُ رَحْمَتِهِ ۚ قُلْ حَسْبِيَ اللَّهُ ۖ عَلَيْهِ يَتَوَكَّلُ الْمُتَوَكِّلُونَ",
+			"surah": {
+				"number": 39,
+				"name": "سُورَةُ الزُّمَرِ",
+				"englishName": "Az-Zumar",
+				"englishNameTranslation": "The Groups",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 75
+			},
+			"numberInSurah": 38,
+			"juz": 24,
+			"manzil": 6,
+			"page": 462,
+			"ruku": 399,
+			"hizbQuarter": 185,
+			"sajda": false
+		},
+		{
+			"number": 4097,
+			"text": "قُلْ يَا قَوْمِ اعْمَلُوا عَلَىٰ مَكَانَتِكُمْ إِنِّي عَامِلٌ ۖ فَسَوْفَ تَعْلَمُونَ",
+			"surah": {
+				"number": 39,
+				"name": "سُورَةُ الزُّمَرِ",
+				"englishName": "Az-Zumar",
+				"englishNameTranslation": "The Groups",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 75
+			},
+			"numberInSurah": 39,
+			"juz": 24,
+			"manzil": 6,
+			"page": 462,
+			"ruku": 399,
+			"hizbQuarter": 185,
+			"sajda": false
+		},
+		{
+			"number": 4098,
+			"text": "مَنْ يَأْتِيهِ عَذَابٌ يُخْزِيهِ وَيَحِلُّ عَلَيْهِ عَذَابٌ مُقِيمٌ",
+			"surah": {
+				"number": 39,
+				"name": "سُورَةُ الزُّمَرِ",
+				"englishName": "Az-Zumar",
+				"englishNameTranslation": "The Groups",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 75
+			},
+			"numberInSurah": 40,
+			"juz": 24,
+			"manzil": 6,
+			"page": 462,
+			"ruku": 399,
+			"hizbQuarter": 185,
+			"sajda": false
+		}
+	],
+	"surahs": {
+		"39": {
+			"number": 39,
+			"name": "سُورَةُ الزُّمَرِ",
+			"englishName": "Az-Zumar",
+			"englishNameTranslation": "The Groups",
+			"revelationType": "Meccan",
+			"numberOfAyahs": 75
+		}
+	},
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

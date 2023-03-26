@@ -1,0 +1,138 @@
+﻿{
+	"number": 512,
+	"ayahs": [
+		{
+			"number": 4593,
+			"text": "إِنَّ الَّذِينَ يُبَايِعُونَكَ إِنَّمَا يُبَايِعُونَ اللَّهَ يَدُ اللَّهِ فَوْقَ أَيْدِيهِمْ ۚ فَمَنْ نَكَثَ فَإِنَّمَا يَنْكُثُ عَلَىٰ نَفْسِهِ ۖ وَمَنْ أَوْفَىٰ بِمَا عَاهَدَ عَلَيْهُ اللَّهَ فَسَيُؤْتِيهِ أَجْرًا عَظِيمًا",
+			"surah": {
+				"number": 48,
+				"name": "سُورَةُ الفَتۡحِ",
+				"englishName": "Al-Fath",
+				"englishNameTranslation": "The Victory",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 29
+			},
+			"numberInSurah": 10,
+			"juz": 26,
+			"manzil": 6,
+			"page": 512,
+			"ruku": 446,
+			"hizbQuarter": 204,
+			"sajda": false
+		},
+		{
+			"number": 4594,
+			"text": "سَيَقُولُ لَكَ الْمُخَلَّفُونَ مِنَ الْأَعْرَابِ شَغَلَتْنَا أَمْوَالُنَا وَأَهْلُونَا فَاسْتَغْفِرْ لَنَا ۚ يَقُولُونَ بِأَلْسِنَتِهِمْ مَا لَيْسَ فِي قُلُوبِهِمْ ۚ قُلْ فَمَنْ يَمْلِكُ لَكُمْ مِنَ اللَّهِ شَيْئًا إِنْ أَرَادَ بِكُمْ ضَرًّا أَوْ أَرَادَ بِكُمْ نَفْعًا ۚ بَلْ كَانَ اللَّهُ بِمَا تَعْمَلُونَ خَبِيرًا",
+			"surah": {
+				"number": 48,
+				"name": "سُورَةُ الفَتۡحِ",
+				"englishName": "Al-Fath",
+				"englishNameTranslation": "The Victory",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 29
+			},
+			"numberInSurah": 11,
+			"juz": 26,
+			"manzil": 6,
+			"page": 512,
+			"ruku": 447,
+			"hizbQuarter": 204,
+			"sajda": false
+		},
+		{
+			"number": 4595,
+			"text": "بَلْ ظَنَنْتُمْ أَنْ لَنْ يَنْقَلِبَ الرَّسُولُ وَالْمُؤْمِنُونَ إِلَىٰ أَهْلِيهِمْ أَبَدًا وَزُيِّنَ ذَٰلِكَ فِي قُلُوبِكُمْ وَظَنَنْتُمْ ظَنَّ السَّوْءِ وَكُنْتُمْ قَوْمًا بُورًا",
+			"surah": {
+				"number": 48,
+				"name": "سُورَةُ الفَتۡحِ",
+				"englishName": "Al-Fath",
+				"englishNameTranslation": "The Victory",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 29
+			},
+			"numberInSurah": 12,
+			"juz": 26,
+			"manzil": 6,
+			"page": 512,
+			"ruku": 447,
+			"hizbQuarter": 204,
+			"sajda": false
+		},
+		{
+			"number": 4596,
+			"text": "وَمَنْ لَمْ يُؤْمِنْ بِاللَّهِ وَرَسُولِهِ فَإِنَّا أَعْتَدْنَا لِلْكَافِرِينَ سَعِيرًا",
+			"surah": {
+				"number": 48,
+				"name": "سُورَةُ الفَتۡحِ",
+				"englishName": "Al-Fath",
+				"englishNameTranslation": "The Victory",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 29
+			},
+			"numberInSurah": 13,
+			"juz": 26,
+			"manzil": 6,
+			"page": 512,
+			"ruku": 447,
+			"hizbQuarter": 204,
+			"sajda": false
+		},
+		{
+			"number": 4597,
+			"text": "وَلِلَّهِ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ ۚ يَغْفِرُ لِمَنْ يَشَاءُ وَيُعَذِّبُ مَنْ يَشَاءُ ۚ وَكَانَ اللَّهُ غَفُورًا رَحِيمًا",
+			"surah": {
+				"number": 48,
+				"name": "سُورَةُ الفَتۡحِ",
+				"englishName": "Al-Fath",
+				"englishNameTranslation": "The Victory",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 29
+			},
+			"numberInSurah": 14,
+			"juz": 26,
+			"manzil": 6,
+			"page": 512,
+			"ruku": 447,
+			"hizbQuarter": 204,
+			"sajda": false
+		},
+		{
+			"number": 4598,
+			"text": "سَيَقُولُ الْمُخَلَّفُونَ إِذَا انْطَلَقْتُمْ إِلَىٰ مَغَانِمَ لِتَأْخُذُوهَا ذَرُونَا نَتَّبِعْكُمْ ۖ يُرِيدُونَ أَنْ يُبَدِّلُوا كَلَامَ اللَّهِ ۚ قُلْ لَنْ تَتَّبِعُونَا كَذَٰلِكُمْ قَالَ اللَّهُ مِنْ قَبْلُ ۖ فَسَيَقُولُونَ بَلْ تَحْسُدُونَنَا ۚ بَلْ كَانُوا لَا يَفْقَهُونَ إِلَّا قَلِيلًا",
+			"surah": {
+				"number": 48,
+				"name": "سُورَةُ الفَتۡحِ",
+				"englishName": "Al-Fath",
+				"englishNameTranslation": "The Victory",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 29
+			},
+			"numberInSurah": 15,
+			"juz": 26,
+			"manzil": 6,
+			"page": 512,
+			"ruku": 447,
+			"hizbQuarter": 204,
+			"sajda": false
+		}
+	],
+	"surahs": {
+		"48": {
+			"number": 48,
+			"name": "سُورَةُ الفَتۡحِ",
+			"englishName": "Al-Fath",
+			"englishNameTranslation": "The Victory",
+			"revelationType": "Medinan",
+			"numberOfAyahs": 29
+		}
+	},
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

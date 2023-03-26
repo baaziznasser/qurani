@@ -1,0 +1,107 @@
+﻿{
+	"number": 98,
+	"name": "سُورَةُ البَيِّنَةِ",
+	"englishName": "Al-Bayyina",
+	"englishNameTranslation": "The Evidence",
+	"revelationType": "Medinan",
+	"numberOfAyahs": 8,
+	"ayahs": [
+		{
+			"number": 6131,
+			"text": "لم يكن الذين كفروا من اليهود والنصارى والمشركين تاركين كفرهم حتى تأتيهم العلامة التي وُعِدوا بها في الكتب السابقة.",
+			"numberInSurah": 1,
+			"juz": 30,
+			"manzil": 7,
+			"page": 598,
+			"ruku": 540,
+			"hizbQuarter": 239,
+			"sajda": false
+		},
+		{
+			"number": 6132,
+			"text": "وهي رسول الله محمد صلى الله عليه وسلم، يتلو قرآنًا في صحف مطهرة.",
+			"numberInSurah": 2,
+			"juz": 30,
+			"manzil": 7,
+			"page": 598,
+			"ruku": 540,
+			"hizbQuarter": 239,
+			"sajda": false
+		},
+		{
+			"number": 6133,
+			"text": "في تلك الصحف أخبار صادقة وأوامر عادلة، تهدي إلى الحق وإلى صراط مستقيم.",
+			"numberInSurah": 3,
+			"juz": 30,
+			"manzil": 7,
+			"page": 598,
+			"ruku": 540,
+			"hizbQuarter": 239,
+			"sajda": false
+		},
+		{
+			"number": 6134,
+			"text": "وما اختلف الذين أوتوا الكتاب من اليهود والنصارى في كون محمد صلى الله عليه وسلم رسولا حقًا؛ لما يجدونه من نعته في كتابهم، إلا مِن بعد ما تبينوا أنه النبي الذي وُعِدوا به في التوراة والإنجيل، فكانوا مجتمعين على صحة نبوته، فلما بُعِث جحدوها وتفرَّقوا.",
+			"numberInSurah": 4,
+			"juz": 30,
+			"manzil": 7,
+			"page": 598,
+			"ruku": 540,
+			"hizbQuarter": 239,
+			"sajda": false
+		},
+		{
+			"number": 6135,
+			"text": "وما أمروا في سائر الشرائع إلا ليعبدوا الله وحده قاصدين بعبادتهم وجهه، مائلين عن الشرك إلى الإيمان، ويقيموا الصلاة، ويُؤَدُّوا الزكاة، وذلك هو دين الاستقامة، وهو الإسلام.",
+			"numberInSurah": 5,
+			"juz": 30,
+			"manzil": 7,
+			"page": 598,
+			"ruku": 540,
+			"hizbQuarter": 239,
+			"sajda": false
+		},
+		{
+			"number": 6136,
+			"text": "إن الذين كفروا من اليهود والنصارى والمشركين عقابهم نار جهنم خالدين فيها، أولئك هم أشد الخليقة شرا.",
+			"numberInSurah": 6,
+			"juz": 30,
+			"manzil": 7,
+			"page": 598,
+			"ruku": 540,
+			"hizbQuarter": 239,
+			"sajda": false
+		},
+		{
+			"number": 6137,
+			"text": "إن الذين صَدَّقوا الله واتبعوا رسوله وعملوا الصالحات، أولئك هم خير الخلق.",
+			"numberInSurah": 7,
+			"juz": 30,
+			"manzil": 7,
+			"page": 598,
+			"ruku": 540,
+			"hizbQuarter": 239,
+			"sajda": false
+		},
+		{
+			"number": 6138,
+			"text": "جزاؤهم عند ربهم يوم القيامة جنات إقامة واستقرار في منتهى الحسن، تجري من تحت قصورها الأنهار، خالدين فيها أبدًا، رضي الله عنهم فقبل أعمالهم الصالحة، ورضوا عنه بما أعدَّ لهم من أنواع الكرامات، ذلك الجزاء الحسن لمن خاف الله واجتنب معاصيه.",
+			"numberInSurah": 8,
+			"juz": 30,
+			"manzil": 7,
+			"page": 599,
+			"ruku": 540,
+			"hizbQuarter": 239,
+			"sajda": false
+		}
+	],
+	"edition": {
+		"identifier": "ar.muyassar",
+		"language": "ar",
+		"name": "تفسير المیسر",
+		"englishName": "King Fahad Quran Complex",
+		"format": "text",
+		"type": "tafsir",
+		"direction": "rtl"
+	}
+}

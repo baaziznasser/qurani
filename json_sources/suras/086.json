@@ -1,0 +1,206 @@
+﻿{
+	"number": 86,
+	"name": "سُورَةُ الطَّارِقِ",
+	"englishName": "At-Taariq",
+	"englishNameTranslation": "The Morning Star",
+	"revelationType": "Meccan",
+	"numberOfAyahs": 17,
+	"ayahs": [
+		{
+			"number": 5932,
+			"text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ وَالسَّمَاءِ وَالطَّارِقِ",
+			"numberInSurah": 1,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 528,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5933,
+			"text": "وَمَا أَدْرَاكَ مَا الطَّارِقُ",
+			"numberInSurah": 2,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 528,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5934,
+			"text": "النَّجْمُ الثَّاقِبُ",
+			"numberInSurah": 3,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 528,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5935,
+			"text": "إِنْ كُلُّ نَفْسٍ لَمَّا عَلَيْهَا حَافِظٌ",
+			"numberInSurah": 4,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 528,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5936,
+			"text": "فَلْيَنْظُرِ الْإِنْسَانُ مِمَّ خُلِقَ",
+			"numberInSurah": 5,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 528,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5937,
+			"text": "خُلِقَ مِنْ مَاءٍ دَافِقٍ",
+			"numberInSurah": 6,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 528,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5938,
+			"text": "يَخْرُجُ مِنْ بَيْنِ الصُّلْبِ وَالتَّرَائِبِ",
+			"numberInSurah": 7,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 528,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5939,
+			"text": "إِنَّهُ عَلَىٰ رَجْعِهِ لَقَادِرٌ",
+			"numberInSurah": 8,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 528,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5940,
+			"text": "يَوْمَ تُبْلَى السَّرَائِرُ",
+			"numberInSurah": 9,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 528,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5941,
+			"text": "فَمَا لَهُ مِنْ قُوَّةٍ وَلَا نَاصِرٍ",
+			"numberInSurah": 10,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 528,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5942,
+			"text": "وَالسَّمَاءِ ذَاتِ الرَّجْعِ",
+			"numberInSurah": 11,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 528,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5943,
+			"text": "وَالْأَرْضِ ذَاتِ الصَّدْعِ",
+			"numberInSurah": 12,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 528,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5944,
+			"text": "إِنَّهُ لَقَوْلٌ فَصْلٌ",
+			"numberInSurah": 13,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 528,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5945,
+			"text": "وَمَا هُوَ بِالْهَزْلِ",
+			"numberInSurah": 14,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 528,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5946,
+			"text": "إِنَّهُمْ يَكِيدُونَ كَيْدًا",
+			"numberInSurah": 15,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 528,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5947,
+			"text": "وَأَكِيدُ كَيْدًا",
+			"numberInSurah": 16,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 528,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5948,
+			"text": "فَمَهِّلِ الْكَافِرِينَ أَمْهِلْهُمْ رُوَيْدًا",
+			"numberInSurah": 17,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 528,
+			"hizbQuarter": 236,
+			"sajda": false
+		}
+	],
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

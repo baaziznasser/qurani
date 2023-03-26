@@ -1,0 +1,461 @@
+﻿{
+	"number": 52,
+	"ayahs": [
+		{
+			"number": 802,
+			"text": "۞ وَلَهُ مَا سَكَنَ فِي اللَّيْلِ وَالنَّهَارِ ۚ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+			"surah": {
+				"number": 6,
+				"name": "سُورَةُ الأَنۡعَامِ",
+				"englishName": "Al-An'aam",
+				"englishNameTranslation": "The Cattle",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 165
+			},
+			"numberInSurah": 13,
+			"juz": 7,
+			"manzil": 2,
+			"page": 129,
+			"ruku": 103,
+			"hizbQuarter": 52,
+			"sajda": false
+		},
+		{
+			"number": 803,
+			"text": "قُلْ أَغَيْرَ اللَّهِ أَتَّخِذُ وَلِيًّا فَاطِرِ السَّمَاوَاتِ وَالْأَرْضِ وَهُوَ يُطْعِمُ وَلَا يُطْعَمُ ۗ قُلْ إِنِّي أُمِرْتُ أَنْ أَكُونَ أَوَّلَ مَنْ أَسْلَمَ ۖ وَلَا تَكُونَنَّ مِنَ الْمُشْرِكِينَ",
+			"surah": {
+				"number": 6,
+				"name": "سُورَةُ الأَنۡعَامِ",
+				"englishName": "Al-An'aam",
+				"englishNameTranslation": "The Cattle",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 165
+			},
+			"numberInSurah": 14,
+			"juz": 7,
+			"manzil": 2,
+			"page": 129,
+			"ruku": 103,
+			"hizbQuarter": 52,
+			"sajda": false
+		},
+		{
+			"number": 804,
+			"text": "قُلْ إِنِّي أَخَافُ إِنْ عَصَيْتُ رَبِّي عَذَابَ يَوْمٍ عَظِيمٍ",
+			"surah": {
+				"number": 6,
+				"name": "سُورَةُ الأَنۡعَامِ",
+				"englishName": "Al-An'aam",
+				"englishNameTranslation": "The Cattle",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 165
+			},
+			"numberInSurah": 15,
+			"juz": 7,
+			"manzil": 2,
+			"page": 129,
+			"ruku": 103,
+			"hizbQuarter": 52,
+			"sajda": false
+		},
+		{
+			"number": 805,
+			"text": "مَنْ يُصْرَفْ عَنْهُ يَوْمَئِذٍ فَقَدْ رَحِمَهُ ۚ وَذَٰلِكَ الْفَوْزُ الْمُبِينُ",
+			"surah": {
+				"number": 6,
+				"name": "سُورَةُ الأَنۡعَامِ",
+				"englishName": "Al-An'aam",
+				"englishNameTranslation": "The Cattle",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 165
+			},
+			"numberInSurah": 16,
+			"juz": 7,
+			"manzil": 2,
+			"page": 129,
+			"ruku": 103,
+			"hizbQuarter": 52,
+			"sajda": false
+		},
+		{
+			"number": 806,
+			"text": "وَإِنْ يَمْسَسْكَ اللَّهُ بِضُرٍّ فَلَا كَاشِفَ لَهُ إِلَّا هُوَ ۖ وَإِنْ يَمْسَسْكَ بِخَيْرٍ فَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+			"surah": {
+				"number": 6,
+				"name": "سُورَةُ الأَنۡعَامِ",
+				"englishName": "Al-An'aam",
+				"englishNameTranslation": "The Cattle",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 165
+			},
+			"numberInSurah": 17,
+			"juz": 7,
+			"manzil": 2,
+			"page": 129,
+			"ruku": 103,
+			"hizbQuarter": 52,
+			"sajda": false
+		},
+		{
+			"number": 807,
+			"text": "وَهُوَ الْقَاهِرُ فَوْقَ عِبَادِهِ ۚ وَهُوَ الْحَكِيمُ الْخَبِيرُ",
+			"surah": {
+				"number": 6,
+				"name": "سُورَةُ الأَنۡعَامِ",
+				"englishName": "Al-An'aam",
+				"englishNameTranslation": "The Cattle",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 165
+			},
+			"numberInSurah": 18,
+			"juz": 7,
+			"manzil": 2,
+			"page": 129,
+			"ruku": 103,
+			"hizbQuarter": 52,
+			"sajda": false
+		},
+		{
+			"number": 808,
+			"text": "قُلْ أَيُّ شَيْءٍ أَكْبَرُ شَهَادَةً ۖ قُلِ اللَّهُ ۖ شَهِيدٌ بَيْنِي وَبَيْنَكُمْ ۚ وَأُوحِيَ إِلَيَّ هَٰذَا الْقُرْآنُ لِأُنْذِرَكُمْ بِهِ وَمَنْ بَلَغَ ۚ أَئِنَّكُمْ لَتَشْهَدُونَ أَنَّ مَعَ اللَّهِ آلِهَةً أُخْرَىٰ ۚ قُلْ لَا أَشْهَدُ ۚ قُلْ إِنَّمَا هُوَ إِلَٰهٌ وَاحِدٌ وَإِنَّنِي بَرِيءٌ مِمَّا تُشْرِكُونَ",
+			"surah": {
+				"number": 6,
+				"name": "سُورَةُ الأَنۡعَامِ",
+				"englishName": "Al-An'aam",
+				"englishNameTranslation": "The Cattle",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 165
+			},
+			"numberInSurah": 19,
+			"juz": 7,
+			"manzil": 2,
+			"page": 130,
+			"ruku": 103,
+			"hizbQuarter": 52,
+			"sajda": false
+		},
+		{
+			"number": 809,
+			"text": "الَّذِينَ آتَيْنَاهُمُ الْكِتَابَ يَعْرِفُونَهُ كَمَا يَعْرِفُونَ أَبْنَاءَهُمُ ۘ الَّذِينَ خَسِرُوا أَنْفُسَهُمْ فَهُمْ لَا يُؤْمِنُونَ",
+			"surah": {
+				"number": 6,
+				"name": "سُورَةُ الأَنۡعَامِ",
+				"englishName": "Al-An'aam",
+				"englishNameTranslation": "The Cattle",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 165
+			},
+			"numberInSurah": 20,
+			"juz": 7,
+			"manzil": 2,
+			"page": 130,
+			"ruku": 103,
+			"hizbQuarter": 52,
+			"sajda": false
+		},
+		{
+			"number": 810,
+			"text": "وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَىٰ عَلَى اللَّهِ كَذِبًا أَوْ كَذَّبَ بِآيَاتِهِ ۗ إِنَّهُ لَا يُفْلِحُ الظَّالِمُونَ",
+			"surah": {
+				"number": 6,
+				"name": "سُورَةُ الأَنۡعَامِ",
+				"englishName": "Al-An'aam",
+				"englishNameTranslation": "The Cattle",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 165
+			},
+			"numberInSurah": 21,
+			"juz": 7,
+			"manzil": 2,
+			"page": 130,
+			"ruku": 104,
+			"hizbQuarter": 52,
+			"sajda": false
+		},
+		{
+			"number": 811,
+			"text": "وَيَوْمَ نَحْشُرُهُمْ جَمِيعًا ثُمَّ نَقُولُ لِلَّذِينَ أَشْرَكُوا أَيْنَ شُرَكَاؤُكُمُ الَّذِينَ كُنْتُمْ تَزْعُمُونَ",
+			"surah": {
+				"number": 6,
+				"name": "سُورَةُ الأَنۡعَامِ",
+				"englishName": "Al-An'aam",
+				"englishNameTranslation": "The Cattle",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 165
+			},
+			"numberInSurah": 22,
+			"juz": 7,
+			"manzil": 2,
+			"page": 130,
+			"ruku": 104,
+			"hizbQuarter": 52,
+			"sajda": false
+		},
+		{
+			"number": 812,
+			"text": "ثُمَّ لَمْ تَكُنْ فِتْنَتُهُمْ إِلَّا أَنْ قَالُوا وَاللَّهِ رَبِّنَا مَا كُنَّا مُشْرِكِينَ",
+			"surah": {
+				"number": 6,
+				"name": "سُورَةُ الأَنۡعَامِ",
+				"englishName": "Al-An'aam",
+				"englishNameTranslation": "The Cattle",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 165
+			},
+			"numberInSurah": 23,
+			"juz": 7,
+			"manzil": 2,
+			"page": 130,
+			"ruku": 104,
+			"hizbQuarter": 52,
+			"sajda": false
+		},
+		{
+			"number": 813,
+			"text": "انْظُرْ كَيْفَ كَذَبُوا عَلَىٰ أَنْفُسِهِمْ ۚ وَضَلَّ عَنْهُمْ مَا كَانُوا يَفْتَرُونَ",
+			"surah": {
+				"number": 6,
+				"name": "سُورَةُ الأَنۡعَامِ",
+				"englishName": "Al-An'aam",
+				"englishNameTranslation": "The Cattle",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 165
+			},
+			"numberInSurah": 24,
+			"juz": 7,
+			"manzil": 2,
+			"page": 130,
+			"ruku": 104,
+			"hizbQuarter": 52,
+			"sajda": false
+		},
+		{
+			"number": 814,
+			"text": "وَمِنْهُمْ مَنْ يَسْتَمِعُ إِلَيْكَ ۖ وَجَعَلْنَا عَلَىٰ قُلُوبِهِمْ أَكِنَّةً أَنْ يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا ۚ وَإِنْ يَرَوْا كُلَّ آيَةٍ لَا يُؤْمِنُوا بِهَا ۚ حَتَّىٰ إِذَا جَاءُوكَ يُجَادِلُونَكَ يَقُولُ الَّذِينَ كَفَرُوا إِنْ هَٰذَا إِلَّا أَسَاطِيرُ الْأَوَّلِينَ",
+			"surah": {
+				"number": 6,
+				"name": "سُورَةُ الأَنۡعَامِ",
+				"englishName": "Al-An'aam",
+				"englishNameTranslation": "The Cattle",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 165
+			},
+			"numberInSurah": 25,
+			"juz": 7,
+			"manzil": 2,
+			"page": 130,
+			"ruku": 104,
+			"hizbQuarter": 52,
+			"sajda": false
+		},
+		{
+			"number": 815,
+			"text": "وَهُمْ يَنْهَوْنَ عَنْهُ وَيَنْأَوْنَ عَنْهُ ۖ وَإِنْ يُهْلِكُونَ إِلَّا أَنْفُسَهُمْ وَمَا يَشْعُرُونَ",
+			"surah": {
+				"number": 6,
+				"name": "سُورَةُ الأَنۡعَامِ",
+				"englishName": "Al-An'aam",
+				"englishNameTranslation": "The Cattle",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 165
+			},
+			"numberInSurah": 26,
+			"juz": 7,
+			"manzil": 2,
+			"page": 130,
+			"ruku": 104,
+			"hizbQuarter": 52,
+			"sajda": false
+		},
+		{
+			"number": 816,
+			"text": "وَلَوْ تَرَىٰ إِذْ وُقِفُوا عَلَى النَّارِ فَقَالُوا يَا لَيْتَنَا نُرَدُّ وَلَا نُكَذِّبَ بِآيَاتِ رَبِّنَا وَنَكُونَ مِنَ الْمُؤْمِنِينَ",
+			"surah": {
+				"number": 6,
+				"name": "سُورَةُ الأَنۡعَامِ",
+				"englishName": "Al-An'aam",
+				"englishNameTranslation": "The Cattle",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 165
+			},
+			"numberInSurah": 27,
+			"juz": 7,
+			"manzil": 2,
+			"page": 130,
+			"ruku": 104,
+			"hizbQuarter": 52,
+			"sajda": false
+		},
+		{
+			"number": 817,
+			"text": "بَلْ بَدَا لَهُمْ مَا كَانُوا يُخْفُونَ مِنْ قَبْلُ ۖ وَلَوْ رُدُّوا لَعَادُوا لِمَا نُهُوا عَنْهُ وَإِنَّهُمْ لَكَاذِبُونَ",
+			"surah": {
+				"number": 6,
+				"name": "سُورَةُ الأَنۡعَامِ",
+				"englishName": "Al-An'aam",
+				"englishNameTranslation": "The Cattle",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 165
+			},
+			"numberInSurah": 28,
+			"juz": 7,
+			"manzil": 2,
+			"page": 131,
+			"ruku": 104,
+			"hizbQuarter": 52,
+			"sajda": false
+		},
+		{
+			"number": 818,
+			"text": "وَقَالُوا إِنْ هِيَ إِلَّا حَيَاتُنَا الدُّنْيَا وَمَا نَحْنُ بِمَبْعُوثِينَ",
+			"surah": {
+				"number": 6,
+				"name": "سُورَةُ الأَنۡعَامِ",
+				"englishName": "Al-An'aam",
+				"englishNameTranslation": "The Cattle",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 165
+			},
+			"numberInSurah": 29,
+			"juz": 7,
+			"manzil": 2,
+			"page": 131,
+			"ruku": 104,
+			"hizbQuarter": 52,
+			"sajda": false
+		},
+		{
+			"number": 819,
+			"text": "وَلَوْ تَرَىٰ إِذْ وُقِفُوا عَلَىٰ رَبِّهِمْ ۚ قَالَ أَلَيْسَ هَٰذَا بِالْحَقِّ ۚ قَالُوا بَلَىٰ وَرَبِّنَا ۚ قَالَ فَذُوقُوا الْعَذَابَ بِمَا كُنْتُمْ تَكْفُرُونَ",
+			"surah": {
+				"number": 6,
+				"name": "سُورَةُ الأَنۡعَامِ",
+				"englishName": "Al-An'aam",
+				"englishNameTranslation": "The Cattle",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 165
+			},
+			"numberInSurah": 30,
+			"juz": 7,
+			"manzil": 2,
+			"page": 131,
+			"ruku": 104,
+			"hizbQuarter": 52,
+			"sajda": false
+		},
+		{
+			"number": 820,
+			"text": "قَدْ خَسِرَ الَّذِينَ كَذَّبُوا بِلِقَاءِ اللَّهِ ۖ حَتَّىٰ إِذَا جَاءَتْهُمُ السَّاعَةُ بَغْتَةً قَالُوا يَا حَسْرَتَنَا عَلَىٰ مَا فَرَّطْنَا فِيهَا وَهُمْ يَحْمِلُونَ أَوْزَارَهُمْ عَلَىٰ ظُهُورِهِمْ ۚ أَلَا سَاءَ مَا يَزِرُونَ",
+			"surah": {
+				"number": 6,
+				"name": "سُورَةُ الأَنۡعَامِ",
+				"englishName": "Al-An'aam",
+				"englishNameTranslation": "The Cattle",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 165
+			},
+			"numberInSurah": 31,
+			"juz": 7,
+			"manzil": 2,
+			"page": 131,
+			"ruku": 105,
+			"hizbQuarter": 52,
+			"sajda": false
+		},
+		{
+			"number": 821,
+			"text": "وَمَا الْحَيَاةُ الدُّنْيَا إِلَّا لَعِبٌ وَلَهْوٌ ۖ وَلَلدَّارُ الْآخِرَةُ خَيْرٌ لِلَّذِينَ يَتَّقُونَ ۗ أَفَلَا تَعْقِلُونَ",
+			"surah": {
+				"number": 6,
+				"name": "سُورَةُ الأَنۡعَامِ",
+				"englishName": "Al-An'aam",
+				"englishNameTranslation": "The Cattle",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 165
+			},
+			"numberInSurah": 32,
+			"juz": 7,
+			"manzil": 2,
+			"page": 131,
+			"ruku": 105,
+			"hizbQuarter": 52,
+			"sajda": false
+		},
+		{
+			"number": 822,
+			"text": "قَدْ نَعْلَمُ إِنَّهُ لَيَحْزُنُكَ الَّذِي يَقُولُونَ ۖ فَإِنَّهُمْ لَا يُكَذِّبُونَكَ وَلَٰكِنَّ الظَّالِمِينَ بِآيَاتِ اللَّهِ يَجْحَدُونَ",
+			"surah": {
+				"number": 6,
+				"name": "سُورَةُ الأَنۡعَامِ",
+				"englishName": "Al-An'aam",
+				"englishNameTranslation": "The Cattle",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 165
+			},
+			"numberInSurah": 33,
+			"juz": 7,
+			"manzil": 2,
+			"page": 131,
+			"ruku": 105,
+			"hizbQuarter": 52,
+			"sajda": false
+		},
+		{
+			"number": 823,
+			"text": "وَلَقَدْ كُذِّبَتْ رُسُلٌ مِنْ قَبْلِكَ فَصَبَرُوا عَلَىٰ مَا كُذِّبُوا وَأُوذُوا حَتَّىٰ أَتَاهُمْ نَصْرُنَا ۚ وَلَا مُبَدِّلَ لِكَلِمَاتِ اللَّهِ ۚ وَلَقَدْ جَاءَكَ مِنْ نَبَإِ الْمُرْسَلِينَ",
+			"surah": {
+				"number": 6,
+				"name": "سُورَةُ الأَنۡعَامِ",
+				"englishName": "Al-An'aam",
+				"englishNameTranslation": "The Cattle",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 165
+			},
+			"numberInSurah": 34,
+			"juz": 7,
+			"manzil": 2,
+			"page": 131,
+			"ruku": 105,
+			"hizbQuarter": 52,
+			"sajda": false
+		},
+		{
+			"number": 824,
+			"text": "وَإِنْ كَانَ كَبُرَ عَلَيْكَ إِعْرَاضُهُمْ فَإِنِ اسْتَطَعْتَ أَنْ تَبْتَغِيَ نَفَقًا فِي الْأَرْضِ أَوْ سُلَّمًا فِي السَّمَاءِ فَتَأْتِيَهُمْ بِآيَةٍ ۚ وَلَوْ شَاءَ اللَّهُ لَجَمَعَهُمْ عَلَى الْهُدَىٰ ۚ فَلَا تَكُونَنَّ مِنَ الْجَاهِلِينَ",
+			"surah": {
+				"number": 6,
+				"name": "سُورَةُ الأَنۡعَامِ",
+				"englishName": "Al-An'aam",
+				"englishNameTranslation": "The Cattle",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 165
+			},
+			"numberInSurah": 35,
+			"juz": 7,
+			"manzil": 2,
+			"page": 131,
+			"ruku": 105,
+			"hizbQuarter": 52,
+			"sajda": false
+		}
+	],
+	"surahs": {
+		"6": {
+			"number": 6,
+			"name": "سُورَةُ الأَنۡعَامِ",
+			"englishName": "Al-An'aam",
+			"englishNameTranslation": "The Cattle",
+			"revelationType": "Meccan",
+			"numberOfAyahs": 165
+		}
+	},
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

@@ -1,0 +1,138 @@
+﻿{
+	"number": 74,
+	"ayahs": [
+		{
+			"number": 474,
+			"text": "لَقَدْ سَمِعَ اللَّهُ قَوْلَ الَّذِينَ قَالُوا إِنَّ اللَّهَ فَقِيرٌ وَنَحْنُ أَغْنِيَاءُ ۘ سَنَكْتُبُ مَا قَالُوا وَقَتْلَهُمُ الْأَنْبِيَاءَ بِغَيْرِ حَقٍّ وَنَقُولُ ذُوقُوا عَذَابَ الْحَرِيقِ",
+			"surah": {
+				"number": 3,
+				"name": "سُورَةُ آلِ عِمۡرَانَ",
+				"englishName": "Aal-i-Imraan",
+				"englishNameTranslation": "The Family of Imraan",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 200
+			},
+			"numberInSurah": 181,
+			"juz": 4,
+			"manzil": 1,
+			"page": 74,
+			"ruku": 60,
+			"hizbQuarter": 29,
+			"sajda": false
+		},
+		{
+			"number": 475,
+			"text": "ذَٰلِكَ بِمَا قَدَّمَتْ أَيْدِيكُمْ وَأَنَّ اللَّهَ لَيْسَ بِظَلَّامٍ لِلْعَبِيدِ",
+			"surah": {
+				"number": 3,
+				"name": "سُورَةُ آلِ عِمۡرَانَ",
+				"englishName": "Aal-i-Imraan",
+				"englishNameTranslation": "The Family of Imraan",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 200
+			},
+			"numberInSurah": 182,
+			"juz": 4,
+			"manzil": 1,
+			"page": 74,
+			"ruku": 60,
+			"hizbQuarter": 29,
+			"sajda": false
+		},
+		{
+			"number": 476,
+			"text": "الَّذِينَ قَالُوا إِنَّ اللَّهَ عَهِدَ إِلَيْنَا أَلَّا نُؤْمِنَ لِرَسُولٍ حَتَّىٰ يَأْتِيَنَا بِقُرْبَانٍ تَأْكُلُهُ النَّارُ ۗ قُلْ قَدْ جَاءَكُمْ رُسُلٌ مِنْ قَبْلِي بِالْبَيِّنَاتِ وَبِالَّذِي قُلْتُمْ فَلِمَ قَتَلْتُمُوهُمْ إِنْ كُنْتُمْ صَادِقِينَ",
+			"surah": {
+				"number": 3,
+				"name": "سُورَةُ آلِ عِمۡرَانَ",
+				"englishName": "Aal-i-Imraan",
+				"englishNameTranslation": "The Family of Imraan",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 200
+			},
+			"numberInSurah": 183,
+			"juz": 4,
+			"manzil": 1,
+			"page": 74,
+			"ruku": 60,
+			"hizbQuarter": 29,
+			"sajda": false
+		},
+		{
+			"number": 477,
+			"text": "فَإِنْ كَذَّبُوكَ فَقَدْ كُذِّبَ رُسُلٌ مِنْ قَبْلِكَ جَاءُوا بِالْبَيِّنَاتِ وَالزُّبُرِ وَالْكِتَابِ الْمُنِيرِ",
+			"surah": {
+				"number": 3,
+				"name": "سُورَةُ آلِ عِمۡرَانَ",
+				"englishName": "Aal-i-Imraan",
+				"englishNameTranslation": "The Family of Imraan",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 200
+			},
+			"numberInSurah": 184,
+			"juz": 4,
+			"manzil": 1,
+			"page": 74,
+			"ruku": 60,
+			"hizbQuarter": 29,
+			"sajda": false
+		},
+		{
+			"number": 478,
+			"text": "كُلُّ نَفْسٍ ذَائِقَةُ الْمَوْتِ ۗ وَإِنَّمَا تُوَفَّوْنَ أُجُورَكُمْ يَوْمَ الْقِيَامَةِ ۖ فَمَنْ زُحْزِحَ عَنِ النَّارِ وَأُدْخِلَ الْجَنَّةَ فَقَدْ فَازَ ۗ وَمَا الْحَيَاةُ الدُّنْيَا إِلَّا مَتَاعُ الْغُرُورِ",
+			"surah": {
+				"number": 3,
+				"name": "سُورَةُ آلِ عِمۡرَانَ",
+				"englishName": "Aal-i-Imraan",
+				"englishNameTranslation": "The Family of Imraan",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 200
+			},
+			"numberInSurah": 185,
+			"juz": 4,
+			"manzil": 1,
+			"page": 74,
+			"ruku": 60,
+			"hizbQuarter": 29,
+			"sajda": false
+		},
+		{
+			"number": 479,
+			"text": "۞ لَتُبْلَوُنَّ فِي أَمْوَالِكُمْ وَأَنْفُسِكُمْ وَلَتَسْمَعُنَّ مِنَ الَّذِينَ أُوتُوا الْكِتَابَ مِنْ قَبْلِكُمْ وَمِنَ الَّذِينَ أَشْرَكُوا أَذًى كَثِيرًا ۚ وَإِنْ تَصْبِرُوا وَتَتَّقُوا فَإِنَّ ذَٰلِكَ مِنْ عَزْمِ الْأُمُورِ",
+			"surah": {
+				"number": 3,
+				"name": "سُورَةُ آلِ عِمۡرَانَ",
+				"englishName": "Aal-i-Imraan",
+				"englishNameTranslation": "The Family of Imraan",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 200
+			},
+			"numberInSurah": 186,
+			"juz": 4,
+			"manzil": 1,
+			"page": 74,
+			"ruku": 60,
+			"hizbQuarter": 30,
+			"sajda": false
+		}
+	],
+	"surahs": {
+		"3": {
+			"number": 3,
+			"name": "سُورَةُ آلِ عِمۡرَانَ",
+			"englishName": "Aal-i-Imraan",
+			"englishNameTranslation": "The Family of Imraan",
+			"revelationType": "Medinan",
+			"numberOfAyahs": 200
+		}
+	},
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

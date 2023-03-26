@@ -1,0 +1,239 @@
+﻿{
+	"number": 90,
+	"name": "سُورَةُ البَلَدِ",
+	"englishName": "Al-Balad",
+	"englishNameTranslation": "The City",
+	"revelationType": "Meccan",
+	"numberOfAyahs": 20,
+	"ayahs": [
+		{
+			"number": 6024,
+			"text": "أقسم الله بهذا البلد الحرام، وهو \"مكة\"، وأنت -أيها النبي- مقيم في هذا \"البلد الحرام\"، وأقسم بوالد البشرية- وهو آدم عليه السلام- وما تناسل منه من ولد، لقد خلقنا الإنسان في شدة وعناء من مكابدة الدنيا.",
+			"numberInSurah": 1,
+			"juz": 30,
+			"manzil": 7,
+			"page": 594,
+			"ruku": 532,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6025,
+			"text": "أقسم الله بهذا البلد الحرام، وهو \"مكة\"، وأنت -أيها النبي- مقيم في هذا \"البلد الحرام\"، وأقسم بوالد البشرية- وهو آدم عليه السلام- وما تناسل منه من ولد، لقد خلقنا الإنسان في شدة وعناء من مكابدة الدنيا.",
+			"numberInSurah": 2,
+			"juz": 30,
+			"manzil": 7,
+			"page": 594,
+			"ruku": 532,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6026,
+			"text": "أقسم الله بهذا البلد الحرام، وهو \"مكة\"، وأنت -أيها النبي- مقيم في هذا \"البلد الحرام\"، وأقسم بوالد البشرية- وهو آدم عليه السلام- وما تناسل منه من ولد، لقد خلقنا الإنسان في شدة وعناء من مكابدة الدنيا.",
+			"numberInSurah": 3,
+			"juz": 30,
+			"manzil": 7,
+			"page": 594,
+			"ruku": 532,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6027,
+			"text": "أقسم الله بهذا البلد الحرام، وهو \"مكة\"، وأنت -أيها النبي- مقيم في هذا \"البلد الحرام\"، وأقسم بوالد البشرية- وهو آدم عليه السلام- وما تناسل منه من ولد، لقد خلقنا الإنسان في شدة وعناء من مكابدة الدنيا.",
+			"numberInSurah": 4,
+			"juz": 30,
+			"manzil": 7,
+			"page": 594,
+			"ruku": 532,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6028,
+			"text": "أيظنُّ بما جمعه من مال أن الله لن يقدر عليه؟",
+			"numberInSurah": 5,
+			"juz": 30,
+			"manzil": 7,
+			"page": 594,
+			"ruku": 532,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6029,
+			"text": "يقول متباهيًا: أنفقت مالا كثيرًا. أيظنُّ في فعله هذا أن الله عز وجل لا يراه، ولا يحاسبه على الصغير والكبير؟",
+			"numberInSurah": 6,
+			"juz": 30,
+			"manzil": 7,
+			"page": 594,
+			"ruku": 532,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6030,
+			"text": "يقول متباهيًا: أنفقت مالا كثيرًا. أيظنُّ في فعله هذا أن الله عز وجل لا يراه، ولا يحاسبه على الصغير والكبير؟",
+			"numberInSurah": 7,
+			"juz": 30,
+			"manzil": 7,
+			"page": 594,
+			"ruku": 532,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6031,
+			"text": "ألم نجعل له عينين يبصر بهما، ولسانًا وشفتين ينطق بها، وبينَّا له سبيلَي الخير والشر؟",
+			"numberInSurah": 8,
+			"juz": 30,
+			"manzil": 7,
+			"page": 594,
+			"ruku": 532,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6032,
+			"text": "ألم نجعل له عينين يبصر بهما، ولسانًا وشفتين ينطق بها، وبينَّا له سبيلَي الخير والشر؟",
+			"numberInSurah": 9,
+			"juz": 30,
+			"manzil": 7,
+			"page": 594,
+			"ruku": 532,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6033,
+			"text": "ألم نجعل له عينين يبصر بهما، ولسانًا وشفتين ينطق بها، وبينَّا له سبيلَي الخير والشر؟",
+			"numberInSurah": 10,
+			"juz": 30,
+			"manzil": 7,
+			"page": 594,
+			"ruku": 532,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6034,
+			"text": "فهلا تجاوز مشقة الآخرة بإنفاق ماله، فيأمن.",
+			"numberInSurah": 11,
+			"juz": 30,
+			"manzil": 7,
+			"page": 594,
+			"ruku": 532,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6035,
+			"text": "وأيُّ شيء أعلمك: ما مشقة الآخرة، وما يعين على تجاوزها؟",
+			"numberInSurah": 12,
+			"juz": 30,
+			"manzil": 7,
+			"page": 594,
+			"ruku": 532,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6036,
+			"text": "إنه عتق رقبة مؤمنة من أسر الرِّق.",
+			"numberInSurah": 13,
+			"juz": 30,
+			"manzil": 7,
+			"page": 594,
+			"ruku": 532,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6037,
+			"text": "أو إطعام في يوم ذي مجاعة شديدة، يتيمًا من ذوي القرابة يجتمع فيه فضل الصدقة وصلة الرحم، أو فقيرًا معدمًا لا شيء عنده.",
+			"numberInSurah": 14,
+			"juz": 30,
+			"manzil": 7,
+			"page": 594,
+			"ruku": 532,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6038,
+			"text": "أو إطعام في يوم ذي مجاعة شديدة، يتيمًا من ذوي القرابة يجتمع فيه فضل الصدقة وصلة الرحم، أو فقيرًا معدمًا لا شيء عنده.",
+			"numberInSurah": 15,
+			"juz": 30,
+			"manzil": 7,
+			"page": 594,
+			"ruku": 532,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6039,
+			"text": "أو إطعام في يوم ذي مجاعة شديدة، يتيمًا من ذوي القرابة يجتمع فيه فضل الصدقة وصلة الرحم، أو فقيرًا معدمًا لا شيء عنده.",
+			"numberInSurah": 16,
+			"juz": 30,
+			"manzil": 7,
+			"page": 594,
+			"ruku": 532,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6040,
+			"text": "ثم كان مع فِعْل ما ذُكر من أعمال الخير من الذين أخلصوا الإيمان لله، وأوصى بعضهم بعضًا بالصبر على طاعة الله وعن معاصيه، وتواصوا بالرحمة بالخلق.",
+			"numberInSurah": 17,
+			"juz": 30,
+			"manzil": 7,
+			"page": 594,
+			"ruku": 532,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6041,
+			"text": "الذين فعلوا هذه الأفعال، هم أصحاب اليمين، الذين يؤخذ بهم يوم القيامة ذات اليمين إلى الجنة.",
+			"numberInSurah": 18,
+			"juz": 30,
+			"manzil": 7,
+			"page": 594,
+			"ruku": 532,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6042,
+			"text": "والذين كفروا بالقرآن هم الذين يؤخذ بهم يوم القيامة ذات الشمال إلى النار.",
+			"numberInSurah": 19,
+			"juz": 30,
+			"manzil": 7,
+			"page": 594,
+			"ruku": 532,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6043,
+			"text": "جزاؤهم جهنم مطبَقةٌ مغلقة عليهم.",
+			"numberInSurah": 20,
+			"juz": 30,
+			"manzil": 7,
+			"page": 594,
+			"ruku": 532,
+			"hizbQuarter": 238,
+			"sajda": false
+		}
+	],
+	"edition": {
+		"identifier": "ar.muyassar",
+		"language": "ar",
+		"name": "تفسير المیسر",
+		"englishName": "King Fahad Quran Complex",
+		"format": "text",
+		"type": "tafsir",
+		"direction": "rtl"
+	}
+}

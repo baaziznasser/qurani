@@ -1,0 +1,317 @@
+﻿{
+	"number": 570,
+	"ayahs": [
+		{
+			"number": 5415,
+			"text": "فَلَا أُقْسِمُ بِرَبِّ الْمَشَارِقِ وَالْمَغَارِبِ إِنَّا لَقَادِرُونَ",
+			"surah": {
+				"number": 70,
+				"name": "سُورَةُ المَعَارِجِ",
+				"englishName": "Al-Ma'aarij",
+				"englishNameTranslation": "The Ascending Stairways",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 44
+			},
+			"numberInSurah": 40,
+			"juz": 29,
+			"manzil": 7,
+			"page": 570,
+			"ruku": 503,
+			"hizbQuarter": 228,
+			"sajda": false
+		},
+		{
+			"number": 5416,
+			"text": "عَلَىٰ أَنْ نُبَدِّلَ خَيْرًا مِنْهُمْ وَمَا نَحْنُ بِمَسْبُوقِينَ",
+			"surah": {
+				"number": 70,
+				"name": "سُورَةُ المَعَارِجِ",
+				"englishName": "Al-Ma'aarij",
+				"englishNameTranslation": "The Ascending Stairways",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 44
+			},
+			"numberInSurah": 41,
+			"juz": 29,
+			"manzil": 7,
+			"page": 570,
+			"ruku": 503,
+			"hizbQuarter": 228,
+			"sajda": false
+		},
+		{
+			"number": 5417,
+			"text": "فَذَرْهُمْ يَخُوضُوا وَيَلْعَبُوا حَتَّىٰ يُلَاقُوا يَوْمَهُمُ الَّذِي يُوعَدُونَ",
+			"surah": {
+				"number": 70,
+				"name": "سُورَةُ المَعَارِجِ",
+				"englishName": "Al-Ma'aarij",
+				"englishNameTranslation": "The Ascending Stairways",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 44
+			},
+			"numberInSurah": 42,
+			"juz": 29,
+			"manzil": 7,
+			"page": 570,
+			"ruku": 503,
+			"hizbQuarter": 228,
+			"sajda": false
+		},
+		{
+			"number": 5418,
+			"text": "يَوْمَ يَخْرُجُونَ مِنَ الْأَجْدَاثِ سِرَاعًا كَأَنَّهُمْ إِلَىٰ نُصُبٍ يُوفِضُونَ",
+			"surah": {
+				"number": 70,
+				"name": "سُورَةُ المَعَارِجِ",
+				"englishName": "Al-Ma'aarij",
+				"englishNameTranslation": "The Ascending Stairways",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 44
+			},
+			"numberInSurah": 43,
+			"juz": 29,
+			"manzil": 7,
+			"page": 570,
+			"ruku": 503,
+			"hizbQuarter": 228,
+			"sajda": false
+		},
+		{
+			"number": 5419,
+			"text": "خَاشِعَةً أَبْصَارُهُمْ تَرْهَقُهُمْ ذِلَّةٌ ۚ ذَٰلِكَ الْيَوْمُ الَّذِي كَانُوا يُوعَدُونَ",
+			"surah": {
+				"number": 70,
+				"name": "سُورَةُ المَعَارِجِ",
+				"englishName": "Al-Ma'aarij",
+				"englishNameTranslation": "The Ascending Stairways",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 44
+			},
+			"numberInSurah": 44,
+			"juz": 29,
+			"manzil": 7,
+			"page": 570,
+			"ruku": 503,
+			"hizbQuarter": 228,
+			"sajda": false
+		},
+		{
+			"number": 5420,
+			"text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ إِنَّا أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِ أَنْ أَنْذِرْ قَوْمَكَ مِنْ قَبْلِ أَنْ يَأْتِيَهُمْ عَذَابٌ أَلِيمٌ",
+			"surah": {
+				"number": 71,
+				"name": "سُورَةُ نُوحٍ",
+				"englishName": "Nooh",
+				"englishNameTranslation": "Noah",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 28
+			},
+			"numberInSurah": 1,
+			"juz": 29,
+			"manzil": 7,
+			"page": 570,
+			"ruku": 504,
+			"hizbQuarter": 228,
+			"sajda": false
+		},
+		{
+			"number": 5421,
+			"text": "قَالَ يَا قَوْمِ إِنِّي لَكُمْ نَذِيرٌ مُبِينٌ",
+			"surah": {
+				"number": 71,
+				"name": "سُورَةُ نُوحٍ",
+				"englishName": "Nooh",
+				"englishNameTranslation": "Noah",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 28
+			},
+			"numberInSurah": 2,
+			"juz": 29,
+			"manzil": 7,
+			"page": 570,
+			"ruku": 504,
+			"hizbQuarter": 228,
+			"sajda": false
+		},
+		{
+			"number": 5422,
+			"text": "أَنِ اعْبُدُوا اللَّهَ وَاتَّقُوهُ وَأَطِيعُونِ",
+			"surah": {
+				"number": 71,
+				"name": "سُورَةُ نُوحٍ",
+				"englishName": "Nooh",
+				"englishNameTranslation": "Noah",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 28
+			},
+			"numberInSurah": 3,
+			"juz": 29,
+			"manzil": 7,
+			"page": 570,
+			"ruku": 504,
+			"hizbQuarter": 228,
+			"sajda": false
+		},
+		{
+			"number": 5423,
+			"text": "يَغْفِرْ لَكُمْ مِنْ ذُنُوبِكُمْ وَيُؤَخِّرْكُمْ إِلَىٰ أَجَلٍ مُسَمًّى ۚ إِنَّ أَجَلَ اللَّهِ إِذَا جَاءَ لَا يُؤَخَّرُ ۖ لَوْ كُنْتُمْ تَعْلَمُونَ",
+			"surah": {
+				"number": 71,
+				"name": "سُورَةُ نُوحٍ",
+				"englishName": "Nooh",
+				"englishNameTranslation": "Noah",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 28
+			},
+			"numberInSurah": 4,
+			"juz": 29,
+			"manzil": 7,
+			"page": 570,
+			"ruku": 504,
+			"hizbQuarter": 228,
+			"sajda": false
+		},
+		{
+			"number": 5424,
+			"text": "قَالَ رَبِّ إِنِّي دَعَوْتُ قَوْمِي لَيْلًا وَنَهَارًا",
+			"surah": {
+				"number": 71,
+				"name": "سُورَةُ نُوحٍ",
+				"englishName": "Nooh",
+				"englishNameTranslation": "Noah",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 28
+			},
+			"numberInSurah": 5,
+			"juz": 29,
+			"manzil": 7,
+			"page": 570,
+			"ruku": 504,
+			"hizbQuarter": 228,
+			"sajda": false
+		},
+		{
+			"number": 5425,
+			"text": "فَلَمْ يَزِدْهُمْ دُعَائِي إِلَّا فِرَارًا",
+			"surah": {
+				"number": 71,
+				"name": "سُورَةُ نُوحٍ",
+				"englishName": "Nooh",
+				"englishNameTranslation": "Noah",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 28
+			},
+			"numberInSurah": 6,
+			"juz": 29,
+			"manzil": 7,
+			"page": 570,
+			"ruku": 504,
+			"hizbQuarter": 228,
+			"sajda": false
+		},
+		{
+			"number": 5426,
+			"text": "وَإِنِّي كُلَّمَا دَعَوْتُهُمْ لِتَغْفِرَ لَهُمْ جَعَلُوا أَصَابِعَهُمْ فِي آذَانِهِمْ وَاسْتَغْشَوْا ثِيَابَهُمْ وَأَصَرُّوا وَاسْتَكْبَرُوا اسْتِكْبَارًا",
+			"surah": {
+				"number": 71,
+				"name": "سُورَةُ نُوحٍ",
+				"englishName": "Nooh",
+				"englishNameTranslation": "Noah",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 28
+			},
+			"numberInSurah": 7,
+			"juz": 29,
+			"manzil": 7,
+			"page": 570,
+			"ruku": 504,
+			"hizbQuarter": 228,
+			"sajda": false
+		},
+		{
+			"number": 5427,
+			"text": "ثُمَّ إِنِّي دَعَوْتُهُمْ جِهَارًا",
+			"surah": {
+				"number": 71,
+				"name": "سُورَةُ نُوحٍ",
+				"englishName": "Nooh",
+				"englishNameTranslation": "Noah",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 28
+			},
+			"numberInSurah": 8,
+			"juz": 29,
+			"manzil": 7,
+			"page": 570,
+			"ruku": 504,
+			"hizbQuarter": 228,
+			"sajda": false
+		},
+		{
+			"number": 5428,
+			"text": "ثُمَّ إِنِّي أَعْلَنْتُ لَهُمْ وَأَسْرَرْتُ لَهُمْ إِسْرَارًا",
+			"surah": {
+				"number": 71,
+				"name": "سُورَةُ نُوحٍ",
+				"englishName": "Nooh",
+				"englishNameTranslation": "Noah",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 28
+			},
+			"numberInSurah": 9,
+			"juz": 29,
+			"manzil": 7,
+			"page": 570,
+			"ruku": 504,
+			"hizbQuarter": 228,
+			"sajda": false
+		},
+		{
+			"number": 5429,
+			"text": "فَقُلْتُ اسْتَغْفِرُوا رَبَّكُمْ إِنَّهُ كَانَ غَفَّارًا",
+			"surah": {
+				"number": 71,
+				"name": "سُورَةُ نُوحٍ",
+				"englishName": "Nooh",
+				"englishNameTranslation": "Noah",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 28
+			},
+			"numberInSurah": 10,
+			"juz": 29,
+			"manzil": 7,
+			"page": 570,
+			"ruku": 504,
+			"hizbQuarter": 228,
+			"sajda": false
+		}
+	],
+	"surahs": {
+		"70": {
+			"number": 70,
+			"name": "سُورَةُ المَعَارِجِ",
+			"englishName": "Al-Ma'aarij",
+			"englishNameTranslation": "The Ascending Stairways",
+			"revelationType": "Meccan",
+			"numberOfAyahs": 44
+		},
+		"71": {
+			"number": 71,
+			"name": "سُورَةُ نُوحٍ",
+			"englishName": "Nooh",
+			"englishNameTranslation": "Noah",
+			"revelationType": "Meccan",
+			"numberOfAyahs": 28
+		}
+	},
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

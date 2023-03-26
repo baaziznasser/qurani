@@ -1,0 +1,157 @@
+﻿{
+	"number": 181,
+	"ayahs": [
+		{
+			"number": 1194,
+			"text": "وَمَا لَهُمْ أَلَّا يُعَذِّبَهُمُ اللَّهُ وَهُمْ يَصُدُّونَ عَنِ الْمَسْجِدِ الْحَرَامِ وَمَا كَانُوا أَوْلِيَاءَهُ ۚ إِنْ أَوْلِيَاؤُهُ إِلَّا الْمُتَّقُونَ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ",
+			"surah": {
+				"number": 8,
+				"name": "سُورَةُ الأَنفَالِ",
+				"englishName": "Al-Anfaal",
+				"englishNameTranslation": "The Spoils of War",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 75
+			},
+			"numberInSurah": 34,
+			"juz": 9,
+			"manzil": 2,
+			"page": 181,
+			"ruku": 149,
+			"hizbQuarter": 72,
+			"sajda": false
+		},
+		{
+			"number": 1195,
+			"text": "وَمَا كَانَ صَلَاتُهُمْ عِنْدَ الْبَيْتِ إِلَّا مُكَاءً وَتَصْدِيَةً ۚ فَذُوقُوا الْعَذَابَ بِمَا كُنْتُمْ تَكْفُرُونَ",
+			"surah": {
+				"number": 8,
+				"name": "سُورَةُ الأَنفَالِ",
+				"englishName": "Al-Anfaal",
+				"englishNameTranslation": "The Spoils of War",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 75
+			},
+			"numberInSurah": 35,
+			"juz": 9,
+			"manzil": 2,
+			"page": 181,
+			"ruku": 149,
+			"hizbQuarter": 72,
+			"sajda": false
+		},
+		{
+			"number": 1196,
+			"text": "إِنَّ الَّذِينَ كَفَرُوا يُنْفِقُونَ أَمْوَالَهُمْ لِيَصُدُّوا عَنْ سَبِيلِ اللَّهِ ۚ فَسَيُنْفِقُونَهَا ثُمَّ تَكُونُ عَلَيْهِمْ حَسْرَةً ثُمَّ يُغْلَبُونَ ۗ وَالَّذِينَ كَفَرُوا إِلَىٰ جَهَنَّمَ يُحْشَرُونَ",
+			"surah": {
+				"number": 8,
+				"name": "سُورَةُ الأَنفَالِ",
+				"englishName": "Al-Anfaal",
+				"englishNameTranslation": "The Spoils of War",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 75
+			},
+			"numberInSurah": 36,
+			"juz": 9,
+			"manzil": 2,
+			"page": 181,
+			"ruku": 149,
+			"hizbQuarter": 72,
+			"sajda": false
+		},
+		{
+			"number": 1197,
+			"text": "لِيَمِيزَ اللَّهُ الْخَبِيثَ مِنَ الطَّيِّبِ وَيَجْعَلَ الْخَبِيثَ بَعْضَهُ عَلَىٰ بَعْضٍ فَيَرْكُمَهُ جَمِيعًا فَيَجْعَلَهُ فِي جَهَنَّمَ ۚ أُولَٰئِكَ هُمُ الْخَاسِرُونَ",
+			"surah": {
+				"number": 8,
+				"name": "سُورَةُ الأَنفَالِ",
+				"englishName": "Al-Anfaal",
+				"englishNameTranslation": "The Spoils of War",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 75
+			},
+			"numberInSurah": 37,
+			"juz": 9,
+			"manzil": 2,
+			"page": 181,
+			"ruku": 149,
+			"hizbQuarter": 72,
+			"sajda": false
+		},
+		{
+			"number": 1198,
+			"text": "قُلْ لِلَّذِينَ كَفَرُوا إِنْ يَنْتَهُوا يُغْفَرْ لَهُمْ مَا قَدْ سَلَفَ وَإِنْ يَعُودُوا فَقَدْ مَضَتْ سُنَّتُ الْأَوَّلِينَ",
+			"surah": {
+				"number": 8,
+				"name": "سُورَةُ الأَنفَالِ",
+				"englishName": "Al-Anfaal",
+				"englishNameTranslation": "The Spoils of War",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 75
+			},
+			"numberInSurah": 38,
+			"juz": 9,
+			"manzil": 2,
+			"page": 181,
+			"ruku": 150,
+			"hizbQuarter": 72,
+			"sajda": false
+		},
+		{
+			"number": 1199,
+			"text": "وَقَاتِلُوهُمْ حَتَّىٰ لَا تَكُونَ فِتْنَةٌ وَيَكُونَ الدِّينُ كُلُّهُ لِلَّهِ ۚ فَإِنِ انْتَهَوْا فَإِنَّ اللَّهَ بِمَا يَعْمَلُونَ بَصِيرٌ",
+			"surah": {
+				"number": 8,
+				"name": "سُورَةُ الأَنفَالِ",
+				"englishName": "Al-Anfaal",
+				"englishNameTranslation": "The Spoils of War",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 75
+			},
+			"numberInSurah": 39,
+			"juz": 9,
+			"manzil": 2,
+			"page": 181,
+			"ruku": 150,
+			"hizbQuarter": 72,
+			"sajda": false
+		},
+		{
+			"number": 1200,
+			"text": "وَإِنْ تَوَلَّوْا فَاعْلَمُوا أَنَّ اللَّهَ مَوْلَاكُمْ ۚ نِعْمَ الْمَوْلَىٰ وَنِعْمَ النَّصِيرُ",
+			"surah": {
+				"number": 8,
+				"name": "سُورَةُ الأَنفَالِ",
+				"englishName": "Al-Anfaal",
+				"englishNameTranslation": "The Spoils of War",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 75
+			},
+			"numberInSurah": 40,
+			"juz": 9,
+			"manzil": 2,
+			"page": 181,
+			"ruku": 150,
+			"hizbQuarter": 72,
+			"sajda": false
+		}
+	],
+	"surahs": {
+		"8": {
+			"number": 8,
+			"name": "سُورَةُ الأَنفَالِ",
+			"englishName": "Al-Anfaal",
+			"englishNameTranslation": "The Spoils of War",
+			"revelationType": "Medinan",
+			"numberOfAyahs": 75
+		}
+	},
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

@@ -1,0 +1,1465 @@
+﻿{
+	"number": 237,
+	"ayahs": [
+		{
+			"number": 5949,
+			"surah": {
+				"number": 87,
+				"name": "سُورَةُ الأَعۡلَىٰ",
+				"englishName": "Al-A'laa",
+				"englishNameTranslation": "The Most High",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 19
+			},
+			"numberInSurah": 1,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 529,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ سَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى"
+		},
+		{
+			"number": 5950,
+			"surah": {
+				"number": 87,
+				"name": "سُورَةُ الأَعۡلَىٰ",
+				"englishName": "Al-A'laa",
+				"englishNameTranslation": "The Most High",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 19
+			},
+			"numberInSurah": 2,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 529,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "الَّذِي خَلَقَ فَسَوَّىٰ"
+		},
+		{
+			"number": 5951,
+			"surah": {
+				"number": 87,
+				"name": "سُورَةُ الأَعۡلَىٰ",
+				"englishName": "Al-A'laa",
+				"englishNameTranslation": "The Most High",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 19
+			},
+			"numberInSurah": 3,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 529,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "وَالَّذِي قَدَّرَ فَهَدَىٰ"
+		},
+		{
+			"number": 5952,
+			"surah": {
+				"number": 87,
+				"name": "سُورَةُ الأَعۡلَىٰ",
+				"englishName": "Al-A'laa",
+				"englishNameTranslation": "The Most High",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 19
+			},
+			"numberInSurah": 4,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 529,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "وَالَّذِي أَخْرَجَ الْمَرْعَىٰ"
+		},
+		{
+			"number": 5953,
+			"surah": {
+				"number": 87,
+				"name": "سُورَةُ الأَعۡلَىٰ",
+				"englishName": "Al-A'laa",
+				"englishNameTranslation": "The Most High",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 19
+			},
+			"numberInSurah": 5,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 529,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "فَجَعَلَهُ غُثَاءً أَحْوَىٰ"
+		},
+		{
+			"number": 5954,
+			"surah": {
+				"number": 87,
+				"name": "سُورَةُ الأَعۡلَىٰ",
+				"englishName": "Al-A'laa",
+				"englishNameTranslation": "The Most High",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 19
+			},
+			"numberInSurah": 6,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 529,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "سَنُقْرِئُكَ فَلَا تَنسَىٰ"
+		},
+		{
+			"number": 5955,
+			"surah": {
+				"number": 87,
+				"name": "سُورَةُ الأَعۡلَىٰ",
+				"englishName": "Al-A'laa",
+				"englishNameTranslation": "The Most High",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 19
+			},
+			"numberInSurah": 7,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 529,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "إِلَّا مَا شَاءَ اللَّهُ ۚ إِنَّهُ يَعْلَمُ الْجَهْرَ وَمَا يَخْفَىٰ"
+		},
+		{
+			"number": 5956,
+			"surah": {
+				"number": 87,
+				"name": "سُورَةُ الأَعۡلَىٰ",
+				"englishName": "Al-A'laa",
+				"englishNameTranslation": "The Most High",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 19
+			},
+			"numberInSurah": 8,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 529,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "وَنُيَسِّرُكَ لِلْيُسْرَىٰ"
+		},
+		{
+			"number": 5957,
+			"surah": {
+				"number": 87,
+				"name": "سُورَةُ الأَعۡلَىٰ",
+				"englishName": "Al-A'laa",
+				"englishNameTranslation": "The Most High",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 19
+			},
+			"numberInSurah": 9,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 529,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "فَذَكِّرْ إِن نَّفَعَتِ الذِّكْرَىٰ"
+		},
+		{
+			"number": 5958,
+			"surah": {
+				"number": 87,
+				"name": "سُورَةُ الأَعۡلَىٰ",
+				"englishName": "Al-A'laa",
+				"englishNameTranslation": "The Most High",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 19
+			},
+			"numberInSurah": 10,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 529,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "سَيَذَّكَّرُ مَن يَخْشَىٰ"
+		},
+		{
+			"number": 5959,
+			"surah": {
+				"number": 87,
+				"name": "سُورَةُ الأَعۡلَىٰ",
+				"englishName": "Al-A'laa",
+				"englishNameTranslation": "The Most High",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 19
+			},
+			"numberInSurah": 11,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 529,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "وَيَتَجَنَّبُهَا الْأَشْقَى"
+		},
+		{
+			"number": 5960,
+			"surah": {
+				"number": 87,
+				"name": "سُورَةُ الأَعۡلَىٰ",
+				"englishName": "Al-A'laa",
+				"englishNameTranslation": "The Most High",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 19
+			},
+			"numberInSurah": 12,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 529,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "الَّذِي يَصْلَى النَّارَ الْكُبْرَىٰ"
+		},
+		{
+			"number": 5961,
+			"surah": {
+				"number": 87,
+				"name": "سُورَةُ الأَعۡلَىٰ",
+				"englishName": "Al-A'laa",
+				"englishNameTranslation": "The Most High",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 19
+			},
+			"numberInSurah": 13,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 529,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحْيَىٰ"
+		},
+		{
+			"number": 5962,
+			"surah": {
+				"number": 87,
+				"name": "سُورَةُ الأَعۡلَىٰ",
+				"englishName": "Al-A'laa",
+				"englishNameTranslation": "The Most High",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 19
+			},
+			"numberInSurah": 14,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 529,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "قَدْ أَفْلَحَ مَن تَزَكَّىٰ"
+		},
+		{
+			"number": 5963,
+			"surah": {
+				"number": 87,
+				"name": "سُورَةُ الأَعۡلَىٰ",
+				"englishName": "Al-A'laa",
+				"englishNameTranslation": "The Most High",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 19
+			},
+			"numberInSurah": 15,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 529,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "وَذَكَرَ اسْمَ رَبِّهِ فَصَلَّىٰ"
+		},
+		{
+			"number": 5964,
+			"surah": {
+				"number": 87,
+				"name": "سُورَةُ الأَعۡلَىٰ",
+				"englishName": "Al-A'laa",
+				"englishNameTranslation": "The Most High",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 19
+			},
+			"numberInSurah": 16,
+			"juz": 30,
+			"manzil": 7,
+			"page": 592,
+			"ruku": 529,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "بَلْ تُؤْثِرُونَ الْحَيَاةَ الدُّنْيَا"
+		},
+		{
+			"number": 5965,
+			"surah": {
+				"number": 87,
+				"name": "سُورَةُ الأَعۡلَىٰ",
+				"englishName": "Al-A'laa",
+				"englishNameTranslation": "The Most High",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 19
+			},
+			"numberInSurah": 17,
+			"juz": 30,
+			"manzil": 7,
+			"page": 592,
+			"ruku": 529,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "وَالْآخِرَةُ خَيْرٌ وَأَبْقَىٰ"
+		},
+		{
+			"number": 5966,
+			"surah": {
+				"number": 87,
+				"name": "سُورَةُ الأَعۡلَىٰ",
+				"englishName": "Al-A'laa",
+				"englishNameTranslation": "The Most High",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 19
+			},
+			"numberInSurah": 18,
+			"juz": 30,
+			"manzil": 7,
+			"page": 592,
+			"ruku": 529,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "إِنَّ هَٰذَا لَفِي الصُّحُفِ الْأُولَىٰ"
+		},
+		{
+			"number": 5967,
+			"surah": {
+				"number": 87,
+				"name": "سُورَةُ الأَعۡلَىٰ",
+				"englishName": "Al-A'laa",
+				"englishNameTranslation": "The Most High",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 19
+			},
+			"numberInSurah": 19,
+			"juz": 30,
+			"manzil": 7,
+			"page": 592,
+			"ruku": 529,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "صُحُفِ إِبْرَاهِيمَ وَمُوسَىٰ"
+		},
+		{
+			"number": 5968,
+			"surah": {
+				"number": 88,
+				"name": "سُورَةُ الغَاشِيَةِ",
+				"englishName": "Al-Ghaashiya",
+				"englishNameTranslation": "The Overwhelming",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 26
+			},
+			"numberInSurah": 1,
+			"juz": 30,
+			"manzil": 7,
+			"page": 592,
+			"ruku": 530,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ"
+		},
+		{
+			"number": 5969,
+			"surah": {
+				"number": 88,
+				"name": "سُورَةُ الغَاشِيَةِ",
+				"englishName": "Al-Ghaashiya",
+				"englishNameTranslation": "The Overwhelming",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 26
+			},
+			"numberInSurah": 2,
+			"juz": 30,
+			"manzil": 7,
+			"page": 592,
+			"ruku": 530,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ"
+		},
+		{
+			"number": 5970,
+			"surah": {
+				"number": 88,
+				"name": "سُورَةُ الغَاشِيَةِ",
+				"englishName": "Al-Ghaashiya",
+				"englishNameTranslation": "The Overwhelming",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 26
+			},
+			"numberInSurah": 3,
+			"juz": 30,
+			"manzil": 7,
+			"page": 592,
+			"ruku": 530,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "عَامِلَةٌ نَّاصِبَةٌ"
+		},
+		{
+			"number": 5971,
+			"surah": {
+				"number": 88,
+				"name": "سُورَةُ الغَاشِيَةِ",
+				"englishName": "Al-Ghaashiya",
+				"englishNameTranslation": "The Overwhelming",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 26
+			},
+			"numberInSurah": 4,
+			"juz": 30,
+			"manzil": 7,
+			"page": 592,
+			"ruku": 530,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "تَصْلَىٰ نَارًا حَامِيَةً"
+		},
+		{
+			"number": 5972,
+			"surah": {
+				"number": 88,
+				"name": "سُورَةُ الغَاشِيَةِ",
+				"englishName": "Al-Ghaashiya",
+				"englishNameTranslation": "The Overwhelming",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 26
+			},
+			"numberInSurah": 5,
+			"juz": 30,
+			"manzil": 7,
+			"page": 592,
+			"ruku": 530,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "تُسْقَىٰ مِنْ عَيْنٍ آنِيَةٍ"
+		},
+		{
+			"number": 5973,
+			"surah": {
+				"number": 88,
+				"name": "سُورَةُ الغَاشِيَةِ",
+				"englishName": "Al-Ghaashiya",
+				"englishNameTranslation": "The Overwhelming",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 26
+			},
+			"numberInSurah": 6,
+			"juz": 30,
+			"manzil": 7,
+			"page": 592,
+			"ruku": 530,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ"
+		},
+		{
+			"number": 5974,
+			"surah": {
+				"number": 88,
+				"name": "سُورَةُ الغَاشِيَةِ",
+				"englishName": "Al-Ghaashiya",
+				"englishNameTranslation": "The Overwhelming",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 26
+			},
+			"numberInSurah": 7,
+			"juz": 30,
+			"manzil": 7,
+			"page": 592,
+			"ruku": 530,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "لَّا يُسْمِنُ وَلَا يُغْنِي مِن جُوعٍ"
+		},
+		{
+			"number": 5975,
+			"surah": {
+				"number": 88,
+				"name": "سُورَةُ الغَاشِيَةِ",
+				"englishName": "Al-Ghaashiya",
+				"englishNameTranslation": "The Overwhelming",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 26
+			},
+			"numberInSurah": 8,
+			"juz": 30,
+			"manzil": 7,
+			"page": 592,
+			"ruku": 530,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "وُجُوهٌ يَوْمَئِذٍ نَّاعِمَةٌ"
+		},
+		{
+			"number": 5976,
+			"surah": {
+				"number": 88,
+				"name": "سُورَةُ الغَاشِيَةِ",
+				"englishName": "Al-Ghaashiya",
+				"englishNameTranslation": "The Overwhelming",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 26
+			},
+			"numberInSurah": 9,
+			"juz": 30,
+			"manzil": 7,
+			"page": 592,
+			"ruku": 530,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "لِّسَعْيِهَا رَاضِيَةٌ"
+		},
+		{
+			"number": 5977,
+			"surah": {
+				"number": 88,
+				"name": "سُورَةُ الغَاشِيَةِ",
+				"englishName": "Al-Ghaashiya",
+				"englishNameTranslation": "The Overwhelming",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 26
+			},
+			"numberInSurah": 10,
+			"juz": 30,
+			"manzil": 7,
+			"page": 592,
+			"ruku": 530,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "فِي جَنَّةٍ عَالِيَةٍ"
+		},
+		{
+			"number": 5978,
+			"surah": {
+				"number": 88,
+				"name": "سُورَةُ الغَاشِيَةِ",
+				"englishName": "Al-Ghaashiya",
+				"englishNameTranslation": "The Overwhelming",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 26
+			},
+			"numberInSurah": 11,
+			"juz": 30,
+			"manzil": 7,
+			"page": 592,
+			"ruku": 530,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "لَّا تَسْمَعُ فِيهَا لَاغِيَةً"
+		},
+		{
+			"number": 5979,
+			"surah": {
+				"number": 88,
+				"name": "سُورَةُ الغَاشِيَةِ",
+				"englishName": "Al-Ghaashiya",
+				"englishNameTranslation": "The Overwhelming",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 26
+			},
+			"numberInSurah": 12,
+			"juz": 30,
+			"manzil": 7,
+			"page": 592,
+			"ruku": 530,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "فِيهَا عَيْنٌ جَارِيَةٌ"
+		},
+		{
+			"number": 5980,
+			"surah": {
+				"number": 88,
+				"name": "سُورَةُ الغَاشِيَةِ",
+				"englishName": "Al-Ghaashiya",
+				"englishNameTranslation": "The Overwhelming",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 26
+			},
+			"numberInSurah": 13,
+			"juz": 30,
+			"manzil": 7,
+			"page": 592,
+			"ruku": 530,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "فِيهَا سُرُرٌ مَّرْفُوعَةٌ"
+		},
+		{
+			"number": 5981,
+			"surah": {
+				"number": 88,
+				"name": "سُورَةُ الغَاشِيَةِ",
+				"englishName": "Al-Ghaashiya",
+				"englishNameTranslation": "The Overwhelming",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 26
+			},
+			"numberInSurah": 14,
+			"juz": 30,
+			"manzil": 7,
+			"page": 592,
+			"ruku": 530,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "وَأَكْوَابٌ مَّوْضُوعَةٌ"
+		},
+		{
+			"number": 5982,
+			"surah": {
+				"number": 88,
+				"name": "سُورَةُ الغَاشِيَةِ",
+				"englishName": "Al-Ghaashiya",
+				"englishNameTranslation": "The Overwhelming",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 26
+			},
+			"numberInSurah": 15,
+			"juz": 30,
+			"manzil": 7,
+			"page": 592,
+			"ruku": 530,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "وَنَمَارِقُ مَصْفُوفَةٌ"
+		},
+		{
+			"number": 5983,
+			"surah": {
+				"number": 88,
+				"name": "سُورَةُ الغَاشِيَةِ",
+				"englishName": "Al-Ghaashiya",
+				"englishNameTranslation": "The Overwhelming",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 26
+			},
+			"numberInSurah": 16,
+			"juz": 30,
+			"manzil": 7,
+			"page": 592,
+			"ruku": 530,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "وَزَرَابِيُّ مَبْثُوثَةٌ"
+		},
+		{
+			"number": 5984,
+			"surah": {
+				"number": 88,
+				"name": "سُورَةُ الغَاشِيَةِ",
+				"englishName": "Al-Ghaashiya",
+				"englishNameTranslation": "The Overwhelming",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 26
+			},
+			"numberInSurah": 17,
+			"juz": 30,
+			"manzil": 7,
+			"page": 592,
+			"ruku": 530,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "أَفَلَا يَنظُرُونَ إِلَى الْإِبِلِ كَيْفَ خُلِقَتْ"
+		},
+		{
+			"number": 5985,
+			"surah": {
+				"number": 88,
+				"name": "سُورَةُ الغَاشِيَةِ",
+				"englishName": "Al-Ghaashiya",
+				"englishNameTranslation": "The Overwhelming",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 26
+			},
+			"numberInSurah": 18,
+			"juz": 30,
+			"manzil": 7,
+			"page": 592,
+			"ruku": 530,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "وَإِلَى السَّمَاءِ كَيْفَ رُفِعَتْ"
+		},
+		{
+			"number": 5986,
+			"surah": {
+				"number": 88,
+				"name": "سُورَةُ الغَاشِيَةِ",
+				"englishName": "Al-Ghaashiya",
+				"englishNameTranslation": "The Overwhelming",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 26
+			},
+			"numberInSurah": 19,
+			"juz": 30,
+			"manzil": 7,
+			"page": 592,
+			"ruku": 530,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "وَإِلَى الْجِبَالِ كَيْفَ نُصِبَتْ"
+		},
+		{
+			"number": 5987,
+			"surah": {
+				"number": 88,
+				"name": "سُورَةُ الغَاشِيَةِ",
+				"englishName": "Al-Ghaashiya",
+				"englishNameTranslation": "The Overwhelming",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 26
+			},
+			"numberInSurah": 20,
+			"juz": 30,
+			"manzil": 7,
+			"page": 592,
+			"ruku": 530,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "وَإِلَى الْأَرْضِ كَيْفَ سُطِحَتْ"
+		},
+		{
+			"number": 5988,
+			"surah": {
+				"number": 88,
+				"name": "سُورَةُ الغَاشِيَةِ",
+				"englishName": "Al-Ghaashiya",
+				"englishNameTranslation": "The Overwhelming",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 26
+			},
+			"numberInSurah": 21,
+			"juz": 30,
+			"manzil": 7,
+			"page": 592,
+			"ruku": 530,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "فَذَكِّرْ إِنَّمَا أَنتَ مُذَكِّرٌ"
+		},
+		{
+			"number": 5989,
+			"surah": {
+				"number": 88,
+				"name": "سُورَةُ الغَاشِيَةِ",
+				"englishName": "Al-Ghaashiya",
+				"englishNameTranslation": "The Overwhelming",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 26
+			},
+			"numberInSurah": 22,
+			"juz": 30,
+			"manzil": 7,
+			"page": 592,
+			"ruku": 530,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "لَّسْتَ عَلَيْهِم بِمُصَيْطِرٍ"
+		},
+		{
+			"number": 5990,
+			"surah": {
+				"number": 88,
+				"name": "سُورَةُ الغَاشِيَةِ",
+				"englishName": "Al-Ghaashiya",
+				"englishNameTranslation": "The Overwhelming",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 26
+			},
+			"numberInSurah": 23,
+			"juz": 30,
+			"manzil": 7,
+			"page": 592,
+			"ruku": 530,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "إِلَّا مَن تَوَلَّىٰ وَكَفَرَ"
+		},
+		{
+			"number": 5991,
+			"surah": {
+				"number": 88,
+				"name": "سُورَةُ الغَاشِيَةِ",
+				"englishName": "Al-Ghaashiya",
+				"englishNameTranslation": "The Overwhelming",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 26
+			},
+			"numberInSurah": 24,
+			"juz": 30,
+			"manzil": 7,
+			"page": 592,
+			"ruku": 530,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "فَيُعَذِّبُهُ اللَّهُ الْعَذَابَ الْأَكْبَرَ"
+		},
+		{
+			"number": 5992,
+			"surah": {
+				"number": 88,
+				"name": "سُورَةُ الغَاشِيَةِ",
+				"englishName": "Al-Ghaashiya",
+				"englishNameTranslation": "The Overwhelming",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 26
+			},
+			"numberInSurah": 25,
+			"juz": 30,
+			"manzil": 7,
+			"page": 592,
+			"ruku": 530,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "إِنَّ إِلَيْنَا إِيَابَهُمْ"
+		},
+		{
+			"number": 5993,
+			"surah": {
+				"number": 88,
+				"name": "سُورَةُ الغَاشِيَةِ",
+				"englishName": "Al-Ghaashiya",
+				"englishNameTranslation": "The Overwhelming",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 26
+			},
+			"numberInSurah": 26,
+			"juz": 30,
+			"manzil": 7,
+			"page": 592,
+			"ruku": 530,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُم"
+		},
+		{
+			"number": 5994,
+			"surah": {
+				"number": 89,
+				"name": "سُورَةُ الفَجۡرِ",
+				"englishName": "Al-Fajr",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 30
+			},
+			"numberInSurah": 1,
+			"juz": 30,
+			"manzil": 7,
+			"page": 593,
+			"ruku": 531,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ وَالْفَجْرِ"
+		},
+		{
+			"number": 5995,
+			"surah": {
+				"number": 89,
+				"name": "سُورَةُ الفَجۡرِ",
+				"englishName": "Al-Fajr",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 30
+			},
+			"numberInSurah": 2,
+			"juz": 30,
+			"manzil": 7,
+			"page": 593,
+			"ruku": 531,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "وَلَيَالٍ عَشْرٍ"
+		},
+		{
+			"number": 5996,
+			"surah": {
+				"number": 89,
+				"name": "سُورَةُ الفَجۡرِ",
+				"englishName": "Al-Fajr",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 30
+			},
+			"numberInSurah": 3,
+			"juz": 30,
+			"manzil": 7,
+			"page": 593,
+			"ruku": 531,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "وَالشَّفْعِ وَالْوَتْرِ"
+		},
+		{
+			"number": 5997,
+			"surah": {
+				"number": 89,
+				"name": "سُورَةُ الفَجۡرِ",
+				"englishName": "Al-Fajr",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 30
+			},
+			"numberInSurah": 4,
+			"juz": 30,
+			"manzil": 7,
+			"page": 593,
+			"ruku": 531,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "وَاللَّيْلِ إِذَا يَسْرِ"
+		},
+		{
+			"number": 5998,
+			"surah": {
+				"number": 89,
+				"name": "سُورَةُ الفَجۡرِ",
+				"englishName": "Al-Fajr",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 30
+			},
+			"numberInSurah": 5,
+			"juz": 30,
+			"manzil": 7,
+			"page": 593,
+			"ruku": 531,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "هَلْ فِي ذَٰلِكَ قَسَمٌ لِّذِي حِجْرٍ"
+		},
+		{
+			"number": 5999,
+			"surah": {
+				"number": 89,
+				"name": "سُورَةُ الفَجۡرِ",
+				"englishName": "Al-Fajr",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 30
+			},
+			"numberInSurah": 6,
+			"juz": 30,
+			"manzil": 7,
+			"page": 593,
+			"ruku": 531,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ"
+		},
+		{
+			"number": 6000,
+			"surah": {
+				"number": 89,
+				"name": "سُورَةُ الفَجۡرِ",
+				"englishName": "Al-Fajr",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 30
+			},
+			"numberInSurah": 7,
+			"juz": 30,
+			"manzil": 7,
+			"page": 593,
+			"ruku": 531,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "إِرَمَ ذَاتِ الْعِمَادِ"
+		},
+		{
+			"number": 6001,
+			"surah": {
+				"number": 89,
+				"name": "سُورَةُ الفَجۡرِ",
+				"englishName": "Al-Fajr",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 30
+			},
+			"numberInSurah": 8,
+			"juz": 30,
+			"manzil": 7,
+			"page": 593,
+			"ruku": 531,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "الَّتِي لَمْ يُخْلَقْ مِثْلُهَا فِي الْبِلَادِ"
+		},
+		{
+			"number": 6002,
+			"surah": {
+				"number": 89,
+				"name": "سُورَةُ الفَجۡرِ",
+				"englishName": "Al-Fajr",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 30
+			},
+			"numberInSurah": 9,
+			"juz": 30,
+			"manzil": 7,
+			"page": 593,
+			"ruku": 531,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "وَثَمُودَ الَّذِينَ جَابُوا الصَّخْرَ بِالْوَادِ"
+		},
+		{
+			"number": 6003,
+			"surah": {
+				"number": 89,
+				"name": "سُورَةُ الفَجۡرِ",
+				"englishName": "Al-Fajr",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 30
+			},
+			"numberInSurah": 10,
+			"juz": 30,
+			"manzil": 7,
+			"page": 593,
+			"ruku": 531,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "وَفِرْعَوْنَ ذِي الْأَوْتَادِ"
+		},
+		{
+			"number": 6004,
+			"surah": {
+				"number": 89,
+				"name": "سُورَةُ الفَجۡرِ",
+				"englishName": "Al-Fajr",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 30
+			},
+			"numberInSurah": 11,
+			"juz": 30,
+			"manzil": 7,
+			"page": 593,
+			"ruku": 531,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "الَّذِينَ طَغَوْا فِي الْبِلَادِ"
+		},
+		{
+			"number": 6005,
+			"surah": {
+				"number": 89,
+				"name": "سُورَةُ الفَجۡرِ",
+				"englishName": "Al-Fajr",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 30
+			},
+			"numberInSurah": 12,
+			"juz": 30,
+			"manzil": 7,
+			"page": 593,
+			"ruku": 531,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "فَأَكْثَرُوا فِيهَا الْفَسَادَ"
+		},
+		{
+			"number": 6006,
+			"surah": {
+				"number": 89,
+				"name": "سُورَةُ الفَجۡرِ",
+				"englishName": "Al-Fajr",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 30
+			},
+			"numberInSurah": 13,
+			"juz": 30,
+			"manzil": 7,
+			"page": 593,
+			"ruku": 531,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍ"
+		},
+		{
+			"number": 6007,
+			"surah": {
+				"number": 89,
+				"name": "سُورَةُ الفَجۡرِ",
+				"englishName": "Al-Fajr",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 30
+			},
+			"numberInSurah": 14,
+			"juz": 30,
+			"manzil": 7,
+			"page": 593,
+			"ruku": 531,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "إِنَّ رَبَّكَ لَبِالْمِرْصَادِ"
+		},
+		{
+			"number": 6008,
+			"surah": {
+				"number": 89,
+				"name": "سُورَةُ الفَجۡرِ",
+				"englishName": "Al-Fajr",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 30
+			},
+			"numberInSurah": 15,
+			"juz": 30,
+			"manzil": 7,
+			"page": 593,
+			"ruku": 531,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "فَأَمَّا الْإِنسَانُ إِذَا مَا ابْتَلَاهُ رَبُّهُ فَأَكْرَمَهُ وَنَعَّمَهُ فَيَقُولُ رَبِّي أَكْرَمَنِ"
+		},
+		{
+			"number": 6009,
+			"surah": {
+				"number": 89,
+				"name": "سُورَةُ الفَجۡرِ",
+				"englishName": "Al-Fajr",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 30
+			},
+			"numberInSurah": 16,
+			"juz": 30,
+			"manzil": 7,
+			"page": 593,
+			"ruku": 531,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "وَأَمَّا إِذَا مَا ابْتَلَاهُ فَقَدَرَ عَلَيْهِ رِزْقَهُ فَيَقُولُ رَبِّي أَهَانَنِ"
+		},
+		{
+			"number": 6010,
+			"surah": {
+				"number": 89,
+				"name": "سُورَةُ الفَجۡرِ",
+				"englishName": "Al-Fajr",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 30
+			},
+			"numberInSurah": 17,
+			"juz": 30,
+			"manzil": 7,
+			"page": 593,
+			"ruku": 531,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "كَلَّا ۖ بَل لَّا تُكْرِمُونَ الْيَتِيمَ"
+		},
+		{
+			"number": 6011,
+			"surah": {
+				"number": 89,
+				"name": "سُورَةُ الفَجۡرِ",
+				"englishName": "Al-Fajr",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 30
+			},
+			"numberInSurah": 18,
+			"juz": 30,
+			"manzil": 7,
+			"page": 593,
+			"ruku": 531,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "وَلَا تَحَاضُّونَ عَلَىٰ طَعَامِ الْمِسْكِينِ"
+		},
+		{
+			"number": 6012,
+			"surah": {
+				"number": 89,
+				"name": "سُورَةُ الفَجۡرِ",
+				"englishName": "Al-Fajr",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 30
+			},
+			"numberInSurah": 19,
+			"juz": 30,
+			"manzil": 7,
+			"page": 593,
+			"ruku": 531,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "وَتَأْكُلُونَ التُّرَاثَ أَكْلًا لَّمًّا"
+		},
+		{
+			"number": 6013,
+			"surah": {
+				"number": 89,
+				"name": "سُورَةُ الفَجۡرِ",
+				"englishName": "Al-Fajr",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 30
+			},
+			"numberInSurah": 20,
+			"juz": 30,
+			"manzil": 7,
+			"page": 593,
+			"ruku": 531,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "وَتُحِبُّونَ الْمَالَ حُبًّا جَمًّا"
+		},
+		{
+			"number": 6014,
+			"surah": {
+				"number": 89,
+				"name": "سُورَةُ الفَجۡرِ",
+				"englishName": "Al-Fajr",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 30
+			},
+			"numberInSurah": 21,
+			"juz": 30,
+			"manzil": 7,
+			"page": 593,
+			"ruku": 531,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "كَلَّا إِذَا دُكَّتِ الْأَرْضُ دَكًّا دَكًّا"
+		},
+		{
+			"number": 6015,
+			"surah": {
+				"number": 89,
+				"name": "سُورَةُ الفَجۡرِ",
+				"englishName": "Al-Fajr",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 30
+			},
+			"numberInSurah": 22,
+			"juz": 30,
+			"manzil": 7,
+			"page": 593,
+			"ruku": 531,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "وَجَاءَ رَبُّكَ وَالْمَلَكُ صَفًّا صَفًّا"
+		},
+		{
+			"number": 6016,
+			"surah": {
+				"number": 89,
+				"name": "سُورَةُ الفَجۡرِ",
+				"englishName": "Al-Fajr",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 30
+			},
+			"numberInSurah": 23,
+			"juz": 30,
+			"manzil": 7,
+			"page": 593,
+			"ruku": 531,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "وَجِيءَ يَوْمَئِذٍ بِجَهَنَّمَ ۚ يَوْمَئِذٍ يَتَذَكَّرُ الْإِنسَانُ وَأَنَّىٰ لَهُ الذِّكْرَىٰ"
+		},
+		{
+			"number": 6017,
+			"surah": {
+				"number": 89,
+				"name": "سُورَةُ الفَجۡرِ",
+				"englishName": "Al-Fajr",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 30
+			},
+			"numberInSurah": 24,
+			"juz": 30,
+			"manzil": 7,
+			"page": 594,
+			"ruku": 531,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "يَقُولُ يَا لَيْتَنِي قَدَّمْتُ لِحَيَاتِي"
+		},
+		{
+			"number": 6018,
+			"surah": {
+				"number": 89,
+				"name": "سُورَةُ الفَجۡرِ",
+				"englishName": "Al-Fajr",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 30
+			},
+			"numberInSurah": 25,
+			"juz": 30,
+			"manzil": 7,
+			"page": 594,
+			"ruku": 531,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "فَيَوْمَئِذٍ لَّا يُعَذِّبُ عَذَابَهُ أَحَدٌ"
+		},
+		{
+			"number": 6019,
+			"surah": {
+				"number": 89,
+				"name": "سُورَةُ الفَجۡرِ",
+				"englishName": "Al-Fajr",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 30
+			},
+			"numberInSurah": 26,
+			"juz": 30,
+			"manzil": 7,
+			"page": 594,
+			"ruku": 531,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "وَلَا يُوثِقُ وَثَاقَهُ أَحَدٌ"
+		},
+		{
+			"number": 6020,
+			"surah": {
+				"number": 89,
+				"name": "سُورَةُ الفَجۡرِ",
+				"englishName": "Al-Fajr",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 30
+			},
+			"numberInSurah": 27,
+			"juz": 30,
+			"manzil": 7,
+			"page": 594,
+			"ruku": 531,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ"
+		},
+		{
+			"number": 6021,
+			"surah": {
+				"number": 89,
+				"name": "سُورَةُ الفَجۡرِ",
+				"englishName": "Al-Fajr",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 30
+			},
+			"numberInSurah": 28,
+			"juz": 30,
+			"manzil": 7,
+			"page": 594,
+			"ruku": 531,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "ارْجِعِي إِلَىٰ رَبِّكِ رَاضِيَةً مَّرْضِيَّةً"
+		},
+		{
+			"number": 6022,
+			"surah": {
+				"number": 89,
+				"name": "سُورَةُ الفَجۡرِ",
+				"englishName": "Al-Fajr",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 30
+			},
+			"numberInSurah": 29,
+			"juz": 30,
+			"manzil": 7,
+			"page": 594,
+			"ruku": 531,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "فَادْخُلِي فِي عِبَادِي"
+		},
+		{
+			"number": 6023,
+			"surah": {
+				"number": 89,
+				"name": "سُورَةُ الفَجۡرِ",
+				"englishName": "Al-Fajr",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 30
+			},
+			"numberInSurah": 30,
+			"juz": 30,
+			"manzil": 7,
+			"page": 594,
+			"ruku": 531,
+			"hizbQuarter": 237,
+			"sajda": false,
+			"text": "وَادْخُلِي جَنَّتِي"
+		}
+	],
+	"surahs": {
+		"87": {
+			"number": 87,
+			"name": "سُورَةُ الأَعۡلَىٰ",
+			"englishName": "Al-A'laa",
+			"englishNameTranslation": "The Most High",
+			"revelationType": "Meccan",
+			"numberOfAyahs": 19
+		},
+		"88": {
+			"number": 88,
+			"name": "سُورَةُ الغَاشِيَةِ",
+			"englishName": "Al-Ghaashiya",
+			"englishNameTranslation": "The Overwhelming",
+			"revelationType": "Meccan",
+			"numberOfAyahs": 26
+		},
+		"89": {
+			"number": 89,
+			"name": "سُورَةُ الفَجۡرِ",
+			"englishName": "Al-Fajr",
+			"englishNameTranslation": "The Dawn",
+			"revelationType": "Meccan",
+			"numberOfAyahs": 30
+		}
+	},
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

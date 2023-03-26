@@ -1,0 +1,74 @@
+﻿{
+	"number": 105,
+	"name": "سُورَةُ الفِيلِ",
+	"englishName": "Al-Fil",
+	"englishNameTranslation": "The Elephant",
+	"revelationType": "Meccan",
+	"numberOfAyahs": 5,
+	"ayahs": [
+		{
+			"number": 6189,
+			"text": "«ألم تر» استفهام تعجب، أي اعجب «كيف فعل ربك بأصحاب الفيل» هو محمود وأصحابه أبرهة ملك اليمن وجيشه، بنى بصنعاء كنيسة ليصرف إليها الحجاج عن مكة فأحدث رجل من كنانة فيها ولطخ قبلتها بالعذرة احتقارا بها، فحلف أبره ليهدمنَّ الكعبة، فجاء مكة بجيشه على أفيال اليمن مقدمها محمود، فحين توجهوا لهدم الكعبة أرسل الله عليهم ما قصَّه في قوله:",
+			"numberInSurah": 1,
+			"juz": 30,
+			"manzil": 7,
+			"page": 601,
+			"ruku": 547,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6190,
+			"text": "«ألم يجعل» أي جعل «كيدهم» في هدم الكعبة «في تضليل» خسارة وهلاك.",
+			"numberInSurah": 2,
+			"juz": 30,
+			"manzil": 7,
+			"page": 601,
+			"ruku": 547,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6191,
+			"text": "«وأرسل عليهم طيراً أبابيل» جماعات جماعات، قيل لا واحد له كأساطير، وقيل واحده: أبول أو بال أو أبيل كعجول ومفتاح وسكين.",
+			"numberInSurah": 3,
+			"juz": 30,
+			"manzil": 7,
+			"page": 601,
+			"ruku": 547,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6192,
+			"text": "«ترميهم بحجارة من سجيل» طين مطبوخ.",
+			"numberInSurah": 4,
+			"juz": 30,
+			"manzil": 7,
+			"page": 601,
+			"ruku": 547,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6193,
+			"text": "«فجعلهم كعصف مأكول» كورق زرع أكلته الدواب وداسته وأفنته، أي أهلكهم الله تعالى كل واحد بحجره المكتوب عليه أسمه، وهو أكبر من العدسة وأصغر من الحمصة يغرق البيضة والرجل والفيل ويصل الأرض، وكان هذا عام مولد النبي صلى الله عليه وسلم.",
+			"numberInSurah": 5,
+			"juz": 30,
+			"manzil": 7,
+			"page": 601,
+			"ruku": 547,
+			"hizbQuarter": 240,
+			"sajda": false
+		}
+	],
+	"edition": {
+		"identifier": "ar.jalalayn",
+		"language": "ar",
+		"name": "تفسير الجلالين",
+		"englishName": "Jalal ad-Din al-Mahalli and Jalal ad-Din as-Suyuti",
+		"format": "text",
+		"type": "tafsir",
+		"direction": "rtl"
+	}
+}

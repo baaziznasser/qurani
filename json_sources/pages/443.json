@@ -1,0 +1,290 @@
+﻿{
+	"number": 443,
+	"ayahs": [
+		{
+			"number": 3746,
+			"text": "وَآيَةٌ لَهُمْ أَنَّا حَمَلْنَا ذُرِّيَّتَهُمْ فِي الْفُلْكِ الْمَشْحُونِ",
+			"surah": {
+				"number": 36,
+				"name": "سُورَةُ يسٓ",
+				"englishName": "Yaseen",
+				"englishNameTranslation": "Yaseen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 83
+			},
+			"numberInSurah": 41,
+			"juz": 23,
+			"manzil": 5,
+			"page": 443,
+			"ruku": 383,
+			"hizbQuarter": 177,
+			"sajda": false
+		},
+		{
+			"number": 3747,
+			"text": "وَخَلَقْنَا لَهُمْ مِنْ مِثْلِهِ مَا يَرْكَبُونَ",
+			"surah": {
+				"number": 36,
+				"name": "سُورَةُ يسٓ",
+				"englishName": "Yaseen",
+				"englishNameTranslation": "Yaseen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 83
+			},
+			"numberInSurah": 42,
+			"juz": 23,
+			"manzil": 5,
+			"page": 443,
+			"ruku": 383,
+			"hizbQuarter": 177,
+			"sajda": false
+		},
+		{
+			"number": 3748,
+			"text": "وَإِنْ نَشَأْ نُغْرِقْهُمْ فَلَا صَرِيخَ لَهُمْ وَلَا هُمْ يُنْقَذُونَ",
+			"surah": {
+				"number": 36,
+				"name": "سُورَةُ يسٓ",
+				"englishName": "Yaseen",
+				"englishNameTranslation": "Yaseen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 83
+			},
+			"numberInSurah": 43,
+			"juz": 23,
+			"manzil": 5,
+			"page": 443,
+			"ruku": 383,
+			"hizbQuarter": 177,
+			"sajda": false
+		},
+		{
+			"number": 3749,
+			"text": "إِلَّا رَحْمَةً مِنَّا وَمَتَاعًا إِلَىٰ حِينٍ",
+			"surah": {
+				"number": 36,
+				"name": "سُورَةُ يسٓ",
+				"englishName": "Yaseen",
+				"englishNameTranslation": "Yaseen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 83
+			},
+			"numberInSurah": 44,
+			"juz": 23,
+			"manzil": 5,
+			"page": 443,
+			"ruku": 383,
+			"hizbQuarter": 177,
+			"sajda": false
+		},
+		{
+			"number": 3750,
+			"text": "وَإِذَا قِيلَ لَهُمُ اتَّقُوا مَا بَيْنَ أَيْدِيكُمْ وَمَا خَلْفَكُمْ لَعَلَّكُمْ تُرْحَمُونَ",
+			"surah": {
+				"number": 36,
+				"name": "سُورَةُ يسٓ",
+				"englishName": "Yaseen",
+				"englishNameTranslation": "Yaseen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 83
+			},
+			"numberInSurah": 45,
+			"juz": 23,
+			"manzil": 5,
+			"page": 443,
+			"ruku": 383,
+			"hizbQuarter": 177,
+			"sajda": false
+		},
+		{
+			"number": 3751,
+			"text": "وَمَا تَأْتِيهِمْ مِنْ آيَةٍ مِنْ آيَاتِ رَبِّهِمْ إِلَّا كَانُوا عَنْهَا مُعْرِضِينَ",
+			"surah": {
+				"number": 36,
+				"name": "سُورَةُ يسٓ",
+				"englishName": "Yaseen",
+				"englishNameTranslation": "Yaseen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 83
+			},
+			"numberInSurah": 46,
+			"juz": 23,
+			"manzil": 5,
+			"page": 443,
+			"ruku": 383,
+			"hizbQuarter": 177,
+			"sajda": false
+		},
+		{
+			"number": 3752,
+			"text": "وَإِذَا قِيلَ لَهُمْ أَنْفِقُوا مِمَّا رَزَقَكُمُ اللَّهُ قَالَ الَّذِينَ كَفَرُوا لِلَّذِينَ آمَنُوا أَنُطْعِمُ مَنْ لَوْ يَشَاءُ اللَّهُ أَطْعَمَهُ إِنْ أَنْتُمْ إِلَّا فِي ضَلَالٍ مُبِينٍ",
+			"surah": {
+				"number": 36,
+				"name": "سُورَةُ يسٓ",
+				"englishName": "Yaseen",
+				"englishNameTranslation": "Yaseen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 83
+			},
+			"numberInSurah": 47,
+			"juz": 23,
+			"manzil": 5,
+			"page": 443,
+			"ruku": 383,
+			"hizbQuarter": 177,
+			"sajda": false
+		},
+		{
+			"number": 3753,
+			"text": "وَيَقُولُونَ مَتَىٰ هَٰذَا الْوَعْدُ إِنْ كُنْتُمْ صَادِقِينَ",
+			"surah": {
+				"number": 36,
+				"name": "سُورَةُ يسٓ",
+				"englishName": "Yaseen",
+				"englishNameTranslation": "Yaseen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 83
+			},
+			"numberInSurah": 48,
+			"juz": 23,
+			"manzil": 5,
+			"page": 443,
+			"ruku": 383,
+			"hizbQuarter": 177,
+			"sajda": false
+		},
+		{
+			"number": 3754,
+			"text": "مَا يَنْظُرُونَ إِلَّا صَيْحَةً وَاحِدَةً تَأْخُذُهُمْ وَهُمْ يَخِصِّمُونَ",
+			"surah": {
+				"number": 36,
+				"name": "سُورَةُ يسٓ",
+				"englishName": "Yaseen",
+				"englishNameTranslation": "Yaseen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 83
+			},
+			"numberInSurah": 49,
+			"juz": 23,
+			"manzil": 5,
+			"page": 443,
+			"ruku": 383,
+			"hizbQuarter": 177,
+			"sajda": false
+		},
+		{
+			"number": 3755,
+			"text": "فَلَا يَسْتَطِيعُونَ تَوْصِيَةً وَلَا إِلَىٰ أَهْلِهِمْ يَرْجِعُونَ",
+			"surah": {
+				"number": 36,
+				"name": "سُورَةُ يسٓ",
+				"englishName": "Yaseen",
+				"englishNameTranslation": "Yaseen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 83
+			},
+			"numberInSurah": 50,
+			"juz": 23,
+			"manzil": 5,
+			"page": 443,
+			"ruku": 383,
+			"hizbQuarter": 177,
+			"sajda": false
+		},
+		{
+			"number": 3756,
+			"text": "وَنُفِخَ فِي الصُّورِ فَإِذَا هُمْ مِنَ الْأَجْدَاثِ إِلَىٰ رَبِّهِمْ يَنْسِلُونَ",
+			"surah": {
+				"number": 36,
+				"name": "سُورَةُ يسٓ",
+				"englishName": "Yaseen",
+				"englishNameTranslation": "Yaseen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 83
+			},
+			"numberInSurah": 51,
+			"juz": 23,
+			"manzil": 5,
+			"page": 443,
+			"ruku": 384,
+			"hizbQuarter": 177,
+			"sajda": false
+		},
+		{
+			"number": 3757,
+			"text": "قَالُوا يَا وَيْلَنَا مَنْ بَعَثَنَا مِنْ مَرْقَدِنَا ۜ ۗ هَٰذَا مَا وَعَدَ الرَّحْمَٰنُ وَصَدَقَ الْمُرْسَلُونَ",
+			"surah": {
+				"number": 36,
+				"name": "سُورَةُ يسٓ",
+				"englishName": "Yaseen",
+				"englishNameTranslation": "Yaseen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 83
+			},
+			"numberInSurah": 52,
+			"juz": 23,
+			"manzil": 5,
+			"page": 443,
+			"ruku": 384,
+			"hizbQuarter": 177,
+			"sajda": false
+		},
+		{
+			"number": 3758,
+			"text": "إِنْ كَانَتْ إِلَّا صَيْحَةً وَاحِدَةً فَإِذَا هُمْ جَمِيعٌ لَدَيْنَا مُحْضَرُونَ",
+			"surah": {
+				"number": 36,
+				"name": "سُورَةُ يسٓ",
+				"englishName": "Yaseen",
+				"englishNameTranslation": "Yaseen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 83
+			},
+			"numberInSurah": 53,
+			"juz": 23,
+			"manzil": 5,
+			"page": 443,
+			"ruku": 384,
+			"hizbQuarter": 177,
+			"sajda": false
+		},
+		{
+			"number": 3759,
+			"text": "فَالْيَوْمَ لَا تُظْلَمُ نَفْسٌ شَيْئًا وَلَا تُجْزَوْنَ إِلَّا مَا كُنْتُمْ تَعْمَلُونَ",
+			"surah": {
+				"number": 36,
+				"name": "سُورَةُ يسٓ",
+				"englishName": "Yaseen",
+				"englishNameTranslation": "Yaseen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 83
+			},
+			"numberInSurah": 54,
+			"juz": 23,
+			"manzil": 5,
+			"page": 443,
+			"ruku": 384,
+			"hizbQuarter": 177,
+			"sajda": false
+		}
+	],
+	"surahs": {
+		"36": {
+			"number": 36,
+			"name": "سُورَةُ يسٓ",
+			"englishName": "Yaseen",
+			"englishNameTranslation": "Yaseen",
+			"revelationType": "Meccan",
+			"numberOfAyahs": 83
+		}
+	},
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

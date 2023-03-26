@@ -1,0 +1,157 @@
+﻿{
+	"number": 18,
+	"ayahs": [
+		{
+			"number": 120,
+			"text": "وَقَالَتِ الْيَهُودُ لَيْسَتِ النَّصَارَىٰ عَلَىٰ شَيْءٍ وَقَالَتِ النَّصَارَىٰ لَيْسَتِ الْيَهُودُ عَلَىٰ شَيْءٍ وَهُمْ يَتْلُونَ الْكِتَابَ ۗ كَذَٰلِكَ قَالَ الَّذِينَ لَا يَعْلَمُونَ مِثْلَ قَوْلِهِمْ ۚ فَاللَّهُ يَحْكُمُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ",
+			"surah": {
+				"number": 2,
+				"name": "سُورَةُ البَقَرَةِ",
+				"englishName": "Al-Baqara",
+				"englishNameTranslation": "The Cow",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 286
+			},
+			"numberInSurah": 113,
+			"juz": 1,
+			"manzil": 1,
+			"page": 18,
+			"ruku": 15,
+			"hizbQuarter": 7,
+			"sajda": false
+		},
+		{
+			"number": 121,
+			"text": "وَمَنْ أَظْلَمُ مِمَّنْ مَنَعَ مَسَاجِدَ اللَّهِ أَنْ يُذْكَرَ فِيهَا اسْمُهُ وَسَعَىٰ فِي خَرَابِهَا ۚ أُولَٰئِكَ مَا كَانَ لَهُمْ أَنْ يَدْخُلُوهَا إِلَّا خَائِفِينَ ۚ لَهُمْ فِي الدُّنْيَا خِزْيٌ وَلَهُمْ فِي الْآخِرَةِ عَذَابٌ عَظِيمٌ",
+			"surah": {
+				"number": 2,
+				"name": "سُورَةُ البَقَرَةِ",
+				"englishName": "Al-Baqara",
+				"englishNameTranslation": "The Cow",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 286
+			},
+			"numberInSurah": 114,
+			"juz": 1,
+			"manzil": 1,
+			"page": 18,
+			"ruku": 15,
+			"hizbQuarter": 7,
+			"sajda": false
+		},
+		{
+			"number": 122,
+			"text": "وَلِلَّهِ الْمَشْرِقُ وَالْمَغْرِبُ ۚ فَأَيْنَمَا تُوَلُّوا فَثَمَّ وَجْهُ اللَّهِ ۚ إِنَّ اللَّهَ وَاسِعٌ عَلِيمٌ",
+			"surah": {
+				"number": 2,
+				"name": "سُورَةُ البَقَرَةِ",
+				"englishName": "Al-Baqara",
+				"englishNameTranslation": "The Cow",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 286
+			},
+			"numberInSurah": 115,
+			"juz": 1,
+			"manzil": 1,
+			"page": 18,
+			"ruku": 15,
+			"hizbQuarter": 7,
+			"sajda": false
+		},
+		{
+			"number": 123,
+			"text": "وَقَالُوا اتَّخَذَ اللَّهُ وَلَدًا ۗ سُبْحَانَهُ ۖ بَلْ لَهُ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ ۖ كُلٌّ لَهُ قَانِتُونَ",
+			"surah": {
+				"number": 2,
+				"name": "سُورَةُ البَقَرَةِ",
+				"englishName": "Al-Baqara",
+				"englishNameTranslation": "The Cow",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 286
+			},
+			"numberInSurah": 116,
+			"juz": 1,
+			"manzil": 1,
+			"page": 18,
+			"ruku": 15,
+			"hizbQuarter": 7,
+			"sajda": false
+		},
+		{
+			"number": 124,
+			"text": "بَدِيعُ السَّمَاوَاتِ وَالْأَرْضِ ۖ وَإِذَا قَضَىٰ أَمْرًا فَإِنَّمَا يَقُولُ لَهُ كُنْ فَيَكُونُ",
+			"surah": {
+				"number": 2,
+				"name": "سُورَةُ البَقَرَةِ",
+				"englishName": "Al-Baqara",
+				"englishNameTranslation": "The Cow",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 286
+			},
+			"numberInSurah": 117,
+			"juz": 1,
+			"manzil": 1,
+			"page": 18,
+			"ruku": 15,
+			"hizbQuarter": 7,
+			"sajda": false
+		},
+		{
+			"number": 125,
+			"text": "وَقَالَ الَّذِينَ لَا يَعْلَمُونَ لَوْلَا يُكَلِّمُنَا اللَّهُ أَوْ تَأْتِينَا آيَةٌ ۗ كَذَٰلِكَ قَالَ الَّذِينَ مِنْ قَبْلِهِمْ مِثْلَ قَوْلِهِمْ ۘ تَشَابَهَتْ قُلُوبُهُمْ ۗ قَدْ بَيَّنَّا الْآيَاتِ لِقَوْمٍ يُوقِنُونَ",
+			"surah": {
+				"number": 2,
+				"name": "سُورَةُ البَقَرَةِ",
+				"englishName": "Al-Baqara",
+				"englishNameTranslation": "The Cow",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 286
+			},
+			"numberInSurah": 118,
+			"juz": 1,
+			"manzil": 1,
+			"page": 18,
+			"ruku": 15,
+			"hizbQuarter": 7,
+			"sajda": false
+		},
+		{
+			"number": 126,
+			"text": "إِنَّا أَرْسَلْنَاكَ بِالْحَقِّ بَشِيرًا وَنَذِيرًا ۖ وَلَا تُسْأَلُ عَنْ أَصْحَابِ الْجَحِيمِ",
+			"surah": {
+				"number": 2,
+				"name": "سُورَةُ البَقَرَةِ",
+				"englishName": "Al-Baqara",
+				"englishNameTranslation": "The Cow",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 286
+			},
+			"numberInSurah": 119,
+			"juz": 1,
+			"manzil": 1,
+			"page": 18,
+			"ruku": 15,
+			"hizbQuarter": 7,
+			"sajda": false
+		}
+	],
+	"surahs": {
+		"2": {
+			"number": 2,
+			"name": "سُورَةُ البَقَرَةِ",
+			"englishName": "Al-Baqara",
+			"englishNameTranslation": "The Cow",
+			"revelationType": "Medinan",
+			"numberOfAyahs": 286
+		}
+	},
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

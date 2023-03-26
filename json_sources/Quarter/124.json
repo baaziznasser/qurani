@@ -1,0 +1,784 @@
+﻿{
+	"number": 124,
+	"ayahs": [
+		{
+			"number": 2309,
+			"surah": {
+				"number": 19,
+				"name": "سُورَةُ مَرۡيَمَ",
+				"englishName": "Maryam",
+				"englishNameTranslation": "Mary",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 98
+			},
+			"numberInSurah": 59,
+			"juz": 16,
+			"manzil": 4,
+			"page": 309,
+			"ruku": 267,
+			"hizbQuarter": 124,
+			"sajda": false,
+			"text": "فَخَلَفَ مِن بَعْدِهِمْ خَلْفٌ أَضَاعُوا الصَّلَاةَ وَاتَّبَعُوا الشَّهَوَاتِ ۖ فَسَوْفَ يَلْقَوْنَ غَيًّا"
+		},
+		{
+			"number": 2310,
+			"surah": {
+				"number": 19,
+				"name": "سُورَةُ مَرۡيَمَ",
+				"englishName": "Maryam",
+				"englishNameTranslation": "Mary",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 98
+			},
+			"numberInSurah": 60,
+			"juz": 16,
+			"manzil": 4,
+			"page": 309,
+			"ruku": 267,
+			"hizbQuarter": 124,
+			"sajda": false,
+			"text": "إِلَّا مَن تَابَ وَآمَنَ وَعَمِلَ صَالِحًا فَأُولَٰئِكَ يَدْخُلُونَ الْجَنَّةَ وَلَا يُظْلَمُونَ شَيْئًا"
+		},
+		{
+			"number": 2311,
+			"surah": {
+				"number": 19,
+				"name": "سُورَةُ مَرۡيَمَ",
+				"englishName": "Maryam",
+				"englishNameTranslation": "Mary",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 98
+			},
+			"numberInSurah": 61,
+			"juz": 16,
+			"manzil": 4,
+			"page": 309,
+			"ruku": 267,
+			"hizbQuarter": 124,
+			"sajda": false,
+			"text": "جَنَّاتِ عَدْنٍ الَّتِي وَعَدَ الرَّحْمَٰنُ عِبَادَهُ بِالْغَيْبِ ۚ إِنَّهُ كَانَ وَعْدُهُ مَأْتِيًّا"
+		},
+		{
+			"number": 2312,
+			"surah": {
+				"number": 19,
+				"name": "سُورَةُ مَرۡيَمَ",
+				"englishName": "Maryam",
+				"englishNameTranslation": "Mary",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 98
+			},
+			"numberInSurah": 62,
+			"juz": 16,
+			"manzil": 4,
+			"page": 309,
+			"ruku": 267,
+			"hizbQuarter": 124,
+			"sajda": false,
+			"text": "لَّا يَسْمَعُونَ فِيهَا لَغْوًا إِلَّا سَلَامًا ۖ وَلَهُمْ رِزْقُهُمْ فِيهَا بُكْرَةً وَعَشِيًّا"
+		},
+		{
+			"number": 2313,
+			"surah": {
+				"number": 19,
+				"name": "سُورَةُ مَرۡيَمَ",
+				"englishName": "Maryam",
+				"englishNameTranslation": "Mary",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 98
+			},
+			"numberInSurah": 63,
+			"juz": 16,
+			"manzil": 4,
+			"page": 309,
+			"ruku": 267,
+			"hizbQuarter": 124,
+			"sajda": false,
+			"text": "تِلْكَ الْجَنَّةُ الَّتِي نُورِثُ مِنْ عِبَادِنَا مَن كَانَ تَقِيًّا"
+		},
+		{
+			"number": 2314,
+			"surah": {
+				"number": 19,
+				"name": "سُورَةُ مَرۡيَمَ",
+				"englishName": "Maryam",
+				"englishNameTranslation": "Mary",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 98
+			},
+			"numberInSurah": 64,
+			"juz": 16,
+			"manzil": 4,
+			"page": 309,
+			"ruku": 267,
+			"hizbQuarter": 124,
+			"sajda": false,
+			"text": "وَمَا نَتَنَزَّلُ إِلَّا بِأَمْرِ رَبِّكَ ۖ لَهُ مَا بَيْنَ أَيْدِينَا وَمَا خَلْفَنَا وَمَا بَيْنَ ذَٰلِكَ ۚ وَمَا كَانَ رَبُّكَ نَسِيًّا"
+		},
+		{
+			"number": 2315,
+			"surah": {
+				"number": 19,
+				"name": "سُورَةُ مَرۡيَمَ",
+				"englishName": "Maryam",
+				"englishNameTranslation": "Mary",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 98
+			},
+			"numberInSurah": 65,
+			"juz": 16,
+			"manzil": 4,
+			"page": 310,
+			"ruku": 267,
+			"hizbQuarter": 124,
+			"sajda": false,
+			"text": "رَّبُّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا فَاعْبُدْهُ وَاصْطَبِرْ لِعِبَادَتِهِ ۚ هَلْ تَعْلَمُ لَهُ سَمِيًّا"
+		},
+		{
+			"number": 2316,
+			"surah": {
+				"number": 19,
+				"name": "سُورَةُ مَرۡيَمَ",
+				"englishName": "Maryam",
+				"englishNameTranslation": "Mary",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 98
+			},
+			"numberInSurah": 66,
+			"juz": 16,
+			"manzil": 4,
+			"page": 310,
+			"ruku": 268,
+			"hizbQuarter": 124,
+			"sajda": false,
+			"text": "وَيَقُولُ الْإِنسَانُ أَإِذَا مَا مِتُّ لَسَوْفَ أُخْرَجُ حَيًّا"
+		},
+		{
+			"number": 2317,
+			"surah": {
+				"number": 19,
+				"name": "سُورَةُ مَرۡيَمَ",
+				"englishName": "Maryam",
+				"englishNameTranslation": "Mary",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 98
+			},
+			"numberInSurah": 67,
+			"juz": 16,
+			"manzil": 4,
+			"page": 310,
+			"ruku": 268,
+			"hizbQuarter": 124,
+			"sajda": false,
+			"text": "أَوَلَا يَذْكُرُ الْإِنسَانُ أَنَّا خَلَقْنَاهُ مِن قَبْلُ وَلَمْ يَكُ شَيْئًا"
+		},
+		{
+			"number": 2318,
+			"surah": {
+				"number": 19,
+				"name": "سُورَةُ مَرۡيَمَ",
+				"englishName": "Maryam",
+				"englishNameTranslation": "Mary",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 98
+			},
+			"numberInSurah": 68,
+			"juz": 16,
+			"manzil": 4,
+			"page": 310,
+			"ruku": 268,
+			"hizbQuarter": 124,
+			"sajda": false,
+			"text": "فَوَرَبِّكَ لَنَحْشُرَنَّهُمْ وَالشَّيَاطِينَ ثُمَّ لَنُحْضِرَنَّهُمْ حَوْلَ جَهَنَّمَ جِثِيًّا"
+		},
+		{
+			"number": 2319,
+			"surah": {
+				"number": 19,
+				"name": "سُورَةُ مَرۡيَمَ",
+				"englishName": "Maryam",
+				"englishNameTranslation": "Mary",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 98
+			},
+			"numberInSurah": 69,
+			"juz": 16,
+			"manzil": 4,
+			"page": 310,
+			"ruku": 268,
+			"hizbQuarter": 124,
+			"sajda": false,
+			"text": "ثُمَّ لَنَنزِعَنَّ مِن كُلِّ شِيعَةٍ أَيُّهُمْ أَشَدُّ عَلَى الرَّحْمَٰنِ عِتِيًّا"
+		},
+		{
+			"number": 2320,
+			"surah": {
+				"number": 19,
+				"name": "سُورَةُ مَرۡيَمَ",
+				"englishName": "Maryam",
+				"englishNameTranslation": "Mary",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 98
+			},
+			"numberInSurah": 70,
+			"juz": 16,
+			"manzil": 4,
+			"page": 310,
+			"ruku": 268,
+			"hizbQuarter": 124,
+			"sajda": false,
+			"text": "ثُمَّ لَنَحْنُ أَعْلَمُ بِالَّذِينَ هُمْ أَوْلَىٰ بِهَا صِلِيًّا"
+		},
+		{
+			"number": 2321,
+			"surah": {
+				"number": 19,
+				"name": "سُورَةُ مَرۡيَمَ",
+				"englishName": "Maryam",
+				"englishNameTranslation": "Mary",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 98
+			},
+			"numberInSurah": 71,
+			"juz": 16,
+			"manzil": 4,
+			"page": 310,
+			"ruku": 268,
+			"hizbQuarter": 124,
+			"sajda": false,
+			"text": "وَإِن مِّنكُمْ إِلَّا وَارِدُهَا ۚ كَانَ عَلَىٰ رَبِّكَ حَتْمًا مَّقْضِيًّا"
+		},
+		{
+			"number": 2322,
+			"surah": {
+				"number": 19,
+				"name": "سُورَةُ مَرۡيَمَ",
+				"englishName": "Maryam",
+				"englishNameTranslation": "Mary",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 98
+			},
+			"numberInSurah": 72,
+			"juz": 16,
+			"manzil": 4,
+			"page": 310,
+			"ruku": 268,
+			"hizbQuarter": 124,
+			"sajda": false,
+			"text": "ثُمَّ نُنَجِّي الَّذِينَ اتَّقَوا وَّنَذَرُ الظَّالِمِينَ فِيهَا جِثِيًّا"
+		},
+		{
+			"number": 2323,
+			"surah": {
+				"number": 19,
+				"name": "سُورَةُ مَرۡيَمَ",
+				"englishName": "Maryam",
+				"englishNameTranslation": "Mary",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 98
+			},
+			"numberInSurah": 73,
+			"juz": 16,
+			"manzil": 4,
+			"page": 310,
+			"ruku": 268,
+			"hizbQuarter": 124,
+			"sajda": false,
+			"text": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ آيَاتُنَا بَيِّنَاتٍ قَالَ الَّذِينَ كَفَرُوا لِلَّذِينَ آمَنُوا أَيُّ الْفَرِيقَيْنِ خَيْرٌ مَّقَامًا وَأَحْسَنُ نَدِيًّا"
+		},
+		{
+			"number": 2324,
+			"surah": {
+				"number": 19,
+				"name": "سُورَةُ مَرۡيَمَ",
+				"englishName": "Maryam",
+				"englishNameTranslation": "Mary",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 98
+			},
+			"numberInSurah": 74,
+			"juz": 16,
+			"manzil": 4,
+			"page": 310,
+			"ruku": 268,
+			"hizbQuarter": 124,
+			"sajda": false,
+			"text": "وَكَمْ أَهْلَكْنَا قَبْلَهُم مِّن قَرْنٍ هُمْ أَحْسَنُ أَثَاثًا وَرِئْيًا"
+		},
+		{
+			"number": 2325,
+			"surah": {
+				"number": 19,
+				"name": "سُورَةُ مَرۡيَمَ",
+				"englishName": "Maryam",
+				"englishNameTranslation": "Mary",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 98
+			},
+			"numberInSurah": 75,
+			"juz": 16,
+			"manzil": 4,
+			"page": 310,
+			"ruku": 268,
+			"hizbQuarter": 124,
+			"sajda": false,
+			"text": "قُلْ مَن كَانَ فِي الضَّلَالَةِ فَلْيَمْدُدْ لَهُ الرَّحْمَٰنُ مَدًّا ۚ حَتَّىٰ إِذَا رَأَوْا مَا يُوعَدُونَ إِمَّا الْعَذَابَ وَإِمَّا السَّاعَةَ فَسَيَعْلَمُونَ مَنْ هُوَ شَرٌّ مَّكَانًا وَأَضْعَفُ جُندًا"
+		},
+		{
+			"number": 2326,
+			"surah": {
+				"number": 19,
+				"name": "سُورَةُ مَرۡيَمَ",
+				"englishName": "Maryam",
+				"englishNameTranslation": "Mary",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 98
+			},
+			"numberInSurah": 76,
+			"juz": 16,
+			"manzil": 4,
+			"page": 310,
+			"ruku": 268,
+			"hizbQuarter": 124,
+			"sajda": false,
+			"text": "وَيَزِيدُ اللَّهُ الَّذِينَ اهْتَدَوْا هُدًى ۗ وَالْبَاقِيَاتُ الصَّالِحَاتُ خَيْرٌ عِندَ رَبِّكَ ثَوَابًا وَخَيْرٌ مَّرَدًّا"
+		},
+		{
+			"number": 2327,
+			"surah": {
+				"number": 19,
+				"name": "سُورَةُ مَرۡيَمَ",
+				"englishName": "Maryam",
+				"englishNameTranslation": "Mary",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 98
+			},
+			"numberInSurah": 77,
+			"juz": 16,
+			"manzil": 4,
+			"page": 311,
+			"ruku": 268,
+			"hizbQuarter": 124,
+			"sajda": false,
+			"text": "أَفَرَأَيْتَ الَّذِي كَفَرَ بِآيَاتِنَا وَقَالَ لَأُوتَيَنَّ مَالًا وَوَلَدًا"
+		},
+		{
+			"number": 2328,
+			"surah": {
+				"number": 19,
+				"name": "سُورَةُ مَرۡيَمَ",
+				"englishName": "Maryam",
+				"englishNameTranslation": "Mary",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 98
+			},
+			"numberInSurah": 78,
+			"juz": 16,
+			"manzil": 4,
+			"page": 311,
+			"ruku": 268,
+			"hizbQuarter": 124,
+			"sajda": false,
+			"text": "أَطَّلَعَ الْغَيْبَ أَمِ اتَّخَذَ عِندَ الرَّحْمَٰنِ عَهْدًا"
+		},
+		{
+			"number": 2329,
+			"surah": {
+				"number": 19,
+				"name": "سُورَةُ مَرۡيَمَ",
+				"englishName": "Maryam",
+				"englishNameTranslation": "Mary",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 98
+			},
+			"numberInSurah": 79,
+			"juz": 16,
+			"manzil": 4,
+			"page": 311,
+			"ruku": 268,
+			"hizbQuarter": 124,
+			"sajda": false,
+			"text": "كَلَّا ۚ سَنَكْتُبُ مَا يَقُولُ وَنَمُدُّ لَهُ مِنَ الْعَذَابِ مَدًّا"
+		},
+		{
+			"number": 2330,
+			"surah": {
+				"number": 19,
+				"name": "سُورَةُ مَرۡيَمَ",
+				"englishName": "Maryam",
+				"englishNameTranslation": "Mary",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 98
+			},
+			"numberInSurah": 80,
+			"juz": 16,
+			"manzil": 4,
+			"page": 311,
+			"ruku": 268,
+			"hizbQuarter": 124,
+			"sajda": false,
+			"text": "وَنَرِثُهُ مَا يَقُولُ وَيَأْتِينَا فَرْدًا"
+		},
+		{
+			"number": 2331,
+			"surah": {
+				"number": 19,
+				"name": "سُورَةُ مَرۡيَمَ",
+				"englishName": "Maryam",
+				"englishNameTranslation": "Mary",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 98
+			},
+			"numberInSurah": 81,
+			"juz": 16,
+			"manzil": 4,
+			"page": 311,
+			"ruku": 268,
+			"hizbQuarter": 124,
+			"sajda": false,
+			"text": "وَاتَّخَذُوا مِن دُونِ اللَّهِ آلِهَةً لِّيَكُونُوا لَهُمْ عِزًّا"
+		},
+		{
+			"number": 2332,
+			"surah": {
+				"number": 19,
+				"name": "سُورَةُ مَرۡيَمَ",
+				"englishName": "Maryam",
+				"englishNameTranslation": "Mary",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 98
+			},
+			"numberInSurah": 82,
+			"juz": 16,
+			"manzil": 4,
+			"page": 311,
+			"ruku": 268,
+			"hizbQuarter": 124,
+			"sajda": false,
+			"text": "كَلَّا ۚ سَيَكْفُرُونَ بِعِبَادَتِهِمْ وَيَكُونُونَ عَلَيْهِمْ ضِدًّا"
+		},
+		{
+			"number": 2333,
+			"surah": {
+				"number": 19,
+				"name": "سُورَةُ مَرۡيَمَ",
+				"englishName": "Maryam",
+				"englishNameTranslation": "Mary",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 98
+			},
+			"numberInSurah": 83,
+			"juz": 16,
+			"manzil": 4,
+			"page": 311,
+			"ruku": 269,
+			"hizbQuarter": 124,
+			"sajda": false,
+			"text": "أَلَمْ تَرَ أَنَّا أَرْسَلْنَا الشَّيَاطِينَ عَلَى الْكَافِرِينَ تَؤُزُّهُمْ أَزًّا"
+		},
+		{
+			"number": 2334,
+			"surah": {
+				"number": 19,
+				"name": "سُورَةُ مَرۡيَمَ",
+				"englishName": "Maryam",
+				"englishNameTranslation": "Mary",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 98
+			},
+			"numberInSurah": 84,
+			"juz": 16,
+			"manzil": 4,
+			"page": 311,
+			"ruku": 269,
+			"hizbQuarter": 124,
+			"sajda": false,
+			"text": "فَلَا تَعْجَلْ عَلَيْهِمْ ۖ إِنَّمَا نَعُدُّ لَهُمْ عَدًّا"
+		},
+		{
+			"number": 2335,
+			"surah": {
+				"number": 19,
+				"name": "سُورَةُ مَرۡيَمَ",
+				"englishName": "Maryam",
+				"englishNameTranslation": "Mary",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 98
+			},
+			"numberInSurah": 85,
+			"juz": 16,
+			"manzil": 4,
+			"page": 311,
+			"ruku": 269,
+			"hizbQuarter": 124,
+			"sajda": false,
+			"text": "يَوْمَ نَحْشُرُ الْمُتَّقِينَ إِلَى الرَّحْمَٰنِ وَفْدًا"
+		},
+		{
+			"number": 2336,
+			"surah": {
+				"number": 19,
+				"name": "سُورَةُ مَرۡيَمَ",
+				"englishName": "Maryam",
+				"englishNameTranslation": "Mary",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 98
+			},
+			"numberInSurah": 86,
+			"juz": 16,
+			"manzil": 4,
+			"page": 311,
+			"ruku": 269,
+			"hizbQuarter": 124,
+			"sajda": false,
+			"text": "وَنَسُوقُ الْمُجْرِمِينَ إِلَىٰ جَهَنَّمَ وِرْدًا"
+		},
+		{
+			"number": 2337,
+			"surah": {
+				"number": 19,
+				"name": "سُورَةُ مَرۡيَمَ",
+				"englishName": "Maryam",
+				"englishNameTranslation": "Mary",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 98
+			},
+			"numberInSurah": 87,
+			"juz": 16,
+			"manzil": 4,
+			"page": 311,
+			"ruku": 269,
+			"hizbQuarter": 124,
+			"sajda": false,
+			"text": "لَّا يَمْلِكُونَ الشَّفَاعَةَ إِلَّا مَنِ اتَّخَذَ عِندَ الرَّحْمَٰنِ عَهْدًا"
+		},
+		{
+			"number": 2338,
+			"surah": {
+				"number": 19,
+				"name": "سُورَةُ مَرۡيَمَ",
+				"englishName": "Maryam",
+				"englishNameTranslation": "Mary",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 98
+			},
+			"numberInSurah": 88,
+			"juz": 16,
+			"manzil": 4,
+			"page": 311,
+			"ruku": 269,
+			"hizbQuarter": 124,
+			"sajda": false,
+			"text": "وَقَالُوا اتَّخَذَ الرَّحْمَٰنُ وَلَدًا"
+		},
+		{
+			"number": 2339,
+			"surah": {
+				"number": 19,
+				"name": "سُورَةُ مَرۡيَمَ",
+				"englishName": "Maryam",
+				"englishNameTranslation": "Mary",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 98
+			},
+			"numberInSurah": 89,
+			"juz": 16,
+			"manzil": 4,
+			"page": 311,
+			"ruku": 269,
+			"hizbQuarter": 124,
+			"sajda": false,
+			"text": "لَّقَدْ جِئْتُمْ شَيْئًا إِدًّا"
+		},
+		{
+			"number": 2340,
+			"surah": {
+				"number": 19,
+				"name": "سُورَةُ مَرۡيَمَ",
+				"englishName": "Maryam",
+				"englishNameTranslation": "Mary",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 98
+			},
+			"numberInSurah": 90,
+			"juz": 16,
+			"manzil": 4,
+			"page": 311,
+			"ruku": 269,
+			"hizbQuarter": 124,
+			"sajda": false,
+			"text": "تَكَادُ السَّمَاوَاتُ يَتَفَطَّرْنَ مِنْهُ وَتَنشَقُّ الْأَرْضُ وَتَخِرُّ الْجِبَالُ هَدًّا"
+		},
+		{
+			"number": 2341,
+			"surah": {
+				"number": 19,
+				"name": "سُورَةُ مَرۡيَمَ",
+				"englishName": "Maryam",
+				"englishNameTranslation": "Mary",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 98
+			},
+			"numberInSurah": 91,
+			"juz": 16,
+			"manzil": 4,
+			"page": 311,
+			"ruku": 269,
+			"hizbQuarter": 124,
+			"sajda": false,
+			"text": "أَن دَعَوْا لِلرَّحْمَٰنِ وَلَدًا"
+		},
+		{
+			"number": 2342,
+			"surah": {
+				"number": 19,
+				"name": "سُورَةُ مَرۡيَمَ",
+				"englishName": "Maryam",
+				"englishNameTranslation": "Mary",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 98
+			},
+			"numberInSurah": 92,
+			"juz": 16,
+			"manzil": 4,
+			"page": 311,
+			"ruku": 269,
+			"hizbQuarter": 124,
+			"sajda": false,
+			"text": "وَمَا يَنبَغِي لِلرَّحْمَٰنِ أَن يَتَّخِذَ وَلَدًا"
+		},
+		{
+			"number": 2343,
+			"surah": {
+				"number": 19,
+				"name": "سُورَةُ مَرۡيَمَ",
+				"englishName": "Maryam",
+				"englishNameTranslation": "Mary",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 98
+			},
+			"numberInSurah": 93,
+			"juz": 16,
+			"manzil": 4,
+			"page": 311,
+			"ruku": 269,
+			"hizbQuarter": 124,
+			"sajda": false,
+			"text": "إِن كُلُّ مَن فِي السَّمَاوَاتِ وَالْأَرْضِ إِلَّا آتِي الرَّحْمَٰنِ عَبْدًا"
+		},
+		{
+			"number": 2344,
+			"surah": {
+				"number": 19,
+				"name": "سُورَةُ مَرۡيَمَ",
+				"englishName": "Maryam",
+				"englishNameTranslation": "Mary",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 98
+			},
+			"numberInSurah": 94,
+			"juz": 16,
+			"manzil": 4,
+			"page": 311,
+			"ruku": 269,
+			"hizbQuarter": 124,
+			"sajda": false,
+			"text": "لَّقَدْ أَحْصَاهُمْ وَعَدَّهُمْ عَدًّا"
+		},
+		{
+			"number": 2345,
+			"surah": {
+				"number": 19,
+				"name": "سُورَةُ مَرۡيَمَ",
+				"englishName": "Maryam",
+				"englishNameTranslation": "Mary",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 98
+			},
+			"numberInSurah": 95,
+			"juz": 16,
+			"manzil": 4,
+			"page": 311,
+			"ruku": 269,
+			"hizbQuarter": 124,
+			"sajda": false,
+			"text": "وَكُلُّهُمْ آتِيهِ يَوْمَ الْقِيَامَةِ فَرْدًا"
+		},
+		{
+			"number": 2346,
+			"surah": {
+				"number": 19,
+				"name": "سُورَةُ مَرۡيَمَ",
+				"englishName": "Maryam",
+				"englishNameTranslation": "Mary",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 98
+			},
+			"numberInSurah": 96,
+			"juz": 16,
+			"manzil": 4,
+			"page": 312,
+			"ruku": 269,
+			"hizbQuarter": 124,
+			"sajda": false,
+			"text": "إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ سَيَجْعَلُ لَهُمُ الرَّحْمَٰنُ وُدًّا"
+		},
+		{
+			"number": 2347,
+			"surah": {
+				"number": 19,
+				"name": "سُورَةُ مَرۡيَمَ",
+				"englishName": "Maryam",
+				"englishNameTranslation": "Mary",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 98
+			},
+			"numberInSurah": 97,
+			"juz": 16,
+			"manzil": 4,
+			"page": 312,
+			"ruku": 269,
+			"hizbQuarter": 124,
+			"sajda": false,
+			"text": "فَإِنَّمَا يَسَّرْنَاهُ بِلِسَانِكَ لِتُبَشِّرَ بِهِ الْمُتَّقِينَ وَتُنذِرَ بِهِ قَوْمًا لُّدًّا"
+		},
+		{
+			"number": 2348,
+			"surah": {
+				"number": 19,
+				"name": "سُورَةُ مَرۡيَمَ",
+				"englishName": "Maryam",
+				"englishNameTranslation": "Mary",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 98
+			},
+			"numberInSurah": 98,
+			"juz": 16,
+			"manzil": 4,
+			"page": 312,
+			"ruku": 269,
+			"hizbQuarter": 124,
+			"sajda": false,
+			"text": "وَكَمْ أَهْلَكْنَا قَبْلَهُم مِّن قَرْنٍ هَلْ تُحِسُّ مِنْهُم مِّنْ أَحَدٍ أَوْ تَسْمَعُ لَهُمْ رِكْزًا"
+		}
+	],
+	"surahs": {
+		"19": {
+			"number": 19,
+			"name": "سُورَةُ مَرۡيَمَ",
+			"englishName": "Maryam",
+			"englishNameTranslation": "Mary",
+			"revelationType": "Meccan",
+			"numberOfAyahs": 98
+		}
+	},
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

@@ -1,0 +1,404 @@
+﻿{
+	"number": 73,
+	"ayahs": [
+		{
+			"number": 1201,
+			"surah": {
+				"number": 8,
+				"name": "سُورَةُ الأَنفَالِ",
+				"englishName": "Al-Anfaal",
+				"englishNameTranslation": "The Spoils of War",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 75
+			},
+			"numberInSurah": 41,
+			"juz": 10,
+			"manzil": 2,
+			"page": 182,
+			"ruku": 150,
+			"hizbQuarter": 73,
+			"sajda": false,
+			"text": "وَاعْلَمُوا أَنَّمَا غَنِمْتُم مِّن شَيْءٍ فَأَنَّ لِلَّهِ خُمُسَهُ وَلِلرَّسُولِ وَلِذِي الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينِ وَابْنِ السَّبِيلِ إِن كُنتُمْ آمَنتُم بِاللَّهِ وَمَا أَنزَلْنَا عَلَىٰ عَبْدِنَا يَوْمَ الْفُرْقَانِ يَوْمَ الْتَقَى الْجَمْعَانِ ۗ وَاللَّهُ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ"
+		},
+		{
+			"number": 1202,
+			"surah": {
+				"number": 8,
+				"name": "سُورَةُ الأَنفَالِ",
+				"englishName": "Al-Anfaal",
+				"englishNameTranslation": "The Spoils of War",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 75
+			},
+			"numberInSurah": 42,
+			"juz": 10,
+			"manzil": 2,
+			"page": 182,
+			"ruku": 150,
+			"hizbQuarter": 73,
+			"sajda": false,
+			"text": "إِذْ أَنتُم بِالْعُدْوَةِ الدُّنْيَا وَهُم بِالْعُدْوَةِ الْقُصْوَىٰ وَالرَّكْبُ أَسْفَلَ مِنكُمْ ۚ وَلَوْ تَوَاعَدتُّمْ لَاخْتَلَفْتُمْ فِي الْمِيعَادِ ۙ وَلَٰكِن لِّيَقْضِيَ اللَّهُ أَمْرًا كَانَ مَفْعُولًا لِّيَهْلِكَ مَنْ هَلَكَ عَن بَيِّنَةٍ وَيَحْيَىٰ مَنْ حَيَّ عَن بَيِّنَةٍ ۗ وَإِنَّ اللَّهَ لَسَمِيعٌ عَلِيمٌ"
+		},
+		{
+			"number": 1203,
+			"surah": {
+				"number": 8,
+				"name": "سُورَةُ الأَنفَالِ",
+				"englishName": "Al-Anfaal",
+				"englishNameTranslation": "The Spoils of War",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 75
+			},
+			"numberInSurah": 43,
+			"juz": 10,
+			"manzil": 2,
+			"page": 182,
+			"ruku": 150,
+			"hizbQuarter": 73,
+			"sajda": false,
+			"text": "إِذْ يُرِيكَهُمُ اللَّهُ فِي مَنَامِكَ قَلِيلًا ۖ وَلَوْ أَرَاكَهُمْ كَثِيرًا لَّفَشِلْتُمْ وَلَتَنَازَعْتُمْ فِي الْأَمْرِ وَلَٰكِنَّ اللَّهَ سَلَّمَ ۗ إِنَّهُ عَلِيمٌ بِذَاتِ الصُّدُورِ"
+		},
+		{
+			"number": 1204,
+			"surah": {
+				"number": 8,
+				"name": "سُورَةُ الأَنفَالِ",
+				"englishName": "Al-Anfaal",
+				"englishNameTranslation": "The Spoils of War",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 75
+			},
+			"numberInSurah": 44,
+			"juz": 10,
+			"manzil": 2,
+			"page": 182,
+			"ruku": 150,
+			"hizbQuarter": 73,
+			"sajda": false,
+			"text": "وَإِذْ يُرِيكُمُوهُمْ إِذِ الْتَقَيْتُمْ فِي أَعْيُنِكُمْ قَلِيلًا وَيُقَلِّلُكُمْ فِي أَعْيُنِهِمْ لِيَقْضِيَ اللَّهُ أَمْرًا كَانَ مَفْعُولًا ۗ وَإِلَى اللَّهِ تُرْجَعُ الْأُمُورُ"
+		},
+		{
+			"number": 1205,
+			"surah": {
+				"number": 8,
+				"name": "سُورَةُ الأَنفَالِ",
+				"englishName": "Al-Anfaal",
+				"englishNameTranslation": "The Spoils of War",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 75
+			},
+			"numberInSurah": 45,
+			"juz": 10,
+			"manzil": 2,
+			"page": 182,
+			"ruku": 151,
+			"hizbQuarter": 73,
+			"sajda": false,
+			"text": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا لَقِيتُمْ فِئَةً فَاثْبُتُوا وَاذْكُرُوا اللَّهَ كَثِيرًا لَّعَلَّكُمْ تُفْلِحُونَ"
+		},
+		{
+			"number": 1206,
+			"surah": {
+				"number": 8,
+				"name": "سُورَةُ الأَنفَالِ",
+				"englishName": "Al-Anfaal",
+				"englishNameTranslation": "The Spoils of War",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 75
+			},
+			"numberInSurah": 46,
+			"juz": 10,
+			"manzil": 2,
+			"page": 183,
+			"ruku": 151,
+			"hizbQuarter": 73,
+			"sajda": false,
+			"text": "وَأَطِيعُوا اللَّهَ وَرَسُولَهُ وَلَا تَنَازَعُوا فَتَفْشَلُوا وَتَذْهَبَ رِيحُكُمْ ۖ وَاصْبِرُوا ۚ إِنَّ اللَّهَ مَعَ الصَّابِرِينَ"
+		},
+		{
+			"number": 1207,
+			"surah": {
+				"number": 8,
+				"name": "سُورَةُ الأَنفَالِ",
+				"englishName": "Al-Anfaal",
+				"englishNameTranslation": "The Spoils of War",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 75
+			},
+			"numberInSurah": 47,
+			"juz": 10,
+			"manzil": 2,
+			"page": 183,
+			"ruku": 151,
+			"hizbQuarter": 73,
+			"sajda": false,
+			"text": "وَلَا تَكُونُوا كَالَّذِينَ خَرَجُوا مِن دِيَارِهِم بَطَرًا وَرِئَاءَ النَّاسِ وَيَصُدُّونَ عَن سَبِيلِ اللَّهِ ۚ وَاللَّهُ بِمَا يَعْمَلُونَ مُحِيطٌ"
+		},
+		{
+			"number": 1208,
+			"surah": {
+				"number": 8,
+				"name": "سُورَةُ الأَنفَالِ",
+				"englishName": "Al-Anfaal",
+				"englishNameTranslation": "The Spoils of War",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 75
+			},
+			"numberInSurah": 48,
+			"juz": 10,
+			"manzil": 2,
+			"page": 183,
+			"ruku": 151,
+			"hizbQuarter": 73,
+			"sajda": false,
+			"text": "وَإِذْ زَيَّنَ لَهُمُ الشَّيْطَانُ أَعْمَالَهُمْ وَقَالَ لَا غَالِبَ لَكُمُ الْيَوْمَ مِنَ النَّاسِ وَإِنِّي جَارٌ لَّكُمْ ۖ فَلَمَّا تَرَاءَتِ الْفِئَتَانِ نَكَصَ عَلَىٰ عَقِبَيْهِ وَقَالَ إِنِّي بَرِيءٌ مِّنكُمْ إِنِّي أَرَىٰ مَا لَا تَرَوْنَ إِنِّي أَخَافُ اللَّهَ ۚ وَاللَّهُ شَدِيدُ الْعِقَابِ"
+		},
+		{
+			"number": 1209,
+			"surah": {
+				"number": 8,
+				"name": "سُورَةُ الأَنفَالِ",
+				"englishName": "Al-Anfaal",
+				"englishNameTranslation": "The Spoils of War",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 75
+			},
+			"numberInSurah": 49,
+			"juz": 10,
+			"manzil": 2,
+			"page": 183,
+			"ruku": 152,
+			"hizbQuarter": 73,
+			"sajda": false,
+			"text": "إِذْ يَقُولُ الْمُنَافِقُونَ وَالَّذِينَ فِي قُلُوبِهِم مَّرَضٌ غَرَّ هَٰؤُلَاءِ دِينُهُمْ ۗ وَمَن يَتَوَكَّلْ عَلَى اللَّهِ فَإِنَّ اللَّهَ عَزِيزٌ حَكِيمٌ"
+		},
+		{
+			"number": 1210,
+			"surah": {
+				"number": 8,
+				"name": "سُورَةُ الأَنفَالِ",
+				"englishName": "Al-Anfaal",
+				"englishNameTranslation": "The Spoils of War",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 75
+			},
+			"numberInSurah": 50,
+			"juz": 10,
+			"manzil": 2,
+			"page": 183,
+			"ruku": 152,
+			"hizbQuarter": 73,
+			"sajda": false,
+			"text": "وَلَوْ تَرَىٰ إِذْ يَتَوَفَّى الَّذِينَ كَفَرُوا ۙ الْمَلَائِكَةُ يَضْرِبُونَ وُجُوهَهُمْ وَأَدْبَارَهُمْ وَذُوقُوا عَذَابَ الْحَرِيقِ"
+		},
+		{
+			"number": 1211,
+			"surah": {
+				"number": 8,
+				"name": "سُورَةُ الأَنفَالِ",
+				"englishName": "Al-Anfaal",
+				"englishNameTranslation": "The Spoils of War",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 75
+			},
+			"numberInSurah": 51,
+			"juz": 10,
+			"manzil": 2,
+			"page": 183,
+			"ruku": 152,
+			"hizbQuarter": 73,
+			"sajda": false,
+			"text": "ذَٰلِكَ بِمَا قَدَّمَتْ أَيْدِيكُمْ وَأَنَّ اللَّهَ لَيْسَ بِظَلَّامٍ لِّلْعَبِيدِ"
+		},
+		{
+			"number": 1212,
+			"surah": {
+				"number": 8,
+				"name": "سُورَةُ الأَنفَالِ",
+				"englishName": "Al-Anfaal",
+				"englishNameTranslation": "The Spoils of War",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 75
+			},
+			"numberInSurah": 52,
+			"juz": 10,
+			"manzil": 2,
+			"page": 183,
+			"ruku": 152,
+			"hizbQuarter": 73,
+			"sajda": false,
+			"text": "كَدَأْبِ آلِ فِرْعَوْنَ ۙ وَالَّذِينَ مِن قَبْلِهِمْ ۚ كَفَرُوا بِآيَاتِ اللَّهِ فَأَخَذَهُمُ اللَّهُ بِذُنُوبِهِمْ ۗ إِنَّ اللَّهَ قَوِيٌّ شَدِيدُ الْعِقَابِ"
+		},
+		{
+			"number": 1213,
+			"surah": {
+				"number": 8,
+				"name": "سُورَةُ الأَنفَالِ",
+				"englishName": "Al-Anfaal",
+				"englishNameTranslation": "The Spoils of War",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 75
+			},
+			"numberInSurah": 53,
+			"juz": 10,
+			"manzil": 2,
+			"page": 184,
+			"ruku": 152,
+			"hizbQuarter": 73,
+			"sajda": false,
+			"text": "ذَٰلِكَ بِأَنَّ اللَّهَ لَمْ يَكُ مُغَيِّرًا نِّعْمَةً أَنْعَمَهَا عَلَىٰ قَوْمٍ حَتَّىٰ يُغَيِّرُوا مَا بِأَنفُسِهِمْ ۙ وَأَنَّ اللَّهَ سَمِيعٌ عَلِيمٌ"
+		},
+		{
+			"number": 1214,
+			"surah": {
+				"number": 8,
+				"name": "سُورَةُ الأَنفَالِ",
+				"englishName": "Al-Anfaal",
+				"englishNameTranslation": "The Spoils of War",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 75
+			},
+			"numberInSurah": 54,
+			"juz": 10,
+			"manzil": 2,
+			"page": 184,
+			"ruku": 152,
+			"hizbQuarter": 73,
+			"sajda": false,
+			"text": "كَدَأْبِ آلِ فِرْعَوْنَ ۙ وَالَّذِينَ مِن قَبْلِهِمْ ۚ كَذَّبُوا بِآيَاتِ رَبِّهِمْ فَأَهْلَكْنَاهُم بِذُنُوبِهِمْ وَأَغْرَقْنَا آلَ فِرْعَوْنَ ۚ وَكُلٌّ كَانُوا ظَالِمِينَ"
+		},
+		{
+			"number": 1215,
+			"surah": {
+				"number": 8,
+				"name": "سُورَةُ الأَنفَالِ",
+				"englishName": "Al-Anfaal",
+				"englishNameTranslation": "The Spoils of War",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 75
+			},
+			"numberInSurah": 55,
+			"juz": 10,
+			"manzil": 2,
+			"page": 184,
+			"ruku": 152,
+			"hizbQuarter": 73,
+			"sajda": false,
+			"text": "إِنَّ شَرَّ الدَّوَابِّ عِندَ اللَّهِ الَّذِينَ كَفَرُوا فَهُمْ لَا يُؤْمِنُونَ"
+		},
+		{
+			"number": 1216,
+			"surah": {
+				"number": 8,
+				"name": "سُورَةُ الأَنفَالِ",
+				"englishName": "Al-Anfaal",
+				"englishNameTranslation": "The Spoils of War",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 75
+			},
+			"numberInSurah": 56,
+			"juz": 10,
+			"manzil": 2,
+			"page": 184,
+			"ruku": 152,
+			"hizbQuarter": 73,
+			"sajda": false,
+			"text": "الَّذِينَ عَاهَدتَّ مِنْهُمْ ثُمَّ يَنقُضُونَ عَهْدَهُمْ فِي كُلِّ مَرَّةٍ وَهُمْ لَا يَتَّقُونَ"
+		},
+		{
+			"number": 1217,
+			"surah": {
+				"number": 8,
+				"name": "سُورَةُ الأَنفَالِ",
+				"englishName": "Al-Anfaal",
+				"englishNameTranslation": "The Spoils of War",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 75
+			},
+			"numberInSurah": 57,
+			"juz": 10,
+			"manzil": 2,
+			"page": 184,
+			"ruku": 152,
+			"hizbQuarter": 73,
+			"sajda": false,
+			"text": "فَإِمَّا تَثْقَفَنَّهُمْ فِي الْحَرْبِ فَشَرِّدْ بِهِم مَّنْ خَلْفَهُمْ لَعَلَّهُمْ يَذَّكَّرُونَ"
+		},
+		{
+			"number": 1218,
+			"surah": {
+				"number": 8,
+				"name": "سُورَةُ الأَنفَالِ",
+				"englishName": "Al-Anfaal",
+				"englishNameTranslation": "The Spoils of War",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 75
+			},
+			"numberInSurah": 58,
+			"juz": 10,
+			"manzil": 2,
+			"page": 184,
+			"ruku": 152,
+			"hizbQuarter": 73,
+			"sajda": false,
+			"text": "وَإِمَّا تَخَافَنَّ مِن قَوْمٍ خِيَانَةً فَانبِذْ إِلَيْهِمْ عَلَىٰ سَوَاءٍ ۚ إِنَّ اللَّهَ لَا يُحِبُّ الْخَائِنِينَ"
+		},
+		{
+			"number": 1219,
+			"surah": {
+				"number": 8,
+				"name": "سُورَةُ الأَنفَالِ",
+				"englishName": "Al-Anfaal",
+				"englishNameTranslation": "The Spoils of War",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 75
+			},
+			"numberInSurah": 59,
+			"juz": 10,
+			"manzil": 2,
+			"page": 184,
+			"ruku": 153,
+			"hizbQuarter": 73,
+			"sajda": false,
+			"text": "وَلَا يَحْسَبَنَّ الَّذِينَ كَفَرُوا سَبَقُوا ۚ إِنَّهُمْ لَا يُعْجِزُونَ"
+		},
+		{
+			"number": 1220,
+			"surah": {
+				"number": 8,
+				"name": "سُورَةُ الأَنفَالِ",
+				"englishName": "Al-Anfaal",
+				"englishNameTranslation": "The Spoils of War",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 75
+			},
+			"numberInSurah": 60,
+			"juz": 10,
+			"manzil": 2,
+			"page": 184,
+			"ruku": 153,
+			"hizbQuarter": 73,
+			"sajda": false,
+			"text": "وَأَعِدُّوا لَهُم مَّا اسْتَطَعْتُم مِّن قُوَّةٍ وَمِن رِّبَاطِ الْخَيْلِ تُرْهِبُونَ بِهِ عَدُوَّ اللَّهِ وَعَدُوَّكُمْ وَآخَرِينَ مِن دُونِهِمْ لَا تَعْلَمُونَهُمُ اللَّهُ يَعْلَمُهُمْ ۚ وَمَا تُنفِقُوا مِن شَيْءٍ فِي سَبِيلِ اللَّهِ يُوَفَّ إِلَيْكُمْ وَأَنتُمْ لَا تُظْلَمُونَ"
+		}
+	],
+	"surahs": {
+		"8": {
+			"number": 8,
+			"name": "سُورَةُ الأَنفَالِ",
+			"englishName": "Al-Anfaal",
+			"englishNameTranslation": "The Spoils of War",
+			"revelationType": "Medinan",
+			"numberOfAyahs": 75
+		}
+	},
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

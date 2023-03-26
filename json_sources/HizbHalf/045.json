@@ -1,0 +1,670 @@
+﻿{
+	"number": 23,
+	"ayahs": [
+		{
+			"number": 1479,
+			"text": "۞ وَمَا مِنْ دَابَّةٍ فِي الْأَرْضِ إِلَّا عَلَى اللَّهِ رِزْقُهَا وَيَعْلَمُ مُسْتَقَرَّهَا وَمُسْتَوْدَعَهَا ۚ كُلٌّ فِي كِتَابٍ مُبِينٍ",
+			"surah": {
+				"number": 11,
+				"name": "سُورَةُ هُودٍ",
+				"englishName": "Hud",
+				"englishNameTranslation": "Hud",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 123
+			},
+			"numberInSurah": 6,
+			"juz": 12,
+			"manzil": 3,
+			"page": 222,
+			"ruku": 183,
+			"hizbQuarter": 89,
+			"sajda": false
+		},
+		{
+			"number": 1480,
+			"text": "وَهُوَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي سِتَّةِ أَيَّامٍ وَكَانَ عَرْشُهُ عَلَى الْمَاءِ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا ۗ وَلَئِنْ قُلْتَ إِنَّكُمْ مَبْعُوثُونَ مِنْ بَعْدِ الْمَوْتِ لَيَقُولَنَّ الَّذِينَ كَفَرُوا إِنْ هَٰذَا إِلَّا سِحْرٌ مُبِينٌ",
+			"surah": {
+				"number": 11,
+				"name": "سُورَةُ هُودٍ",
+				"englishName": "Hud",
+				"englishNameTranslation": "Hud",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 123
+			},
+			"numberInSurah": 7,
+			"juz": 12,
+			"manzil": 3,
+			"page": 222,
+			"ruku": 183,
+			"hizbQuarter": 89,
+			"sajda": false
+		},
+		{
+			"number": 1481,
+			"text": "وَلَئِنْ أَخَّرْنَا عَنْهُمُ الْعَذَابَ إِلَىٰ أُمَّةٍ مَعْدُودَةٍ لَيَقُولُنَّ مَا يَحْبِسُهُ ۗ أَلَا يَوْمَ يَأْتِيهِمْ لَيْسَ مَصْرُوفًا عَنْهُمْ وَحَاقَ بِهِمْ مَا كَانُوا بِهِ يَسْتَهْزِئُونَ",
+			"surah": {
+				"number": 11,
+				"name": "سُورَةُ هُودٍ",
+				"englishName": "Hud",
+				"englishNameTranslation": "Hud",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 123
+			},
+			"numberInSurah": 8,
+			"juz": 12,
+			"manzil": 3,
+			"page": 222,
+			"ruku": 183,
+			"hizbQuarter": 89,
+			"sajda": false
+		},
+		{
+			"number": 1482,
+			"text": "وَلَئِنْ أَذَقْنَا الْإِنْسَانَ مِنَّا رَحْمَةً ثُمَّ نَزَعْنَاهَا مِنْهُ إِنَّهُ لَيَئُوسٌ كَفُورٌ",
+			"surah": {
+				"number": 11,
+				"name": "سُورَةُ هُودٍ",
+				"englishName": "Hud",
+				"englishNameTranslation": "Hud",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 123
+			},
+			"numberInSurah": 9,
+			"juz": 12,
+			"manzil": 3,
+			"page": 222,
+			"ruku": 184,
+			"hizbQuarter": 89,
+			"sajda": false
+		},
+		{
+			"number": 1483,
+			"text": "وَلَئِنْ أَذَقْنَاهُ نَعْمَاءَ بَعْدَ ضَرَّاءَ مَسَّتْهُ لَيَقُولَنَّ ذَهَبَ السَّيِّئَاتُ عَنِّي ۚ إِنَّهُ لَفَرِحٌ فَخُورٌ",
+			"surah": {
+				"number": 11,
+				"name": "سُورَةُ هُودٍ",
+				"englishName": "Hud",
+				"englishNameTranslation": "Hud",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 123
+			},
+			"numberInSurah": 10,
+			"juz": 12,
+			"manzil": 3,
+			"page": 222,
+			"ruku": 184,
+			"hizbQuarter": 89,
+			"sajda": false
+		},
+		{
+			"number": 1484,
+			"text": "إِلَّا الَّذِينَ صَبَرُوا وَعَمِلُوا الصَّالِحَاتِ أُولَٰئِكَ لَهُمْ مَغْفِرَةٌ وَأَجْرٌ كَبِيرٌ",
+			"surah": {
+				"number": 11,
+				"name": "سُورَةُ هُودٍ",
+				"englishName": "Hud",
+				"englishNameTranslation": "Hud",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 123
+			},
+			"numberInSurah": 11,
+			"juz": 12,
+			"manzil": 3,
+			"page": 222,
+			"ruku": 184,
+			"hizbQuarter": 89,
+			"sajda": false
+		},
+		{
+			"number": 1485,
+			"text": "فَلَعَلَّكَ تَارِكٌ بَعْضَ مَا يُوحَىٰ إِلَيْكَ وَضَائِقٌ بِهِ صَدْرُكَ أَنْ يَقُولُوا لَوْلَا أُنْزِلَ عَلَيْهِ كَنْزٌ أَوْ جَاءَ مَعَهُ مَلَكٌ ۚ إِنَّمَا أَنْتَ نَذِيرٌ ۚ وَاللَّهُ عَلَىٰ كُلِّ شَيْءٍ وَكِيلٌ",
+			"surah": {
+				"number": 11,
+				"name": "سُورَةُ هُودٍ",
+				"englishName": "Hud",
+				"englishNameTranslation": "Hud",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 123
+			},
+			"numberInSurah": 12,
+			"juz": 12,
+			"manzil": 3,
+			"page": 222,
+			"ruku": 184,
+			"hizbQuarter": 89,
+			"sajda": false
+		},
+		{
+			"number": 1486,
+			"text": "أَمْ يَقُولُونَ افْتَرَاهُ ۖ قُلْ فَأْتُوا بِعَشْرِ سُوَرٍ مِثْلِهِ مُفْتَرَيَاتٍ وَادْعُوا مَنِ اسْتَطَعْتُمْ مِنْ دُونِ اللَّهِ إِنْ كُنْتُمْ صَادِقِينَ",
+			"surah": {
+				"number": 11,
+				"name": "سُورَةُ هُودٍ",
+				"englishName": "Hud",
+				"englishNameTranslation": "Hud",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 123
+			},
+			"numberInSurah": 13,
+			"juz": 12,
+			"manzil": 3,
+			"page": 223,
+			"ruku": 184,
+			"hizbQuarter": 89,
+			"sajda": false
+		},
+		{
+			"number": 1487,
+			"text": "فَإِلَّمْ يَسْتَجِيبُوا لَكُمْ فَاعْلَمُوا أَنَّمَا أُنْزِلَ بِعِلْمِ اللَّهِ وَأَنْ لَا إِلَٰهَ إِلَّا هُوَ ۖ فَهَلْ أَنْتُمْ مُسْلِمُونَ",
+			"surah": {
+				"number": 11,
+				"name": "سُورَةُ هُودٍ",
+				"englishName": "Hud",
+				"englishNameTranslation": "Hud",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 123
+			},
+			"numberInSurah": 14,
+			"juz": 12,
+			"manzil": 3,
+			"page": 223,
+			"ruku": 184,
+			"hizbQuarter": 89,
+			"sajda": false
+		},
+		{
+			"number": 1488,
+			"text": "مَنْ كَانَ يُرِيدُ الْحَيَاةَ الدُّنْيَا وَزِينَتَهَا نُوَفِّ إِلَيْهِمْ أَعْمَالَهُمْ فِيهَا وَهُمْ فِيهَا لَا يُبْخَسُونَ",
+			"surah": {
+				"number": 11,
+				"name": "سُورَةُ هُودٍ",
+				"englishName": "Hud",
+				"englishNameTranslation": "Hud",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 123
+			},
+			"numberInSurah": 15,
+			"juz": 12,
+			"manzil": 3,
+			"page": 223,
+			"ruku": 184,
+			"hizbQuarter": 89,
+			"sajda": false
+		},
+		{
+			"number": 1489,
+			"text": "أُولَٰئِكَ الَّذِينَ لَيْسَ لَهُمْ فِي الْآخِرَةِ إِلَّا النَّارُ ۖ وَحَبِطَ مَا صَنَعُوا فِيهَا وَبَاطِلٌ مَا كَانُوا يَعْمَلُونَ",
+			"surah": {
+				"number": 11,
+				"name": "سُورَةُ هُودٍ",
+				"englishName": "Hud",
+				"englishNameTranslation": "Hud",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 123
+			},
+			"numberInSurah": 16,
+			"juz": 12,
+			"manzil": 3,
+			"page": 223,
+			"ruku": 184,
+			"hizbQuarter": 89,
+			"sajda": false
+		},
+		{
+			"number": 1490,
+			"text": "أَفَمَنْ كَانَ عَلَىٰ بَيِّنَةٍ مِنْ رَبِّهِ وَيَتْلُوهُ شَاهِدٌ مِنْهُ وَمِنْ قَبْلِهِ كِتَابُ مُوسَىٰ إِمَامًا وَرَحْمَةً ۚ أُولَٰئِكَ يُؤْمِنُونَ بِهِ ۚ وَمَنْ يَكْفُرْ بِهِ مِنَ الْأَحْزَابِ فَالنَّارُ مَوْعِدُهُ ۚ فَلَا تَكُ فِي مِرْيَةٍ مِنْهُ ۚ إِنَّهُ الْحَقُّ مِنْ رَبِّكَ وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يُؤْمِنُونَ",
+			"surah": {
+				"number": 11,
+				"name": "سُورَةُ هُودٍ",
+				"englishName": "Hud",
+				"englishNameTranslation": "Hud",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 123
+			},
+			"numberInSurah": 17,
+			"juz": 12,
+			"manzil": 3,
+			"page": 223,
+			"ruku": 184,
+			"hizbQuarter": 89,
+			"sajda": false
+		},
+		{
+			"number": 1491,
+			"text": "وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَىٰ عَلَى اللَّهِ كَذِبًا ۚ أُولَٰئِكَ يُعْرَضُونَ عَلَىٰ رَبِّهِمْ وَيَقُولُ الْأَشْهَادُ هَٰؤُلَاءِ الَّذِينَ كَذَبُوا عَلَىٰ رَبِّهِمْ ۚ أَلَا لَعْنَةُ اللَّهِ عَلَى الظَّالِمِينَ",
+			"surah": {
+				"number": 11,
+				"name": "سُورَةُ هُودٍ",
+				"englishName": "Hud",
+				"englishNameTranslation": "Hud",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 123
+			},
+			"numberInSurah": 18,
+			"juz": 12,
+			"manzil": 3,
+			"page": 223,
+			"ruku": 184,
+			"hizbQuarter": 89,
+			"sajda": false
+		},
+		{
+			"number": 1492,
+			"text": "الَّذِينَ يَصُدُّونَ عَنْ سَبِيلِ اللَّهِ وَيَبْغُونَهَا عِوَجًا وَهُمْ بِالْآخِرَةِ هُمْ كَافِرُونَ",
+			"surah": {
+				"number": 11,
+				"name": "سُورَةُ هُودٍ",
+				"englishName": "Hud",
+				"englishNameTranslation": "Hud",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 123
+			},
+			"numberInSurah": 19,
+			"juz": 12,
+			"manzil": 3,
+			"page": 223,
+			"ruku": 184,
+			"hizbQuarter": 89,
+			"sajda": false
+		},
+		{
+			"number": 1493,
+			"text": "أُولَٰئِكَ لَمْ يَكُونُوا مُعْجِزِينَ فِي الْأَرْضِ وَمَا كَانَ لَهُمْ مِنْ دُونِ اللَّهِ مِنْ أَوْلِيَاءَ ۘ يُضَاعَفُ لَهُمُ الْعَذَابُ ۚ مَا كَانُوا يَسْتَطِيعُونَ السَّمْعَ وَمَا كَانُوا يُبْصِرُونَ",
+			"surah": {
+				"number": 11,
+				"name": "سُورَةُ هُودٍ",
+				"englishName": "Hud",
+				"englishNameTranslation": "Hud",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 123
+			},
+			"numberInSurah": 20,
+			"juz": 12,
+			"manzil": 3,
+			"page": 224,
+			"ruku": 184,
+			"hizbQuarter": 89,
+			"sajda": false
+		},
+		{
+			"number": 1494,
+			"text": "أُولَٰئِكَ الَّذِينَ خَسِرُوا أَنْفُسَهُمْ وَضَلَّ عَنْهُمْ مَا كَانُوا يَفْتَرُونَ",
+			"surah": {
+				"number": 11,
+				"name": "سُورَةُ هُودٍ",
+				"englishName": "Hud",
+				"englishNameTranslation": "Hud",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 123
+			},
+			"numberInSurah": 21,
+			"juz": 12,
+			"manzil": 3,
+			"page": 224,
+			"ruku": 184,
+			"hizbQuarter": 89,
+			"sajda": false
+		},
+		{
+			"number": 1495,
+			"text": "لَا جَرَمَ أَنَّهُمْ فِي الْآخِرَةِ هُمُ الْأَخْسَرُونَ",
+			"surah": {
+				"number": 11,
+				"name": "سُورَةُ هُودٍ",
+				"englishName": "Hud",
+				"englishNameTranslation": "Hud",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 123
+			},
+			"numberInSurah": 22,
+			"juz": 12,
+			"manzil": 3,
+			"page": 224,
+			"ruku": 184,
+			"hizbQuarter": 89,
+			"sajda": false
+		},
+		{
+			"number": 1496,
+			"text": "إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَأَخْبَتُوا إِلَىٰ رَبِّهِمْ أُولَٰئِكَ أَصْحَابُ الْجَنَّةِ ۖ هُمْ فِيهَا خَالِدُونَ",
+			"surah": {
+				"number": 11,
+				"name": "سُورَةُ هُودٍ",
+				"englishName": "Hud",
+				"englishNameTranslation": "Hud",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 123
+			},
+			"numberInSurah": 23,
+			"juz": 12,
+			"manzil": 3,
+			"page": 224,
+			"ruku": 184,
+			"hizbQuarter": 89,
+			"sajda": false
+		},
+		{
+			"number": 1497,
+			"text": "۞ مَثَلُ الْفَرِيقَيْنِ كَالْأَعْمَىٰ وَالْأَصَمِّ وَالْبَصِيرِ وَالسَّمِيعِ ۚ هَلْ يَسْتَوِيَانِ مَثَلًا ۚ أَفَلَا تَذَكَّرُونَ",
+			"surah": {
+				"number": 11,
+				"name": "سُورَةُ هُودٍ",
+				"englishName": "Hud",
+				"englishNameTranslation": "Hud",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 123
+			},
+			"numberInSurah": 24,
+			"juz": 12,
+			"manzil": 3,
+			"page": 224,
+			"ruku": 184,
+			"hizbQuarter": 90,
+			"sajda": false
+		},
+		{
+			"number": 1498,
+			"text": "وَلَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِ إِنِّي لَكُمْ نَذِيرٌ مُبِينٌ",
+			"surah": {
+				"number": 11,
+				"name": "سُورَةُ هُودٍ",
+				"englishName": "Hud",
+				"englishNameTranslation": "Hud",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 123
+			},
+			"numberInSurah": 25,
+			"juz": 12,
+			"manzil": 3,
+			"page": 224,
+			"ruku": 185,
+			"hizbQuarter": 90,
+			"sajda": false
+		},
+		{
+			"number": 1499,
+			"text": "أَنْ لَا تَعْبُدُوا إِلَّا اللَّهَ ۖ إِنِّي أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ أَلِيمٍ",
+			"surah": {
+				"number": 11,
+				"name": "سُورَةُ هُودٍ",
+				"englishName": "Hud",
+				"englishNameTranslation": "Hud",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 123
+			},
+			"numberInSurah": 26,
+			"juz": 12,
+			"manzil": 3,
+			"page": 224,
+			"ruku": 185,
+			"hizbQuarter": 90,
+			"sajda": false
+		},
+		{
+			"number": 1500,
+			"text": "فَقَالَ الْمَلَأُ الَّذِينَ كَفَرُوا مِنْ قَوْمِهِ مَا نَرَاكَ إِلَّا بَشَرًا مِثْلَنَا وَمَا نَرَاكَ اتَّبَعَكَ إِلَّا الَّذِينَ هُمْ أَرَاذِلُنَا بَادِيَ الرَّأْيِ وَمَا نَرَىٰ لَكُمْ عَلَيْنَا مِنْ فَضْلٍ بَلْ نَظُنُّكُمْ كَاذِبِينَ",
+			"surah": {
+				"number": 11,
+				"name": "سُورَةُ هُودٍ",
+				"englishName": "Hud",
+				"englishNameTranslation": "Hud",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 123
+			},
+			"numberInSurah": 27,
+			"juz": 12,
+			"manzil": 3,
+			"page": 224,
+			"ruku": 185,
+			"hizbQuarter": 90,
+			"sajda": false
+		},
+		{
+			"number": 1501,
+			"text": "قَالَ يَا قَوْمِ أَرَأَيْتُمْ إِنْ كُنْتُ عَلَىٰ بَيِّنَةٍ مِنْ رَبِّي وَآتَانِي رَحْمَةً مِنْ عِنْدِهِ فَعُمِّيَتْ عَلَيْكُمْ أَنُلْزِمُكُمُوهَا وَأَنْتُمْ لَهَا كَارِهُونَ",
+			"surah": {
+				"number": 11,
+				"name": "سُورَةُ هُودٍ",
+				"englishName": "Hud",
+				"englishNameTranslation": "Hud",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 123
+			},
+			"numberInSurah": 28,
+			"juz": 12,
+			"manzil": 3,
+			"page": 224,
+			"ruku": 185,
+			"hizbQuarter": 90,
+			"sajda": false
+		},
+		{
+			"number": 1502,
+			"text": "وَيَا قَوْمِ لَا أَسْأَلُكُمْ عَلَيْهِ مَالًا ۖ إِنْ أَجْرِيَ إِلَّا عَلَى اللَّهِ ۚ وَمَا أَنَا بِطَارِدِ الَّذِينَ آمَنُوا ۚ إِنَّهُمْ مُلَاقُو رَبِّهِمْ وَلَٰكِنِّي أَرَاكُمْ قَوْمًا تَجْهَلُونَ",
+			"surah": {
+				"number": 11,
+				"name": "سُورَةُ هُودٍ",
+				"englishName": "Hud",
+				"englishNameTranslation": "Hud",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 123
+			},
+			"numberInSurah": 29,
+			"juz": 12,
+			"manzil": 3,
+			"page": 225,
+			"ruku": 185,
+			"hizbQuarter": 90,
+			"sajda": false
+		},
+		{
+			"number": 1503,
+			"text": "وَيَا قَوْمِ مَنْ يَنْصُرُنِي مِنَ اللَّهِ إِنْ طَرَدْتُهُمْ ۚ أَفَلَا تَذَكَّرُونَ",
+			"surah": {
+				"number": 11,
+				"name": "سُورَةُ هُودٍ",
+				"englishName": "Hud",
+				"englishNameTranslation": "Hud",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 123
+			},
+			"numberInSurah": 30,
+			"juz": 12,
+			"manzil": 3,
+			"page": 225,
+			"ruku": 185,
+			"hizbQuarter": 90,
+			"sajda": false
+		},
+		{
+			"number": 1504,
+			"text": "وَلَا أَقُولُ لَكُمْ عِنْدِي خَزَائِنُ اللَّهِ وَلَا أَعْلَمُ الْغَيْبَ وَلَا أَقُولُ إِنِّي مَلَكٌ وَلَا أَقُولُ لِلَّذِينَ تَزْدَرِي أَعْيُنُكُمْ لَنْ يُؤْتِيَهُمُ اللَّهُ خَيْرًا ۖ اللَّهُ أَعْلَمُ بِمَا فِي أَنْفُسِهِمْ ۖ إِنِّي إِذًا لَمِنَ الظَّالِمِينَ",
+			"surah": {
+				"number": 11,
+				"name": "سُورَةُ هُودٍ",
+				"englishName": "Hud",
+				"englishNameTranslation": "Hud",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 123
+			},
+			"numberInSurah": 31,
+			"juz": 12,
+			"manzil": 3,
+			"page": 225,
+			"ruku": 185,
+			"hizbQuarter": 90,
+			"sajda": false
+		},
+		{
+			"number": 1505,
+			"text": "قَالُوا يَا نُوحُ قَدْ جَادَلْتَنَا فَأَكْثَرْتَ جِدَالَنَا فَأْتِنَا بِمَا تَعِدُنَا إِنْ كُنْتَ مِنَ الصَّادِقِينَ",
+			"surah": {
+				"number": 11,
+				"name": "سُورَةُ هُودٍ",
+				"englishName": "Hud",
+				"englishNameTranslation": "Hud",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 123
+			},
+			"numberInSurah": 32,
+			"juz": 12,
+			"manzil": 3,
+			"page": 225,
+			"ruku": 185,
+			"hizbQuarter": 90,
+			"sajda": false
+		},
+		{
+			"number": 1506,
+			"text": "قَالَ إِنَّمَا يَأْتِيكُمْ بِهِ اللَّهُ إِنْ شَاءَ وَمَا أَنْتُمْ بِمُعْجِزِينَ",
+			"surah": {
+				"number": 11,
+				"name": "سُورَةُ هُودٍ",
+				"englishName": "Hud",
+				"englishNameTranslation": "Hud",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 123
+			},
+			"numberInSurah": 33,
+			"juz": 12,
+			"manzil": 3,
+			"page": 225,
+			"ruku": 185,
+			"hizbQuarter": 90,
+			"sajda": false
+		},
+		{
+			"number": 1507,
+			"text": "وَلَا يَنْفَعُكُمْ نُصْحِي إِنْ أَرَدْتُ أَنْ أَنْصَحَ لَكُمْ إِنْ كَانَ اللَّهُ يُرِيدُ أَنْ يُغْوِيَكُمْ ۚ هُوَ رَبُّكُمْ وَإِلَيْهِ تُرْجَعُونَ",
+			"surah": {
+				"number": 11,
+				"name": "سُورَةُ هُودٍ",
+				"englishName": "Hud",
+				"englishNameTranslation": "Hud",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 123
+			},
+			"numberInSurah": 34,
+			"juz": 12,
+			"manzil": 3,
+			"page": 225,
+			"ruku": 185,
+			"hizbQuarter": 90,
+			"sajda": false
+		},
+		{
+			"number": 1508,
+			"text": "أَمْ يَقُولُونَ افْتَرَاهُ ۖ قُلْ إِنِ افْتَرَيْتُهُ فَعَلَيَّ إِجْرَامِي وَأَنَا بَرِيءٌ مِمَّا تُجْرِمُونَ",
+			"surah": {
+				"number": 11,
+				"name": "سُورَةُ هُودٍ",
+				"englishName": "Hud",
+				"englishNameTranslation": "Hud",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 123
+			},
+			"numberInSurah": 35,
+			"juz": 12,
+			"manzil": 3,
+			"page": 225,
+			"ruku": 185,
+			"hizbQuarter": 90,
+			"sajda": false
+		},
+		{
+			"number": 1509,
+			"text": "وَأُوحِيَ إِلَىٰ نُوحٍ أَنَّهُ لَنْ يُؤْمِنَ مِنْ قَوْمِكَ إِلَّا مَنْ قَدْ آمَنَ فَلَا تَبْتَئِسْ بِمَا كَانُوا يَفْعَلُونَ",
+			"surah": {
+				"number": 11,
+				"name": "سُورَةُ هُودٍ",
+				"englishName": "Hud",
+				"englishNameTranslation": "Hud",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 123
+			},
+			"numberInSurah": 36,
+			"juz": 12,
+			"manzil": 3,
+			"page": 225,
+			"ruku": 186,
+			"hizbQuarter": 90,
+			"sajda": false
+		},
+		{
+			"number": 1510,
+			"text": "وَاصْنَعِ الْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا وَلَا تُخَاطِبْنِي فِي الَّذِينَ ظَلَمُوا ۚ إِنَّهُمْ مُغْرَقُونَ",
+			"surah": {
+				"number": 11,
+				"name": "سُورَةُ هُودٍ",
+				"englishName": "Hud",
+				"englishNameTranslation": "Hud",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 123
+			},
+			"numberInSurah": 37,
+			"juz": 12,
+			"manzil": 3,
+			"page": 225,
+			"ruku": 186,
+			"hizbQuarter": 90,
+			"sajda": false
+		},
+		{
+			"number": 1511,
+			"text": "وَيَصْنَعُ الْفُلْكَ وَكُلَّمَا مَرَّ عَلَيْهِ مَلَأٌ مِنْ قَوْمِهِ سَخِرُوا مِنْهُ ۚ قَالَ إِنْ تَسْخَرُوا مِنَّا فَإِنَّا نَسْخَرُ مِنْكُمْ كَمَا تَسْخَرُونَ",
+			"surah": {
+				"number": 11,
+				"name": "سُورَةُ هُودٍ",
+				"englishName": "Hud",
+				"englishNameTranslation": "Hud",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 123
+			},
+			"numberInSurah": 38,
+			"juz": 12,
+			"manzil": 3,
+			"page": 226,
+			"ruku": 186,
+			"hizbQuarter": 90,
+			"sajda": false
+		},
+		{
+			"number": 1512,
+			"text": "فَسَوْفَ تَعْلَمُونَ مَنْ يَأْتِيهِ عَذَابٌ يُخْزِيهِ وَيَحِلُّ عَلَيْهِ عَذَابٌ مُقِيمٌ",
+			"surah": {
+				"number": 11,
+				"name": "سُورَةُ هُودٍ",
+				"englishName": "Hud",
+				"englishNameTranslation": "Hud",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 123
+			},
+			"numberInSurah": 39,
+			"juz": 12,
+			"manzil": 3,
+			"page": 226,
+			"ruku": 186,
+			"hizbQuarter": 90,
+			"sajda": false
+		},
+		{
+			"number": 1513,
+			"text": "حَتَّىٰ إِذَا جَاءَ أَمْرُنَا وَفَارَ التَّنُّورُ قُلْنَا احْمِلْ فِيهَا مِنْ كُلٍّ زَوْجَيْنِ اثْنَيْنِ وَأَهْلَكَ إِلَّا مَنْ سَبَقَ عَلَيْهِ الْقَوْلُ وَمَنْ آمَنَ ۚ وَمَا آمَنَ مَعَهُ إِلَّا قَلِيلٌ",
+			"surah": {
+				"number": 11,
+				"name": "سُورَةُ هُودٍ",
+				"englishName": "Hud",
+				"englishNameTranslation": "Hud",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 123
+			},
+			"numberInSurah": 40,
+			"juz": 12,
+			"manzil": 3,
+			"page": 226,
+			"ruku": 186,
+			"hizbQuarter": 90,
+			"sajda": false
+		}
+	]
+}

@@ -1,0 +1,290 @@
+﻿{
+	"number": 306,
+	"ayahs": [
+		{
+			"number": 2262,
+			"text": "يَا يَحْيَىٰ خُذِ الْكِتَابَ بِقُوَّةٍ ۖ وَآتَيْنَاهُ الْحُكْمَ صَبِيًّا",
+			"surah": {
+				"number": 19,
+				"name": "سُورَةُ مَرۡيَمَ",
+				"englishName": "Maryam",
+				"englishNameTranslation": "Mary",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 98
+			},
+			"numberInSurah": 12,
+			"juz": 16,
+			"manzil": 4,
+			"page": 306,
+			"ruku": 264,
+			"hizbQuarter": 122,
+			"sajda": false
+		},
+		{
+			"number": 2263,
+			"text": "وَحَنَانًا مِنْ لَدُنَّا وَزَكَاةً ۖ وَكَانَ تَقِيًّا",
+			"surah": {
+				"number": 19,
+				"name": "سُورَةُ مَرۡيَمَ",
+				"englishName": "Maryam",
+				"englishNameTranslation": "Mary",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 98
+			},
+			"numberInSurah": 13,
+			"juz": 16,
+			"manzil": 4,
+			"page": 306,
+			"ruku": 264,
+			"hizbQuarter": 122,
+			"sajda": false
+		},
+		{
+			"number": 2264,
+			"text": "وَبَرًّا بِوَالِدَيْهِ وَلَمْ يَكُنْ جَبَّارًا عَصِيًّا",
+			"surah": {
+				"number": 19,
+				"name": "سُورَةُ مَرۡيَمَ",
+				"englishName": "Maryam",
+				"englishNameTranslation": "Mary",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 98
+			},
+			"numberInSurah": 14,
+			"juz": 16,
+			"manzil": 4,
+			"page": 306,
+			"ruku": 264,
+			"hizbQuarter": 122,
+			"sajda": false
+		},
+		{
+			"number": 2265,
+			"text": "وَسَلَامٌ عَلَيْهِ يَوْمَ وُلِدَ وَيَوْمَ يَمُوتُ وَيَوْمَ يُبْعَثُ حَيًّا",
+			"surah": {
+				"number": 19,
+				"name": "سُورَةُ مَرۡيَمَ",
+				"englishName": "Maryam",
+				"englishNameTranslation": "Mary",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 98
+			},
+			"numberInSurah": 15,
+			"juz": 16,
+			"manzil": 4,
+			"page": 306,
+			"ruku": 264,
+			"hizbQuarter": 122,
+			"sajda": false
+		},
+		{
+			"number": 2266,
+			"text": "وَاذْكُرْ فِي الْكِتَابِ مَرْيَمَ إِذِ انْتَبَذَتْ مِنْ أَهْلِهَا مَكَانًا شَرْقِيًّا",
+			"surah": {
+				"number": 19,
+				"name": "سُورَةُ مَرۡيَمَ",
+				"englishName": "Maryam",
+				"englishNameTranslation": "Mary",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 98
+			},
+			"numberInSurah": 16,
+			"juz": 16,
+			"manzil": 4,
+			"page": 306,
+			"ruku": 265,
+			"hizbQuarter": 122,
+			"sajda": false
+		},
+		{
+			"number": 2267,
+			"text": "فَاتَّخَذَتْ مِنْ دُونِهِمْ حِجَابًا فَأَرْسَلْنَا إِلَيْهَا رُوحَنَا فَتَمَثَّلَ لَهَا بَشَرًا سَوِيًّا",
+			"surah": {
+				"number": 19,
+				"name": "سُورَةُ مَرۡيَمَ",
+				"englishName": "Maryam",
+				"englishNameTranslation": "Mary",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 98
+			},
+			"numberInSurah": 17,
+			"juz": 16,
+			"manzil": 4,
+			"page": 306,
+			"ruku": 265,
+			"hizbQuarter": 122,
+			"sajda": false
+		},
+		{
+			"number": 2268,
+			"text": "قَالَتْ إِنِّي أَعُوذُ بِالرَّحْمَٰنِ مِنْكَ إِنْ كُنْتَ تَقِيًّا",
+			"surah": {
+				"number": 19,
+				"name": "سُورَةُ مَرۡيَمَ",
+				"englishName": "Maryam",
+				"englishNameTranslation": "Mary",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 98
+			},
+			"numberInSurah": 18,
+			"juz": 16,
+			"manzil": 4,
+			"page": 306,
+			"ruku": 265,
+			"hizbQuarter": 122,
+			"sajda": false
+		},
+		{
+			"number": 2269,
+			"text": "قَالَ إِنَّمَا أَنَا رَسُولُ رَبِّكِ لِأَهَبَ لَكِ غُلَامًا زَكِيًّا",
+			"surah": {
+				"number": 19,
+				"name": "سُورَةُ مَرۡيَمَ",
+				"englishName": "Maryam",
+				"englishNameTranslation": "Mary",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 98
+			},
+			"numberInSurah": 19,
+			"juz": 16,
+			"manzil": 4,
+			"page": 306,
+			"ruku": 265,
+			"hizbQuarter": 122,
+			"sajda": false
+		},
+		{
+			"number": 2270,
+			"text": "قَالَتْ أَنَّىٰ يَكُونُ لِي غُلَامٌ وَلَمْ يَمْسَسْنِي بَشَرٌ وَلَمْ أَكُ بَغِيًّا",
+			"surah": {
+				"number": 19,
+				"name": "سُورَةُ مَرۡيَمَ",
+				"englishName": "Maryam",
+				"englishNameTranslation": "Mary",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 98
+			},
+			"numberInSurah": 20,
+			"juz": 16,
+			"manzil": 4,
+			"page": 306,
+			"ruku": 265,
+			"hizbQuarter": 122,
+			"sajda": false
+		},
+		{
+			"number": 2271,
+			"text": "قَالَ كَذَٰلِكِ قَالَ رَبُّكِ هُوَ عَلَيَّ هَيِّنٌ ۖ وَلِنَجْعَلَهُ آيَةً لِلنَّاسِ وَرَحْمَةً مِنَّا ۚ وَكَانَ أَمْرًا مَقْضِيًّا",
+			"surah": {
+				"number": 19,
+				"name": "سُورَةُ مَرۡيَمَ",
+				"englishName": "Maryam",
+				"englishNameTranslation": "Mary",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 98
+			},
+			"numberInSurah": 21,
+			"juz": 16,
+			"manzil": 4,
+			"page": 306,
+			"ruku": 265,
+			"hizbQuarter": 122,
+			"sajda": false
+		},
+		{
+			"number": 2272,
+			"text": "۞ فَحَمَلَتْهُ فَانْتَبَذَتْ بِهِ مَكَانًا قَصِيًّا",
+			"surah": {
+				"number": 19,
+				"name": "سُورَةُ مَرۡيَمَ",
+				"englishName": "Maryam",
+				"englishNameTranslation": "Mary",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 98
+			},
+			"numberInSurah": 22,
+			"juz": 16,
+			"manzil": 4,
+			"page": 306,
+			"ruku": 265,
+			"hizbQuarter": 123,
+			"sajda": false
+		},
+		{
+			"number": 2273,
+			"text": "فَأَجَاءَهَا الْمَخَاضُ إِلَىٰ جِذْعِ النَّخْلَةِ قَالَتْ يَا لَيْتَنِي مِتُّ قَبْلَ هَٰذَا وَكُنْتُ نَسْيًا مَنْسِيًّا",
+			"surah": {
+				"number": 19,
+				"name": "سُورَةُ مَرۡيَمَ",
+				"englishName": "Maryam",
+				"englishNameTranslation": "Mary",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 98
+			},
+			"numberInSurah": 23,
+			"juz": 16,
+			"manzil": 4,
+			"page": 306,
+			"ruku": 265,
+			"hizbQuarter": 123,
+			"sajda": false
+		},
+		{
+			"number": 2274,
+			"text": "فَنَادَاهَا مِنْ تَحْتِهَا أَلَّا تَحْزَنِي قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا",
+			"surah": {
+				"number": 19,
+				"name": "سُورَةُ مَرۡيَمَ",
+				"englishName": "Maryam",
+				"englishNameTranslation": "Mary",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 98
+			},
+			"numberInSurah": 24,
+			"juz": 16,
+			"manzil": 4,
+			"page": 306,
+			"ruku": 265,
+			"hizbQuarter": 123,
+			"sajda": false
+		},
+		{
+			"number": 2275,
+			"text": "وَهُزِّي إِلَيْكِ بِجِذْعِ النَّخْلَةِ تُسَاقِطْ عَلَيْكِ رُطَبًا جَنِيًّا",
+			"surah": {
+				"number": 19,
+				"name": "سُورَةُ مَرۡيَمَ",
+				"englishName": "Maryam",
+				"englishNameTranslation": "Mary",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 98
+			},
+			"numberInSurah": 25,
+			"juz": 16,
+			"manzil": 4,
+			"page": 306,
+			"ruku": 265,
+			"hizbQuarter": 123,
+			"sajda": false
+		}
+	],
+	"surahs": {
+		"19": {
+			"number": 19,
+			"name": "سُورَةُ مَرۡيَمَ",
+			"englishName": "Maryam",
+			"englishNameTranslation": "Mary",
+			"revelationType": "Meccan",
+			"numberOfAyahs": 98
+		}
+	},
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

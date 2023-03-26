@@ -1,0 +1,822 @@
+﻿{
+	"number": 30.5,
+	"ayahs": [
+		{
+			"number": 2172,
+			"text": "۞ وَاضْرِبْ لَهُمْ مَثَلًا رَجُلَيْنِ جَعَلْنَا لِأَحَدِهِمَا جَنَّتَيْنِ مِنْ أَعْنَابٍ وَحَفَفْنَاهُمَا بِنَخْلٍ وَجَعَلْنَا بَيْنَهُمَا زَرْعًا",
+			"surah": {
+				"number": 18,
+				"name": "سُورَةُ الكَهۡفِ",
+				"englishName": "Al-Kahf",
+				"englishNameTranslation": "The Cave",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 110
+			},
+			"numberInSurah": 32,
+			"juz": 15,
+			"manzil": 4,
+			"page": 297,
+			"ruku": 256,
+			"hizbQuarter": 119,
+			"sajda": false
+		},
+		{
+			"number": 2173,
+			"text": "كِلْتَا الْجَنَّتَيْنِ آتَتْ أُكُلَهَا وَلَمْ تَظْلِمْ مِنْهُ شَيْئًا ۚ وَفَجَّرْنَا خِلَالَهُمَا نَهَرًا",
+			"surah": {
+				"number": 18,
+				"name": "سُورَةُ الكَهۡفِ",
+				"englishName": "Al-Kahf",
+				"englishNameTranslation": "The Cave",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 110
+			},
+			"numberInSurah": 33,
+			"juz": 15,
+			"manzil": 4,
+			"page": 297,
+			"ruku": 256,
+			"hizbQuarter": 119,
+			"sajda": false
+		},
+		{
+			"number": 2174,
+			"text": "وَكَانَ لَهُ ثَمَرٌ فَقَالَ لِصَاحِبِهِ وَهُوَ يُحَاوِرُهُ أَنَا أَكْثَرُ مِنْكَ مَالًا وَأَعَزُّ نَفَرًا",
+			"surah": {
+				"number": 18,
+				"name": "سُورَةُ الكَهۡفِ",
+				"englishName": "Al-Kahf",
+				"englishNameTranslation": "The Cave",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 110
+			},
+			"numberInSurah": 34,
+			"juz": 15,
+			"manzil": 4,
+			"page": 297,
+			"ruku": 256,
+			"hizbQuarter": 119,
+			"sajda": false
+		},
+		{
+			"number": 2175,
+			"text": "وَدَخَلَ جَنَّتَهُ وَهُوَ ظَالِمٌ لِنَفْسِهِ قَالَ مَا أَظُنُّ أَنْ تَبِيدَ هَٰذِهِ أَبَدًا",
+			"surah": {
+				"number": 18,
+				"name": "سُورَةُ الكَهۡفِ",
+				"englishName": "Al-Kahf",
+				"englishNameTranslation": "The Cave",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 110
+			},
+			"numberInSurah": 35,
+			"juz": 15,
+			"manzil": 4,
+			"page": 298,
+			"ruku": 256,
+			"hizbQuarter": 119,
+			"sajda": false
+		},
+		{
+			"number": 2176,
+			"text": "وَمَا أَظُنُّ السَّاعَةَ قَائِمَةً وَلَئِنْ رُدِدْتُ إِلَىٰ رَبِّي لَأَجِدَنَّ خَيْرًا مِنْهَا مُنْقَلَبًا",
+			"surah": {
+				"number": 18,
+				"name": "سُورَةُ الكَهۡفِ",
+				"englishName": "Al-Kahf",
+				"englishNameTranslation": "The Cave",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 110
+			},
+			"numberInSurah": 36,
+			"juz": 15,
+			"manzil": 4,
+			"page": 298,
+			"ruku": 256,
+			"hizbQuarter": 119,
+			"sajda": false
+		},
+		{
+			"number": 2177,
+			"text": "قَالَ لَهُ صَاحِبُهُ وَهُوَ يُحَاوِرُهُ أَكَفَرْتَ بِالَّذِي خَلَقَكَ مِنْ تُرَابٍ ثُمَّ مِنْ نُطْفَةٍ ثُمَّ سَوَّاكَ رَجُلًا",
+			"surah": {
+				"number": 18,
+				"name": "سُورَةُ الكَهۡفِ",
+				"englishName": "Al-Kahf",
+				"englishNameTranslation": "The Cave",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 110
+			},
+			"numberInSurah": 37,
+			"juz": 15,
+			"manzil": 4,
+			"page": 298,
+			"ruku": 256,
+			"hizbQuarter": 119,
+			"sajda": false
+		},
+		{
+			"number": 2178,
+			"text": "لَٰكِنَّا هُوَ اللَّهُ رَبِّي وَلَا أُشْرِكُ بِرَبِّي أَحَدًا",
+			"surah": {
+				"number": 18,
+				"name": "سُورَةُ الكَهۡفِ",
+				"englishName": "Al-Kahf",
+				"englishNameTranslation": "The Cave",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 110
+			},
+			"numberInSurah": 38,
+			"juz": 15,
+			"manzil": 4,
+			"page": 298,
+			"ruku": 256,
+			"hizbQuarter": 119,
+			"sajda": false
+		},
+		{
+			"number": 2179,
+			"text": "وَلَوْلَا إِذْ دَخَلْتَ جَنَّتَكَ قُلْتَ مَا شَاءَ اللَّهُ لَا قُوَّةَ إِلَّا بِاللَّهِ ۚ إِنْ تَرَنِ أَنَا أَقَلَّ مِنْكَ مَالًا وَوَلَدًا",
+			"surah": {
+				"number": 18,
+				"name": "سُورَةُ الكَهۡفِ",
+				"englishName": "Al-Kahf",
+				"englishNameTranslation": "The Cave",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 110
+			},
+			"numberInSurah": 39,
+			"juz": 15,
+			"manzil": 4,
+			"page": 298,
+			"ruku": 256,
+			"hizbQuarter": 119,
+			"sajda": false
+		},
+		{
+			"number": 2180,
+			"text": "فَعَسَىٰ رَبِّي أَنْ يُؤْتِيَنِ خَيْرًا مِنْ جَنَّتِكَ وَيُرْسِلَ عَلَيْهَا حُسْبَانًا مِنَ السَّمَاءِ فَتُصْبِحَ صَعِيدًا زَلَقًا",
+			"surah": {
+				"number": 18,
+				"name": "سُورَةُ الكَهۡفِ",
+				"englishName": "Al-Kahf",
+				"englishNameTranslation": "The Cave",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 110
+			},
+			"numberInSurah": 40,
+			"juz": 15,
+			"manzil": 4,
+			"page": 298,
+			"ruku": 256,
+			"hizbQuarter": 119,
+			"sajda": false
+		},
+		{
+			"number": 2181,
+			"text": "أَوْ يُصْبِحَ مَاؤُهَا غَوْرًا فَلَنْ تَسْتَطِيعَ لَهُ طَلَبًا",
+			"surah": {
+				"number": 18,
+				"name": "سُورَةُ الكَهۡفِ",
+				"englishName": "Al-Kahf",
+				"englishNameTranslation": "The Cave",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 110
+			},
+			"numberInSurah": 41,
+			"juz": 15,
+			"manzil": 4,
+			"page": 298,
+			"ruku": 256,
+			"hizbQuarter": 119,
+			"sajda": false
+		},
+		{
+			"number": 2182,
+			"text": "وَأُحِيطَ بِثَمَرِهِ فَأَصْبَحَ يُقَلِّبُ كَفَّيْهِ عَلَىٰ مَا أَنْفَقَ فِيهَا وَهِيَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا وَيَقُولُ يَا لَيْتَنِي لَمْ أُشْرِكْ بِرَبِّي أَحَدًا",
+			"surah": {
+				"number": 18,
+				"name": "سُورَةُ الكَهۡفِ",
+				"englishName": "Al-Kahf",
+				"englishNameTranslation": "The Cave",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 110
+			},
+			"numberInSurah": 42,
+			"juz": 15,
+			"manzil": 4,
+			"page": 298,
+			"ruku": 256,
+			"hizbQuarter": 119,
+			"sajda": false
+		},
+		{
+			"number": 2183,
+			"text": "وَلَمْ تَكُنْ لَهُ فِئَةٌ يَنْصُرُونَهُ مِنْ دُونِ اللَّهِ وَمَا كَانَ مُنْتَصِرًا",
+			"surah": {
+				"number": 18,
+				"name": "سُورَةُ الكَهۡفِ",
+				"englishName": "Al-Kahf",
+				"englishNameTranslation": "The Cave",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 110
+			},
+			"numberInSurah": 43,
+			"juz": 15,
+			"manzil": 4,
+			"page": 298,
+			"ruku": 256,
+			"hizbQuarter": 119,
+			"sajda": false
+		},
+		{
+			"number": 2184,
+			"text": "هُنَالِكَ الْوَلَايَةُ لِلَّهِ الْحَقِّ ۚ هُوَ خَيْرٌ ثَوَابًا وَخَيْرٌ عُقْبًا",
+			"surah": {
+				"number": 18,
+				"name": "سُورَةُ الكَهۡفِ",
+				"englishName": "Al-Kahf",
+				"englishNameTranslation": "The Cave",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 110
+			},
+			"numberInSurah": 44,
+			"juz": 15,
+			"manzil": 4,
+			"page": 298,
+			"ruku": 256,
+			"hizbQuarter": 119,
+			"sajda": false
+		},
+		{
+			"number": 2185,
+			"text": "وَاضْرِبْ لَهُمْ مَثَلَ الْحَيَاةِ الدُّنْيَا كَمَاءٍ أَنْزَلْنَاهُ مِنَ السَّمَاءِ فَاخْتَلَطَ بِهِ نَبَاتُ الْأَرْضِ فَأَصْبَحَ هَشِيمًا تَذْرُوهُ الرِّيَاحُ ۗ وَكَانَ اللَّهُ عَلَىٰ كُلِّ شَيْءٍ مُقْتَدِرًا",
+			"surah": {
+				"number": 18,
+				"name": "سُورَةُ الكَهۡفِ",
+				"englishName": "Al-Kahf",
+				"englishNameTranslation": "The Cave",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 110
+			},
+			"numberInSurah": 45,
+			"juz": 15,
+			"manzil": 4,
+			"page": 298,
+			"ruku": 257,
+			"hizbQuarter": 119,
+			"sajda": false
+		},
+		{
+			"number": 2186,
+			"text": "الْمَالُ وَالْبَنُونَ زِينَةُ الْحَيَاةِ الدُّنْيَا ۖ وَالْبَاقِيَاتُ الصَّالِحَاتُ خَيْرٌ عِنْدَ رَبِّكَ ثَوَابًا وَخَيْرٌ أَمَلًا",
+			"surah": {
+				"number": 18,
+				"name": "سُورَةُ الكَهۡفِ",
+				"englishName": "Al-Kahf",
+				"englishNameTranslation": "The Cave",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 110
+			},
+			"numberInSurah": 46,
+			"juz": 15,
+			"manzil": 4,
+			"page": 299,
+			"ruku": 257,
+			"hizbQuarter": 119,
+			"sajda": false
+		},
+		{
+			"number": 2187,
+			"text": "وَيَوْمَ نُسَيِّرُ الْجِبَالَ وَتَرَى الْأَرْضَ بَارِزَةً وَحَشَرْنَاهُمْ فَلَمْ نُغَادِرْ مِنْهُمْ أَحَدًا",
+			"surah": {
+				"number": 18,
+				"name": "سُورَةُ الكَهۡفِ",
+				"englishName": "Al-Kahf",
+				"englishNameTranslation": "The Cave",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 110
+			},
+			"numberInSurah": 47,
+			"juz": 15,
+			"manzil": 4,
+			"page": 299,
+			"ruku": 257,
+			"hizbQuarter": 119,
+			"sajda": false
+		},
+		{
+			"number": 2188,
+			"text": "وَعُرِضُوا عَلَىٰ رَبِّكَ صَفًّا لَقَدْ جِئْتُمُونَا كَمَا خَلَقْنَاكُمْ أَوَّلَ مَرَّةٍ ۚ بَلْ زَعَمْتُمْ أَلَّنْ نَجْعَلَ لَكُمْ مَوْعِدًا",
+			"surah": {
+				"number": 18,
+				"name": "سُورَةُ الكَهۡفِ",
+				"englishName": "Al-Kahf",
+				"englishNameTranslation": "The Cave",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 110
+			},
+			"numberInSurah": 48,
+			"juz": 15,
+			"manzil": 4,
+			"page": 299,
+			"ruku": 257,
+			"hizbQuarter": 119,
+			"sajda": false
+		},
+		{
+			"number": 2189,
+			"text": "وَوُضِعَ الْكِتَابُ فَتَرَى الْمُجْرِمِينَ مُشْفِقِينَ مِمَّا فِيهِ وَيَقُولُونَ يَا وَيْلَتَنَا مَالِ هَٰذَا الْكِتَابِ لَا يُغَادِرُ صَغِيرَةً وَلَا كَبِيرَةً إِلَّا أَحْصَاهَا ۚ وَوَجَدُوا مَا عَمِلُوا حَاضِرًا ۗ وَلَا يَظْلِمُ رَبُّكَ أَحَدًا",
+			"surah": {
+				"number": 18,
+				"name": "سُورَةُ الكَهۡفِ",
+				"englishName": "Al-Kahf",
+				"englishNameTranslation": "The Cave",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 110
+			},
+			"numberInSurah": 49,
+			"juz": 15,
+			"manzil": 4,
+			"page": 299,
+			"ruku": 257,
+			"hizbQuarter": 119,
+			"sajda": false
+		},
+		{
+			"number": 2190,
+			"text": "وَإِذْ قُلْنَا لِلْمَلَائِكَةِ اسْجُدُوا لِآدَمَ فَسَجَدُوا إِلَّا إِبْلِيسَ كَانَ مِنَ الْجِنِّ فَفَسَقَ عَنْ أَمْرِ رَبِّهِ ۗ أَفَتَتَّخِذُونَهُ وَذُرِّيَّتَهُ أَوْلِيَاءَ مِنْ دُونِي وَهُمْ لَكُمْ عَدُوٌّ ۚ بِئْسَ لِلظَّالِمِينَ بَدَلًا",
+			"surah": {
+				"number": 18,
+				"name": "سُورَةُ الكَهۡفِ",
+				"englishName": "Al-Kahf",
+				"englishNameTranslation": "The Cave",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 110
+			},
+			"numberInSurah": 50,
+			"juz": 15,
+			"manzil": 4,
+			"page": 299,
+			"ruku": 258,
+			"hizbQuarter": 119,
+			"sajda": false
+		},
+		{
+			"number": 2191,
+			"text": "۞ مَا أَشْهَدْتُهُمْ خَلْقَ السَّمَاوَاتِ وَالْأَرْضِ وَلَا خَلْقَ أَنْفُسِهِمْ وَمَا كُنْتُ مُتَّخِذَ الْمُضِلِّينَ عَضُدًا",
+			"surah": {
+				"number": 18,
+				"name": "سُورَةُ الكَهۡفِ",
+				"englishName": "Al-Kahf",
+				"englishNameTranslation": "The Cave",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 110
+			},
+			"numberInSurah": 51,
+			"juz": 15,
+			"manzil": 4,
+			"page": 299,
+			"ruku": 258,
+			"hizbQuarter": 120,
+			"sajda": false
+		},
+		{
+			"number": 2192,
+			"text": "وَيَوْمَ يَقُولُ نَادُوا شُرَكَائِيَ الَّذِينَ زَعَمْتُمْ فَدَعَوْهُمْ فَلَمْ يَسْتَجِيبُوا لَهُمْ وَجَعَلْنَا بَيْنَهُمْ مَوْبِقًا",
+			"surah": {
+				"number": 18,
+				"name": "سُورَةُ الكَهۡفِ",
+				"englishName": "Al-Kahf",
+				"englishNameTranslation": "The Cave",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 110
+			},
+			"numberInSurah": 52,
+			"juz": 15,
+			"manzil": 4,
+			"page": 299,
+			"ruku": 258,
+			"hizbQuarter": 120,
+			"sajda": false
+		},
+		{
+			"number": 2193,
+			"text": "وَرَأَى الْمُجْرِمُونَ النَّارَ فَظَنُّوا أَنَّهُمْ مُوَاقِعُوهَا وَلَمْ يَجِدُوا عَنْهَا مَصْرِفًا",
+			"surah": {
+				"number": 18,
+				"name": "سُورَةُ الكَهۡفِ",
+				"englishName": "Al-Kahf",
+				"englishNameTranslation": "The Cave",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 110
+			},
+			"numberInSurah": 53,
+			"juz": 15,
+			"manzil": 4,
+			"page": 299,
+			"ruku": 258,
+			"hizbQuarter": 120,
+			"sajda": false
+		},
+		{
+			"number": 2194,
+			"text": "وَلَقَدْ صَرَّفْنَا فِي هَٰذَا الْقُرْآنِ لِلنَّاسِ مِنْ كُلِّ مَثَلٍ ۚ وَكَانَ الْإِنْسَانُ أَكْثَرَ شَيْءٍ جَدَلًا",
+			"surah": {
+				"number": 18,
+				"name": "سُورَةُ الكَهۡفِ",
+				"englishName": "Al-Kahf",
+				"englishNameTranslation": "The Cave",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 110
+			},
+			"numberInSurah": 54,
+			"juz": 15,
+			"manzil": 4,
+			"page": 300,
+			"ruku": 259,
+			"hizbQuarter": 120,
+			"sajda": false
+		},
+		{
+			"number": 2195,
+			"text": "وَمَا مَنَعَ النَّاسَ أَنْ يُؤْمِنُوا إِذْ جَاءَهُمُ الْهُدَىٰ وَيَسْتَغْفِرُوا رَبَّهُمْ إِلَّا أَنْ تَأْتِيَهُمْ سُنَّةُ الْأَوَّلِينَ أَوْ يَأْتِيَهُمُ الْعَذَابُ قُبُلًا",
+			"surah": {
+				"number": 18,
+				"name": "سُورَةُ الكَهۡفِ",
+				"englishName": "Al-Kahf",
+				"englishNameTranslation": "The Cave",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 110
+			},
+			"numberInSurah": 55,
+			"juz": 15,
+			"manzil": 4,
+			"page": 300,
+			"ruku": 259,
+			"hizbQuarter": 120,
+			"sajda": false
+		},
+		{
+			"number": 2196,
+			"text": "وَمَا نُرْسِلُ الْمُرْسَلِينَ إِلَّا مُبَشِّرِينَ وَمُنْذِرِينَ ۚ وَيُجَادِلُ الَّذِينَ كَفَرُوا بِالْبَاطِلِ لِيُدْحِضُوا بِهِ الْحَقَّ ۖ وَاتَّخَذُوا آيَاتِي وَمَا أُنْذِرُوا هُزُوًا",
+			"surah": {
+				"number": 18,
+				"name": "سُورَةُ الكَهۡفِ",
+				"englishName": "Al-Kahf",
+				"englishNameTranslation": "The Cave",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 110
+			},
+			"numberInSurah": 56,
+			"juz": 15,
+			"manzil": 4,
+			"page": 300,
+			"ruku": 259,
+			"hizbQuarter": 120,
+			"sajda": false
+		},
+		{
+			"number": 2197,
+			"text": "وَمَنْ أَظْلَمُ مِمَّنْ ذُكِّرَ بِآيَاتِ رَبِّهِ فَأَعْرَضَ عَنْهَا وَنَسِيَ مَا قَدَّمَتْ يَدَاهُ ۚ إِنَّا جَعَلْنَا عَلَىٰ قُلُوبِهِمْ أَكِنَّةً أَنْ يَفْقَهُوهُ وَفِي آذَانِهِمْ وَقْرًا ۖ وَإِنْ تَدْعُهُمْ إِلَى الْهُدَىٰ فَلَنْ يَهْتَدُوا إِذًا أَبَدًا",
+			"surah": {
+				"number": 18,
+				"name": "سُورَةُ الكَهۡفِ",
+				"englishName": "Al-Kahf",
+				"englishNameTranslation": "The Cave",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 110
+			},
+			"numberInSurah": 57,
+			"juz": 15,
+			"manzil": 4,
+			"page": 300,
+			"ruku": 259,
+			"hizbQuarter": 120,
+			"sajda": false
+		},
+		{
+			"number": 2198,
+			"text": "وَرَبُّكَ الْغَفُورُ ذُو الرَّحْمَةِ ۖ لَوْ يُؤَاخِذُهُمْ بِمَا كَسَبُوا لَعَجَّلَ لَهُمُ الْعَذَابَ ۚ بَلْ لَهُمْ مَوْعِدٌ لَنْ يَجِدُوا مِنْ دُونِهِ مَوْئِلًا",
+			"surah": {
+				"number": 18,
+				"name": "سُورَةُ الكَهۡفِ",
+				"englishName": "Al-Kahf",
+				"englishNameTranslation": "The Cave",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 110
+			},
+			"numberInSurah": 58,
+			"juz": 15,
+			"manzil": 4,
+			"page": 300,
+			"ruku": 259,
+			"hizbQuarter": 120,
+			"sajda": false
+		},
+		{
+			"number": 2199,
+			"text": "وَتِلْكَ الْقُرَىٰ أَهْلَكْنَاهُمْ لَمَّا ظَلَمُوا وَجَعَلْنَا لِمَهْلِكِهِمْ مَوْعِدًا",
+			"surah": {
+				"number": 18,
+				"name": "سُورَةُ الكَهۡفِ",
+				"englishName": "Al-Kahf",
+				"englishNameTranslation": "The Cave",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 110
+			},
+			"numberInSurah": 59,
+			"juz": 15,
+			"manzil": 4,
+			"page": 300,
+			"ruku": 259,
+			"hizbQuarter": 120,
+			"sajda": false
+		},
+		{
+			"number": 2200,
+			"text": "وَإِذْ قَالَ مُوسَىٰ لِفَتَاهُ لَا أَبْرَحُ حَتَّىٰ أَبْلُغَ مَجْمَعَ الْبَحْرَيْنِ أَوْ أَمْضِيَ حُقُبًا",
+			"surah": {
+				"number": 18,
+				"name": "سُورَةُ الكَهۡفِ",
+				"englishName": "Al-Kahf",
+				"englishNameTranslation": "The Cave",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 110
+			},
+			"numberInSurah": 60,
+			"juz": 15,
+			"manzil": 4,
+			"page": 300,
+			"ruku": 260,
+			"hizbQuarter": 120,
+			"sajda": false
+		},
+		{
+			"number": 2201,
+			"text": "فَلَمَّا بَلَغَا مَجْمَعَ بَيْنِهِمَا نَسِيَا حُوتَهُمَا فَاتَّخَذَ سَبِيلَهُ فِي الْبَحْرِ سَرَبًا",
+			"surah": {
+				"number": 18,
+				"name": "سُورَةُ الكَهۡفِ",
+				"englishName": "Al-Kahf",
+				"englishNameTranslation": "The Cave",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 110
+			},
+			"numberInSurah": 61,
+			"juz": 15,
+			"manzil": 4,
+			"page": 300,
+			"ruku": 260,
+			"hizbQuarter": 120,
+			"sajda": false
+		},
+		{
+			"number": 2202,
+			"text": "فَلَمَّا جَاوَزَا قَالَ لِفَتَاهُ آتِنَا غَدَاءَنَا لَقَدْ لَقِينَا مِنْ سَفَرِنَا هَٰذَا نَصَبًا",
+			"surah": {
+				"number": 18,
+				"name": "سُورَةُ الكَهۡفِ",
+				"englishName": "Al-Kahf",
+				"englishNameTranslation": "The Cave",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 110
+			},
+			"numberInSurah": 62,
+			"juz": 15,
+			"manzil": 4,
+			"page": 301,
+			"ruku": 260,
+			"hizbQuarter": 120,
+			"sajda": false
+		},
+		{
+			"number": 2203,
+			"text": "قَالَ أَرَأَيْتَ إِذْ أَوَيْنَا إِلَى الصَّخْرَةِ فَإِنِّي نَسِيتُ الْحُوتَ وَمَا أَنْسَانِيهُ إِلَّا الشَّيْطَانُ أَنْ أَذْكُرَهُ ۚ وَاتَّخَذَ سَبِيلَهُ فِي الْبَحْرِ عَجَبًا",
+			"surah": {
+				"number": 18,
+				"name": "سُورَةُ الكَهۡفِ",
+				"englishName": "Al-Kahf",
+				"englishNameTranslation": "The Cave",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 110
+			},
+			"numberInSurah": 63,
+			"juz": 15,
+			"manzil": 4,
+			"page": 301,
+			"ruku": 260,
+			"hizbQuarter": 120,
+			"sajda": false
+		},
+		{
+			"number": 2204,
+			"text": "قَالَ ذَٰلِكَ مَا كُنَّا نَبْغِ ۚ فَارْتَدَّا عَلَىٰ آثَارِهِمَا قَصَصًا",
+			"surah": {
+				"number": 18,
+				"name": "سُورَةُ الكَهۡفِ",
+				"englishName": "Al-Kahf",
+				"englishNameTranslation": "The Cave",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 110
+			},
+			"numberInSurah": 64,
+			"juz": 15,
+			"manzil": 4,
+			"page": 301,
+			"ruku": 260,
+			"hizbQuarter": 120,
+			"sajda": false
+		},
+		{
+			"number": 2205,
+			"text": "فَوَجَدَا عَبْدًا مِنْ عِبَادِنَا آتَيْنَاهُ رَحْمَةً مِنْ عِنْدِنَا وَعَلَّمْنَاهُ مِنْ لَدُنَّا عِلْمًا",
+			"surah": {
+				"number": 18,
+				"name": "سُورَةُ الكَهۡفِ",
+				"englishName": "Al-Kahf",
+				"englishNameTranslation": "The Cave",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 110
+			},
+			"numberInSurah": 65,
+			"juz": 15,
+			"manzil": 4,
+			"page": 301,
+			"ruku": 260,
+			"hizbQuarter": 120,
+			"sajda": false
+		},
+		{
+			"number": 2206,
+			"text": "قَالَ لَهُ مُوسَىٰ هَلْ أَتَّبِعُكَ عَلَىٰ أَنْ تُعَلِّمَنِ مِمَّا عُلِّمْتَ رُشْدًا",
+			"surah": {
+				"number": 18,
+				"name": "سُورَةُ الكَهۡفِ",
+				"englishName": "Al-Kahf",
+				"englishNameTranslation": "The Cave",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 110
+			},
+			"numberInSurah": 66,
+			"juz": 15,
+			"manzil": 4,
+			"page": 301,
+			"ruku": 260,
+			"hizbQuarter": 120,
+			"sajda": false
+		},
+		{
+			"number": 2207,
+			"text": "قَالَ إِنَّكَ لَنْ تَسْتَطِيعَ مَعِيَ صَبْرًا",
+			"surah": {
+				"number": 18,
+				"name": "سُورَةُ الكَهۡفِ",
+				"englishName": "Al-Kahf",
+				"englishNameTranslation": "The Cave",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 110
+			},
+			"numberInSurah": 67,
+			"juz": 15,
+			"manzil": 4,
+			"page": 301,
+			"ruku": 260,
+			"hizbQuarter": 120,
+			"sajda": false
+		},
+		{
+			"number": 2208,
+			"text": "وَكَيْفَ تَصْبِرُ عَلَىٰ مَا لَمْ تُحِطْ بِهِ خُبْرًا",
+			"surah": {
+				"number": 18,
+				"name": "سُورَةُ الكَهۡفِ",
+				"englishName": "Al-Kahf",
+				"englishNameTranslation": "The Cave",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 110
+			},
+			"numberInSurah": 68,
+			"juz": 15,
+			"manzil": 4,
+			"page": 301,
+			"ruku": 260,
+			"hizbQuarter": 120,
+			"sajda": false
+		},
+		{
+			"number": 2209,
+			"text": "قَالَ سَتَجِدُنِي إِنْ شَاءَ اللَّهُ صَابِرًا وَلَا أَعْصِي لَكَ أَمْرًا",
+			"surah": {
+				"number": 18,
+				"name": "سُورَةُ الكَهۡفِ",
+				"englishName": "Al-Kahf",
+				"englishNameTranslation": "The Cave",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 110
+			},
+			"numberInSurah": 69,
+			"juz": 15,
+			"manzil": 4,
+			"page": 301,
+			"ruku": 260,
+			"hizbQuarter": 120,
+			"sajda": false
+		},
+		{
+			"number": 2210,
+			"text": "قَالَ فَإِنِ اتَّبَعْتَنِي فَلَا تَسْأَلْنِي عَنْ شَيْءٍ حَتَّىٰ أُحْدِثَ لَكَ مِنْهُ ذِكْرًا",
+			"surah": {
+				"number": 18,
+				"name": "سُورَةُ الكَهۡفِ",
+				"englishName": "Al-Kahf",
+				"englishNameTranslation": "The Cave",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 110
+			},
+			"numberInSurah": 70,
+			"juz": 15,
+			"manzil": 4,
+			"page": 301,
+			"ruku": 260,
+			"hizbQuarter": 120,
+			"sajda": false
+		},
+		{
+			"number": 2211,
+			"text": "فَانْطَلَقَا حَتَّىٰ إِذَا رَكِبَا فِي السَّفِينَةِ خَرَقَهَا ۖ قَالَ أَخَرَقْتَهَا لِتُغْرِقَ أَهْلَهَا لَقَدْ جِئْتَ شَيْئًا إِمْرًا",
+			"surah": {
+				"number": 18,
+				"name": "سُورَةُ الكَهۡفِ",
+				"englishName": "Al-Kahf",
+				"englishNameTranslation": "The Cave",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 110
+			},
+			"numberInSurah": 71,
+			"juz": 15,
+			"manzil": 4,
+			"page": 301,
+			"ruku": 261,
+			"hizbQuarter": 120,
+			"sajda": false
+		},
+		{
+			"number": 2212,
+			"text": "قَالَ أَلَمْ أَقُلْ إِنَّكَ لَنْ تَسْتَطِيعَ مَعِيَ صَبْرًا",
+			"surah": {
+				"number": 18,
+				"name": "سُورَةُ الكَهۡفِ",
+				"englishName": "Al-Kahf",
+				"englishNameTranslation": "The Cave",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 110
+			},
+			"numberInSurah": 72,
+			"juz": 15,
+			"manzil": 4,
+			"page": 301,
+			"ruku": 261,
+			"hizbQuarter": 120,
+			"sajda": false
+		},
+		{
+			"number": 2213,
+			"text": "قَالَ لَا تُؤَاخِذْنِي بِمَا نَسِيتُ وَلَا تُرْهِقْنِي مِنْ أَمْرِي عُسْرًا",
+			"surah": {
+				"number": 18,
+				"name": "سُورَةُ الكَهۡفِ",
+				"englishName": "Al-Kahf",
+				"englishNameTranslation": "The Cave",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 110
+			},
+			"numberInSurah": 73,
+			"juz": 15,
+			"manzil": 4,
+			"page": 301,
+			"ruku": 261,
+			"hizbQuarter": 120,
+			"sajda": false
+		},
+		{
+			"number": 2214,
+			"text": "فَانْطَلَقَا حَتَّىٰ إِذَا لَقِيَا غُلَامًا فَقَتَلَهُ قَالَ أَقَتَلْتَ نَفْسًا زَكِيَّةً بِغَيْرِ نَفْسٍ لَقَدْ جِئْتَ شَيْئًا نُكْرًا",
+			"surah": {
+				"number": 18,
+				"name": "سُورَةُ الكَهۡفِ",
+				"englishName": "Al-Kahf",
+				"englishNameTranslation": "The Cave",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 110
+			},
+			"numberInSurah": 74,
+			"juz": 15,
+			"manzil": 4,
+			"page": 301,
+			"ruku": 261,
+			"hizbQuarter": 120,
+			"sajda": false
+		}
+	]
+}

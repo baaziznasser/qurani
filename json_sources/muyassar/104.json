@@ -1,0 +1,118 @@
+﻿{
+	"number": 104,
+	"name": "سُورَةُ الهُمَزَةِ",
+	"englishName": "Al-Humaza",
+	"englishNameTranslation": "The Traducer",
+	"revelationType": "Meccan",
+	"numberOfAyahs": 9,
+	"ayahs": [
+		{
+			"number": 6180,
+			"text": "شر وهلاك لكل مغتاب للناس، طعان فيهم.",
+			"numberInSurah": 1,
+			"juz": 30,
+			"manzil": 7,
+			"page": 601,
+			"ruku": 546,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6181,
+			"text": "الذي كان همُّه جمع المال وتعداده.",
+			"numberInSurah": 2,
+			"juz": 30,
+			"manzil": 7,
+			"page": 601,
+			"ruku": 546,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6182,
+			"text": "يظن أنه ضَمِنَ لنفسه بهذا المال الذي جمعه، الخلود في الدنيا والإفلات من الحساب.",
+			"numberInSurah": 3,
+			"juz": 30,
+			"manzil": 7,
+			"page": 601,
+			"ruku": 546,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6183,
+			"text": "ليس الأمر كما ظن، ليُطرحنَّ في النار التي تهشم كل ما يُلْقى فيها.",
+			"numberInSurah": 4,
+			"juz": 30,
+			"manzil": 7,
+			"page": 601,
+			"ruku": 546,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6184,
+			"text": "وما أدراك -أيها الرسول- ما حقيقة النار؟",
+			"numberInSurah": 5,
+			"juz": 30,
+			"manzil": 7,
+			"page": 601,
+			"ruku": 546,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6185,
+			"text": "إنها نار الله الموقدة التي من شدتها تنفُذ من الأجسام إلى القلوب.",
+			"numberInSurah": 6,
+			"juz": 30,
+			"manzil": 7,
+			"page": 601,
+			"ruku": 546,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6186,
+			"text": "إنها نار الله الموقدة التي من شدتها تنفُذ من الأجسام إلى القلوب.",
+			"numberInSurah": 7,
+			"juz": 30,
+			"manzil": 7,
+			"page": 601,
+			"ruku": 546,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6187,
+			"text": "إنها عليهم مطبَقة في سلاسل وأغلال مطوَّلة؛ لئلا يخرجوا منها.",
+			"numberInSurah": 8,
+			"juz": 30,
+			"manzil": 7,
+			"page": 601,
+			"ruku": 546,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6188,
+			"text": "إنها عليهم مطبَقة في سلاسل وأغلال مطوَّلة؛ لئلا يخرجوا منها.",
+			"numberInSurah": 9,
+			"juz": 30,
+			"manzil": 7,
+			"page": 601,
+			"ruku": 546,
+			"hizbQuarter": 240,
+			"sajda": false
+		}
+	],
+	"edition": {
+		"identifier": "ar.muyassar",
+		"language": "ar",
+		"name": "تفسير المیسر",
+		"englishName": "King Fahad Quran Complex",
+		"format": "text",
+		"type": "tafsir",
+		"direction": "rtl"
+	}
+}

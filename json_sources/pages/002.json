@@ -1,0 +1,119 @@
+﻿{
+	"number": 2,
+	"ayahs": [
+		{
+			"number": 8,
+			"text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ الم",
+			"surah": {
+				"number": 2,
+				"name": "سُورَةُ البَقَرَةِ",
+				"englishName": "Al-Baqara",
+				"englishNameTranslation": "The Cow",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 286
+			},
+			"numberInSurah": 1,
+			"juz": 1,
+			"manzil": 1,
+			"page": 2,
+			"ruku": 2,
+			"hizbQuarter": 1,
+			"sajda": false
+		},
+		{
+			"number": 9,
+			"text": "ذَٰلِكَ الْكِتَابُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًى لِلْمُتَّقِينَ",
+			"surah": {
+				"number": 2,
+				"name": "سُورَةُ البَقَرَةِ",
+				"englishName": "Al-Baqara",
+				"englishNameTranslation": "The Cow",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 286
+			},
+			"numberInSurah": 2,
+			"juz": 1,
+			"manzil": 1,
+			"page": 2,
+			"ruku": 2,
+			"hizbQuarter": 1,
+			"sajda": false
+		},
+		{
+			"number": 10,
+			"text": "الَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ وَيُقِيمُونَ الصَّلَاةَ وَمِمَّا رَزَقْنَاهُمْ يُنْفِقُونَ",
+			"surah": {
+				"number": 2,
+				"name": "سُورَةُ البَقَرَةِ",
+				"englishName": "Al-Baqara",
+				"englishNameTranslation": "The Cow",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 286
+			},
+			"numberInSurah": 3,
+			"juz": 1,
+			"manzil": 1,
+			"page": 2,
+			"ruku": 2,
+			"hizbQuarter": 1,
+			"sajda": false
+		},
+		{
+			"number": 11,
+			"text": "وَالَّذِينَ يُؤْمِنُونَ بِمَا أُنْزِلَ إِلَيْكَ وَمَا أُنْزِلَ مِنْ قَبْلِكَ وَبِالْآخِرَةِ هُمْ يُوقِنُونَ",
+			"surah": {
+				"number": 2,
+				"name": "سُورَةُ البَقَرَةِ",
+				"englishName": "Al-Baqara",
+				"englishNameTranslation": "The Cow",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 286
+			},
+			"numberInSurah": 4,
+			"juz": 1,
+			"manzil": 1,
+			"page": 2,
+			"ruku": 2,
+			"hizbQuarter": 1,
+			"sajda": false
+		},
+		{
+			"number": 12,
+			"text": "أُولَٰئِكَ عَلَىٰ هُدًى مِنْ رَبِّهِمْ ۖ وَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ",
+			"surah": {
+				"number": 2,
+				"name": "سُورَةُ البَقَرَةِ",
+				"englishName": "Al-Baqara",
+				"englishNameTranslation": "The Cow",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 286
+			},
+			"numberInSurah": 5,
+			"juz": 1,
+			"manzil": 1,
+			"page": 2,
+			"ruku": 2,
+			"hizbQuarter": 1,
+			"sajda": false
+		}
+	],
+	"surahs": {
+		"2": {
+			"number": 2,
+			"name": "سُورَةُ البَقَرَةِ",
+			"englishName": "Al-Baqara",
+			"englishNameTranslation": "The Cow",
+			"revelationType": "Medinan",
+			"numberOfAyahs": 286
+		}
+	},
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

@@ -1,0 +1,1134 @@
+﻿{
+	"number": 231,
+	"ayahs": [
+		{
+			"number": 5552,
+			"surah": {
+				"number": 75,
+				"name": "سُورَةُ القِيَامَةِ",
+				"englishName": "Al-Qiyaama",
+				"englishNameTranslation": "The Resurrection",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 1,
+			"juz": 29,
+			"manzil": 7,
+			"page": 577,
+			"ruku": 512,
+			"hizbQuarter": 231,
+			"sajda": false,
+			"text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ لَا أُقْسِمُ بِيَوْمِ الْقِيَامَةِ"
+		},
+		{
+			"number": 5553,
+			"surah": {
+				"number": 75,
+				"name": "سُورَةُ القِيَامَةِ",
+				"englishName": "Al-Qiyaama",
+				"englishNameTranslation": "The Resurrection",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 2,
+			"juz": 29,
+			"manzil": 7,
+			"page": 577,
+			"ruku": 512,
+			"hizbQuarter": 231,
+			"sajda": false,
+			"text": "وَلَا أُقْسِمُ بِالنَّفْسِ اللَّوَّامَةِ"
+		},
+		{
+			"number": 5554,
+			"surah": {
+				"number": 75,
+				"name": "سُورَةُ القِيَامَةِ",
+				"englishName": "Al-Qiyaama",
+				"englishNameTranslation": "The Resurrection",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 3,
+			"juz": 29,
+			"manzil": 7,
+			"page": 577,
+			"ruku": 512,
+			"hizbQuarter": 231,
+			"sajda": false,
+			"text": "أَيَحْسَبُ الْإِنسَانُ أَلَّن نَّجْمَعَ عِظَامَهُ"
+		},
+		{
+			"number": 5555,
+			"surah": {
+				"number": 75,
+				"name": "سُورَةُ القِيَامَةِ",
+				"englishName": "Al-Qiyaama",
+				"englishNameTranslation": "The Resurrection",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 4,
+			"juz": 29,
+			"manzil": 7,
+			"page": 577,
+			"ruku": 512,
+			"hizbQuarter": 231,
+			"sajda": false,
+			"text": "بَلَىٰ قَادِرِينَ عَلَىٰ أَن نُّسَوِّيَ بَنَانَهُ"
+		},
+		{
+			"number": 5556,
+			"surah": {
+				"number": 75,
+				"name": "سُورَةُ القِيَامَةِ",
+				"englishName": "Al-Qiyaama",
+				"englishNameTranslation": "The Resurrection",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 5,
+			"juz": 29,
+			"manzil": 7,
+			"page": 577,
+			"ruku": 512,
+			"hizbQuarter": 231,
+			"sajda": false,
+			"text": "بَلْ يُرِيدُ الْإِنسَانُ لِيَفْجُرَ أَمَامَهُ"
+		},
+		{
+			"number": 5557,
+			"surah": {
+				"number": 75,
+				"name": "سُورَةُ القِيَامَةِ",
+				"englishName": "Al-Qiyaama",
+				"englishNameTranslation": "The Resurrection",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 6,
+			"juz": 29,
+			"manzil": 7,
+			"page": 577,
+			"ruku": 512,
+			"hizbQuarter": 231,
+			"sajda": false,
+			"text": "يَسْأَلُ أَيَّانَ يَوْمُ الْقِيَامَةِ"
+		},
+		{
+			"number": 5558,
+			"surah": {
+				"number": 75,
+				"name": "سُورَةُ القِيَامَةِ",
+				"englishName": "Al-Qiyaama",
+				"englishNameTranslation": "The Resurrection",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 7,
+			"juz": 29,
+			"manzil": 7,
+			"page": 577,
+			"ruku": 512,
+			"hizbQuarter": 231,
+			"sajda": false,
+			"text": "فَإِذَا بَرِقَ الْبَصَرُ"
+		},
+		{
+			"number": 5559,
+			"surah": {
+				"number": 75,
+				"name": "سُورَةُ القِيَامَةِ",
+				"englishName": "Al-Qiyaama",
+				"englishNameTranslation": "The Resurrection",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 8,
+			"juz": 29,
+			"manzil": 7,
+			"page": 577,
+			"ruku": 512,
+			"hizbQuarter": 231,
+			"sajda": false,
+			"text": "وَخَسَفَ الْقَمَرُ"
+		},
+		{
+			"number": 5560,
+			"surah": {
+				"number": 75,
+				"name": "سُورَةُ القِيَامَةِ",
+				"englishName": "Al-Qiyaama",
+				"englishNameTranslation": "The Resurrection",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 9,
+			"juz": 29,
+			"manzil": 7,
+			"page": 577,
+			"ruku": 512,
+			"hizbQuarter": 231,
+			"sajda": false,
+			"text": "وَجُمِعَ الشَّمْسُ وَالْقَمَرُ"
+		},
+		{
+			"number": 5561,
+			"surah": {
+				"number": 75,
+				"name": "سُورَةُ القِيَامَةِ",
+				"englishName": "Al-Qiyaama",
+				"englishNameTranslation": "The Resurrection",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 10,
+			"juz": 29,
+			"manzil": 7,
+			"page": 577,
+			"ruku": 512,
+			"hizbQuarter": 231,
+			"sajda": false,
+			"text": "يَقُولُ الْإِنسَانُ يَوْمَئِذٍ أَيْنَ الْمَفَرُّ"
+		},
+		{
+			"number": 5562,
+			"surah": {
+				"number": 75,
+				"name": "سُورَةُ القِيَامَةِ",
+				"englishName": "Al-Qiyaama",
+				"englishNameTranslation": "The Resurrection",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 11,
+			"juz": 29,
+			"manzil": 7,
+			"page": 577,
+			"ruku": 512,
+			"hizbQuarter": 231,
+			"sajda": false,
+			"text": "كَلَّا لَا وَزَرَ"
+		},
+		{
+			"number": 5563,
+			"surah": {
+				"number": 75,
+				"name": "سُورَةُ القِيَامَةِ",
+				"englishName": "Al-Qiyaama",
+				"englishNameTranslation": "The Resurrection",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 12,
+			"juz": 29,
+			"manzil": 7,
+			"page": 577,
+			"ruku": 512,
+			"hizbQuarter": 231,
+			"sajda": false,
+			"text": "إِلَىٰ رَبِّكَ يَوْمَئِذٍ الْمُسْتَقَرُّ"
+		},
+		{
+			"number": 5564,
+			"surah": {
+				"number": 75,
+				"name": "سُورَةُ القِيَامَةِ",
+				"englishName": "Al-Qiyaama",
+				"englishNameTranslation": "The Resurrection",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 13,
+			"juz": 29,
+			"manzil": 7,
+			"page": 577,
+			"ruku": 512,
+			"hizbQuarter": 231,
+			"sajda": false,
+			"text": "يُنَبَّأُ الْإِنسَانُ يَوْمَئِذٍ بِمَا قَدَّمَ وَأَخَّرَ"
+		},
+		{
+			"number": 5565,
+			"surah": {
+				"number": 75,
+				"name": "سُورَةُ القِيَامَةِ",
+				"englishName": "Al-Qiyaama",
+				"englishNameTranslation": "The Resurrection",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 14,
+			"juz": 29,
+			"manzil": 7,
+			"page": 577,
+			"ruku": 512,
+			"hizbQuarter": 231,
+			"sajda": false,
+			"text": "بَلِ الْإِنسَانُ عَلَىٰ نَفْسِهِ بَصِيرَةٌ"
+		},
+		{
+			"number": 5566,
+			"surah": {
+				"number": 75,
+				"name": "سُورَةُ القِيَامَةِ",
+				"englishName": "Al-Qiyaama",
+				"englishNameTranslation": "The Resurrection",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 15,
+			"juz": 29,
+			"manzil": 7,
+			"page": 577,
+			"ruku": 512,
+			"hizbQuarter": 231,
+			"sajda": false,
+			"text": "وَلَوْ أَلْقَىٰ مَعَاذِيرَهُ"
+		},
+		{
+			"number": 5567,
+			"surah": {
+				"number": 75,
+				"name": "سُورَةُ القِيَامَةِ",
+				"englishName": "Al-Qiyaama",
+				"englishNameTranslation": "The Resurrection",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 16,
+			"juz": 29,
+			"manzil": 7,
+			"page": 577,
+			"ruku": 512,
+			"hizbQuarter": 231,
+			"sajda": false,
+			"text": "لَا تُحَرِّكْ بِهِ لِسَانَكَ لِتَعْجَلَ بِهِ"
+		},
+		{
+			"number": 5568,
+			"surah": {
+				"number": 75,
+				"name": "سُورَةُ القِيَامَةِ",
+				"englishName": "Al-Qiyaama",
+				"englishNameTranslation": "The Resurrection",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 17,
+			"juz": 29,
+			"manzil": 7,
+			"page": 577,
+			"ruku": 512,
+			"hizbQuarter": 231,
+			"sajda": false,
+			"text": "إِنَّ عَلَيْنَا جَمْعَهُ وَقُرْآنَهُ"
+		},
+		{
+			"number": 5569,
+			"surah": {
+				"number": 75,
+				"name": "سُورَةُ القِيَامَةِ",
+				"englishName": "Al-Qiyaama",
+				"englishNameTranslation": "The Resurrection",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 18,
+			"juz": 29,
+			"manzil": 7,
+			"page": 577,
+			"ruku": 512,
+			"hizbQuarter": 231,
+			"sajda": false,
+			"text": "فَإِذَا قَرَأْنَاهُ فَاتَّبِعْ قُرْآنَهُ"
+		},
+		{
+			"number": 5570,
+			"surah": {
+				"number": 75,
+				"name": "سُورَةُ القِيَامَةِ",
+				"englishName": "Al-Qiyaama",
+				"englishNameTranslation": "The Resurrection",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 19,
+			"juz": 29,
+			"manzil": 7,
+			"page": 577,
+			"ruku": 512,
+			"hizbQuarter": 231,
+			"sajda": false,
+			"text": "ثُمَّ إِنَّ عَلَيْنَا بَيَانَهُ"
+		},
+		{
+			"number": 5571,
+			"surah": {
+				"number": 75,
+				"name": "سُورَةُ القِيَامَةِ",
+				"englishName": "Al-Qiyaama",
+				"englishNameTranslation": "The Resurrection",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 20,
+			"juz": 29,
+			"manzil": 7,
+			"page": 578,
+			"ruku": 512,
+			"hizbQuarter": 231,
+			"sajda": false,
+			"text": "كَلَّا بَلْ تُحِبُّونَ الْعَاجِلَةَ"
+		},
+		{
+			"number": 5572,
+			"surah": {
+				"number": 75,
+				"name": "سُورَةُ القِيَامَةِ",
+				"englishName": "Al-Qiyaama",
+				"englishNameTranslation": "The Resurrection",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 21,
+			"juz": 29,
+			"manzil": 7,
+			"page": 578,
+			"ruku": 512,
+			"hizbQuarter": 231,
+			"sajda": false,
+			"text": "وَتَذَرُونَ الْآخِرَةَ"
+		},
+		{
+			"number": 5573,
+			"surah": {
+				"number": 75,
+				"name": "سُورَةُ القِيَامَةِ",
+				"englishName": "Al-Qiyaama",
+				"englishNameTranslation": "The Resurrection",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 22,
+			"juz": 29,
+			"manzil": 7,
+			"page": 578,
+			"ruku": 512,
+			"hizbQuarter": 231,
+			"sajda": false,
+			"text": "وُجُوهٌ يَوْمَئِذٍ نَّاضِرَةٌ"
+		},
+		{
+			"number": 5574,
+			"surah": {
+				"number": 75,
+				"name": "سُورَةُ القِيَامَةِ",
+				"englishName": "Al-Qiyaama",
+				"englishNameTranslation": "The Resurrection",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 23,
+			"juz": 29,
+			"manzil": 7,
+			"page": 578,
+			"ruku": 512,
+			"hizbQuarter": 231,
+			"sajda": false,
+			"text": "إِلَىٰ رَبِّهَا نَاظِرَةٌ"
+		},
+		{
+			"number": 5575,
+			"surah": {
+				"number": 75,
+				"name": "سُورَةُ القِيَامَةِ",
+				"englishName": "Al-Qiyaama",
+				"englishNameTranslation": "The Resurrection",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 24,
+			"juz": 29,
+			"manzil": 7,
+			"page": 578,
+			"ruku": 512,
+			"hizbQuarter": 231,
+			"sajda": false,
+			"text": "وَوُجُوهٌ يَوْمَئِذٍ بَاسِرَةٌ"
+		},
+		{
+			"number": 5576,
+			"surah": {
+				"number": 75,
+				"name": "سُورَةُ القِيَامَةِ",
+				"englishName": "Al-Qiyaama",
+				"englishNameTranslation": "The Resurrection",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 25,
+			"juz": 29,
+			"manzil": 7,
+			"page": 578,
+			"ruku": 512,
+			"hizbQuarter": 231,
+			"sajda": false,
+			"text": "تَظُنُّ أَن يُفْعَلَ بِهَا فَاقِرَةٌ"
+		},
+		{
+			"number": 5577,
+			"surah": {
+				"number": 75,
+				"name": "سُورَةُ القِيَامَةِ",
+				"englishName": "Al-Qiyaama",
+				"englishNameTranslation": "The Resurrection",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 26,
+			"juz": 29,
+			"manzil": 7,
+			"page": 578,
+			"ruku": 512,
+			"hizbQuarter": 231,
+			"sajda": false,
+			"text": "كَلَّا إِذَا بَلَغَتِ التَّرَاقِيَ"
+		},
+		{
+			"number": 5578,
+			"surah": {
+				"number": 75,
+				"name": "سُورَةُ القِيَامَةِ",
+				"englishName": "Al-Qiyaama",
+				"englishNameTranslation": "The Resurrection",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 27,
+			"juz": 29,
+			"manzil": 7,
+			"page": 578,
+			"ruku": 512,
+			"hizbQuarter": 231,
+			"sajda": false,
+			"text": "وَقِيلَ مَنْ ۜ رَاقٍ"
+		},
+		{
+			"number": 5579,
+			"surah": {
+				"number": 75,
+				"name": "سُورَةُ القِيَامَةِ",
+				"englishName": "Al-Qiyaama",
+				"englishNameTranslation": "The Resurrection",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 28,
+			"juz": 29,
+			"manzil": 7,
+			"page": 578,
+			"ruku": 512,
+			"hizbQuarter": 231,
+			"sajda": false,
+			"text": "وَظَنَّ أَنَّهُ الْفِرَاقُ"
+		},
+		{
+			"number": 5580,
+			"surah": {
+				"number": 75,
+				"name": "سُورَةُ القِيَامَةِ",
+				"englishName": "Al-Qiyaama",
+				"englishNameTranslation": "The Resurrection",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 29,
+			"juz": 29,
+			"manzil": 7,
+			"page": 578,
+			"ruku": 512,
+			"hizbQuarter": 231,
+			"sajda": false,
+			"text": "وَالْتَفَّتِ السَّاقُ بِالسَّاقِ"
+		},
+		{
+			"number": 5581,
+			"surah": {
+				"number": 75,
+				"name": "سُورَةُ القِيَامَةِ",
+				"englishName": "Al-Qiyaama",
+				"englishNameTranslation": "The Resurrection",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 30,
+			"juz": 29,
+			"manzil": 7,
+			"page": 578,
+			"ruku": 512,
+			"hizbQuarter": 231,
+			"sajda": false,
+			"text": "إِلَىٰ رَبِّكَ يَوْمَئِذٍ الْمَسَاقُ"
+		},
+		{
+			"number": 5582,
+			"surah": {
+				"number": 75,
+				"name": "سُورَةُ القِيَامَةِ",
+				"englishName": "Al-Qiyaama",
+				"englishNameTranslation": "The Resurrection",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 31,
+			"juz": 29,
+			"manzil": 7,
+			"page": 578,
+			"ruku": 513,
+			"hizbQuarter": 231,
+			"sajda": false,
+			"text": "فَلَا صَدَّقَ وَلَا صَلَّىٰ"
+		},
+		{
+			"number": 5583,
+			"surah": {
+				"number": 75,
+				"name": "سُورَةُ القِيَامَةِ",
+				"englishName": "Al-Qiyaama",
+				"englishNameTranslation": "The Resurrection",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 32,
+			"juz": 29,
+			"manzil": 7,
+			"page": 578,
+			"ruku": 513,
+			"hizbQuarter": 231,
+			"sajda": false,
+			"text": "وَلَٰكِن كَذَّبَ وَتَوَلَّىٰ"
+		},
+		{
+			"number": 5584,
+			"surah": {
+				"number": 75,
+				"name": "سُورَةُ القِيَامَةِ",
+				"englishName": "Al-Qiyaama",
+				"englishNameTranslation": "The Resurrection",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 33,
+			"juz": 29,
+			"manzil": 7,
+			"page": 578,
+			"ruku": 513,
+			"hizbQuarter": 231,
+			"sajda": false,
+			"text": "ثُمَّ ذَهَبَ إِلَىٰ أَهْلِهِ يَتَمَطَّىٰ"
+		},
+		{
+			"number": 5585,
+			"surah": {
+				"number": 75,
+				"name": "سُورَةُ القِيَامَةِ",
+				"englishName": "Al-Qiyaama",
+				"englishNameTranslation": "The Resurrection",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 34,
+			"juz": 29,
+			"manzil": 7,
+			"page": 578,
+			"ruku": 513,
+			"hizbQuarter": 231,
+			"sajda": false,
+			"text": "أَوْلَىٰ لَكَ فَأَوْلَىٰ"
+		},
+		{
+			"number": 5586,
+			"surah": {
+				"number": 75,
+				"name": "سُورَةُ القِيَامَةِ",
+				"englishName": "Al-Qiyaama",
+				"englishNameTranslation": "The Resurrection",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 35,
+			"juz": 29,
+			"manzil": 7,
+			"page": 578,
+			"ruku": 513,
+			"hizbQuarter": 231,
+			"sajda": false,
+			"text": "ثُمَّ أَوْلَىٰ لَكَ فَأَوْلَىٰ"
+		},
+		{
+			"number": 5587,
+			"surah": {
+				"number": 75,
+				"name": "سُورَةُ القِيَامَةِ",
+				"englishName": "Al-Qiyaama",
+				"englishNameTranslation": "The Resurrection",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 36,
+			"juz": 29,
+			"manzil": 7,
+			"page": 578,
+			"ruku": 513,
+			"hizbQuarter": 231,
+			"sajda": false,
+			"text": "أَيَحْسَبُ الْإِنسَانُ أَن يُتْرَكَ سُدًى"
+		},
+		{
+			"number": 5588,
+			"surah": {
+				"number": 75,
+				"name": "سُورَةُ القِيَامَةِ",
+				"englishName": "Al-Qiyaama",
+				"englishNameTranslation": "The Resurrection",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 37,
+			"juz": 29,
+			"manzil": 7,
+			"page": 578,
+			"ruku": 513,
+			"hizbQuarter": 231,
+			"sajda": false,
+			"text": "أَلَمْ يَكُ نُطْفَةً مِّن مَّنِيٍّ يُمْنَىٰ"
+		},
+		{
+			"number": 5589,
+			"surah": {
+				"number": 75,
+				"name": "سُورَةُ القِيَامَةِ",
+				"englishName": "Al-Qiyaama",
+				"englishNameTranslation": "The Resurrection",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 38,
+			"juz": 29,
+			"manzil": 7,
+			"page": 578,
+			"ruku": 513,
+			"hizbQuarter": 231,
+			"sajda": false,
+			"text": "ثُمَّ كَانَ عَلَقَةً فَخَلَقَ فَسَوَّىٰ"
+		},
+		{
+			"number": 5590,
+			"surah": {
+				"number": 75,
+				"name": "سُورَةُ القِيَامَةِ",
+				"englishName": "Al-Qiyaama",
+				"englishNameTranslation": "The Resurrection",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 39,
+			"juz": 29,
+			"manzil": 7,
+			"page": 578,
+			"ruku": 513,
+			"hizbQuarter": 231,
+			"sajda": false,
+			"text": "فَجَعَلَ مِنْهُ الزَّوْجَيْنِ الذَّكَرَ وَالْأُنثَىٰ"
+		},
+		{
+			"number": 5591,
+			"surah": {
+				"number": 75,
+				"name": "سُورَةُ القِيَامَةِ",
+				"englishName": "Al-Qiyaama",
+				"englishNameTranslation": "The Resurrection",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 40,
+			"juz": 29,
+			"manzil": 7,
+			"page": 578,
+			"ruku": 513,
+			"hizbQuarter": 231,
+			"sajda": false,
+			"text": "أَلَيْسَ ذَٰلِكَ بِقَادِرٍ عَلَىٰ أَن يُحْيِيَ الْمَوْتَىٰ"
+		},
+		{
+			"number": 5592,
+			"surah": {
+				"number": 76,
+				"name": "سُورَةُ الإِنسَانِ",
+				"englishName": "Al-Insaan",
+				"englishNameTranslation": "Man",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 31
+			},
+			"numberInSurah": 1,
+			"juz": 29,
+			"manzil": 7,
+			"page": 578,
+			"ruku": 514,
+			"hizbQuarter": 231,
+			"sajda": false,
+			"text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ هَلْ أَتَىٰ عَلَى الْإِنسَانِ حِينٌ مِّنَ الدَّهْرِ لَمْ يَكُن شَيْئًا مَّذْكُورًا"
+		},
+		{
+			"number": 5593,
+			"surah": {
+				"number": 76,
+				"name": "سُورَةُ الإِنسَانِ",
+				"englishName": "Al-Insaan",
+				"englishNameTranslation": "Man",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 31
+			},
+			"numberInSurah": 2,
+			"juz": 29,
+			"manzil": 7,
+			"page": 578,
+			"ruku": 514,
+			"hizbQuarter": 231,
+			"sajda": false,
+			"text": "إِنَّا خَلَقْنَا الْإِنسَانَ مِن نُّطْفَةٍ أَمْشَاجٍ نَّبْتَلِيهِ فَجَعَلْنَاهُ سَمِيعًا بَصِيرًا"
+		},
+		{
+			"number": 5594,
+			"surah": {
+				"number": 76,
+				"name": "سُورَةُ الإِنسَانِ",
+				"englishName": "Al-Insaan",
+				"englishNameTranslation": "Man",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 31
+			},
+			"numberInSurah": 3,
+			"juz": 29,
+			"manzil": 7,
+			"page": 578,
+			"ruku": 514,
+			"hizbQuarter": 231,
+			"sajda": false,
+			"text": "إِنَّا هَدَيْنَاهُ السَّبِيلَ إِمَّا شَاكِرًا وَإِمَّا كَفُورًا"
+		},
+		{
+			"number": 5595,
+			"surah": {
+				"number": 76,
+				"name": "سُورَةُ الإِنسَانِ",
+				"englishName": "Al-Insaan",
+				"englishNameTranslation": "Man",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 31
+			},
+			"numberInSurah": 4,
+			"juz": 29,
+			"manzil": 7,
+			"page": 578,
+			"ruku": 514,
+			"hizbQuarter": 231,
+			"sajda": false,
+			"text": "إِنَّا أَعْتَدْنَا لِلْكَافِرِينَ سَلَاسِلَ وَأَغْلَالًا وَسَعِيرًا"
+		},
+		{
+			"number": 5596,
+			"surah": {
+				"number": 76,
+				"name": "سُورَةُ الإِنسَانِ",
+				"englishName": "Al-Insaan",
+				"englishNameTranslation": "Man",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 31
+			},
+			"numberInSurah": 5,
+			"juz": 29,
+			"manzil": 7,
+			"page": 578,
+			"ruku": 514,
+			"hizbQuarter": 231,
+			"sajda": false,
+			"text": "إِنَّ الْأَبْرَارَ يَشْرَبُونَ مِن كَأْسٍ كَانَ مِزَاجُهَا كَافُورًا"
+		},
+		{
+			"number": 5597,
+			"surah": {
+				"number": 76,
+				"name": "سُورَةُ الإِنسَانِ",
+				"englishName": "Al-Insaan",
+				"englishNameTranslation": "Man",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 31
+			},
+			"numberInSurah": 6,
+			"juz": 29,
+			"manzil": 7,
+			"page": 579,
+			"ruku": 514,
+			"hizbQuarter": 231,
+			"sajda": false,
+			"text": "عَيْنًا يَشْرَبُ بِهَا عِبَادُ اللَّهِ يُفَجِّرُونَهَا تَفْجِيرًا"
+		},
+		{
+			"number": 5598,
+			"surah": {
+				"number": 76,
+				"name": "سُورَةُ الإِنسَانِ",
+				"englishName": "Al-Insaan",
+				"englishNameTranslation": "Man",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 31
+			},
+			"numberInSurah": 7,
+			"juz": 29,
+			"manzil": 7,
+			"page": 579,
+			"ruku": 514,
+			"hizbQuarter": 231,
+			"sajda": false,
+			"text": "يُوفُونَ بِالنَّذْرِ وَيَخَافُونَ يَوْمًا كَانَ شَرُّهُ مُسْتَطِيرًا"
+		},
+		{
+			"number": 5599,
+			"surah": {
+				"number": 76,
+				"name": "سُورَةُ الإِنسَانِ",
+				"englishName": "Al-Insaan",
+				"englishNameTranslation": "Man",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 31
+			},
+			"numberInSurah": 8,
+			"juz": 29,
+			"manzil": 7,
+			"page": 579,
+			"ruku": 514,
+			"hizbQuarter": 231,
+			"sajda": false,
+			"text": "وَيُطْعِمُونَ الطَّعَامَ عَلَىٰ حُبِّهِ مِسْكِينًا وَيَتِيمًا وَأَسِيرًا"
+		},
+		{
+			"number": 5600,
+			"surah": {
+				"number": 76,
+				"name": "سُورَةُ الإِنسَانِ",
+				"englishName": "Al-Insaan",
+				"englishNameTranslation": "Man",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 31
+			},
+			"numberInSurah": 9,
+			"juz": 29,
+			"manzil": 7,
+			"page": 579,
+			"ruku": 514,
+			"hizbQuarter": 231,
+			"sajda": false,
+			"text": "إِنَّمَا نُطْعِمُكُمْ لِوَجْهِ اللَّهِ لَا نُرِيدُ مِنكُمْ جَزَاءً وَلَا شُكُورًا"
+		},
+		{
+			"number": 5601,
+			"surah": {
+				"number": 76,
+				"name": "سُورَةُ الإِنسَانِ",
+				"englishName": "Al-Insaan",
+				"englishNameTranslation": "Man",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 31
+			},
+			"numberInSurah": 10,
+			"juz": 29,
+			"manzil": 7,
+			"page": 579,
+			"ruku": 514,
+			"hizbQuarter": 231,
+			"sajda": false,
+			"text": "إِنَّا نَخَافُ مِن رَّبِّنَا يَوْمًا عَبُوسًا قَمْطَرِيرًا"
+		},
+		{
+			"number": 5602,
+			"surah": {
+				"number": 76,
+				"name": "سُورَةُ الإِنسَانِ",
+				"englishName": "Al-Insaan",
+				"englishNameTranslation": "Man",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 31
+			},
+			"numberInSurah": 11,
+			"juz": 29,
+			"manzil": 7,
+			"page": 579,
+			"ruku": 514,
+			"hizbQuarter": 231,
+			"sajda": false,
+			"text": "فَوَقَاهُمُ اللَّهُ شَرَّ ذَٰلِكَ الْيَوْمِ وَلَقَّاهُمْ نَضْرَةً وَسُرُورًا"
+		},
+		{
+			"number": 5603,
+			"surah": {
+				"number": 76,
+				"name": "سُورَةُ الإِنسَانِ",
+				"englishName": "Al-Insaan",
+				"englishNameTranslation": "Man",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 31
+			},
+			"numberInSurah": 12,
+			"juz": 29,
+			"manzil": 7,
+			"page": 579,
+			"ruku": 514,
+			"hizbQuarter": 231,
+			"sajda": false,
+			"text": "وَجَزَاهُم بِمَا صَبَرُوا جَنَّةً وَحَرِيرًا"
+		},
+		{
+			"number": 5604,
+			"surah": {
+				"number": 76,
+				"name": "سُورَةُ الإِنسَانِ",
+				"englishName": "Al-Insaan",
+				"englishNameTranslation": "Man",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 31
+			},
+			"numberInSurah": 13,
+			"juz": 29,
+			"manzil": 7,
+			"page": 579,
+			"ruku": 514,
+			"hizbQuarter": 231,
+			"sajda": false,
+			"text": "مُّتَّكِئِينَ فِيهَا عَلَى الْأَرَائِكِ ۖ لَا يَرَوْنَ فِيهَا شَمْسًا وَلَا زَمْهَرِيرًا"
+		},
+		{
+			"number": 5605,
+			"surah": {
+				"number": 76,
+				"name": "سُورَةُ الإِنسَانِ",
+				"englishName": "Al-Insaan",
+				"englishNameTranslation": "Man",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 31
+			},
+			"numberInSurah": 14,
+			"juz": 29,
+			"manzil": 7,
+			"page": 579,
+			"ruku": 514,
+			"hizbQuarter": 231,
+			"sajda": false,
+			"text": "وَدَانِيَةً عَلَيْهِمْ ظِلَالُهَا وَذُلِّلَتْ قُطُوفُهَا تَذْلِيلًا"
+		},
+		{
+			"number": 5606,
+			"surah": {
+				"number": 76,
+				"name": "سُورَةُ الإِنسَانِ",
+				"englishName": "Al-Insaan",
+				"englishNameTranslation": "Man",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 31
+			},
+			"numberInSurah": 15,
+			"juz": 29,
+			"manzil": 7,
+			"page": 579,
+			"ruku": 514,
+			"hizbQuarter": 231,
+			"sajda": false,
+			"text": "وَيُطَافُ عَلَيْهِم بِآنِيَةٍ مِّن فِضَّةٍ وَأَكْوَابٍ كَانَتْ قَوَارِيرَا"
+		},
+		{
+			"number": 5607,
+			"surah": {
+				"number": 76,
+				"name": "سُورَةُ الإِنسَانِ",
+				"englishName": "Al-Insaan",
+				"englishNameTranslation": "Man",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 31
+			},
+			"numberInSurah": 16,
+			"juz": 29,
+			"manzil": 7,
+			"page": 579,
+			"ruku": 514,
+			"hizbQuarter": 231,
+			"sajda": false,
+			"text": "قَوَارِيرَ مِن فِضَّةٍ قَدَّرُوهَا تَقْدِيرًا"
+		},
+		{
+			"number": 5608,
+			"surah": {
+				"number": 76,
+				"name": "سُورَةُ الإِنسَانِ",
+				"englishName": "Al-Insaan",
+				"englishNameTranslation": "Man",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 31
+			},
+			"numberInSurah": 17,
+			"juz": 29,
+			"manzil": 7,
+			"page": 579,
+			"ruku": 514,
+			"hizbQuarter": 231,
+			"sajda": false,
+			"text": "وَيُسْقَوْنَ فِيهَا كَأْسًا كَانَ مِزَاجُهَا زَنجَبِيلًا"
+		},
+		{
+			"number": 5609,
+			"surah": {
+				"number": 76,
+				"name": "سُورَةُ الإِنسَانِ",
+				"englishName": "Al-Insaan",
+				"englishNameTranslation": "Man",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 31
+			},
+			"numberInSurah": 18,
+			"juz": 29,
+			"manzil": 7,
+			"page": 579,
+			"ruku": 514,
+			"hizbQuarter": 231,
+			"sajda": false,
+			"text": "عَيْنًا فِيهَا تُسَمَّىٰ سَلْسَبِيلًا"
+		}
+	],
+	"surahs": {
+		"75": {
+			"number": 75,
+			"name": "سُورَةُ القِيَامَةِ",
+			"englishName": "Al-Qiyaama",
+			"englishNameTranslation": "The Resurrection",
+			"revelationType": "Meccan",
+			"numberOfAyahs": 40
+		},
+		"76": {
+			"number": 76,
+			"name": "سُورَةُ الإِنسَانِ",
+			"englishName": "Al-Insaan",
+			"englishNameTranslation": "Man",
+			"revelationType": "Medinan",
+			"numberOfAyahs": 31
+		}
+	},
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

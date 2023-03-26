@@ -1,0 +1,107 @@
+﻿{
+	"number": 99,
+	"name": "سُورَةُ الزَّلۡزَلَةِ",
+	"englishName": "Az-Zalzala",
+	"englishNameTranslation": "The Earthquake",
+	"revelationType": "Medinan",
+	"numberOfAyahs": 8,
+	"ayahs": [
+		{
+			"number": 6139,
+			"text": "«إذا زُلزلت الأرض» حركت لقيام الساعة «زلزالها» تحريكها الشديد المناسب لعظمتها.",
+			"numberInSurah": 1,
+			"juz": 30,
+			"manzil": 7,
+			"page": 599,
+			"ruku": 541,
+			"hizbQuarter": 239,
+			"sajda": false
+		},
+		{
+			"number": 6140,
+			"text": "«وأخرجت الأرض أثقالها» كنوزها وموتاها فألقتها على ظهرها.",
+			"numberInSurah": 2,
+			"juz": 30,
+			"manzil": 7,
+			"page": 599,
+			"ruku": 541,
+			"hizbQuarter": 239,
+			"sajda": false
+		},
+		{
+			"number": 6141,
+			"text": "«وقال الإنسان» الكافر بالبعث «مالها» إنكارا لتلك الحالة.",
+			"numberInSurah": 3,
+			"juz": 30,
+			"manzil": 7,
+			"page": 599,
+			"ruku": 541,
+			"hizbQuarter": 239,
+			"sajda": false
+		},
+		{
+			"number": 6142,
+			"text": "«يومئذ» بدل من إذا وجوابها «تُحدث أخبارها» تخبر بما عمل عليها من خير وشر.",
+			"numberInSurah": 4,
+			"juz": 30,
+			"manzil": 7,
+			"page": 599,
+			"ruku": 541,
+			"hizbQuarter": 239,
+			"sajda": false
+		},
+		{
+			"number": 6143,
+			"text": "(بأن) بسبب أن (ربك أوحى لها) أي أمرها بذلك، وفي الحديث \"\" تشهد على كل عبد أو أمة بكل ما عمل على ظهرها \"\".",
+			"numberInSurah": 5,
+			"juz": 30,
+			"manzil": 7,
+			"page": 599,
+			"ruku": 541,
+			"hizbQuarter": 239,
+			"sajda": false
+		},
+		{
+			"number": 6144,
+			"text": "«يومئذ يصدر الناس» ينصرفون من موقف الحساب «أشتاتا» متفرقين فآخذ ذات اليمين إلى الجنة وآخذ ذات الشمال إلى النار «ليروا أعمالهم» أي جزاءها من الجنة أو النار.",
+			"numberInSurah": 6,
+			"juz": 30,
+			"manzil": 7,
+			"page": 599,
+			"ruku": 541,
+			"hizbQuarter": 239,
+			"sajda": false
+		},
+		{
+			"number": 6145,
+			"text": "«فمن يعمل مثقال ذرة» زنة نملة صغيرة «خيرا يره» ير ثوابه.",
+			"numberInSurah": 7,
+			"juz": 30,
+			"manzil": 7,
+			"page": 599,
+			"ruku": 541,
+			"hizbQuarter": 239,
+			"sajda": false
+		},
+		{
+			"number": 6146,
+			"text": "«ومن يعمل مثقال ذرة شرا يره» ير جزاءه.",
+			"numberInSurah": 8,
+			"juz": 30,
+			"manzil": 7,
+			"page": 599,
+			"ruku": 541,
+			"hizbQuarter": 239,
+			"sajda": false
+		}
+	],
+	"edition": {
+		"identifier": "ar.jalalayn",
+		"language": "ar",
+		"name": "تفسير الجلالين",
+		"englishName": "Jalal ad-Din al-Mahalli and Jalal ad-Din as-Suyuti",
+		"format": "text",
+		"type": "tafsir",
+		"direction": "rtl"
+	}
+}

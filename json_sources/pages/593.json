@@ -1,0 +1,461 @@
+﻿{
+	"number": 593,
+	"ayahs": [
+		{
+			"number": 5994,
+			"text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ وَالْفَجْرِ",
+			"surah": {
+				"number": 89,
+				"name": "سُورَةُ الفَجۡرِ",
+				"englishName": "Al-Fajr",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 30
+			},
+			"numberInSurah": 1,
+			"juz": 30,
+			"manzil": 7,
+			"page": 593,
+			"ruku": 531,
+			"hizbQuarter": 237,
+			"sajda": false
+		},
+		{
+			"number": 5995,
+			"text": "وَلَيَالٍ عَشْرٍ",
+			"surah": {
+				"number": 89,
+				"name": "سُورَةُ الفَجۡرِ",
+				"englishName": "Al-Fajr",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 30
+			},
+			"numberInSurah": 2,
+			"juz": 30,
+			"manzil": 7,
+			"page": 593,
+			"ruku": 531,
+			"hizbQuarter": 237,
+			"sajda": false
+		},
+		{
+			"number": 5996,
+			"text": "وَالشَّفْعِ وَالْوَتْرِ",
+			"surah": {
+				"number": 89,
+				"name": "سُورَةُ الفَجۡرِ",
+				"englishName": "Al-Fajr",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 30
+			},
+			"numberInSurah": 3,
+			"juz": 30,
+			"manzil": 7,
+			"page": 593,
+			"ruku": 531,
+			"hizbQuarter": 237,
+			"sajda": false
+		},
+		{
+			"number": 5997,
+			"text": "وَاللَّيْلِ إِذَا يَسْرِ",
+			"surah": {
+				"number": 89,
+				"name": "سُورَةُ الفَجۡرِ",
+				"englishName": "Al-Fajr",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 30
+			},
+			"numberInSurah": 4,
+			"juz": 30,
+			"manzil": 7,
+			"page": 593,
+			"ruku": 531,
+			"hizbQuarter": 237,
+			"sajda": false
+		},
+		{
+			"number": 5998,
+			"text": "هَلْ فِي ذَٰلِكَ قَسَمٌ لِذِي حِجْرٍ",
+			"surah": {
+				"number": 89,
+				"name": "سُورَةُ الفَجۡرِ",
+				"englishName": "Al-Fajr",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 30
+			},
+			"numberInSurah": 5,
+			"juz": 30,
+			"manzil": 7,
+			"page": 593,
+			"ruku": 531,
+			"hizbQuarter": 237,
+			"sajda": false
+		},
+		{
+			"number": 5999,
+			"text": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ",
+			"surah": {
+				"number": 89,
+				"name": "سُورَةُ الفَجۡرِ",
+				"englishName": "Al-Fajr",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 30
+			},
+			"numberInSurah": 6,
+			"juz": 30,
+			"manzil": 7,
+			"page": 593,
+			"ruku": 531,
+			"hizbQuarter": 237,
+			"sajda": false
+		},
+		{
+			"number": 6000,
+			"text": "إِرَمَ ذَاتِ الْعِمَادِ",
+			"surah": {
+				"number": 89,
+				"name": "سُورَةُ الفَجۡرِ",
+				"englishName": "Al-Fajr",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 30
+			},
+			"numberInSurah": 7,
+			"juz": 30,
+			"manzil": 7,
+			"page": 593,
+			"ruku": 531,
+			"hizbQuarter": 237,
+			"sajda": false
+		},
+		{
+			"number": 6001,
+			"text": "الَّتِي لَمْ يُخْلَقْ مِثْلُهَا فِي الْبِلَادِ",
+			"surah": {
+				"number": 89,
+				"name": "سُورَةُ الفَجۡرِ",
+				"englishName": "Al-Fajr",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 30
+			},
+			"numberInSurah": 8,
+			"juz": 30,
+			"manzil": 7,
+			"page": 593,
+			"ruku": 531,
+			"hizbQuarter": 237,
+			"sajda": false
+		},
+		{
+			"number": 6002,
+			"text": "وَثَمُودَ الَّذِينَ جَابُوا الصَّخْرَ بِالْوَادِ",
+			"surah": {
+				"number": 89,
+				"name": "سُورَةُ الفَجۡرِ",
+				"englishName": "Al-Fajr",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 30
+			},
+			"numberInSurah": 9,
+			"juz": 30,
+			"manzil": 7,
+			"page": 593,
+			"ruku": 531,
+			"hizbQuarter": 237,
+			"sajda": false
+		},
+		{
+			"number": 6003,
+			"text": "وَفِرْعَوْنَ ذِي الْأَوْتَادِ",
+			"surah": {
+				"number": 89,
+				"name": "سُورَةُ الفَجۡرِ",
+				"englishName": "Al-Fajr",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 30
+			},
+			"numberInSurah": 10,
+			"juz": 30,
+			"manzil": 7,
+			"page": 593,
+			"ruku": 531,
+			"hizbQuarter": 237,
+			"sajda": false
+		},
+		{
+			"number": 6004,
+			"text": "الَّذِينَ طَغَوْا فِي الْبِلَادِ",
+			"surah": {
+				"number": 89,
+				"name": "سُورَةُ الفَجۡرِ",
+				"englishName": "Al-Fajr",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 30
+			},
+			"numberInSurah": 11,
+			"juz": 30,
+			"manzil": 7,
+			"page": 593,
+			"ruku": 531,
+			"hizbQuarter": 237,
+			"sajda": false
+		},
+		{
+			"number": 6005,
+			"text": "فَأَكْثَرُوا فِيهَا الْفَسَادَ",
+			"surah": {
+				"number": 89,
+				"name": "سُورَةُ الفَجۡرِ",
+				"englishName": "Al-Fajr",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 30
+			},
+			"numberInSurah": 12,
+			"juz": 30,
+			"manzil": 7,
+			"page": 593,
+			"ruku": 531,
+			"hizbQuarter": 237,
+			"sajda": false
+		},
+		{
+			"number": 6006,
+			"text": "فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍ",
+			"surah": {
+				"number": 89,
+				"name": "سُورَةُ الفَجۡرِ",
+				"englishName": "Al-Fajr",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 30
+			},
+			"numberInSurah": 13,
+			"juz": 30,
+			"manzil": 7,
+			"page": 593,
+			"ruku": 531,
+			"hizbQuarter": 237,
+			"sajda": false
+		},
+		{
+			"number": 6007,
+			"text": "إِنَّ رَبَّكَ لَبِالْمِرْصَادِ",
+			"surah": {
+				"number": 89,
+				"name": "سُورَةُ الفَجۡرِ",
+				"englishName": "Al-Fajr",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 30
+			},
+			"numberInSurah": 14,
+			"juz": 30,
+			"manzil": 7,
+			"page": 593,
+			"ruku": 531,
+			"hizbQuarter": 237,
+			"sajda": false
+		},
+		{
+			"number": 6008,
+			"text": "فَأَمَّا الْإِنْسَانُ إِذَا مَا ابْتَلَاهُ رَبُّهُ فَأَكْرَمَهُ وَنَعَّمَهُ فَيَقُولُ رَبِّي أَكْرَمَنِ",
+			"surah": {
+				"number": 89,
+				"name": "سُورَةُ الفَجۡرِ",
+				"englishName": "Al-Fajr",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 30
+			},
+			"numberInSurah": 15,
+			"juz": 30,
+			"manzil": 7,
+			"page": 593,
+			"ruku": 531,
+			"hizbQuarter": 237,
+			"sajda": false
+		},
+		{
+			"number": 6009,
+			"text": "وَأَمَّا إِذَا مَا ابْتَلَاهُ فَقَدَرَ عَلَيْهِ رِزْقَهُ فَيَقُولُ رَبِّي أَهَانَنِ",
+			"surah": {
+				"number": 89,
+				"name": "سُورَةُ الفَجۡرِ",
+				"englishName": "Al-Fajr",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 30
+			},
+			"numberInSurah": 16,
+			"juz": 30,
+			"manzil": 7,
+			"page": 593,
+			"ruku": 531,
+			"hizbQuarter": 237,
+			"sajda": false
+		},
+		{
+			"number": 6010,
+			"text": "كَلَّا ۖ بَلْ لَا تُكْرِمُونَ الْيَتِيمَ",
+			"surah": {
+				"number": 89,
+				"name": "سُورَةُ الفَجۡرِ",
+				"englishName": "Al-Fajr",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 30
+			},
+			"numberInSurah": 17,
+			"juz": 30,
+			"manzil": 7,
+			"page": 593,
+			"ruku": 531,
+			"hizbQuarter": 237,
+			"sajda": false
+		},
+		{
+			"number": 6011,
+			"text": "وَلَا تَحَاضُّونَ عَلَىٰ طَعَامِ الْمِسْكِينِ",
+			"surah": {
+				"number": 89,
+				"name": "سُورَةُ الفَجۡرِ",
+				"englishName": "Al-Fajr",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 30
+			},
+			"numberInSurah": 18,
+			"juz": 30,
+			"manzil": 7,
+			"page": 593,
+			"ruku": 531,
+			"hizbQuarter": 237,
+			"sajda": false
+		},
+		{
+			"number": 6012,
+			"text": "وَتَأْكُلُونَ التُّرَاثَ أَكْلًا لَمًّا",
+			"surah": {
+				"number": 89,
+				"name": "سُورَةُ الفَجۡرِ",
+				"englishName": "Al-Fajr",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 30
+			},
+			"numberInSurah": 19,
+			"juz": 30,
+			"manzil": 7,
+			"page": 593,
+			"ruku": 531,
+			"hizbQuarter": 237,
+			"sajda": false
+		},
+		{
+			"number": 6013,
+			"text": "وَتُحِبُّونَ الْمَالَ حُبًّا جَمًّا",
+			"surah": {
+				"number": 89,
+				"name": "سُورَةُ الفَجۡرِ",
+				"englishName": "Al-Fajr",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 30
+			},
+			"numberInSurah": 20,
+			"juz": 30,
+			"manzil": 7,
+			"page": 593,
+			"ruku": 531,
+			"hizbQuarter": 237,
+			"sajda": false
+		},
+		{
+			"number": 6014,
+			"text": "كَلَّا إِذَا دُكَّتِ الْأَرْضُ دَكًّا دَكًّا",
+			"surah": {
+				"number": 89,
+				"name": "سُورَةُ الفَجۡرِ",
+				"englishName": "Al-Fajr",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 30
+			},
+			"numberInSurah": 21,
+			"juz": 30,
+			"manzil": 7,
+			"page": 593,
+			"ruku": 531,
+			"hizbQuarter": 237,
+			"sajda": false
+		},
+		{
+			"number": 6015,
+			"text": "وَجَاءَ رَبُّكَ وَالْمَلَكُ صَفًّا صَفًّا",
+			"surah": {
+				"number": 89,
+				"name": "سُورَةُ الفَجۡرِ",
+				"englishName": "Al-Fajr",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 30
+			},
+			"numberInSurah": 22,
+			"juz": 30,
+			"manzil": 7,
+			"page": 593,
+			"ruku": 531,
+			"hizbQuarter": 237,
+			"sajda": false
+		},
+		{
+			"number": 6016,
+			"text": "وَجِيءَ يَوْمَئِذٍ بِجَهَنَّمَ ۚ يَوْمَئِذٍ يَتَذَكَّرُ الْإِنْسَانُ وَأَنَّىٰ لَهُ الذِّكْرَىٰ",
+			"surah": {
+				"number": 89,
+				"name": "سُورَةُ الفَجۡرِ",
+				"englishName": "Al-Fajr",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 30
+			},
+			"numberInSurah": 23,
+			"juz": 30,
+			"manzil": 7,
+			"page": 593,
+			"ruku": 531,
+			"hizbQuarter": 237,
+			"sajda": false
+		}
+	],
+	"surahs": {
+		"89": {
+			"number": 89,
+			"name": "سُورَةُ الفَجۡرِ",
+			"englishName": "Al-Fajr",
+			"englishNameTranslation": "The Dawn",
+			"revelationType": "Meccan",
+			"numberOfAyahs": 30
+		}
+	},
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

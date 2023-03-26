@@ -1,0 +1,63 @@
+﻿{
+	"number": 112,
+	"name": "سُورَةُ الإِخۡلَاصِ",
+	"englishName": "Al-Ikhlaas",
+	"englishNameTranslation": "Sincerity",
+	"revelationType": "Meccan",
+	"numberOfAyahs": 4,
+	"ayahs": [
+		{
+			"number": 6222,
+			"text": "سئل النبي صلى الله عليه وسلم عن ربه فنزل: «قل هو الله أحد» فالله خبر هو وأحد بدل منه أو خبر ثان.",
+			"numberInSurah": 1,
+			"juz": 30,
+			"manzil": 7,
+			"page": 604,
+			"ruku": 554,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6223,
+			"text": "«الله الصمد» مبتدأ وخبر أي المقصود في الحوائج على الدوام.",
+			"numberInSurah": 2,
+			"juz": 30,
+			"manzil": 7,
+			"page": 604,
+			"ruku": 554,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6224,
+			"text": "«لم يلد» لانتفاء مجانسته «ولم يولد» لانتفاء الحدوث عنه.",
+			"numberInSurah": 3,
+			"juz": 30,
+			"manzil": 7,
+			"page": 604,
+			"ruku": 554,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6225,
+			"text": "«ولم يكن له كفواً أحد» أي مكافئًا ومماثلاً، وله متعلق بكفوًا، وقُدِّم عليه لأنه مَحطُّ القصد بالنفي وأَخَّر أحد وهو اسم يكن عن خبرها رعاية للفاصلة.",
+			"numberInSurah": 4,
+			"juz": 30,
+			"manzil": 7,
+			"page": 604,
+			"ruku": 554,
+			"hizbQuarter": 240,
+			"sajda": false
+		}
+	],
+	"edition": {
+		"identifier": "ar.jalalayn",
+		"language": "ar",
+		"name": "تفسير الجلالين",
+		"englishName": "Jalal ad-Din al-Mahalli and Jalal ad-Din as-Suyuti",
+		"format": "text",
+		"type": "tafsir",
+		"direction": "rtl"
+	}
+}

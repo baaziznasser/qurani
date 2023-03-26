@@ -1,0 +1,632 @@
+﻿{
+	"number": 21.5,
+	"ayahs": [
+		{
+			"number": 1357,
+			"text": "۞ وَمَا كَانَ الْمُؤْمِنُونَ لِيَنْفِرُوا كَافَّةً ۚ فَلَوْلَا نَفَرَ مِنْ كُلِّ فِرْقَةٍ مِنْهُمْ طَائِفَةٌ لِيَتَفَقَّهُوا فِي الدِّينِ وَلِيُنْذِرُوا قَوْمَهُمْ إِذَا رَجَعُوا إِلَيْهِمْ لَعَلَّهُمْ يَحْذَرُونَ",
+			"surah": {
+				"number": 9,
+				"name": "سُورَةُ التَّوۡبَةِ",
+				"englishName": "At-Tawba",
+				"englishNameTranslation": "The Repentance",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 129
+			},
+			"numberInSurah": 122,
+			"juz": 11,
+			"manzil": 2,
+			"page": 206,
+			"ruku": 170,
+			"hizbQuarter": 83,
+			"sajda": false
+		},
+		{
+			"number": 1358,
+			"text": "يَا أَيُّهَا الَّذِينَ آمَنُوا قَاتِلُوا الَّذِينَ يَلُونَكُمْ مِنَ الْكُفَّارِ وَلْيَجِدُوا فِيكُمْ غِلْظَةً ۚ وَاعْلَمُوا أَنَّ اللَّهَ مَعَ الْمُتَّقِينَ",
+			"surah": {
+				"number": 9,
+				"name": "سُورَةُ التَّوۡبَةِ",
+				"englishName": "At-Tawba",
+				"englishNameTranslation": "The Repentance",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 129
+			},
+			"numberInSurah": 123,
+			"juz": 11,
+			"manzil": 2,
+			"page": 207,
+			"ruku": 171,
+			"hizbQuarter": 83,
+			"sajda": false
+		},
+		{
+			"number": 1359,
+			"text": "وَإِذَا مَا أُنْزِلَتْ سُورَةٌ فَمِنْهُمْ مَنْ يَقُولُ أَيُّكُمْ زَادَتْهُ هَٰذِهِ إِيمَانًا ۚ فَأَمَّا الَّذِينَ آمَنُوا فَزَادَتْهُمْ إِيمَانًا وَهُمْ يَسْتَبْشِرُونَ",
+			"surah": {
+				"number": 9,
+				"name": "سُورَةُ التَّوۡبَةِ",
+				"englishName": "At-Tawba",
+				"englishNameTranslation": "The Repentance",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 129
+			},
+			"numberInSurah": 124,
+			"juz": 11,
+			"manzil": 2,
+			"page": 207,
+			"ruku": 171,
+			"hizbQuarter": 83,
+			"sajda": false
+		},
+		{
+			"number": 1360,
+			"text": "وَأَمَّا الَّذِينَ فِي قُلُوبِهِمْ مَرَضٌ فَزَادَتْهُمْ رِجْسًا إِلَىٰ رِجْسِهِمْ وَمَاتُوا وَهُمْ كَافِرُونَ",
+			"surah": {
+				"number": 9,
+				"name": "سُورَةُ التَّوۡبَةِ",
+				"englishName": "At-Tawba",
+				"englishNameTranslation": "The Repentance",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 129
+			},
+			"numberInSurah": 125,
+			"juz": 11,
+			"manzil": 2,
+			"page": 207,
+			"ruku": 171,
+			"hizbQuarter": 83,
+			"sajda": false
+		},
+		{
+			"number": 1361,
+			"text": "أَوَلَا يَرَوْنَ أَنَّهُمْ يُفْتَنُونَ فِي كُلِّ عَامٍ مَرَّةً أَوْ مَرَّتَيْنِ ثُمَّ لَا يَتُوبُونَ وَلَا هُمْ يَذَّكَّرُونَ",
+			"surah": {
+				"number": 9,
+				"name": "سُورَةُ التَّوۡبَةِ",
+				"englishName": "At-Tawba",
+				"englishNameTranslation": "The Repentance",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 129
+			},
+			"numberInSurah": 126,
+			"juz": 11,
+			"manzil": 2,
+			"page": 207,
+			"ruku": 171,
+			"hizbQuarter": 83,
+			"sajda": false
+		},
+		{
+			"number": 1362,
+			"text": "وَإِذَا مَا أُنْزِلَتْ سُورَةٌ نَظَرَ بَعْضُهُمْ إِلَىٰ بَعْضٍ هَلْ يَرَاكُمْ مِنْ أَحَدٍ ثُمَّ انْصَرَفُوا ۚ صَرَفَ اللَّهُ قُلُوبَهُمْ بِأَنَّهُمْ قَوْمٌ لَا يَفْقَهُونَ",
+			"surah": {
+				"number": 9,
+				"name": "سُورَةُ التَّوۡبَةِ",
+				"englishName": "At-Tawba",
+				"englishNameTranslation": "The Repentance",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 129
+			},
+			"numberInSurah": 127,
+			"juz": 11,
+			"manzil": 2,
+			"page": 207,
+			"ruku": 171,
+			"hizbQuarter": 83,
+			"sajda": false
+		},
+		{
+			"number": 1363,
+			"text": "لَقَدْ جَاءَكُمْ رَسُولٌ مِنْ أَنْفُسِكُمْ عَزِيزٌ عَلَيْهِ مَا عَنِتُّمْ حَرِيصٌ عَلَيْكُمْ بِالْمُؤْمِنِينَ رَءُوفٌ رَحِيمٌ",
+			"surah": {
+				"number": 9,
+				"name": "سُورَةُ التَّوۡبَةِ",
+				"englishName": "At-Tawba",
+				"englishNameTranslation": "The Repentance",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 129
+			},
+			"numberInSurah": 128,
+			"juz": 11,
+			"manzil": 2,
+			"page": 207,
+			"ruku": 171,
+			"hizbQuarter": 83,
+			"sajda": false
+		},
+		{
+			"number": 1364,
+			"text": "فَإِنْ تَوَلَّوْا فَقُلْ حَسْبِيَ اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ ۖ عَلَيْهِ تَوَكَّلْتُ ۖ وَهُوَ رَبُّ الْعَرْشِ الْعَظِيمِ",
+			"surah": {
+				"number": 9,
+				"name": "سُورَةُ التَّوۡبَةِ",
+				"englishName": "At-Tawba",
+				"englishNameTranslation": "The Repentance",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 129
+			},
+			"numberInSurah": 129,
+			"juz": 11,
+			"manzil": 2,
+			"page": 207,
+			"ruku": 171,
+			"hizbQuarter": 83,
+			"sajda": false
+		},
+		{
+			"number": 1365,
+			"text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ الر ۚ تِلْكَ آيَاتُ الْكِتَابِ الْحَكِيمِ",
+			"surah": {
+				"number": 10,
+				"name": "سُورَةُ يُونُسَ",
+				"englishName": "Yunus",
+				"englishNameTranslation": "Jonas",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 109
+			},
+			"numberInSurah": 1,
+			"juz": 11,
+			"manzil": 3,
+			"page": 208,
+			"ruku": 172,
+			"hizbQuarter": 83,
+			"sajda": false
+		},
+		{
+			"number": 1366,
+			"text": "أَكَانَ لِلنَّاسِ عَجَبًا أَنْ أَوْحَيْنَا إِلَىٰ رَجُلٍ مِنْهُمْ أَنْ أَنْذِرِ النَّاسَ وَبَشِّرِ الَّذِينَ آمَنُوا أَنَّ لَهُمْ قَدَمَ صِدْقٍ عِنْدَ رَبِّهِمْ ۗ قَالَ الْكَافِرُونَ إِنَّ هَٰذَا لَسَاحِرٌ مُبِينٌ",
+			"surah": {
+				"number": 10,
+				"name": "سُورَةُ يُونُسَ",
+				"englishName": "Yunus",
+				"englishNameTranslation": "Jonas",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 109
+			},
+			"numberInSurah": 2,
+			"juz": 11,
+			"manzil": 3,
+			"page": 208,
+			"ruku": 172,
+			"hizbQuarter": 83,
+			"sajda": false
+		},
+		{
+			"number": 1367,
+			"text": "إِنَّ رَبَّكُمُ اللَّهُ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَىٰ عَلَى الْعَرْشِ ۖ يُدَبِّرُ الْأَمْرَ ۖ مَا مِنْ شَفِيعٍ إِلَّا مِنْ بَعْدِ إِذْنِهِ ۚ ذَٰلِكُمُ اللَّهُ رَبُّكُمْ فَاعْبُدُوهُ ۚ أَفَلَا تَذَكَّرُونَ",
+			"surah": {
+				"number": 10,
+				"name": "سُورَةُ يُونُسَ",
+				"englishName": "Yunus",
+				"englishNameTranslation": "Jonas",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 109
+			},
+			"numberInSurah": 3,
+			"juz": 11,
+			"manzil": 3,
+			"page": 208,
+			"ruku": 172,
+			"hizbQuarter": 83,
+			"sajda": false
+		},
+		{
+			"number": 1368,
+			"text": "إِلَيْهِ مَرْجِعُكُمْ جَمِيعًا ۖ وَعْدَ اللَّهِ حَقًّا ۚ إِنَّهُ يَبْدَأُ الْخَلْقَ ثُمَّ يُعِيدُهُ لِيَجْزِيَ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ بِالْقِسْطِ ۚ وَالَّذِينَ كَفَرُوا لَهُمْ شَرَابٌ مِنْ حَمِيمٍ وَعَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْفُرُونَ",
+			"surah": {
+				"number": 10,
+				"name": "سُورَةُ يُونُسَ",
+				"englishName": "Yunus",
+				"englishNameTranslation": "Jonas",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 109
+			},
+			"numberInSurah": 4,
+			"juz": 11,
+			"manzil": 3,
+			"page": 208,
+			"ruku": 172,
+			"hizbQuarter": 83,
+			"sajda": false
+		},
+		{
+			"number": 1369,
+			"text": "هُوَ الَّذِي جَعَلَ الشَّمْسَ ضِيَاءً وَالْقَمَرَ نُورًا وَقَدَّرَهُ مَنَازِلَ لِتَعْلَمُوا عَدَدَ السِّنِينَ وَالْحِسَابَ ۚ مَا خَلَقَ اللَّهُ ذَٰلِكَ إِلَّا بِالْحَقِّ ۚ يُفَصِّلُ الْآيَاتِ لِقَوْمٍ يَعْلَمُونَ",
+			"surah": {
+				"number": 10,
+				"name": "سُورَةُ يُونُسَ",
+				"englishName": "Yunus",
+				"englishNameTranslation": "Jonas",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 109
+			},
+			"numberInSurah": 5,
+			"juz": 11,
+			"manzil": 3,
+			"page": 208,
+			"ruku": 172,
+			"hizbQuarter": 83,
+			"sajda": false
+		},
+		{
+			"number": 1370,
+			"text": "إِنَّ فِي اخْتِلَافِ اللَّيْلِ وَالنَّهَارِ وَمَا خَلَقَ اللَّهُ فِي السَّمَاوَاتِ وَالْأَرْضِ لَآيَاتٍ لِقَوْمٍ يَتَّقُونَ",
+			"surah": {
+				"number": 10,
+				"name": "سُورَةُ يُونُسَ",
+				"englishName": "Yunus",
+				"englishNameTranslation": "Jonas",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 109
+			},
+			"numberInSurah": 6,
+			"juz": 11,
+			"manzil": 3,
+			"page": 208,
+			"ruku": 172,
+			"hizbQuarter": 83,
+			"sajda": false
+		},
+		{
+			"number": 1371,
+			"text": "إِنَّ الَّذِينَ لَا يَرْجُونَ لِقَاءَنَا وَرَضُوا بِالْحَيَاةِ الدُّنْيَا وَاطْمَأَنُّوا بِهَا وَالَّذِينَ هُمْ عَنْ آيَاتِنَا غَافِلُونَ",
+			"surah": {
+				"number": 10,
+				"name": "سُورَةُ يُونُسَ",
+				"englishName": "Yunus",
+				"englishNameTranslation": "Jonas",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 109
+			},
+			"numberInSurah": 7,
+			"juz": 11,
+			"manzil": 3,
+			"page": 209,
+			"ruku": 172,
+			"hizbQuarter": 83,
+			"sajda": false
+		},
+		{
+			"number": 1372,
+			"text": "أُولَٰئِكَ مَأْوَاهُمُ النَّارُ بِمَا كَانُوا يَكْسِبُونَ",
+			"surah": {
+				"number": 10,
+				"name": "سُورَةُ يُونُسَ",
+				"englishName": "Yunus",
+				"englishNameTranslation": "Jonas",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 109
+			},
+			"numberInSurah": 8,
+			"juz": 11,
+			"manzil": 3,
+			"page": 209,
+			"ruku": 172,
+			"hizbQuarter": 83,
+			"sajda": false
+		},
+		{
+			"number": 1373,
+			"text": "إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ يَهْدِيهِمْ رَبُّهُمْ بِإِيمَانِهِمْ ۖ تَجْرِي مِنْ تَحْتِهِمُ الْأَنْهَارُ فِي جَنَّاتِ النَّعِيمِ",
+			"surah": {
+				"number": 10,
+				"name": "سُورَةُ يُونُسَ",
+				"englishName": "Yunus",
+				"englishNameTranslation": "Jonas",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 109
+			},
+			"numberInSurah": 9,
+			"juz": 11,
+			"manzil": 3,
+			"page": 209,
+			"ruku": 172,
+			"hizbQuarter": 83,
+			"sajda": false
+		},
+		{
+			"number": 1374,
+			"text": "دَعْوَاهُمْ فِيهَا سُبْحَانَكَ اللَّهُمَّ وَتَحِيَّتُهُمْ فِيهَا سَلَامٌ ۚ وَآخِرُ دَعْوَاهُمْ أَنِ الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+			"surah": {
+				"number": 10,
+				"name": "سُورَةُ يُونُسَ",
+				"englishName": "Yunus",
+				"englishNameTranslation": "Jonas",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 109
+			},
+			"numberInSurah": 10,
+			"juz": 11,
+			"manzil": 3,
+			"page": 209,
+			"ruku": 172,
+			"hizbQuarter": 83,
+			"sajda": false
+		},
+		{
+			"number": 1375,
+			"text": "۞ وَلَوْ يُعَجِّلُ اللَّهُ لِلنَّاسِ الشَّرَّ اسْتِعْجَالَهُمْ بِالْخَيْرِ لَقُضِيَ إِلَيْهِمْ أَجَلُهُمْ ۖ فَنَذَرُ الَّذِينَ لَا يَرْجُونَ لِقَاءَنَا فِي طُغْيَانِهِمْ يَعْمَهُونَ",
+			"surah": {
+				"number": 10,
+				"name": "سُورَةُ يُونُسَ",
+				"englishName": "Yunus",
+				"englishNameTranslation": "Jonas",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 109
+			},
+			"numberInSurah": 11,
+			"juz": 11,
+			"manzil": 3,
+			"page": 209,
+			"ruku": 173,
+			"hizbQuarter": 84,
+			"sajda": false
+		},
+		{
+			"number": 1376,
+			"text": "وَإِذَا مَسَّ الْإِنْسَانَ الضُّرُّ دَعَانَا لِجَنْبِهِ أَوْ قَاعِدًا أَوْ قَائِمًا فَلَمَّا كَشَفْنَا عَنْهُ ضُرَّهُ مَرَّ كَأَنْ لَمْ يَدْعُنَا إِلَىٰ ضُرٍّ مَسَّهُ ۚ كَذَٰلِكَ زُيِّنَ لِلْمُسْرِفِينَ مَا كَانُوا يَعْمَلُونَ",
+			"surah": {
+				"number": 10,
+				"name": "سُورَةُ يُونُسَ",
+				"englishName": "Yunus",
+				"englishNameTranslation": "Jonas",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 109
+			},
+			"numberInSurah": 12,
+			"juz": 11,
+			"manzil": 3,
+			"page": 209,
+			"ruku": 173,
+			"hizbQuarter": 84,
+			"sajda": false
+		},
+		{
+			"number": 1377,
+			"text": "وَلَقَدْ أَهْلَكْنَا الْقُرُونَ مِنْ قَبْلِكُمْ لَمَّا ظَلَمُوا ۙ وَجَاءَتْهُمْ رُسُلُهُمْ بِالْبَيِّنَاتِ وَمَا كَانُوا لِيُؤْمِنُوا ۚ كَذَٰلِكَ نَجْزِي الْقَوْمَ الْمُجْرِمِينَ",
+			"surah": {
+				"number": 10,
+				"name": "سُورَةُ يُونُسَ",
+				"englishName": "Yunus",
+				"englishNameTranslation": "Jonas",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 109
+			},
+			"numberInSurah": 13,
+			"juz": 11,
+			"manzil": 3,
+			"page": 209,
+			"ruku": 173,
+			"hizbQuarter": 84,
+			"sajda": false
+		},
+		{
+			"number": 1378,
+			"text": "ثُمَّ جَعَلْنَاكُمْ خَلَائِفَ فِي الْأَرْضِ مِنْ بَعْدِهِمْ لِنَنْظُرَ كَيْفَ تَعْمَلُونَ",
+			"surah": {
+				"number": 10,
+				"name": "سُورَةُ يُونُسَ",
+				"englishName": "Yunus",
+				"englishNameTranslation": "Jonas",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 109
+			},
+			"numberInSurah": 14,
+			"juz": 11,
+			"manzil": 3,
+			"page": 209,
+			"ruku": 173,
+			"hizbQuarter": 84,
+			"sajda": false
+		},
+		{
+			"number": 1379,
+			"text": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ آيَاتُنَا بَيِّنَاتٍ ۙ قَالَ الَّذِينَ لَا يَرْجُونَ لِقَاءَنَا ائْتِ بِقُرْآنٍ غَيْرِ هَٰذَا أَوْ بَدِّلْهُ ۚ قُلْ مَا يَكُونُ لِي أَنْ أُبَدِّلَهُ مِنْ تِلْقَاءِ نَفْسِي ۖ إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰ إِلَيَّ ۖ إِنِّي أَخَافُ إِنْ عَصَيْتُ رَبِّي عَذَابَ يَوْمٍ عَظِيمٍ",
+			"surah": {
+				"number": 10,
+				"name": "سُورَةُ يُونُسَ",
+				"englishName": "Yunus",
+				"englishNameTranslation": "Jonas",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 109
+			},
+			"numberInSurah": 15,
+			"juz": 11,
+			"manzil": 3,
+			"page": 210,
+			"ruku": 173,
+			"hizbQuarter": 84,
+			"sajda": false
+		},
+		{
+			"number": 1380,
+			"text": "قُلْ لَوْ شَاءَ اللَّهُ مَا تَلَوْتُهُ عَلَيْكُمْ وَلَا أَدْرَاكُمْ بِهِ ۖ فَقَدْ لَبِثْتُ فِيكُمْ عُمُرًا مِنْ قَبْلِهِ ۚ أَفَلَا تَعْقِلُونَ",
+			"surah": {
+				"number": 10,
+				"name": "سُورَةُ يُونُسَ",
+				"englishName": "Yunus",
+				"englishNameTranslation": "Jonas",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 109
+			},
+			"numberInSurah": 16,
+			"juz": 11,
+			"manzil": 3,
+			"page": 210,
+			"ruku": 173,
+			"hizbQuarter": 84,
+			"sajda": false
+		},
+		{
+			"number": 1381,
+			"text": "فَمَنْ أَظْلَمُ مِمَّنِ افْتَرَىٰ عَلَى اللَّهِ كَذِبًا أَوْ كَذَّبَ بِآيَاتِهِ ۚ إِنَّهُ لَا يُفْلِحُ الْمُجْرِمُونَ",
+			"surah": {
+				"number": 10,
+				"name": "سُورَةُ يُونُسَ",
+				"englishName": "Yunus",
+				"englishNameTranslation": "Jonas",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 109
+			},
+			"numberInSurah": 17,
+			"juz": 11,
+			"manzil": 3,
+			"page": 210,
+			"ruku": 173,
+			"hizbQuarter": 84,
+			"sajda": false
+		},
+		{
+			"number": 1382,
+			"text": "وَيَعْبُدُونَ مِنْ دُونِ اللَّهِ مَا لَا يَضُرُّهُمْ وَلَا يَنْفَعُهُمْ وَيَقُولُونَ هَٰؤُلَاءِ شُفَعَاؤُنَا عِنْدَ اللَّهِ ۚ قُلْ أَتُنَبِّئُونَ اللَّهَ بِمَا لَا يَعْلَمُ فِي السَّمَاوَاتِ وَلَا فِي الْأَرْضِ ۚ سُبْحَانَهُ وَتَعَالَىٰ عَمَّا يُشْرِكُونَ",
+			"surah": {
+				"number": 10,
+				"name": "سُورَةُ يُونُسَ",
+				"englishName": "Yunus",
+				"englishNameTranslation": "Jonas",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 109
+			},
+			"numberInSurah": 18,
+			"juz": 11,
+			"manzil": 3,
+			"page": 210,
+			"ruku": 173,
+			"hizbQuarter": 84,
+			"sajda": false
+		},
+		{
+			"number": 1383,
+			"text": "وَمَا كَانَ النَّاسُ إِلَّا أُمَّةً وَاحِدَةً فَاخْتَلَفُوا ۚ وَلَوْلَا كَلِمَةٌ سَبَقَتْ مِنْ رَبِّكَ لَقُضِيَ بَيْنَهُمْ فِيمَا فِيهِ يَخْتَلِفُونَ",
+			"surah": {
+				"number": 10,
+				"name": "سُورَةُ يُونُسَ",
+				"englishName": "Yunus",
+				"englishNameTranslation": "Jonas",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 109
+			},
+			"numberInSurah": 19,
+			"juz": 11,
+			"manzil": 3,
+			"page": 210,
+			"ruku": 173,
+			"hizbQuarter": 84,
+			"sajda": false
+		},
+		{
+			"number": 1384,
+			"text": "وَيَقُولُونَ لَوْلَا أُنْزِلَ عَلَيْهِ آيَةٌ مِنْ رَبِّهِ ۖ فَقُلْ إِنَّمَا الْغَيْبُ لِلَّهِ فَانْتَظِرُوا إِنِّي مَعَكُمْ مِنَ الْمُنْتَظِرِينَ",
+			"surah": {
+				"number": 10,
+				"name": "سُورَةُ يُونُسَ",
+				"englishName": "Yunus",
+				"englishNameTranslation": "Jonas",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 109
+			},
+			"numberInSurah": 20,
+			"juz": 11,
+			"manzil": 3,
+			"page": 210,
+			"ruku": 173,
+			"hizbQuarter": 84,
+			"sajda": false
+		},
+		{
+			"number": 1385,
+			"text": "وَإِذَا أَذَقْنَا النَّاسَ رَحْمَةً مِنْ بَعْدِ ضَرَّاءَ مَسَّتْهُمْ إِذَا لَهُمْ مَكْرٌ فِي آيَاتِنَا ۚ قُلِ اللَّهُ أَسْرَعُ مَكْرًا ۚ إِنَّ رُسُلَنَا يَكْتُبُونَ مَا تَمْكُرُونَ",
+			"surah": {
+				"number": 10,
+				"name": "سُورَةُ يُونُسَ",
+				"englishName": "Yunus",
+				"englishNameTranslation": "Jonas",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 109
+			},
+			"numberInSurah": 21,
+			"juz": 11,
+			"manzil": 3,
+			"page": 211,
+			"ruku": 174,
+			"hizbQuarter": 84,
+			"sajda": false
+		},
+		{
+			"number": 1386,
+			"text": "هُوَ الَّذِي يُسَيِّرُكُمْ فِي الْبَرِّ وَالْبَحْرِ ۖ حَتَّىٰ إِذَا كُنْتُمْ فِي الْفُلْكِ وَجَرَيْنَ بِهِمْ بِرِيحٍ طَيِّبَةٍ وَفَرِحُوا بِهَا جَاءَتْهَا رِيحٌ عَاصِفٌ وَجَاءَهُمُ الْمَوْجُ مِنْ كُلِّ مَكَانٍ وَظَنُّوا أَنَّهُمْ أُحِيطَ بِهِمْ ۙ دَعَوُا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ لَئِنْ أَنْجَيْتَنَا مِنْ هَٰذِهِ لَنَكُونَنَّ مِنَ الشَّاكِرِينَ",
+			"surah": {
+				"number": 10,
+				"name": "سُورَةُ يُونُسَ",
+				"englishName": "Yunus",
+				"englishNameTranslation": "Jonas",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 109
+			},
+			"numberInSurah": 22,
+			"juz": 11,
+			"manzil": 3,
+			"page": 211,
+			"ruku": 174,
+			"hizbQuarter": 84,
+			"sajda": false
+		},
+		{
+			"number": 1387,
+			"text": "فَلَمَّا أَنْجَاهُمْ إِذَا هُمْ يَبْغُونَ فِي الْأَرْضِ بِغَيْرِ الْحَقِّ ۗ يَا أَيُّهَا النَّاسُ إِنَّمَا بَغْيُكُمْ عَلَىٰ أَنْفُسِكُمْ ۖ مَتَاعَ الْحَيَاةِ الدُّنْيَا ۖ ثُمَّ إِلَيْنَا مَرْجِعُكُمْ فَنُنَبِّئُكُمْ بِمَا كُنْتُمْ تَعْمَلُونَ",
+			"surah": {
+				"number": 10,
+				"name": "سُورَةُ يُونُسَ",
+				"englishName": "Yunus",
+				"englishNameTranslation": "Jonas",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 109
+			},
+			"numberInSurah": 23,
+			"juz": 11,
+			"manzil": 3,
+			"page": 211,
+			"ruku": 174,
+			"hizbQuarter": 84,
+			"sajda": false
+		},
+		{
+			"number": 1388,
+			"text": "إِنَّمَا مَثَلُ الْحَيَاةِ الدُّنْيَا كَمَاءٍ أَنْزَلْنَاهُ مِنَ السَّمَاءِ فَاخْتَلَطَ بِهِ نَبَاتُ الْأَرْضِ مِمَّا يَأْكُلُ النَّاسُ وَالْأَنْعَامُ حَتَّىٰ إِذَا أَخَذَتِ الْأَرْضُ زُخْرُفَهَا وَازَّيَّنَتْ وَظَنَّ أَهْلُهَا أَنَّهُمْ قَادِرُونَ عَلَيْهَا أَتَاهَا أَمْرُنَا لَيْلًا أَوْ نَهَارًا فَجَعَلْنَاهَا حَصِيدًا كَأَنْ لَمْ تَغْنَ بِالْأَمْسِ ۚ كَذَٰلِكَ نُفَصِّلُ الْآيَاتِ لِقَوْمٍ يَتَفَكَّرُونَ",
+			"surah": {
+				"number": 10,
+				"name": "سُورَةُ يُونُسَ",
+				"englishName": "Yunus",
+				"englishNameTranslation": "Jonas",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 109
+			},
+			"numberInSurah": 24,
+			"juz": 11,
+			"manzil": 3,
+			"page": 211,
+			"ruku": 174,
+			"hizbQuarter": 84,
+			"sajda": false
+		},
+		{
+			"number": 1389,
+			"text": "وَاللَّهُ يَدْعُو إِلَىٰ دَارِ السَّلَامِ وَيَهْدِي مَنْ يَشَاءُ إِلَىٰ صِرَاطٍ مُسْتَقِيمٍ",
+			"surah": {
+				"number": 10,
+				"name": "سُورَةُ يُونُسَ",
+				"englishName": "Yunus",
+				"englishNameTranslation": "Jonas",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 109
+			},
+			"numberInSurah": 25,
+			"juz": 11,
+			"manzil": 3,
+			"page": 211,
+			"ruku": 174,
+			"hizbQuarter": 84,
+			"sajda": false
+		}
+	]
+}

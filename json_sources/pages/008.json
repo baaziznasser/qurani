@@ -1,0 +1,195 @@
+﻿{
+	"number": 8,
+	"ayahs": [
+		{
+			"number": 56,
+			"text": "وَإِذْ نَجَّيْنَاكُمْ مِنْ آلِ فِرْعَوْنَ يَسُومُونَكُمْ سُوءَ الْعَذَابِ يُذَبِّحُونَ أَبْنَاءَكُمْ وَيَسْتَحْيُونَ نِسَاءَكُمْ ۚ وَفِي ذَٰلِكُمْ بَلَاءٌ مِنْ رَبِّكُمْ عَظِيمٌ",
+			"surah": {
+				"number": 2,
+				"name": "سُورَةُ البَقَرَةِ",
+				"englishName": "Al-Baqara",
+				"englishNameTranslation": "The Cow",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 286
+			},
+			"numberInSurah": 49,
+			"juz": 1,
+			"manzil": 1,
+			"page": 8,
+			"ruku": 7,
+			"hizbQuarter": 3,
+			"sajda": false
+		},
+		{
+			"number": 57,
+			"text": "وَإِذْ فَرَقْنَا بِكُمُ الْبَحْرَ فَأَنْجَيْنَاكُمْ وَأَغْرَقْنَا آلَ فِرْعَوْنَ وَأَنْتُمْ تَنْظُرُونَ",
+			"surah": {
+				"number": 2,
+				"name": "سُورَةُ البَقَرَةِ",
+				"englishName": "Al-Baqara",
+				"englishNameTranslation": "The Cow",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 286
+			},
+			"numberInSurah": 50,
+			"juz": 1,
+			"manzil": 1,
+			"page": 8,
+			"ruku": 7,
+			"hizbQuarter": 3,
+			"sajda": false
+		},
+		{
+			"number": 58,
+			"text": "وَإِذْ وَاعَدْنَا مُوسَىٰ أَرْبَعِينَ لَيْلَةً ثُمَّ اتَّخَذْتُمُ الْعِجْلَ مِنْ بَعْدِهِ وَأَنْتُمْ ظَالِمُونَ",
+			"surah": {
+				"number": 2,
+				"name": "سُورَةُ البَقَرَةِ",
+				"englishName": "Al-Baqara",
+				"englishNameTranslation": "The Cow",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 286
+			},
+			"numberInSurah": 51,
+			"juz": 1,
+			"manzil": 1,
+			"page": 8,
+			"ruku": 7,
+			"hizbQuarter": 3,
+			"sajda": false
+		},
+		{
+			"number": 59,
+			"text": "ثُمَّ عَفَوْنَا عَنْكُمْ مِنْ بَعْدِ ذَٰلِكَ لَعَلَّكُمْ تَشْكُرُونَ",
+			"surah": {
+				"number": 2,
+				"name": "سُورَةُ البَقَرَةِ",
+				"englishName": "Al-Baqara",
+				"englishNameTranslation": "The Cow",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 286
+			},
+			"numberInSurah": 52,
+			"juz": 1,
+			"manzil": 1,
+			"page": 8,
+			"ruku": 7,
+			"hizbQuarter": 3,
+			"sajda": false
+		},
+		{
+			"number": 60,
+			"text": "وَإِذْ آتَيْنَا مُوسَى الْكِتَابَ وَالْفُرْقَانَ لَعَلَّكُمْ تَهْتَدُونَ",
+			"surah": {
+				"number": 2,
+				"name": "سُورَةُ البَقَرَةِ",
+				"englishName": "Al-Baqara",
+				"englishNameTranslation": "The Cow",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 286
+			},
+			"numberInSurah": 53,
+			"juz": 1,
+			"manzil": 1,
+			"page": 8,
+			"ruku": 7,
+			"hizbQuarter": 3,
+			"sajda": false
+		},
+		{
+			"number": 61,
+			"text": "وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِ يَا قَوْمِ إِنَّكُمْ ظَلَمْتُمْ أَنْفُسَكُمْ بِاتِّخَاذِكُمُ الْعِجْلَ فَتُوبُوا إِلَىٰ بَارِئِكُمْ فَاقْتُلُوا أَنْفُسَكُمْ ذَٰلِكُمْ خَيْرٌ لَكُمْ عِنْدَ بَارِئِكُمْ فَتَابَ عَلَيْكُمْ ۚ إِنَّهُ هُوَ التَّوَّابُ الرَّحِيمُ",
+			"surah": {
+				"number": 2,
+				"name": "سُورَةُ البَقَرَةِ",
+				"englishName": "Al-Baqara",
+				"englishNameTranslation": "The Cow",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 286
+			},
+			"numberInSurah": 54,
+			"juz": 1,
+			"manzil": 1,
+			"page": 8,
+			"ruku": 7,
+			"hizbQuarter": 3,
+			"sajda": false
+		},
+		{
+			"number": 62,
+			"text": "وَإِذْ قُلْتُمْ يَا مُوسَىٰ لَنْ نُؤْمِنَ لَكَ حَتَّىٰ نَرَى اللَّهَ جَهْرَةً فَأَخَذَتْكُمُ الصَّاعِقَةُ وَأَنْتُمْ تَنْظُرُونَ",
+			"surah": {
+				"number": 2,
+				"name": "سُورَةُ البَقَرَةِ",
+				"englishName": "Al-Baqara",
+				"englishNameTranslation": "The Cow",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 286
+			},
+			"numberInSurah": 55,
+			"juz": 1,
+			"manzil": 1,
+			"page": 8,
+			"ruku": 7,
+			"hizbQuarter": 3,
+			"sajda": false
+		},
+		{
+			"number": 63,
+			"text": "ثُمَّ بَعَثْنَاكُمْ مِنْ بَعْدِ مَوْتِكُمْ لَعَلَّكُمْ تَشْكُرُونَ",
+			"surah": {
+				"number": 2,
+				"name": "سُورَةُ البَقَرَةِ",
+				"englishName": "Al-Baqara",
+				"englishNameTranslation": "The Cow",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 286
+			},
+			"numberInSurah": 56,
+			"juz": 1,
+			"manzil": 1,
+			"page": 8,
+			"ruku": 7,
+			"hizbQuarter": 3,
+			"sajda": false
+		},
+		{
+			"number": 64,
+			"text": "وَظَلَّلْنَا عَلَيْكُمُ الْغَمَامَ وَأَنْزَلْنَا عَلَيْكُمُ الْمَنَّ وَالسَّلْوَىٰ ۖ كُلُوا مِنْ طَيِّبَاتِ مَا رَزَقْنَاكُمْ ۖ وَمَا ظَلَمُونَا وَلَٰكِنْ كَانُوا أَنْفُسَهُمْ يَظْلِمُونَ",
+			"surah": {
+				"number": 2,
+				"name": "سُورَةُ البَقَرَةِ",
+				"englishName": "Al-Baqara",
+				"englishNameTranslation": "The Cow",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 286
+			},
+			"numberInSurah": 57,
+			"juz": 1,
+			"manzil": 1,
+			"page": 8,
+			"ruku": 7,
+			"hizbQuarter": 3,
+			"sajda": false
+		}
+	],
+	"surahs": {
+		"2": {
+			"number": 2,
+			"name": "سُورَةُ البَقَرَةِ",
+			"englishName": "Al-Baqara",
+			"englishNameTranslation": "The Cow",
+			"revelationType": "Medinan",
+			"numberOfAyahs": 286
+		}
+	},
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

@@ -1,0 +1,252 @@
+﻿{
+	"number": 269,
+	"ayahs": [
+		{
+			"number": 1916,
+			"text": "وَأَلْقَىٰ فِي الْأَرْضِ رَوَاسِيَ أَنْ تَمِيدَ بِكُمْ وَأَنْهَارًا وَسُبُلًا لَعَلَّكُمْ تَهْتَدُونَ",
+			"surah": {
+				"number": 16,
+				"name": "سُورَةُ النَّحۡلِ",
+				"englishName": "An-Nahl",
+				"englishNameTranslation": "The Bee",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 128
+			},
+			"numberInSurah": 15,
+			"juz": 14,
+			"manzil": 3,
+			"page": 269,
+			"ruku": 225,
+			"hizbQuarter": 107,
+			"sajda": false
+		},
+		{
+			"number": 1917,
+			"text": "وَعَلَامَاتٍ ۚ وَبِالنَّجْمِ هُمْ يَهْتَدُونَ",
+			"surah": {
+				"number": 16,
+				"name": "سُورَةُ النَّحۡلِ",
+				"englishName": "An-Nahl",
+				"englishNameTranslation": "The Bee",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 128
+			},
+			"numberInSurah": 16,
+			"juz": 14,
+			"manzil": 3,
+			"page": 269,
+			"ruku": 225,
+			"hizbQuarter": 107,
+			"sajda": false
+		},
+		{
+			"number": 1918,
+			"text": "أَفَمَنْ يَخْلُقُ كَمَنْ لَا يَخْلُقُ ۗ أَفَلَا تَذَكَّرُونَ",
+			"surah": {
+				"number": 16,
+				"name": "سُورَةُ النَّحۡلِ",
+				"englishName": "An-Nahl",
+				"englishNameTranslation": "The Bee",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 128
+			},
+			"numberInSurah": 17,
+			"juz": 14,
+			"manzil": 3,
+			"page": 269,
+			"ruku": 225,
+			"hizbQuarter": 107,
+			"sajda": false
+		},
+		{
+			"number": 1919,
+			"text": "وَإِنْ تَعُدُّوا نِعْمَةَ اللَّهِ لَا تُحْصُوهَا ۗ إِنَّ اللَّهَ لَغَفُورٌ رَحِيمٌ",
+			"surah": {
+				"number": 16,
+				"name": "سُورَةُ النَّحۡلِ",
+				"englishName": "An-Nahl",
+				"englishNameTranslation": "The Bee",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 128
+			},
+			"numberInSurah": 18,
+			"juz": 14,
+			"manzil": 3,
+			"page": 269,
+			"ruku": 225,
+			"hizbQuarter": 107,
+			"sajda": false
+		},
+		{
+			"number": 1920,
+			"text": "وَاللَّهُ يَعْلَمُ مَا تُسِرُّونَ وَمَا تُعْلِنُونَ",
+			"surah": {
+				"number": 16,
+				"name": "سُورَةُ النَّحۡلِ",
+				"englishName": "An-Nahl",
+				"englishNameTranslation": "The Bee",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 128
+			},
+			"numberInSurah": 19,
+			"juz": 14,
+			"manzil": 3,
+			"page": 269,
+			"ruku": 225,
+			"hizbQuarter": 107,
+			"sajda": false
+		},
+		{
+			"number": 1921,
+			"text": "وَالَّذِينَ يَدْعُونَ مِنْ دُونِ اللَّهِ لَا يَخْلُقُونَ شَيْئًا وَهُمْ يُخْلَقُونَ",
+			"surah": {
+				"number": 16,
+				"name": "سُورَةُ النَّحۡلِ",
+				"englishName": "An-Nahl",
+				"englishNameTranslation": "The Bee",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 128
+			},
+			"numberInSurah": 20,
+			"juz": 14,
+			"manzil": 3,
+			"page": 269,
+			"ruku": 225,
+			"hizbQuarter": 107,
+			"sajda": false
+		},
+		{
+			"number": 1922,
+			"text": "أَمْوَاتٌ غَيْرُ أَحْيَاءٍ ۖ وَمَا يَشْعُرُونَ أَيَّانَ يُبْعَثُونَ",
+			"surah": {
+				"number": 16,
+				"name": "سُورَةُ النَّحۡلِ",
+				"englishName": "An-Nahl",
+				"englishNameTranslation": "The Bee",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 128
+			},
+			"numberInSurah": 21,
+			"juz": 14,
+			"manzil": 3,
+			"page": 269,
+			"ruku": 225,
+			"hizbQuarter": 107,
+			"sajda": false
+		},
+		{
+			"number": 1923,
+			"text": "إِلَٰهُكُمْ إِلَٰهٌ وَاحِدٌ ۚ فَالَّذِينَ لَا يُؤْمِنُونَ بِالْآخِرَةِ قُلُوبُهُمْ مُنْكِرَةٌ وَهُمْ مُسْتَكْبِرُونَ",
+			"surah": {
+				"number": 16,
+				"name": "سُورَةُ النَّحۡلِ",
+				"englishName": "An-Nahl",
+				"englishNameTranslation": "The Bee",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 128
+			},
+			"numberInSurah": 22,
+			"juz": 14,
+			"manzil": 3,
+			"page": 269,
+			"ruku": 226,
+			"hizbQuarter": 107,
+			"sajda": false
+		},
+		{
+			"number": 1924,
+			"text": "لَا جَرَمَ أَنَّ اللَّهَ يَعْلَمُ مَا يُسِرُّونَ وَمَا يُعْلِنُونَ ۚ إِنَّهُ لَا يُحِبُّ الْمُسْتَكْبِرِينَ",
+			"surah": {
+				"number": 16,
+				"name": "سُورَةُ النَّحۡلِ",
+				"englishName": "An-Nahl",
+				"englishNameTranslation": "The Bee",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 128
+			},
+			"numberInSurah": 23,
+			"juz": 14,
+			"manzil": 3,
+			"page": 269,
+			"ruku": 226,
+			"hizbQuarter": 107,
+			"sajda": false
+		},
+		{
+			"number": 1925,
+			"text": "وَإِذَا قِيلَ لَهُمْ مَاذَا أَنْزَلَ رَبُّكُمْ ۙ قَالُوا أَسَاطِيرُ الْأَوَّلِينَ",
+			"surah": {
+				"number": 16,
+				"name": "سُورَةُ النَّحۡلِ",
+				"englishName": "An-Nahl",
+				"englishNameTranslation": "The Bee",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 128
+			},
+			"numberInSurah": 24,
+			"juz": 14,
+			"manzil": 3,
+			"page": 269,
+			"ruku": 226,
+			"hizbQuarter": 107,
+			"sajda": false
+		},
+		{
+			"number": 1926,
+			"text": "لِيَحْمِلُوا أَوْزَارَهُمْ كَامِلَةً يَوْمَ الْقِيَامَةِ ۙ وَمِنْ أَوْزَارِ الَّذِينَ يُضِلُّونَهُمْ بِغَيْرِ عِلْمٍ ۗ أَلَا سَاءَ مَا يَزِرُونَ",
+			"surah": {
+				"number": 16,
+				"name": "سُورَةُ النَّحۡلِ",
+				"englishName": "An-Nahl",
+				"englishNameTranslation": "The Bee",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 128
+			},
+			"numberInSurah": 25,
+			"juz": 14,
+			"manzil": 3,
+			"page": 269,
+			"ruku": 226,
+			"hizbQuarter": 107,
+			"sajda": false
+		},
+		{
+			"number": 1927,
+			"text": "قَدْ مَكَرَ الَّذِينَ مِنْ قَبْلِهِمْ فَأَتَى اللَّهُ بُنْيَانَهُمْ مِنَ الْقَوَاعِدِ فَخَرَّ عَلَيْهِمُ السَّقْفُ مِنْ فَوْقِهِمْ وَأَتَاهُمُ الْعَذَابُ مِنْ حَيْثُ لَا يَشْعُرُونَ",
+			"surah": {
+				"number": 16,
+				"name": "سُورَةُ النَّحۡلِ",
+				"englishName": "An-Nahl",
+				"englishNameTranslation": "The Bee",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 128
+			},
+			"numberInSurah": 26,
+			"juz": 14,
+			"manzil": 3,
+			"page": 269,
+			"ruku": 227,
+			"hizbQuarter": 107,
+			"sajda": false
+		}
+	],
+	"surahs": {
+		"16": {
+			"number": 16,
+			"name": "سُورَةُ النَّحۡلِ",
+			"englishName": "An-Nahl",
+			"englishNameTranslation": "The Bee",
+			"revelationType": "Meccan",
+			"numberOfAyahs": 128
+		}
+	},
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

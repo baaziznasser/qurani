@@ -1,0 +1,1677 @@
+﻿{
+	"number": 39,
+	"ayahs": [
+		{
+			"number": 3215,
+			"text": "۞ فَمَا كَانَ جَوَابَ قَوْمِهِ إِلَّا أَنْ قَالُوا أَخْرِجُوا آلَ لُوطٍ مِنْ قَرْيَتِكُمْ ۖ إِنَّهُمْ أُنَاسٌ يَتَطَهَّرُونَ",
+			"surah": {
+				"number": 27,
+				"name": "سُورَةُ النَّمۡلِ",
+				"englishName": "An-Naml",
+				"englishNameTranslation": "The Ant",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 93
+			},
+			"numberInSurah": 56,
+			"juz": 20,
+			"manzil": 5,
+			"page": 382,
+			"ruku": 330,
+			"hizbQuarter": 153,
+			"sajda": false
+		},
+		{
+			"number": 3216,
+			"text": "فَأَنْجَيْنَاهُ وَأَهْلَهُ إِلَّا امْرَأَتَهُ قَدَّرْنَاهَا مِنَ الْغَابِرِينَ",
+			"surah": {
+				"number": 27,
+				"name": "سُورَةُ النَّمۡلِ",
+				"englishName": "An-Naml",
+				"englishNameTranslation": "The Ant",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 93
+			},
+			"numberInSurah": 57,
+			"juz": 20,
+			"manzil": 5,
+			"page": 382,
+			"ruku": 330,
+			"hizbQuarter": 153,
+			"sajda": false
+		},
+		{
+			"number": 3217,
+			"text": "وَأَمْطَرْنَا عَلَيْهِمْ مَطَرًا ۖ فَسَاءَ مَطَرُ الْمُنْذَرِينَ",
+			"surah": {
+				"number": 27,
+				"name": "سُورَةُ النَّمۡلِ",
+				"englishName": "An-Naml",
+				"englishNameTranslation": "The Ant",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 93
+			},
+			"numberInSurah": 58,
+			"juz": 20,
+			"manzil": 5,
+			"page": 382,
+			"ruku": 330,
+			"hizbQuarter": 153,
+			"sajda": false
+		},
+		{
+			"number": 3218,
+			"text": "قُلِ الْحَمْدُ لِلَّهِ وَسَلَامٌ عَلَىٰ عِبَادِهِ الَّذِينَ اصْطَفَىٰ ۗ آللَّهُ خَيْرٌ أَمَّا يُشْرِكُونَ",
+			"surah": {
+				"number": 27,
+				"name": "سُورَةُ النَّمۡلِ",
+				"englishName": "An-Naml",
+				"englishNameTranslation": "The Ant",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 93
+			},
+			"numberInSurah": 59,
+			"juz": 20,
+			"manzil": 5,
+			"page": 382,
+			"ruku": 331,
+			"hizbQuarter": 153,
+			"sajda": false
+		},
+		{
+			"number": 3219,
+			"text": "أَمَّنْ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ وَأَنْزَلَ لَكُمْ مِنَ السَّمَاءِ مَاءً فَأَنْبَتْنَا بِهِ حَدَائِقَ ذَاتَ بَهْجَةٍ مَا كَانَ لَكُمْ أَنْ تُنْبِتُوا شَجَرَهَا ۗ أَإِلَٰهٌ مَعَ اللَّهِ ۚ بَلْ هُمْ قَوْمٌ يَعْدِلُونَ",
+			"surah": {
+				"number": 27,
+				"name": "سُورَةُ النَّمۡلِ",
+				"englishName": "An-Naml",
+				"englishNameTranslation": "The Ant",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 93
+			},
+			"numberInSurah": 60,
+			"juz": 20,
+			"manzil": 5,
+			"page": 382,
+			"ruku": 331,
+			"hizbQuarter": 153,
+			"sajda": false
+		},
+		{
+			"number": 3220,
+			"text": "أَمَّنْ جَعَلَ الْأَرْضَ قَرَارًا وَجَعَلَ خِلَالَهَا أَنْهَارًا وَجَعَلَ لَهَا رَوَاسِيَ وَجَعَلَ بَيْنَ الْبَحْرَيْنِ حَاجِزًا ۗ أَإِلَٰهٌ مَعَ اللَّهِ ۚ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ",
+			"surah": {
+				"number": 27,
+				"name": "سُورَةُ النَّمۡلِ",
+				"englishName": "An-Naml",
+				"englishNameTranslation": "The Ant",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 93
+			},
+			"numberInSurah": 61,
+			"juz": 20,
+			"manzil": 5,
+			"page": 382,
+			"ruku": 331,
+			"hizbQuarter": 153,
+			"sajda": false
+		},
+		{
+			"number": 3221,
+			"text": "أَمَّنْ يُجِيبُ الْمُضْطَرَّ إِذَا دَعَاهُ وَيَكْشِفُ السُّوءَ وَيَجْعَلُكُمْ خُلَفَاءَ الْأَرْضِ ۗ أَإِلَٰهٌ مَعَ اللَّهِ ۚ قَلِيلًا مَا تَذَكَّرُونَ",
+			"surah": {
+				"number": 27,
+				"name": "سُورَةُ النَّمۡلِ",
+				"englishName": "An-Naml",
+				"englishNameTranslation": "The Ant",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 93
+			},
+			"numberInSurah": 62,
+			"juz": 20,
+			"manzil": 5,
+			"page": 382,
+			"ruku": 331,
+			"hizbQuarter": 153,
+			"sajda": false
+		},
+		{
+			"number": 3222,
+			"text": "أَمَّنْ يَهْدِيكُمْ فِي ظُلُمَاتِ الْبَرِّ وَالْبَحْرِ وَمَنْ يُرْسِلُ الرِّيَاحَ بُشْرًا بَيْنَ يَدَيْ رَحْمَتِهِ ۗ أَإِلَٰهٌ مَعَ اللَّهِ ۚ تَعَالَى اللَّهُ عَمَّا يُشْرِكُونَ",
+			"surah": {
+				"number": 27,
+				"name": "سُورَةُ النَّمۡلِ",
+				"englishName": "An-Naml",
+				"englishNameTranslation": "The Ant",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 93
+			},
+			"numberInSurah": 63,
+			"juz": 20,
+			"manzil": 5,
+			"page": 382,
+			"ruku": 331,
+			"hizbQuarter": 153,
+			"sajda": false
+		},
+		{
+			"number": 3223,
+			"text": "أَمَّنْ يَبْدَأُ الْخَلْقَ ثُمَّ يُعِيدُهُ وَمَنْ يَرْزُقُكُمْ مِنَ السَّمَاءِ وَالْأَرْضِ ۗ أَإِلَٰهٌ مَعَ اللَّهِ ۚ قُلْ هَاتُوا بُرْهَانَكُمْ إِنْ كُنْتُمْ صَادِقِينَ",
+			"surah": {
+				"number": 27,
+				"name": "سُورَةُ النَّمۡلِ",
+				"englishName": "An-Naml",
+				"englishNameTranslation": "The Ant",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 93
+			},
+			"numberInSurah": 64,
+			"juz": 20,
+			"manzil": 5,
+			"page": 383,
+			"ruku": 331,
+			"hizbQuarter": 153,
+			"sajda": false
+		},
+		{
+			"number": 3224,
+			"text": "قُلْ لَا يَعْلَمُ مَنْ فِي السَّمَاوَاتِ وَالْأَرْضِ الْغَيْبَ إِلَّا اللَّهُ ۚ وَمَا يَشْعُرُونَ أَيَّانَ يُبْعَثُونَ",
+			"surah": {
+				"number": 27,
+				"name": "سُورَةُ النَّمۡلِ",
+				"englishName": "An-Naml",
+				"englishNameTranslation": "The Ant",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 93
+			},
+			"numberInSurah": 65,
+			"juz": 20,
+			"manzil": 5,
+			"page": 383,
+			"ruku": 331,
+			"hizbQuarter": 153,
+			"sajda": false
+		},
+		{
+			"number": 3225,
+			"text": "بَلِ ادَّارَكَ عِلْمُهُمْ فِي الْآخِرَةِ ۚ بَلْ هُمْ فِي شَكٍّ مِنْهَا ۖ بَلْ هُمْ مِنْهَا عَمُونَ",
+			"surah": {
+				"number": 27,
+				"name": "سُورَةُ النَّمۡلِ",
+				"englishName": "An-Naml",
+				"englishNameTranslation": "The Ant",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 93
+			},
+			"numberInSurah": 66,
+			"juz": 20,
+			"manzil": 5,
+			"page": 383,
+			"ruku": 331,
+			"hizbQuarter": 153,
+			"sajda": false
+		},
+		{
+			"number": 3226,
+			"text": "وَقَالَ الَّذِينَ كَفَرُوا أَإِذَا كُنَّا تُرَابًا وَآبَاؤُنَا أَئِنَّا لَمُخْرَجُونَ",
+			"surah": {
+				"number": 27,
+				"name": "سُورَةُ النَّمۡلِ",
+				"englishName": "An-Naml",
+				"englishNameTranslation": "The Ant",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 93
+			},
+			"numberInSurah": 67,
+			"juz": 20,
+			"manzil": 5,
+			"page": 383,
+			"ruku": 332,
+			"hizbQuarter": 153,
+			"sajda": false
+		},
+		{
+			"number": 3227,
+			"text": "لَقَدْ وُعِدْنَا هَٰذَا نَحْنُ وَآبَاؤُنَا مِنْ قَبْلُ إِنْ هَٰذَا إِلَّا أَسَاطِيرُ الْأَوَّلِينَ",
+			"surah": {
+				"number": 27,
+				"name": "سُورَةُ النَّمۡلِ",
+				"englishName": "An-Naml",
+				"englishNameTranslation": "The Ant",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 93
+			},
+			"numberInSurah": 68,
+			"juz": 20,
+			"manzil": 5,
+			"page": 383,
+			"ruku": 332,
+			"hizbQuarter": 153,
+			"sajda": false
+		},
+		{
+			"number": 3228,
+			"text": "قُلْ سِيرُوا فِي الْأَرْضِ فَانْظُرُوا كَيْفَ كَانَ عَاقِبَةُ الْمُجْرِمِينَ",
+			"surah": {
+				"number": 27,
+				"name": "سُورَةُ النَّمۡلِ",
+				"englishName": "An-Naml",
+				"englishNameTranslation": "The Ant",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 93
+			},
+			"numberInSurah": 69,
+			"juz": 20,
+			"manzil": 5,
+			"page": 383,
+			"ruku": 332,
+			"hizbQuarter": 153,
+			"sajda": false
+		},
+		{
+			"number": 3229,
+			"text": "وَلَا تَحْزَنْ عَلَيْهِمْ وَلَا تَكُنْ فِي ضَيْقٍ مِمَّا يَمْكُرُونَ",
+			"surah": {
+				"number": 27,
+				"name": "سُورَةُ النَّمۡلِ",
+				"englishName": "An-Naml",
+				"englishNameTranslation": "The Ant",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 93
+			},
+			"numberInSurah": 70,
+			"juz": 20,
+			"manzil": 5,
+			"page": 383,
+			"ruku": 332,
+			"hizbQuarter": 153,
+			"sajda": false
+		},
+		{
+			"number": 3230,
+			"text": "وَيَقُولُونَ مَتَىٰ هَٰذَا الْوَعْدُ إِنْ كُنْتُمْ صَادِقِينَ",
+			"surah": {
+				"number": 27,
+				"name": "سُورَةُ النَّمۡلِ",
+				"englishName": "An-Naml",
+				"englishNameTranslation": "The Ant",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 93
+			},
+			"numberInSurah": 71,
+			"juz": 20,
+			"manzil": 5,
+			"page": 383,
+			"ruku": 332,
+			"hizbQuarter": 153,
+			"sajda": false
+		},
+		{
+			"number": 3231,
+			"text": "قُلْ عَسَىٰ أَنْ يَكُونَ رَدِفَ لَكُمْ بَعْضُ الَّذِي تَسْتَعْجِلُونَ",
+			"surah": {
+				"number": 27,
+				"name": "سُورَةُ النَّمۡلِ",
+				"englishName": "An-Naml",
+				"englishNameTranslation": "The Ant",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 93
+			},
+			"numberInSurah": 72,
+			"juz": 20,
+			"manzil": 5,
+			"page": 383,
+			"ruku": 332,
+			"hizbQuarter": 153,
+			"sajda": false
+		},
+		{
+			"number": 3232,
+			"text": "وَإِنَّ رَبَّكَ لَذُو فَضْلٍ عَلَى النَّاسِ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَشْكُرُونَ",
+			"surah": {
+				"number": 27,
+				"name": "سُورَةُ النَّمۡلِ",
+				"englishName": "An-Naml",
+				"englishNameTranslation": "The Ant",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 93
+			},
+			"numberInSurah": 73,
+			"juz": 20,
+			"manzil": 5,
+			"page": 383,
+			"ruku": 332,
+			"hizbQuarter": 153,
+			"sajda": false
+		},
+		{
+			"number": 3233,
+			"text": "وَإِنَّ رَبَّكَ لَيَعْلَمُ مَا تُكِنُّ صُدُورُهُمْ وَمَا يُعْلِنُونَ",
+			"surah": {
+				"number": 27,
+				"name": "سُورَةُ النَّمۡلِ",
+				"englishName": "An-Naml",
+				"englishNameTranslation": "The Ant",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 93
+			},
+			"numberInSurah": 74,
+			"juz": 20,
+			"manzil": 5,
+			"page": 383,
+			"ruku": 332,
+			"hizbQuarter": 153,
+			"sajda": false
+		},
+		{
+			"number": 3234,
+			"text": "وَمَا مِنْ غَائِبَةٍ فِي السَّمَاءِ وَالْأَرْضِ إِلَّا فِي كِتَابٍ مُبِينٍ",
+			"surah": {
+				"number": 27,
+				"name": "سُورَةُ النَّمۡلِ",
+				"englishName": "An-Naml",
+				"englishNameTranslation": "The Ant",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 93
+			},
+			"numberInSurah": 75,
+			"juz": 20,
+			"manzil": 5,
+			"page": 383,
+			"ruku": 332,
+			"hizbQuarter": 153,
+			"sajda": false
+		},
+		{
+			"number": 3235,
+			"text": "إِنَّ هَٰذَا الْقُرْآنَ يَقُصُّ عَلَىٰ بَنِي إِسْرَائِيلَ أَكْثَرَ الَّذِي هُمْ فِيهِ يَخْتَلِفُونَ",
+			"surah": {
+				"number": 27,
+				"name": "سُورَةُ النَّمۡلِ",
+				"englishName": "An-Naml",
+				"englishNameTranslation": "The Ant",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 93
+			},
+			"numberInSurah": 76,
+			"juz": 20,
+			"manzil": 5,
+			"page": 383,
+			"ruku": 332,
+			"hizbQuarter": 153,
+			"sajda": false
+		},
+		{
+			"number": 3236,
+			"text": "وَإِنَّهُ لَهُدًى وَرَحْمَةٌ لِلْمُؤْمِنِينَ",
+			"surah": {
+				"number": 27,
+				"name": "سُورَةُ النَّمۡلِ",
+				"englishName": "An-Naml",
+				"englishNameTranslation": "The Ant",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 93
+			},
+			"numberInSurah": 77,
+			"juz": 20,
+			"manzil": 5,
+			"page": 384,
+			"ruku": 332,
+			"hizbQuarter": 153,
+			"sajda": false
+		},
+		{
+			"number": 3237,
+			"text": "إِنَّ رَبَّكَ يَقْضِي بَيْنَهُمْ بِحُكْمِهِ ۚ وَهُوَ الْعَزِيزُ الْعَلِيمُ",
+			"surah": {
+				"number": 27,
+				"name": "سُورَةُ النَّمۡلِ",
+				"englishName": "An-Naml",
+				"englishNameTranslation": "The Ant",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 93
+			},
+			"numberInSurah": 78,
+			"juz": 20,
+			"manzil": 5,
+			"page": 384,
+			"ruku": 332,
+			"hizbQuarter": 153,
+			"sajda": false
+		},
+		{
+			"number": 3238,
+			"text": "فَتَوَكَّلْ عَلَى اللَّهِ ۖ إِنَّكَ عَلَى الْحَقِّ الْمُبِينِ",
+			"surah": {
+				"number": 27,
+				"name": "سُورَةُ النَّمۡلِ",
+				"englishName": "An-Naml",
+				"englishNameTranslation": "The Ant",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 93
+			},
+			"numberInSurah": 79,
+			"juz": 20,
+			"manzil": 5,
+			"page": 384,
+			"ruku": 332,
+			"hizbQuarter": 153,
+			"sajda": false
+		},
+		{
+			"number": 3239,
+			"text": "إِنَّكَ لَا تُسْمِعُ الْمَوْتَىٰ وَلَا تُسْمِعُ الصُّمَّ الدُّعَاءَ إِذَا وَلَّوْا مُدْبِرِينَ",
+			"surah": {
+				"number": 27,
+				"name": "سُورَةُ النَّمۡلِ",
+				"englishName": "An-Naml",
+				"englishNameTranslation": "The Ant",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 93
+			},
+			"numberInSurah": 80,
+			"juz": 20,
+			"manzil": 5,
+			"page": 384,
+			"ruku": 332,
+			"hizbQuarter": 153,
+			"sajda": false
+		},
+		{
+			"number": 3240,
+			"text": "وَمَا أَنْتَ بِهَادِي الْعُمْيِ عَنْ ضَلَالَتِهِمْ ۖ إِنْ تُسْمِعُ إِلَّا مَنْ يُؤْمِنُ بِآيَاتِنَا فَهُمْ مُسْلِمُونَ",
+			"surah": {
+				"number": 27,
+				"name": "سُورَةُ النَّمۡلِ",
+				"englishName": "An-Naml",
+				"englishNameTranslation": "The Ant",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 93
+			},
+			"numberInSurah": 81,
+			"juz": 20,
+			"manzil": 5,
+			"page": 384,
+			"ruku": 332,
+			"hizbQuarter": 153,
+			"sajda": false
+		},
+		{
+			"number": 3241,
+			"text": "۞ وَإِذَا وَقَعَ الْقَوْلُ عَلَيْهِمْ أَخْرَجْنَا لَهُمْ دَابَّةً مِنَ الْأَرْضِ تُكَلِّمُهُمْ أَنَّ النَّاسَ كَانُوا بِآيَاتِنَا لَا يُوقِنُونَ",
+			"surah": {
+				"number": 27,
+				"name": "سُورَةُ النَّمۡلِ",
+				"englishName": "An-Naml",
+				"englishNameTranslation": "The Ant",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 93
+			},
+			"numberInSurah": 82,
+			"juz": 20,
+			"manzil": 5,
+			"page": 384,
+			"ruku": 332,
+			"hizbQuarter": 154,
+			"sajda": false
+		},
+		{
+			"number": 3242,
+			"text": "وَيَوْمَ نَحْشُرُ مِنْ كُلِّ أُمَّةٍ فَوْجًا مِمَّنْ يُكَذِّبُ بِآيَاتِنَا فَهُمْ يُوزَعُونَ",
+			"surah": {
+				"number": 27,
+				"name": "سُورَةُ النَّمۡلِ",
+				"englishName": "An-Naml",
+				"englishNameTranslation": "The Ant",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 93
+			},
+			"numberInSurah": 83,
+			"juz": 20,
+			"manzil": 5,
+			"page": 384,
+			"ruku": 333,
+			"hizbQuarter": 154,
+			"sajda": false
+		},
+		{
+			"number": 3243,
+			"text": "حَتَّىٰ إِذَا جَاءُوا قَالَ أَكَذَّبْتُمْ بِآيَاتِي وَلَمْ تُحِيطُوا بِهَا عِلْمًا أَمَّاذَا كُنْتُمْ تَعْمَلُونَ",
+			"surah": {
+				"number": 27,
+				"name": "سُورَةُ النَّمۡلِ",
+				"englishName": "An-Naml",
+				"englishNameTranslation": "The Ant",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 93
+			},
+			"numberInSurah": 84,
+			"juz": 20,
+			"manzil": 5,
+			"page": 384,
+			"ruku": 333,
+			"hizbQuarter": 154,
+			"sajda": false
+		},
+		{
+			"number": 3244,
+			"text": "وَوَقَعَ الْقَوْلُ عَلَيْهِمْ بِمَا ظَلَمُوا فَهُمْ لَا يَنْطِقُونَ",
+			"surah": {
+				"number": 27,
+				"name": "سُورَةُ النَّمۡلِ",
+				"englishName": "An-Naml",
+				"englishNameTranslation": "The Ant",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 93
+			},
+			"numberInSurah": 85,
+			"juz": 20,
+			"manzil": 5,
+			"page": 384,
+			"ruku": 333,
+			"hizbQuarter": 154,
+			"sajda": false
+		},
+		{
+			"number": 3245,
+			"text": "أَلَمْ يَرَوْا أَنَّا جَعَلْنَا اللَّيْلَ لِيَسْكُنُوا فِيهِ وَالنَّهَارَ مُبْصِرًا ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِقَوْمٍ يُؤْمِنُونَ",
+			"surah": {
+				"number": 27,
+				"name": "سُورَةُ النَّمۡلِ",
+				"englishName": "An-Naml",
+				"englishNameTranslation": "The Ant",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 93
+			},
+			"numberInSurah": 86,
+			"juz": 20,
+			"manzil": 5,
+			"page": 384,
+			"ruku": 333,
+			"hizbQuarter": 154,
+			"sajda": false
+		},
+		{
+			"number": 3246,
+			"text": "وَيَوْمَ يُنْفَخُ فِي الصُّورِ فَفَزِعَ مَنْ فِي السَّمَاوَاتِ وَمَنْ فِي الْأَرْضِ إِلَّا مَنْ شَاءَ اللَّهُ ۚ وَكُلٌّ أَتَوْهُ دَاخِرِينَ",
+			"surah": {
+				"number": 27,
+				"name": "سُورَةُ النَّمۡلِ",
+				"englishName": "An-Naml",
+				"englishNameTranslation": "The Ant",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 93
+			},
+			"numberInSurah": 87,
+			"juz": 20,
+			"manzil": 5,
+			"page": 384,
+			"ruku": 333,
+			"hizbQuarter": 154,
+			"sajda": false
+		},
+		{
+			"number": 3247,
+			"text": "وَتَرَى الْجِبَالَ تَحْسَبُهَا جَامِدَةً وَهِيَ تَمُرُّ مَرَّ السَّحَابِ ۚ صُنْعَ اللَّهِ الَّذِي أَتْقَنَ كُلَّ شَيْءٍ ۚ إِنَّهُ خَبِيرٌ بِمَا تَفْعَلُونَ",
+			"surah": {
+				"number": 27,
+				"name": "سُورَةُ النَّمۡلِ",
+				"englishName": "An-Naml",
+				"englishNameTranslation": "The Ant",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 93
+			},
+			"numberInSurah": 88,
+			"juz": 20,
+			"manzil": 5,
+			"page": 384,
+			"ruku": 333,
+			"hizbQuarter": 154,
+			"sajda": false
+		},
+		{
+			"number": 3248,
+			"text": "مَنْ جَاءَ بِالْحَسَنَةِ فَلَهُ خَيْرٌ مِنْهَا وَهُمْ مِنْ فَزَعٍ يَوْمَئِذٍ آمِنُونَ",
+			"surah": {
+				"number": 27,
+				"name": "سُورَةُ النَّمۡلِ",
+				"englishName": "An-Naml",
+				"englishNameTranslation": "The Ant",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 93
+			},
+			"numberInSurah": 89,
+			"juz": 20,
+			"manzil": 5,
+			"page": 385,
+			"ruku": 333,
+			"hizbQuarter": 154,
+			"sajda": false
+		},
+		{
+			"number": 3249,
+			"text": "وَمَنْ جَاءَ بِالسَّيِّئَةِ فَكُبَّتْ وُجُوهُهُمْ فِي النَّارِ هَلْ تُجْزَوْنَ إِلَّا مَا كُنْتُمْ تَعْمَلُونَ",
+			"surah": {
+				"number": 27,
+				"name": "سُورَةُ النَّمۡلِ",
+				"englishName": "An-Naml",
+				"englishNameTranslation": "The Ant",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 93
+			},
+			"numberInSurah": 90,
+			"juz": 20,
+			"manzil": 5,
+			"page": 385,
+			"ruku": 333,
+			"hizbQuarter": 154,
+			"sajda": false
+		},
+		{
+			"number": 3250,
+			"text": "إِنَّمَا أُمِرْتُ أَنْ أَعْبُدَ رَبَّ هَٰذِهِ الْبَلْدَةِ الَّذِي حَرَّمَهَا وَلَهُ كُلُّ شَيْءٍ ۖ وَأُمِرْتُ أَنْ أَكُونَ مِنَ الْمُسْلِمِينَ",
+			"surah": {
+				"number": 27,
+				"name": "سُورَةُ النَّمۡلِ",
+				"englishName": "An-Naml",
+				"englishNameTranslation": "The Ant",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 93
+			},
+			"numberInSurah": 91,
+			"juz": 20,
+			"manzil": 5,
+			"page": 385,
+			"ruku": 333,
+			"hizbQuarter": 154,
+			"sajda": false
+		},
+		{
+			"number": 3251,
+			"text": "وَأَنْ أَتْلُوَ الْقُرْآنَ ۖ فَمَنِ اهْتَدَىٰ فَإِنَّمَا يَهْتَدِي لِنَفْسِهِ ۖ وَمَنْ ضَلَّ فَقُلْ إِنَّمَا أَنَا مِنَ الْمُنْذِرِينَ",
+			"surah": {
+				"number": 27,
+				"name": "سُورَةُ النَّمۡلِ",
+				"englishName": "An-Naml",
+				"englishNameTranslation": "The Ant",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 93
+			},
+			"numberInSurah": 92,
+			"juz": 20,
+			"manzil": 5,
+			"page": 385,
+			"ruku": 333,
+			"hizbQuarter": 154,
+			"sajda": false
+		},
+		{
+			"number": 3252,
+			"text": "وَقُلِ الْحَمْدُ لِلَّهِ سَيُرِيكُمْ آيَاتِهِ فَتَعْرِفُونَهَا ۚ وَمَا رَبُّكَ بِغَافِلٍ عَمَّا تَعْمَلُونَ",
+			"surah": {
+				"number": 27,
+				"name": "سُورَةُ النَّمۡلِ",
+				"englishName": "An-Naml",
+				"englishNameTranslation": "The Ant",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 93
+			},
+			"numberInSurah": 93,
+			"juz": 20,
+			"manzil": 5,
+			"page": 385,
+			"ruku": 333,
+			"hizbQuarter": 154,
+			"sajda": false
+		},
+		{
+			"number": 3253,
+			"text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ طسم",
+			"surah": {
+				"number": 28,
+				"name": "سُورَةُ القَصَصِ",
+				"englishName": "Al-Qasas",
+				"englishNameTranslation": "The Stories",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 88
+			},
+			"numberInSurah": 1,
+			"juz": 20,
+			"manzil": 5,
+			"page": 385,
+			"ruku": 334,
+			"hizbQuarter": 154,
+			"sajda": false
+		},
+		{
+			"number": 3254,
+			"text": "تِلْكَ آيَاتُ الْكِتَابِ الْمُبِينِ",
+			"surah": {
+				"number": 28,
+				"name": "سُورَةُ القَصَصِ",
+				"englishName": "Al-Qasas",
+				"englishNameTranslation": "The Stories",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 88
+			},
+			"numberInSurah": 2,
+			"juz": 20,
+			"manzil": 5,
+			"page": 385,
+			"ruku": 334,
+			"hizbQuarter": 154,
+			"sajda": false
+		},
+		{
+			"number": 3255,
+			"text": "نَتْلُو عَلَيْكَ مِنْ نَبَإِ مُوسَىٰ وَفِرْعَوْنَ بِالْحَقِّ لِقَوْمٍ يُؤْمِنُونَ",
+			"surah": {
+				"number": 28,
+				"name": "سُورَةُ القَصَصِ",
+				"englishName": "Al-Qasas",
+				"englishNameTranslation": "The Stories",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 88
+			},
+			"numberInSurah": 3,
+			"juz": 20,
+			"manzil": 5,
+			"page": 385,
+			"ruku": 334,
+			"hizbQuarter": 154,
+			"sajda": false
+		},
+		{
+			"number": 3256,
+			"text": "إِنَّ فِرْعَوْنَ عَلَا فِي الْأَرْضِ وَجَعَلَ أَهْلَهَا شِيَعًا يَسْتَضْعِفُ طَائِفَةً مِنْهُمْ يُذَبِّحُ أَبْنَاءَهُمْ وَيَسْتَحْيِي نِسَاءَهُمْ ۚ إِنَّهُ كَانَ مِنَ الْمُفْسِدِينَ",
+			"surah": {
+				"number": 28,
+				"name": "سُورَةُ القَصَصِ",
+				"englishName": "Al-Qasas",
+				"englishNameTranslation": "The Stories",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 88
+			},
+			"numberInSurah": 4,
+			"juz": 20,
+			"manzil": 5,
+			"page": 385,
+			"ruku": 334,
+			"hizbQuarter": 154,
+			"sajda": false
+		},
+		{
+			"number": 3257,
+			"text": "وَنُرِيدُ أَنْ نَمُنَّ عَلَى الَّذِينَ اسْتُضْعِفُوا فِي الْأَرْضِ وَنَجْعَلَهُمْ أَئِمَّةً وَنَجْعَلَهُمُ الْوَارِثِينَ",
+			"surah": {
+				"number": 28,
+				"name": "سُورَةُ القَصَصِ",
+				"englishName": "Al-Qasas",
+				"englishNameTranslation": "The Stories",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 88
+			},
+			"numberInSurah": 5,
+			"juz": 20,
+			"manzil": 5,
+			"page": 385,
+			"ruku": 334,
+			"hizbQuarter": 154,
+			"sajda": false
+		},
+		{
+			"number": 3258,
+			"text": "وَنُمَكِّنَ لَهُمْ فِي الْأَرْضِ وَنُرِيَ فِرْعَوْنَ وَهَامَانَ وَجُنُودَهُمَا مِنْهُمْ مَا كَانُوا يَحْذَرُونَ",
+			"surah": {
+				"number": 28,
+				"name": "سُورَةُ القَصَصِ",
+				"englishName": "Al-Qasas",
+				"englishNameTranslation": "The Stories",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 88
+			},
+			"numberInSurah": 6,
+			"juz": 20,
+			"manzil": 5,
+			"page": 386,
+			"ruku": 334,
+			"hizbQuarter": 154,
+			"sajda": false
+		},
+		{
+			"number": 3259,
+			"text": "وَأَوْحَيْنَا إِلَىٰ أُمِّ مُوسَىٰ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِي الْيَمِّ وَلَا تَخَافِي وَلَا تَحْزَنِي ۖ إِنَّا رَادُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ الْمُرْسَلِينَ",
+			"surah": {
+				"number": 28,
+				"name": "سُورَةُ القَصَصِ",
+				"englishName": "Al-Qasas",
+				"englishNameTranslation": "The Stories",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 88
+			},
+			"numberInSurah": 7,
+			"juz": 20,
+			"manzil": 5,
+			"page": 386,
+			"ruku": 334,
+			"hizbQuarter": 154,
+			"sajda": false
+		},
+		{
+			"number": 3260,
+			"text": "فَالْتَقَطَهُ آلُ فِرْعَوْنَ لِيَكُونَ لَهُمْ عَدُوًّا وَحَزَنًا ۗ إِنَّ فِرْعَوْنَ وَهَامَانَ وَجُنُودَهُمَا كَانُوا خَاطِئِينَ",
+			"surah": {
+				"number": 28,
+				"name": "سُورَةُ القَصَصِ",
+				"englishName": "Al-Qasas",
+				"englishNameTranslation": "The Stories",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 88
+			},
+			"numberInSurah": 8,
+			"juz": 20,
+			"manzil": 5,
+			"page": 386,
+			"ruku": 334,
+			"hizbQuarter": 154,
+			"sajda": false
+		},
+		{
+			"number": 3261,
+			"text": "وَقَالَتِ امْرَأَتُ فِرْعَوْنَ قُرَّتُ عَيْنٍ لِي وَلَكَ ۖ لَا تَقْتُلُوهُ عَسَىٰ أَنْ يَنْفَعَنَا أَوْ نَتَّخِذَهُ وَلَدًا وَهُمْ لَا يَشْعُرُونَ",
+			"surah": {
+				"number": 28,
+				"name": "سُورَةُ القَصَصِ",
+				"englishName": "Al-Qasas",
+				"englishNameTranslation": "The Stories",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 88
+			},
+			"numberInSurah": 9,
+			"juz": 20,
+			"manzil": 5,
+			"page": 386,
+			"ruku": 334,
+			"hizbQuarter": 154,
+			"sajda": false
+		},
+		{
+			"number": 3262,
+			"text": "وَأَصْبَحَ فُؤَادُ أُمِّ مُوسَىٰ فَارِغًا ۖ إِنْ كَادَتْ لَتُبْدِي بِهِ لَوْلَا أَنْ رَبَطْنَا عَلَىٰ قَلْبِهَا لِتَكُونَ مِنَ الْمُؤْمِنِينَ",
+			"surah": {
+				"number": 28,
+				"name": "سُورَةُ القَصَصِ",
+				"englishName": "Al-Qasas",
+				"englishNameTranslation": "The Stories",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 88
+			},
+			"numberInSurah": 10,
+			"juz": 20,
+			"manzil": 5,
+			"page": 386,
+			"ruku": 334,
+			"hizbQuarter": 154,
+			"sajda": false
+		},
+		{
+			"number": 3263,
+			"text": "وَقَالَتْ لِأُخْتِهِ قُصِّيهِ ۖ فَبَصُرَتْ بِهِ عَنْ جُنُبٍ وَهُمْ لَا يَشْعُرُونَ",
+			"surah": {
+				"number": 28,
+				"name": "سُورَةُ القَصَصِ",
+				"englishName": "Al-Qasas",
+				"englishNameTranslation": "The Stories",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 88
+			},
+			"numberInSurah": 11,
+			"juz": 20,
+			"manzil": 5,
+			"page": 386,
+			"ruku": 334,
+			"hizbQuarter": 154,
+			"sajda": false
+		},
+		{
+			"number": 3264,
+			"text": "۞ وَحَرَّمْنَا عَلَيْهِ الْمَرَاضِعَ مِنْ قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰ أَهْلِ بَيْتٍ يَكْفُلُونَهُ لَكُمْ وَهُمْ لَهُ نَاصِحُونَ",
+			"surah": {
+				"number": 28,
+				"name": "سُورَةُ القَصَصِ",
+				"englishName": "Al-Qasas",
+				"englishNameTranslation": "The Stories",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 88
+			},
+			"numberInSurah": 12,
+			"juz": 20,
+			"manzil": 5,
+			"page": 386,
+			"ruku": 334,
+			"hizbQuarter": 155,
+			"sajda": false
+		},
+		{
+			"number": 3265,
+			"text": "فَرَدَدْنَاهُ إِلَىٰ أُمِّهِ كَيْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ وَلِتَعْلَمَ أَنَّ وَعْدَ اللَّهِ حَقٌّ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ",
+			"surah": {
+				"number": 28,
+				"name": "سُورَةُ القَصَصِ",
+				"englishName": "Al-Qasas",
+				"englishNameTranslation": "The Stories",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 88
+			},
+			"numberInSurah": 13,
+			"juz": 20,
+			"manzil": 5,
+			"page": 386,
+			"ruku": 334,
+			"hizbQuarter": 155,
+			"sajda": false
+		},
+		{
+			"number": 3266,
+			"text": "وَلَمَّا بَلَغَ أَشُدَّهُ وَاسْتَوَىٰ آتَيْنَاهُ حُكْمًا وَعِلْمًا ۚ وَكَذَٰلِكَ نَجْزِي الْمُحْسِنِينَ",
+			"surah": {
+				"number": 28,
+				"name": "سُورَةُ القَصَصِ",
+				"englishName": "Al-Qasas",
+				"englishNameTranslation": "The Stories",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 88
+			},
+			"numberInSurah": 14,
+			"juz": 20,
+			"manzil": 5,
+			"page": 387,
+			"ruku": 335,
+			"hizbQuarter": 155,
+			"sajda": false
+		},
+		{
+			"number": 3267,
+			"text": "وَدَخَلَ الْمَدِينَةَ عَلَىٰ حِينِ غَفْلَةٍ مِنْ أَهْلِهَا فَوَجَدَ فِيهَا رَجُلَيْنِ يَقْتَتِلَانِ هَٰذَا مِنْ شِيعَتِهِ وَهَٰذَا مِنْ عَدُوِّهِ ۖ فَاسْتَغَاثَهُ الَّذِي مِنْ شِيعَتِهِ عَلَى الَّذِي مِنْ عَدُوِّهِ فَوَكَزَهُ مُوسَىٰ فَقَضَىٰ عَلَيْهِ ۖ قَالَ هَٰذَا مِنْ عَمَلِ الشَّيْطَانِ ۖ إِنَّهُ عَدُوٌّ مُضِلٌّ مُبِينٌ",
+			"surah": {
+				"number": 28,
+				"name": "سُورَةُ القَصَصِ",
+				"englishName": "Al-Qasas",
+				"englishNameTranslation": "The Stories",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 88
+			},
+			"numberInSurah": 15,
+			"juz": 20,
+			"manzil": 5,
+			"page": 387,
+			"ruku": 335,
+			"hizbQuarter": 155,
+			"sajda": false
+		},
+		{
+			"number": 3268,
+			"text": "قَالَ رَبِّ إِنِّي ظَلَمْتُ نَفْسِي فَاغْفِرْ لِي فَغَفَرَ لَهُ ۚ إِنَّهُ هُوَ الْغَفُورُ الرَّحِيمُ",
+			"surah": {
+				"number": 28,
+				"name": "سُورَةُ القَصَصِ",
+				"englishName": "Al-Qasas",
+				"englishNameTranslation": "The Stories",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 88
+			},
+			"numberInSurah": 16,
+			"juz": 20,
+			"manzil": 5,
+			"page": 387,
+			"ruku": 335,
+			"hizbQuarter": 155,
+			"sajda": false
+		},
+		{
+			"number": 3269,
+			"text": "قَالَ رَبِّ بِمَا أَنْعَمْتَ عَلَيَّ فَلَنْ أَكُونَ ظَهِيرًا لِلْمُجْرِمِينَ",
+			"surah": {
+				"number": 28,
+				"name": "سُورَةُ القَصَصِ",
+				"englishName": "Al-Qasas",
+				"englishNameTranslation": "The Stories",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 88
+			},
+			"numberInSurah": 17,
+			"juz": 20,
+			"manzil": 5,
+			"page": 387,
+			"ruku": 335,
+			"hizbQuarter": 155,
+			"sajda": false
+		},
+		{
+			"number": 3270,
+			"text": "فَأَصْبَحَ فِي الْمَدِينَةِ خَائِفًا يَتَرَقَّبُ فَإِذَا الَّذِي اسْتَنْصَرَهُ بِالْأَمْسِ يَسْتَصْرِخُهُ ۚ قَالَ لَهُ مُوسَىٰ إِنَّكَ لَغَوِيٌّ مُبِينٌ",
+			"surah": {
+				"number": 28,
+				"name": "سُورَةُ القَصَصِ",
+				"englishName": "Al-Qasas",
+				"englishNameTranslation": "The Stories",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 88
+			},
+			"numberInSurah": 18,
+			"juz": 20,
+			"manzil": 5,
+			"page": 387,
+			"ruku": 335,
+			"hizbQuarter": 155,
+			"sajda": false
+		},
+		{
+			"number": 3271,
+			"text": "فَلَمَّا أَنْ أَرَادَ أَنْ يَبْطِشَ بِالَّذِي هُوَ عَدُوٌّ لَهُمَا قَالَ يَا مُوسَىٰ أَتُرِيدُ أَنْ تَقْتُلَنِي كَمَا قَتَلْتَ نَفْسًا بِالْأَمْسِ ۖ إِنْ تُرِيدُ إِلَّا أَنْ تَكُونَ جَبَّارًا فِي الْأَرْضِ وَمَا تُرِيدُ أَنْ تَكُونَ مِنَ الْمُصْلِحِينَ",
+			"surah": {
+				"number": 28,
+				"name": "سُورَةُ القَصَصِ",
+				"englishName": "Al-Qasas",
+				"englishNameTranslation": "The Stories",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 88
+			},
+			"numberInSurah": 19,
+			"juz": 20,
+			"manzil": 5,
+			"page": 387,
+			"ruku": 335,
+			"hizbQuarter": 155,
+			"sajda": false
+		},
+		{
+			"number": 3272,
+			"text": "وَجَاءَ رَجُلٌ مِنْ أَقْصَى الْمَدِينَةِ يَسْعَىٰ قَالَ يَا مُوسَىٰ إِنَّ الْمَلَأَ يَأْتَمِرُونَ بِكَ لِيَقْتُلُوكَ فَاخْرُجْ إِنِّي لَكَ مِنَ النَّاصِحِينَ",
+			"surah": {
+				"number": 28,
+				"name": "سُورَةُ القَصَصِ",
+				"englishName": "Al-Qasas",
+				"englishNameTranslation": "The Stories",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 88
+			},
+			"numberInSurah": 20,
+			"juz": 20,
+			"manzil": 5,
+			"page": 387,
+			"ruku": 335,
+			"hizbQuarter": 155,
+			"sajda": false
+		},
+		{
+			"number": 3273,
+			"text": "فَخَرَجَ مِنْهَا خَائِفًا يَتَرَقَّبُ ۖ قَالَ رَبِّ نَجِّنِي مِنَ الْقَوْمِ الظَّالِمِينَ",
+			"surah": {
+				"number": 28,
+				"name": "سُورَةُ القَصَصِ",
+				"englishName": "Al-Qasas",
+				"englishNameTranslation": "The Stories",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 88
+			},
+			"numberInSurah": 21,
+			"juz": 20,
+			"manzil": 5,
+			"page": 387,
+			"ruku": 335,
+			"hizbQuarter": 155,
+			"sajda": false
+		},
+		{
+			"number": 3274,
+			"text": "وَلَمَّا تَوَجَّهَ تِلْقَاءَ مَدْيَنَ قَالَ عَسَىٰ رَبِّي أَنْ يَهْدِيَنِي سَوَاءَ السَّبِيلِ",
+			"surah": {
+				"number": 28,
+				"name": "سُورَةُ القَصَصِ",
+				"englishName": "Al-Qasas",
+				"englishNameTranslation": "The Stories",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 88
+			},
+			"numberInSurah": 22,
+			"juz": 20,
+			"manzil": 5,
+			"page": 388,
+			"ruku": 336,
+			"hizbQuarter": 155,
+			"sajda": false
+		},
+		{
+			"number": 3275,
+			"text": "وَلَمَّا وَرَدَ مَاءَ مَدْيَنَ وَجَدَ عَلَيْهِ أُمَّةً مِنَ النَّاسِ يَسْقُونَ وَوَجَدَ مِنْ دُونِهِمُ امْرَأَتَيْنِ تَذُودَانِ ۖ قَالَ مَا خَطْبُكُمَا ۖ قَالَتَا لَا نَسْقِي حَتَّىٰ يُصْدِرَ الرِّعَاءُ ۖ وَأَبُونَا شَيْخٌ كَبِيرٌ",
+			"surah": {
+				"number": 28,
+				"name": "سُورَةُ القَصَصِ",
+				"englishName": "Al-Qasas",
+				"englishNameTranslation": "The Stories",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 88
+			},
+			"numberInSurah": 23,
+			"juz": 20,
+			"manzil": 5,
+			"page": 388,
+			"ruku": 336,
+			"hizbQuarter": 155,
+			"sajda": false
+		},
+		{
+			"number": 3276,
+			"text": "فَسَقَىٰ لَهُمَا ثُمَّ تَوَلَّىٰ إِلَى الظِّلِّ فَقَالَ رَبِّ إِنِّي لِمَا أَنْزَلْتَ إِلَيَّ مِنْ خَيْرٍ فَقِيرٌ",
+			"surah": {
+				"number": 28,
+				"name": "سُورَةُ القَصَصِ",
+				"englishName": "Al-Qasas",
+				"englishNameTranslation": "The Stories",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 88
+			},
+			"numberInSurah": 24,
+			"juz": 20,
+			"manzil": 5,
+			"page": 388,
+			"ruku": 336,
+			"hizbQuarter": 155,
+			"sajda": false
+		},
+		{
+			"number": 3277,
+			"text": "فَجَاءَتْهُ إِحْدَاهُمَا تَمْشِي عَلَى اسْتِحْيَاءٍ قَالَتْ إِنَّ أَبِي يَدْعُوكَ لِيَجْزِيَكَ أَجْرَ مَا سَقَيْتَ لَنَا ۚ فَلَمَّا جَاءَهُ وَقَصَّ عَلَيْهِ الْقَصَصَ قَالَ لَا تَخَفْ ۖ نَجَوْتَ مِنَ الْقَوْمِ الظَّالِمِينَ",
+			"surah": {
+				"number": 28,
+				"name": "سُورَةُ القَصَصِ",
+				"englishName": "Al-Qasas",
+				"englishNameTranslation": "The Stories",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 88
+			},
+			"numberInSurah": 25,
+			"juz": 20,
+			"manzil": 5,
+			"page": 388,
+			"ruku": 336,
+			"hizbQuarter": 155,
+			"sajda": false
+		},
+		{
+			"number": 3278,
+			"text": "قَالَتْ إِحْدَاهُمَا يَا أَبَتِ اسْتَأْجِرْهُ ۖ إِنَّ خَيْرَ مَنِ اسْتَأْجَرْتَ الْقَوِيُّ الْأَمِينُ",
+			"surah": {
+				"number": 28,
+				"name": "سُورَةُ القَصَصِ",
+				"englishName": "Al-Qasas",
+				"englishNameTranslation": "The Stories",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 88
+			},
+			"numberInSurah": 26,
+			"juz": 20,
+			"manzil": 5,
+			"page": 388,
+			"ruku": 336,
+			"hizbQuarter": 155,
+			"sajda": false
+		},
+		{
+			"number": 3279,
+			"text": "قَالَ إِنِّي أُرِيدُ أَنْ أُنْكِحَكَ إِحْدَى ابْنَتَيَّ هَاتَيْنِ عَلَىٰ أَنْ تَأْجُرَنِي ثَمَانِيَ حِجَجٍ ۖ فَإِنْ أَتْمَمْتَ عَشْرًا فَمِنْ عِنْدِكَ ۖ وَمَا أُرِيدُ أَنْ أَشُقَّ عَلَيْكَ ۚ سَتَجِدُنِي إِنْ شَاءَ اللَّهُ مِنَ الصَّالِحِينَ",
+			"surah": {
+				"number": 28,
+				"name": "سُورَةُ القَصَصِ",
+				"englishName": "Al-Qasas",
+				"englishNameTranslation": "The Stories",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 88
+			},
+			"numberInSurah": 27,
+			"juz": 20,
+			"manzil": 5,
+			"page": 388,
+			"ruku": 336,
+			"hizbQuarter": 155,
+			"sajda": false
+		},
+		{
+			"number": 3280,
+			"text": "قَالَ ذَٰلِكَ بَيْنِي وَبَيْنَكَ ۖ أَيَّمَا الْأَجَلَيْنِ قَضَيْتُ فَلَا عُدْوَانَ عَلَيَّ ۖ وَاللَّهُ عَلَىٰ مَا نَقُولُ وَكِيلٌ",
+			"surah": {
+				"number": 28,
+				"name": "سُورَةُ القَصَصِ",
+				"englishName": "Al-Qasas",
+				"englishNameTranslation": "The Stories",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 88
+			},
+			"numberInSurah": 28,
+			"juz": 20,
+			"manzil": 5,
+			"page": 388,
+			"ruku": 336,
+			"hizbQuarter": 155,
+			"sajda": false
+		},
+		{
+			"number": 3281,
+			"text": "۞ فَلَمَّا قَضَىٰ مُوسَى الْأَجَلَ وَسَارَ بِأَهْلِهِ آنَسَ مِنْ جَانِبِ الطُّورِ نَارًا قَالَ لِأَهْلِهِ امْكُثُوا إِنِّي آنَسْتُ نَارًا لَعَلِّي آتِيكُمْ مِنْهَا بِخَبَرٍ أَوْ جَذْوَةٍ مِنَ النَّارِ لَعَلَّكُمْ تَصْطَلُونَ",
+			"surah": {
+				"number": 28,
+				"name": "سُورَةُ القَصَصِ",
+				"englishName": "Al-Qasas",
+				"englishNameTranslation": "The Stories",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 88
+			},
+			"numberInSurah": 29,
+			"juz": 20,
+			"manzil": 5,
+			"page": 389,
+			"ruku": 337,
+			"hizbQuarter": 156,
+			"sajda": false
+		},
+		{
+			"number": 3282,
+			"text": "فَلَمَّا أَتَاهَا نُودِيَ مِنْ شَاطِئِ الْوَادِ الْأَيْمَنِ فِي الْبُقْعَةِ الْمُبَارَكَةِ مِنَ الشَّجَرَةِ أَنْ يَا مُوسَىٰ إِنِّي أَنَا اللَّهُ رَبُّ الْعَالَمِينَ",
+			"surah": {
+				"number": 28,
+				"name": "سُورَةُ القَصَصِ",
+				"englishName": "Al-Qasas",
+				"englishNameTranslation": "The Stories",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 88
+			},
+			"numberInSurah": 30,
+			"juz": 20,
+			"manzil": 5,
+			"page": 389,
+			"ruku": 337,
+			"hizbQuarter": 156,
+			"sajda": false
+		},
+		{
+			"number": 3283,
+			"text": "وَأَنْ أَلْقِ عَصَاكَ ۖ فَلَمَّا رَآهَا تَهْتَزُّ كَأَنَّهَا جَانٌّ وَلَّىٰ مُدْبِرًا وَلَمْ يُعَقِّبْ ۚ يَا مُوسَىٰ أَقْبِلْ وَلَا تَخَفْ ۖ إِنَّكَ مِنَ الْآمِنِينَ",
+			"surah": {
+				"number": 28,
+				"name": "سُورَةُ القَصَصِ",
+				"englishName": "Al-Qasas",
+				"englishNameTranslation": "The Stories",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 88
+			},
+			"numberInSurah": 31,
+			"juz": 20,
+			"manzil": 5,
+			"page": 389,
+			"ruku": 337,
+			"hizbQuarter": 156,
+			"sajda": false
+		},
+		{
+			"number": 3284,
+			"text": "اسْلُكْ يَدَكَ فِي جَيْبِكَ تَخْرُجْ بَيْضَاءَ مِنْ غَيْرِ سُوءٍ وَاضْمُمْ إِلَيْكَ جَنَاحَكَ مِنَ الرَّهْبِ ۖ فَذَانِكَ بُرْهَانَانِ مِنْ رَبِّكَ إِلَىٰ فِرْعَوْنَ وَمَلَئِهِ ۚ إِنَّهُمْ كَانُوا قَوْمًا فَاسِقِينَ",
+			"surah": {
+				"number": 28,
+				"name": "سُورَةُ القَصَصِ",
+				"englishName": "Al-Qasas",
+				"englishNameTranslation": "The Stories",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 88
+			},
+			"numberInSurah": 32,
+			"juz": 20,
+			"manzil": 5,
+			"page": 389,
+			"ruku": 337,
+			"hizbQuarter": 156,
+			"sajda": false
+		},
+		{
+			"number": 3285,
+			"text": "قَالَ رَبِّ إِنِّي قَتَلْتُ مِنْهُمْ نَفْسًا فَأَخَافُ أَنْ يَقْتُلُونِ",
+			"surah": {
+				"number": 28,
+				"name": "سُورَةُ القَصَصِ",
+				"englishName": "Al-Qasas",
+				"englishNameTranslation": "The Stories",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 88
+			},
+			"numberInSurah": 33,
+			"juz": 20,
+			"manzil": 5,
+			"page": 389,
+			"ruku": 337,
+			"hizbQuarter": 156,
+			"sajda": false
+		},
+		{
+			"number": 3286,
+			"text": "وَأَخِي هَارُونُ هُوَ أَفْصَحُ مِنِّي لِسَانًا فَأَرْسِلْهُ مَعِيَ رِدْءًا يُصَدِّقُنِي ۖ إِنِّي أَخَافُ أَنْ يُكَذِّبُونِ",
+			"surah": {
+				"number": 28,
+				"name": "سُورَةُ القَصَصِ",
+				"englishName": "Al-Qasas",
+				"englishNameTranslation": "The Stories",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 88
+			},
+			"numberInSurah": 34,
+			"juz": 20,
+			"manzil": 5,
+			"page": 389,
+			"ruku": 337,
+			"hizbQuarter": 156,
+			"sajda": false
+		},
+		{
+			"number": 3287,
+			"text": "قَالَ سَنَشُدُّ عَضُدَكَ بِأَخِيكَ وَنَجْعَلُ لَكُمَا سُلْطَانًا فَلَا يَصِلُونَ إِلَيْكُمَا ۚ بِآيَاتِنَا أَنْتُمَا وَمَنِ اتَّبَعَكُمَا الْغَالِبُونَ",
+			"surah": {
+				"number": 28,
+				"name": "سُورَةُ القَصَصِ",
+				"englishName": "Al-Qasas",
+				"englishNameTranslation": "The Stories",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 88
+			},
+			"numberInSurah": 35,
+			"juz": 20,
+			"manzil": 5,
+			"page": 389,
+			"ruku": 337,
+			"hizbQuarter": 156,
+			"sajda": false
+		},
+		{
+			"number": 3288,
+			"text": "فَلَمَّا جَاءَهُمْ مُوسَىٰ بِآيَاتِنَا بَيِّنَاتٍ قَالُوا مَا هَٰذَا إِلَّا سِحْرٌ مُفْتَرًى وَمَا سَمِعْنَا بِهَٰذَا فِي آبَائِنَا الْأَوَّلِينَ",
+			"surah": {
+				"number": 28,
+				"name": "سُورَةُ القَصَصِ",
+				"englishName": "Al-Qasas",
+				"englishNameTranslation": "The Stories",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 88
+			},
+			"numberInSurah": 36,
+			"juz": 20,
+			"manzil": 5,
+			"page": 390,
+			"ruku": 337,
+			"hizbQuarter": 156,
+			"sajda": false
+		},
+		{
+			"number": 3289,
+			"text": "وَقَالَ مُوسَىٰ رَبِّي أَعْلَمُ بِمَنْ جَاءَ بِالْهُدَىٰ مِنْ عِنْدِهِ وَمَنْ تَكُونُ لَهُ عَاقِبَةُ الدَّارِ ۖ إِنَّهُ لَا يُفْلِحُ الظَّالِمُونَ",
+			"surah": {
+				"number": 28,
+				"name": "سُورَةُ القَصَصِ",
+				"englishName": "Al-Qasas",
+				"englishNameTranslation": "The Stories",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 88
+			},
+			"numberInSurah": 37,
+			"juz": 20,
+			"manzil": 5,
+			"page": 390,
+			"ruku": 337,
+			"hizbQuarter": 156,
+			"sajda": false
+		},
+		{
+			"number": 3290,
+			"text": "وَقَالَ فِرْعَوْنُ يَا أَيُّهَا الْمَلَأُ مَا عَلِمْتُ لَكُمْ مِنْ إِلَٰهٍ غَيْرِي فَأَوْقِدْ لِي يَا هَامَانُ عَلَى الطِّينِ فَاجْعَلْ لِي صَرْحًا لَعَلِّي أَطَّلِعُ إِلَىٰ إِلَٰهِ مُوسَىٰ وَإِنِّي لَأَظُنُّهُ مِنَ الْكَاذِبِينَ",
+			"surah": {
+				"number": 28,
+				"name": "سُورَةُ القَصَصِ",
+				"englishName": "Al-Qasas",
+				"englishNameTranslation": "The Stories",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 88
+			},
+			"numberInSurah": 38,
+			"juz": 20,
+			"manzil": 5,
+			"page": 390,
+			"ruku": 337,
+			"hizbQuarter": 156,
+			"sajda": false
+		},
+		{
+			"number": 3291,
+			"text": "وَاسْتَكْبَرَ هُوَ وَجُنُودُهُ فِي الْأَرْضِ بِغَيْرِ الْحَقِّ وَظَنُّوا أَنَّهُمْ إِلَيْنَا لَا يُرْجَعُونَ",
+			"surah": {
+				"number": 28,
+				"name": "سُورَةُ القَصَصِ",
+				"englishName": "Al-Qasas",
+				"englishNameTranslation": "The Stories",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 88
+			},
+			"numberInSurah": 39,
+			"juz": 20,
+			"manzil": 5,
+			"page": 390,
+			"ruku": 337,
+			"hizbQuarter": 156,
+			"sajda": false
+		},
+		{
+			"number": 3292,
+			"text": "فَأَخَذْنَاهُ وَجُنُودَهُ فَنَبَذْنَاهُمْ فِي الْيَمِّ ۖ فَانْظُرْ كَيْفَ كَانَ عَاقِبَةُ الظَّالِمِينَ",
+			"surah": {
+				"number": 28,
+				"name": "سُورَةُ القَصَصِ",
+				"englishName": "Al-Qasas",
+				"englishNameTranslation": "The Stories",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 88
+			},
+			"numberInSurah": 40,
+			"juz": 20,
+			"manzil": 5,
+			"page": 390,
+			"ruku": 337,
+			"hizbQuarter": 156,
+			"sajda": false
+		},
+		{
+			"number": 3293,
+			"text": "وَجَعَلْنَاهُمْ أَئِمَّةً يَدْعُونَ إِلَى النَّارِ ۖ وَيَوْمَ الْقِيَامَةِ لَا يُنْصَرُونَ",
+			"surah": {
+				"number": 28,
+				"name": "سُورَةُ القَصَصِ",
+				"englishName": "Al-Qasas",
+				"englishNameTranslation": "The Stories",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 88
+			},
+			"numberInSurah": 41,
+			"juz": 20,
+			"manzil": 5,
+			"page": 390,
+			"ruku": 337,
+			"hizbQuarter": 156,
+			"sajda": false
+		},
+		{
+			"number": 3294,
+			"text": "وَأَتْبَعْنَاهُمْ فِي هَٰذِهِ الدُّنْيَا لَعْنَةً ۖ وَيَوْمَ الْقِيَامَةِ هُمْ مِنَ الْمَقْبُوحِينَ",
+			"surah": {
+				"number": 28,
+				"name": "سُورَةُ القَصَصِ",
+				"englishName": "Al-Qasas",
+				"englishNameTranslation": "The Stories",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 88
+			},
+			"numberInSurah": 42,
+			"juz": 20,
+			"manzil": 5,
+			"page": 390,
+			"ruku": 337,
+			"hizbQuarter": 156,
+			"sajda": false
+		},
+		{
+			"number": 3295,
+			"text": "وَلَقَدْ آتَيْنَا مُوسَى الْكِتَابَ مِنْ بَعْدِ مَا أَهْلَكْنَا الْقُرُونَ الْأُولَىٰ بَصَائِرَ لِلنَّاسِ وَهُدًى وَرَحْمَةً لَعَلَّهُمْ يَتَذَكَّرُونَ",
+			"surah": {
+				"number": 28,
+				"name": "سُورَةُ القَصَصِ",
+				"englishName": "Al-Qasas",
+				"englishNameTranslation": "The Stories",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 88
+			},
+			"numberInSurah": 43,
+			"juz": 20,
+			"manzil": 5,
+			"page": 390,
+			"ruku": 338,
+			"hizbQuarter": 156,
+			"sajda": false
+		},
+		{
+			"number": 3296,
+			"text": "وَمَا كُنْتَ بِجَانِبِ الْغَرْبِيِّ إِذْ قَضَيْنَا إِلَىٰ مُوسَى الْأَمْرَ وَمَا كُنْتَ مِنَ الشَّاهِدِينَ",
+			"surah": {
+				"number": 28,
+				"name": "سُورَةُ القَصَصِ",
+				"englishName": "Al-Qasas",
+				"englishNameTranslation": "The Stories",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 88
+			},
+			"numberInSurah": 44,
+			"juz": 20,
+			"manzil": 5,
+			"page": 391,
+			"ruku": 338,
+			"hizbQuarter": 156,
+			"sajda": false
+		},
+		{
+			"number": 3297,
+			"text": "وَلَٰكِنَّا أَنْشَأْنَا قُرُونًا فَتَطَاوَلَ عَلَيْهِمُ الْعُمُرُ ۚ وَمَا كُنْتَ ثَاوِيًا فِي أَهْلِ مَدْيَنَ تَتْلُو عَلَيْهِمْ آيَاتِنَا وَلَٰكِنَّا كُنَّا مُرْسِلِينَ",
+			"surah": {
+				"number": 28,
+				"name": "سُورَةُ القَصَصِ",
+				"englishName": "Al-Qasas",
+				"englishNameTranslation": "The Stories",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 88
+			},
+			"numberInSurah": 45,
+			"juz": 20,
+			"manzil": 5,
+			"page": 391,
+			"ruku": 338,
+			"hizbQuarter": 156,
+			"sajda": false
+		},
+		{
+			"number": 3298,
+			"text": "وَمَا كُنْتَ بِجَانِبِ الطُّورِ إِذْ نَادَيْنَا وَلَٰكِنْ رَحْمَةً مِنْ رَبِّكَ لِتُنْذِرَ قَوْمًا مَا أَتَاهُمْ مِنْ نَذِيرٍ مِنْ قَبْلِكَ لَعَلَّهُمْ يَتَذَكَّرُونَ",
+			"surah": {
+				"number": 28,
+				"name": "سُورَةُ القَصَصِ",
+				"englishName": "Al-Qasas",
+				"englishNameTranslation": "The Stories",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 88
+			},
+			"numberInSurah": 46,
+			"juz": 20,
+			"manzil": 5,
+			"page": 391,
+			"ruku": 338,
+			"hizbQuarter": 156,
+			"sajda": false
+		},
+		{
+			"number": 3299,
+			"text": "وَلَوْلَا أَنْ تُصِيبَهُمْ مُصِيبَةٌ بِمَا قَدَّمَتْ أَيْدِيهِمْ فَيَقُولُوا رَبَّنَا لَوْلَا أَرْسَلْتَ إِلَيْنَا رَسُولًا فَنَتَّبِعَ آيَاتِكَ وَنَكُونَ مِنَ الْمُؤْمِنِينَ",
+			"surah": {
+				"number": 28,
+				"name": "سُورَةُ القَصَصِ",
+				"englishName": "Al-Qasas",
+				"englishNameTranslation": "The Stories",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 88
+			},
+			"numberInSurah": 47,
+			"juz": 20,
+			"manzil": 5,
+			"page": 391,
+			"ruku": 338,
+			"hizbQuarter": 156,
+			"sajda": false
+		},
+		{
+			"number": 3300,
+			"text": "فَلَمَّا جَاءَهُمُ الْحَقُّ مِنْ عِنْدِنَا قَالُوا لَوْلَا أُوتِيَ مِثْلَ مَا أُوتِيَ مُوسَىٰ ۚ أَوَلَمْ يَكْفُرُوا بِمَا أُوتِيَ مُوسَىٰ مِنْ قَبْلُ ۖ قَالُوا سِحْرَانِ تَظَاهَرَا وَقَالُوا إِنَّا بِكُلٍّ كَافِرُونَ",
+			"surah": {
+				"number": 28,
+				"name": "سُورَةُ القَصَصِ",
+				"englishName": "Al-Qasas",
+				"englishNameTranslation": "The Stories",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 88
+			},
+			"numberInSurah": 48,
+			"juz": 20,
+			"manzil": 5,
+			"page": 391,
+			"ruku": 338,
+			"hizbQuarter": 156,
+			"sajda": false
+		},
+		{
+			"number": 3301,
+			"text": "قُلْ فَأْتُوا بِكِتَابٍ مِنْ عِنْدِ اللَّهِ هُوَ أَهْدَىٰ مِنْهُمَا أَتَّبِعْهُ إِنْ كُنْتُمْ صَادِقِينَ",
+			"surah": {
+				"number": 28,
+				"name": "سُورَةُ القَصَصِ",
+				"englishName": "Al-Qasas",
+				"englishNameTranslation": "The Stories",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 88
+			},
+			"numberInSurah": 49,
+			"juz": 20,
+			"manzil": 5,
+			"page": 391,
+			"ruku": 338,
+			"hizbQuarter": 156,
+			"sajda": false
+		},
+		{
+			"number": 3302,
+			"text": "فَإِنْ لَمْ يَسْتَجِيبُوا لَكَ فَاعْلَمْ أَنَّمَا يَتَّبِعُونَ أَهْوَاءَهُمْ ۚ وَمَنْ أَضَلُّ مِمَّنِ اتَّبَعَ هَوَاهُ بِغَيْرِ هُدًى مِنَ اللَّهِ ۚ إِنَّ اللَّهَ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ",
+			"surah": {
+				"number": 28,
+				"name": "سُورَةُ القَصَصِ",
+				"englishName": "Al-Qasas",
+				"englishNameTranslation": "The Stories",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 88
+			},
+			"numberInSurah": 50,
+			"juz": 20,
+			"manzil": 5,
+			"page": 391,
+			"ruku": 338,
+			"hizbQuarter": 156,
+			"sajda": false
+		}
+	]
+}

@@ -1,0 +1,195 @@
+﻿{
+	"number": 58,
+	"ayahs": [
+		{
+			"number": 355,
+			"text": "إِنَّ هَٰذَا لَهُوَ الْقَصَصُ الْحَقُّ ۚ وَمَا مِنْ إِلَٰهٍ إِلَّا اللَّهُ ۚ وَإِنَّ اللَّهَ لَهُوَ الْعَزِيزُ الْحَكِيمُ",
+			"surah": {
+				"number": 3,
+				"name": "سُورَةُ آلِ عِمۡرَانَ",
+				"englishName": "Aal-i-Imraan",
+				"englishNameTranslation": "The Family of Imraan",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 200
+			},
+			"numberInSurah": 62,
+			"juz": 3,
+			"manzil": 1,
+			"page": 58,
+			"ruku": 47,
+			"hizbQuarter": 23,
+			"sajda": false
+		},
+		{
+			"number": 356,
+			"text": "فَإِنْ تَوَلَّوْا فَإِنَّ اللَّهَ عَلِيمٌ بِالْمُفْسِدِينَ",
+			"surah": {
+				"number": 3,
+				"name": "سُورَةُ آلِ عِمۡرَانَ",
+				"englishName": "Aal-i-Imraan",
+				"englishNameTranslation": "The Family of Imraan",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 200
+			},
+			"numberInSurah": 63,
+			"juz": 3,
+			"manzil": 1,
+			"page": 58,
+			"ruku": 47,
+			"hizbQuarter": 23,
+			"sajda": false
+		},
+		{
+			"number": 357,
+			"text": "قُلْ يَا أَهْلَ الْكِتَابِ تَعَالَوْا إِلَىٰ كَلِمَةٍ سَوَاءٍ بَيْنَنَا وَبَيْنَكُمْ أَلَّا نَعْبُدَ إِلَّا اللَّهَ وَلَا نُشْرِكَ بِهِ شَيْئًا وَلَا يَتَّخِذَ بَعْضُنَا بَعْضًا أَرْبَابًا مِنْ دُونِ اللَّهِ ۚ فَإِنْ تَوَلَّوْا فَقُولُوا اشْهَدُوا بِأَنَّا مُسْلِمُونَ",
+			"surah": {
+				"number": 3,
+				"name": "سُورَةُ آلِ عِمۡرَانَ",
+				"englishName": "Aal-i-Imraan",
+				"englishNameTranslation": "The Family of Imraan",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 200
+			},
+			"numberInSurah": 64,
+			"juz": 3,
+			"manzil": 1,
+			"page": 58,
+			"ruku": 48,
+			"hizbQuarter": 23,
+			"sajda": false
+		},
+		{
+			"number": 358,
+			"text": "يَا أَهْلَ الْكِتَابِ لِمَ تُحَاجُّونَ فِي إِبْرَاهِيمَ وَمَا أُنْزِلَتِ التَّوْرَاةُ وَالْإِنْجِيلُ إِلَّا مِنْ بَعْدِهِ ۚ أَفَلَا تَعْقِلُونَ",
+			"surah": {
+				"number": 3,
+				"name": "سُورَةُ آلِ عِمۡرَانَ",
+				"englishName": "Aal-i-Imraan",
+				"englishNameTranslation": "The Family of Imraan",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 200
+			},
+			"numberInSurah": 65,
+			"juz": 3,
+			"manzil": 1,
+			"page": 58,
+			"ruku": 48,
+			"hizbQuarter": 23,
+			"sajda": false
+		},
+		{
+			"number": 359,
+			"text": "هَا أَنْتُمْ هَٰؤُلَاءِ حَاجَجْتُمْ فِيمَا لَكُمْ بِهِ عِلْمٌ فَلِمَ تُحَاجُّونَ فِيمَا لَيْسَ لَكُمْ بِهِ عِلْمٌ ۚ وَاللَّهُ يَعْلَمُ وَأَنْتُمْ لَا تَعْلَمُونَ",
+			"surah": {
+				"number": 3,
+				"name": "سُورَةُ آلِ عِمۡرَانَ",
+				"englishName": "Aal-i-Imraan",
+				"englishNameTranslation": "The Family of Imraan",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 200
+			},
+			"numberInSurah": 66,
+			"juz": 3,
+			"manzil": 1,
+			"page": 58,
+			"ruku": 48,
+			"hizbQuarter": 23,
+			"sajda": false
+		},
+		{
+			"number": 360,
+			"text": "مَا كَانَ إِبْرَاهِيمُ يَهُودِيًّا وَلَا نَصْرَانِيًّا وَلَٰكِنْ كَانَ حَنِيفًا مُسْلِمًا وَمَا كَانَ مِنَ الْمُشْرِكِينَ",
+			"surah": {
+				"number": 3,
+				"name": "سُورَةُ آلِ عِمۡرَانَ",
+				"englishName": "Aal-i-Imraan",
+				"englishNameTranslation": "The Family of Imraan",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 200
+			},
+			"numberInSurah": 67,
+			"juz": 3,
+			"manzil": 1,
+			"page": 58,
+			"ruku": 48,
+			"hizbQuarter": 23,
+			"sajda": false
+		},
+		{
+			"number": 361,
+			"text": "إِنَّ أَوْلَى النَّاسِ بِإِبْرَاهِيمَ لَلَّذِينَ اتَّبَعُوهُ وَهَٰذَا النَّبِيُّ وَالَّذِينَ آمَنُوا ۗ وَاللَّهُ وَلِيُّ الْمُؤْمِنِينَ",
+			"surah": {
+				"number": 3,
+				"name": "سُورَةُ آلِ عِمۡرَانَ",
+				"englishName": "Aal-i-Imraan",
+				"englishNameTranslation": "The Family of Imraan",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 200
+			},
+			"numberInSurah": 68,
+			"juz": 3,
+			"manzil": 1,
+			"page": 58,
+			"ruku": 48,
+			"hizbQuarter": 23,
+			"sajda": false
+		},
+		{
+			"number": 362,
+			"text": "وَدَّتْ طَائِفَةٌ مِنْ أَهْلِ الْكِتَابِ لَوْ يُضِلُّونَكُمْ وَمَا يُضِلُّونَ إِلَّا أَنْفُسَهُمْ وَمَا يَشْعُرُونَ",
+			"surah": {
+				"number": 3,
+				"name": "سُورَةُ آلِ عِمۡرَانَ",
+				"englishName": "Aal-i-Imraan",
+				"englishNameTranslation": "The Family of Imraan",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 200
+			},
+			"numberInSurah": 69,
+			"juz": 3,
+			"manzil": 1,
+			"page": 58,
+			"ruku": 48,
+			"hizbQuarter": 23,
+			"sajda": false
+		},
+		{
+			"number": 363,
+			"text": "يَا أَهْلَ الْكِتَابِ لِمَ تَكْفُرُونَ بِآيَاتِ اللَّهِ وَأَنْتُمْ تَشْهَدُونَ",
+			"surah": {
+				"number": 3,
+				"name": "سُورَةُ آلِ عِمۡرَانَ",
+				"englishName": "Aal-i-Imraan",
+				"englishNameTranslation": "The Family of Imraan",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 200
+			},
+			"numberInSurah": 70,
+			"juz": 3,
+			"manzil": 1,
+			"page": 58,
+			"ruku": 48,
+			"hizbQuarter": 23,
+			"sajda": false
+		}
+	],
+	"surahs": {
+		"3": {
+			"number": 3,
+			"name": "سُورَةُ آلِ عِمۡرَانَ",
+			"englishName": "Aal-i-Imraan",
+			"englishNameTranslation": "The Family of Imraan",
+			"revelationType": "Medinan",
+			"numberOfAyahs": 200
+		}
+	},
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

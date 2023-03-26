@@ -1,0 +1,228 @@
+﻿{
+	"number": 87,
+	"name": "سُورَةُ الأَعۡلَىٰ",
+	"englishName": "Al-A'laa",
+	"englishNameTranslation": "The Most High",
+	"revelationType": "Meccan",
+	"numberOfAyahs": 19,
+	"ayahs": [
+		{
+			"number": 5949,
+			"text": "«سبح اسم ربك» أي نزه ربك عما لا يليق به واسم زائد «الأعلى» صفة لربك.",
+			"numberInSurah": 1,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 529,
+			"hizbQuarter": 237,
+			"sajda": false
+		},
+		{
+			"number": 5950,
+			"text": "«الذي خلق فسوى» مخلوقه، جعله متناسب الأجزاء غير متفاوت.",
+			"numberInSurah": 2,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 529,
+			"hizbQuarter": 237,
+			"sajda": false
+		},
+		{
+			"number": 5951,
+			"text": "«والذي قدَّر» ما شاء «فهدى» إلى ما قدره من خير وشر.",
+			"numberInSurah": 3,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 529,
+			"hizbQuarter": 237,
+			"sajda": false
+		},
+		{
+			"number": 5952,
+			"text": "«والذي أخرج المرعى» أنبت العشب.",
+			"numberInSurah": 4,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 529,
+			"hizbQuarter": 237,
+			"sajda": false
+		},
+		{
+			"number": 5953,
+			"text": "«فجعله» بعد الخضرة «غُثاء» جافا هشيما «أحوى» أسود يابسا.",
+			"numberInSurah": 5,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 529,
+			"hizbQuarter": 237,
+			"sajda": false
+		},
+		{
+			"number": 5954,
+			"text": "«سنقرئك» القرآن «فلا تنسى» ما تقرؤه.",
+			"numberInSurah": 6,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 529,
+			"hizbQuarter": 237,
+			"sajda": false
+		},
+		{
+			"number": 5955,
+			"text": "«إلا ما شاء الله» أن تنساه بنسخ تلاوته وحكمه، وكان صلى الله عليه وسلم يجهر بالقراءة مع قراءة جبريل خوف النسيان فكأنه قيل له: لا تعجل بها إنك لا تنسى فلا تتعب نفسك بالجهر بها «إنه» تعالى «يعلم الجهر» من القول والفعل «وما يخفى» منهما.",
+			"numberInSurah": 7,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 529,
+			"hizbQuarter": 237,
+			"sajda": false
+		},
+		{
+			"number": 5956,
+			"text": "«ونيسِّرك لليسرى» للشريعة السهلة وهي الإسلام.",
+			"numberInSurah": 8,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 529,
+			"hizbQuarter": 237,
+			"sajda": false
+		},
+		{
+			"number": 5957,
+			"text": "«فذكر» عظ بالقرآن «إن نفعت الذكرى» من تذكرة المذكور في سيذكر، يعني وإن لم تنفع ونفعها لبعض وعدم النفع لبعض آخر.",
+			"numberInSurah": 9,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 529,
+			"hizbQuarter": 237,
+			"sajda": false
+		},
+		{
+			"number": 5958,
+			"text": "«سيذكر» بها «من يخشى» يخاف الله تعالى كآية \" فذكر بالقرآن من يخاف وعيد \".",
+			"numberInSurah": 10,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 529,
+			"hizbQuarter": 237,
+			"sajda": false
+		},
+		{
+			"number": 5959,
+			"text": "«ويتجنبها» أي الذكرى، أي يتركها جانبا لا يلتفت إليها «الأشقى» بمعنى الشقي أي الكافر.",
+			"numberInSurah": 11,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 529,
+			"hizbQuarter": 237,
+			"sajda": false
+		},
+		{
+			"number": 5960,
+			"text": "«الذي يصلى النار الكبرى» هي نار الآخرة والصغرى نار الدنيا.",
+			"numberInSurah": 12,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 529,
+			"hizbQuarter": 237,
+			"sajda": false
+		},
+		{
+			"number": 5961,
+			"text": "«ثم لا يموت فيها» فيستريح «ولا يحيى» حياة هنيئة.",
+			"numberInSurah": 13,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 529,
+			"hizbQuarter": 237,
+			"sajda": false
+		},
+		{
+			"number": 5962,
+			"text": "«قد أفلح» فاز «من تزكى» تطهر بالإيمان.",
+			"numberInSurah": 14,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 529,
+			"hizbQuarter": 237,
+			"sajda": false
+		},
+		{
+			"number": 5963,
+			"text": "«وذكر اسم ربه» مكبرا «فصلَّى» الصلوات الخمس وذلك من أمور الآخرة وكفار مكة مُعرضون عنها.",
+			"numberInSurah": 15,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 529,
+			"hizbQuarter": 237,
+			"sajda": false
+		},
+		{
+			"number": 5964,
+			"text": "«بل تؤثرون» بالفوقانية والتحتانية «الحياة الدنيا» على الآخرة.",
+			"numberInSurah": 16,
+			"juz": 30,
+			"manzil": 7,
+			"page": 592,
+			"ruku": 529,
+			"hizbQuarter": 237,
+			"sajda": false
+		},
+		{
+			"number": 5965,
+			"text": "«والآخرة» المشتملة على الجنة «خير وأبقى».",
+			"numberInSurah": 17,
+			"juz": 30,
+			"manzil": 7,
+			"page": 592,
+			"ruku": 529,
+			"hizbQuarter": 237,
+			"sajda": false
+		},
+		{
+			"number": 5966,
+			"text": "«إن هذا» إفلاحُ من تزكى وكون الآخرة خيرا «لفي الصحف الأولى» أي المنزلة قبل القرآن.",
+			"numberInSurah": 18,
+			"juz": 30,
+			"manzil": 7,
+			"page": 592,
+			"ruku": 529,
+			"hizbQuarter": 237,
+			"sajda": false
+		},
+		{
+			"number": 5967,
+			"text": "«صحف إبراهيم وموسى» وهي عشر صحف لإبراهيم والتوراة لموسى.",
+			"numberInSurah": 19,
+			"juz": 30,
+			"manzil": 7,
+			"page": 592,
+			"ruku": 529,
+			"hizbQuarter": 237,
+			"sajda": false
+		}
+	],
+	"edition": {
+		"identifier": "ar.jalalayn",
+		"language": "ar",
+		"name": "تفسير الجلالين",
+		"englishName": "Jalal ad-Din al-Mahalli and Jalal ad-Din as-Suyuti",
+		"format": "text",
+		"type": "tafsir",
+		"direction": "rtl"
+	}
+}

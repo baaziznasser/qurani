@@ -1,0 +1,925 @@
+﻿{
+	"number": 229,
+	"ayahs": [
+		{
+			"number": 5448,
+			"text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ قُلْ أُوحِيَ إِلَيَّ أَنَّهُ اسْتَمَعَ نَفَرٌ مِنَ الْجِنِّ فَقَالُوا إِنَّا سَمِعْنَا قُرْآنًا عَجَبًا",
+			"surah": {
+				"number": 72,
+				"name": "سُورَةُ الجِنِّ",
+				"englishName": "Al-Jinn",
+				"englishNameTranslation": "The Jinn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 28
+			},
+			"numberInSurah": 1,
+			"juz": 29,
+			"manzil": 7,
+			"page": 572,
+			"ruku": 506,
+			"hizbQuarter": 229,
+			"sajda": false
+		},
+		{
+			"number": 5449,
+			"text": "يَهْدِي إِلَى الرُّشْدِ فَآمَنَّا بِهِ ۖ وَلَنْ نُشْرِكَ بِرَبِّنَا أَحَدًا",
+			"surah": {
+				"number": 72,
+				"name": "سُورَةُ الجِنِّ",
+				"englishName": "Al-Jinn",
+				"englishNameTranslation": "The Jinn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 28
+			},
+			"numberInSurah": 2,
+			"juz": 29,
+			"manzil": 7,
+			"page": 572,
+			"ruku": 506,
+			"hizbQuarter": 229,
+			"sajda": false
+		},
+		{
+			"number": 5450,
+			"text": "وَأَنَّهُ تَعَالَىٰ جَدُّ رَبِّنَا مَا اتَّخَذَ صَاحِبَةً وَلَا وَلَدًا",
+			"surah": {
+				"number": 72,
+				"name": "سُورَةُ الجِنِّ",
+				"englishName": "Al-Jinn",
+				"englishNameTranslation": "The Jinn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 28
+			},
+			"numberInSurah": 3,
+			"juz": 29,
+			"manzil": 7,
+			"page": 572,
+			"ruku": 506,
+			"hizbQuarter": 229,
+			"sajda": false
+		},
+		{
+			"number": 5451,
+			"text": "وَأَنَّهُ كَانَ يَقُولُ سَفِيهُنَا عَلَى اللَّهِ شَطَطًا",
+			"surah": {
+				"number": 72,
+				"name": "سُورَةُ الجِنِّ",
+				"englishName": "Al-Jinn",
+				"englishNameTranslation": "The Jinn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 28
+			},
+			"numberInSurah": 4,
+			"juz": 29,
+			"manzil": 7,
+			"page": 572,
+			"ruku": 506,
+			"hizbQuarter": 229,
+			"sajda": false
+		},
+		{
+			"number": 5452,
+			"text": "وَأَنَّا ظَنَنَّا أَنْ لَنْ تَقُولَ الْإِنْسُ وَالْجِنُّ عَلَى اللَّهِ كَذِبًا",
+			"surah": {
+				"number": 72,
+				"name": "سُورَةُ الجِنِّ",
+				"englishName": "Al-Jinn",
+				"englishNameTranslation": "The Jinn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 28
+			},
+			"numberInSurah": 5,
+			"juz": 29,
+			"manzil": 7,
+			"page": 572,
+			"ruku": 506,
+			"hizbQuarter": 229,
+			"sajda": false
+		},
+		{
+			"number": 5453,
+			"text": "وَأَنَّهُ كَانَ رِجَالٌ مِنَ الْإِنْسِ يَعُوذُونَ بِرِجَالٍ مِنَ الْجِنِّ فَزَادُوهُمْ رَهَقًا",
+			"surah": {
+				"number": 72,
+				"name": "سُورَةُ الجِنِّ",
+				"englishName": "Al-Jinn",
+				"englishNameTranslation": "The Jinn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 28
+			},
+			"numberInSurah": 6,
+			"juz": 29,
+			"manzil": 7,
+			"page": 572,
+			"ruku": 506,
+			"hizbQuarter": 229,
+			"sajda": false
+		},
+		{
+			"number": 5454,
+			"text": "وَأَنَّهُمْ ظَنُّوا كَمَا ظَنَنْتُمْ أَنْ لَنْ يَبْعَثَ اللَّهُ أَحَدًا",
+			"surah": {
+				"number": 72,
+				"name": "سُورَةُ الجِنِّ",
+				"englishName": "Al-Jinn",
+				"englishNameTranslation": "The Jinn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 28
+			},
+			"numberInSurah": 7,
+			"juz": 29,
+			"manzil": 7,
+			"page": 572,
+			"ruku": 506,
+			"hizbQuarter": 229,
+			"sajda": false
+		},
+		{
+			"number": 5455,
+			"text": "وَأَنَّا لَمَسْنَا السَّمَاءَ فَوَجَدْنَاهَا مُلِئَتْ حَرَسًا شَدِيدًا وَشُهُبًا",
+			"surah": {
+				"number": 72,
+				"name": "سُورَةُ الجِنِّ",
+				"englishName": "Al-Jinn",
+				"englishNameTranslation": "The Jinn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 28
+			},
+			"numberInSurah": 8,
+			"juz": 29,
+			"manzil": 7,
+			"page": 572,
+			"ruku": 506,
+			"hizbQuarter": 229,
+			"sajda": false
+		},
+		{
+			"number": 5456,
+			"text": "وَأَنَّا كُنَّا نَقْعُدُ مِنْهَا مَقَاعِدَ لِلسَّمْعِ ۖ فَمَنْ يَسْتَمِعِ الْآنَ يَجِدْ لَهُ شِهَابًا رَصَدًا",
+			"surah": {
+				"number": 72,
+				"name": "سُورَةُ الجِنِّ",
+				"englishName": "Al-Jinn",
+				"englishNameTranslation": "The Jinn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 28
+			},
+			"numberInSurah": 9,
+			"juz": 29,
+			"manzil": 7,
+			"page": 572,
+			"ruku": 506,
+			"hizbQuarter": 229,
+			"sajda": false
+		},
+		{
+			"number": 5457,
+			"text": "وَأَنَّا لَا نَدْرِي أَشَرٌّ أُرِيدَ بِمَنْ فِي الْأَرْضِ أَمْ أَرَادَ بِهِمْ رَبُّهُمْ رَشَدًا",
+			"surah": {
+				"number": 72,
+				"name": "سُورَةُ الجِنِّ",
+				"englishName": "Al-Jinn",
+				"englishNameTranslation": "The Jinn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 28
+			},
+			"numberInSurah": 10,
+			"juz": 29,
+			"manzil": 7,
+			"page": 572,
+			"ruku": 506,
+			"hizbQuarter": 229,
+			"sajda": false
+		},
+		{
+			"number": 5458,
+			"text": "وَأَنَّا مِنَّا الصَّالِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَائِقَ قِدَدًا",
+			"surah": {
+				"number": 72,
+				"name": "سُورَةُ الجِنِّ",
+				"englishName": "Al-Jinn",
+				"englishNameTranslation": "The Jinn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 28
+			},
+			"numberInSurah": 11,
+			"juz": 29,
+			"manzil": 7,
+			"page": 572,
+			"ruku": 506,
+			"hizbQuarter": 229,
+			"sajda": false
+		},
+		{
+			"number": 5459,
+			"text": "وَأَنَّا ظَنَنَّا أَنْ لَنْ نُعْجِزَ اللَّهَ فِي الْأَرْضِ وَلَنْ نُعْجِزَهُ هَرَبًا",
+			"surah": {
+				"number": 72,
+				"name": "سُورَةُ الجِنِّ",
+				"englishName": "Al-Jinn",
+				"englishNameTranslation": "The Jinn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 28
+			},
+			"numberInSurah": 12,
+			"juz": 29,
+			"manzil": 7,
+			"page": 572,
+			"ruku": 506,
+			"hizbQuarter": 229,
+			"sajda": false
+		},
+		{
+			"number": 5460,
+			"text": "وَأَنَّا لَمَّا سَمِعْنَا الْهُدَىٰ آمَنَّا بِهِ ۖ فَمَنْ يُؤْمِنْ بِرَبِّهِ فَلَا يَخَافُ بَخْسًا وَلَا رَهَقًا",
+			"surah": {
+				"number": 72,
+				"name": "سُورَةُ الجِنِّ",
+				"englishName": "Al-Jinn",
+				"englishNameTranslation": "The Jinn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 28
+			},
+			"numberInSurah": 13,
+			"juz": 29,
+			"manzil": 7,
+			"page": 572,
+			"ruku": 506,
+			"hizbQuarter": 229,
+			"sajda": false
+		},
+		{
+			"number": 5461,
+			"text": "وَأَنَّا مِنَّا الْمُسْلِمُونَ وَمِنَّا الْقَاسِطُونَ ۖ فَمَنْ أَسْلَمَ فَأُولَٰئِكَ تَحَرَّوْا رَشَدًا",
+			"surah": {
+				"number": 72,
+				"name": "سُورَةُ الجِنِّ",
+				"englishName": "Al-Jinn",
+				"englishNameTranslation": "The Jinn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 28
+			},
+			"numberInSurah": 14,
+			"juz": 29,
+			"manzil": 7,
+			"page": 573,
+			"ruku": 506,
+			"hizbQuarter": 229,
+			"sajda": false
+		},
+		{
+			"number": 5462,
+			"text": "وَأَمَّا الْقَاسِطُونَ فَكَانُوا لِجَهَنَّمَ حَطَبًا",
+			"surah": {
+				"number": 72,
+				"name": "سُورَةُ الجِنِّ",
+				"englishName": "Al-Jinn",
+				"englishNameTranslation": "The Jinn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 28
+			},
+			"numberInSurah": 15,
+			"juz": 29,
+			"manzil": 7,
+			"page": 573,
+			"ruku": 506,
+			"hizbQuarter": 229,
+			"sajda": false
+		},
+		{
+			"number": 5463,
+			"text": "وَأَنْ لَوِ اسْتَقَامُوا عَلَى الطَّرِيقَةِ لَأَسْقَيْنَاهُمْ مَاءً غَدَقًا",
+			"surah": {
+				"number": 72,
+				"name": "سُورَةُ الجِنِّ",
+				"englishName": "Al-Jinn",
+				"englishNameTranslation": "The Jinn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 28
+			},
+			"numberInSurah": 16,
+			"juz": 29,
+			"manzil": 7,
+			"page": 573,
+			"ruku": 506,
+			"hizbQuarter": 229,
+			"sajda": false
+		},
+		{
+			"number": 5464,
+			"text": "لِنَفْتِنَهُمْ فِيهِ ۚ وَمَنْ يُعْرِضْ عَنْ ذِكْرِ رَبِّهِ يَسْلُكْهُ عَذَابًا صَعَدًا",
+			"surah": {
+				"number": 72,
+				"name": "سُورَةُ الجِنِّ",
+				"englishName": "Al-Jinn",
+				"englishNameTranslation": "The Jinn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 28
+			},
+			"numberInSurah": 17,
+			"juz": 29,
+			"manzil": 7,
+			"page": 573,
+			"ruku": 506,
+			"hizbQuarter": 229,
+			"sajda": false
+		},
+		{
+			"number": 5465,
+			"text": "وَأَنَّ الْمَسَاجِدَ لِلَّهِ فَلَا تَدْعُوا مَعَ اللَّهِ أَحَدًا",
+			"surah": {
+				"number": 72,
+				"name": "سُورَةُ الجِنِّ",
+				"englishName": "Al-Jinn",
+				"englishNameTranslation": "The Jinn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 28
+			},
+			"numberInSurah": 18,
+			"juz": 29,
+			"manzil": 7,
+			"page": 573,
+			"ruku": 506,
+			"hizbQuarter": 229,
+			"sajda": false
+		},
+		{
+			"number": 5466,
+			"text": "وَأَنَّهُ لَمَّا قَامَ عَبْدُ اللَّهِ يَدْعُوهُ كَادُوا يَكُونُونَ عَلَيْهِ لِبَدًا",
+			"surah": {
+				"number": 72,
+				"name": "سُورَةُ الجِنِّ",
+				"englishName": "Al-Jinn",
+				"englishNameTranslation": "The Jinn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 28
+			},
+			"numberInSurah": 19,
+			"juz": 29,
+			"manzil": 7,
+			"page": 573,
+			"ruku": 506,
+			"hizbQuarter": 229,
+			"sajda": false
+		},
+		{
+			"number": 5467,
+			"text": "قُلْ إِنَّمَا أَدْعُو رَبِّي وَلَا أُشْرِكُ بِهِ أَحَدًا",
+			"surah": {
+				"number": 72,
+				"name": "سُورَةُ الجِنِّ",
+				"englishName": "Al-Jinn",
+				"englishNameTranslation": "The Jinn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 28
+			},
+			"numberInSurah": 20,
+			"juz": 29,
+			"manzil": 7,
+			"page": 573,
+			"ruku": 507,
+			"hizbQuarter": 229,
+			"sajda": false
+		},
+		{
+			"number": 5468,
+			"text": "قُلْ إِنِّي لَا أَمْلِكُ لَكُمْ ضَرًّا وَلَا رَشَدًا",
+			"surah": {
+				"number": 72,
+				"name": "سُورَةُ الجِنِّ",
+				"englishName": "Al-Jinn",
+				"englishNameTranslation": "The Jinn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 28
+			},
+			"numberInSurah": 21,
+			"juz": 29,
+			"manzil": 7,
+			"page": 573,
+			"ruku": 507,
+			"hizbQuarter": 229,
+			"sajda": false
+		},
+		{
+			"number": 5469,
+			"text": "قُلْ إِنِّي لَنْ يُجِيرَنِي مِنَ اللَّهِ أَحَدٌ وَلَنْ أَجِدَ مِنْ دُونِهِ مُلْتَحَدًا",
+			"surah": {
+				"number": 72,
+				"name": "سُورَةُ الجِنِّ",
+				"englishName": "Al-Jinn",
+				"englishNameTranslation": "The Jinn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 28
+			},
+			"numberInSurah": 22,
+			"juz": 29,
+			"manzil": 7,
+			"page": 573,
+			"ruku": 507,
+			"hizbQuarter": 229,
+			"sajda": false
+		},
+		{
+			"number": 5470,
+			"text": "إِلَّا بَلَاغًا مِنَ اللَّهِ وَرِسَالَاتِهِ ۚ وَمَنْ يَعْصِ اللَّهَ وَرَسُولَهُ فَإِنَّ لَهُ نَارَ جَهَنَّمَ خَالِدِينَ فِيهَا أَبَدًا",
+			"surah": {
+				"number": 72,
+				"name": "سُورَةُ الجِنِّ",
+				"englishName": "Al-Jinn",
+				"englishNameTranslation": "The Jinn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 28
+			},
+			"numberInSurah": 23,
+			"juz": 29,
+			"manzil": 7,
+			"page": 573,
+			"ruku": 507,
+			"hizbQuarter": 229,
+			"sajda": false
+		},
+		{
+			"number": 5471,
+			"text": "حَتَّىٰ إِذَا رَأَوْا مَا يُوعَدُونَ فَسَيَعْلَمُونَ مَنْ أَضْعَفُ نَاصِرًا وَأَقَلُّ عَدَدًا",
+			"surah": {
+				"number": 72,
+				"name": "سُورَةُ الجِنِّ",
+				"englishName": "Al-Jinn",
+				"englishNameTranslation": "The Jinn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 28
+			},
+			"numberInSurah": 24,
+			"juz": 29,
+			"manzil": 7,
+			"page": 573,
+			"ruku": 507,
+			"hizbQuarter": 229,
+			"sajda": false
+		},
+		{
+			"number": 5472,
+			"text": "قُلْ إِنْ أَدْرِي أَقَرِيبٌ مَا تُوعَدُونَ أَمْ يَجْعَلُ لَهُ رَبِّي أَمَدًا",
+			"surah": {
+				"number": 72,
+				"name": "سُورَةُ الجِنِّ",
+				"englishName": "Al-Jinn",
+				"englishNameTranslation": "The Jinn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 28
+			},
+			"numberInSurah": 25,
+			"juz": 29,
+			"manzil": 7,
+			"page": 573,
+			"ruku": 507,
+			"hizbQuarter": 229,
+			"sajda": false
+		},
+		{
+			"number": 5473,
+			"text": "عَالِمُ الْغَيْبِ فَلَا يُظْهِرُ عَلَىٰ غَيْبِهِ أَحَدًا",
+			"surah": {
+				"number": 72,
+				"name": "سُورَةُ الجِنِّ",
+				"englishName": "Al-Jinn",
+				"englishNameTranslation": "The Jinn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 28
+			},
+			"numberInSurah": 26,
+			"juz": 29,
+			"manzil": 7,
+			"page": 573,
+			"ruku": 507,
+			"hizbQuarter": 229,
+			"sajda": false
+		},
+		{
+			"number": 5474,
+			"text": "إِلَّا مَنِ ارْتَضَىٰ مِنْ رَسُولٍ فَإِنَّهُ يَسْلُكُ مِنْ بَيْنِ يَدَيْهِ وَمِنْ خَلْفِهِ رَصَدًا",
+			"surah": {
+				"number": 72,
+				"name": "سُورَةُ الجِنِّ",
+				"englishName": "Al-Jinn",
+				"englishNameTranslation": "The Jinn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 28
+			},
+			"numberInSurah": 27,
+			"juz": 29,
+			"manzil": 7,
+			"page": 573,
+			"ruku": 507,
+			"hizbQuarter": 229,
+			"sajda": false
+		},
+		{
+			"number": 5475,
+			"text": "لِيَعْلَمَ أَنْ قَدْ أَبْلَغُوا رِسَالَاتِ رَبِّهِمْ وَأَحَاطَ بِمَا لَدَيْهِمْ وَأَحْصَىٰ كُلَّ شَيْءٍ عَدَدًا",
+			"surah": {
+				"number": 72,
+				"name": "سُورَةُ الجِنِّ",
+				"englishName": "Al-Jinn",
+				"englishNameTranslation": "The Jinn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 28
+			},
+			"numberInSurah": 28,
+			"juz": 29,
+			"manzil": 7,
+			"page": 573,
+			"ruku": 507,
+			"hizbQuarter": 229,
+			"sajda": false
+		},
+		{
+			"number": 5476,
+			"text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ يَا أَيُّهَا الْمُزَّمِّلُ",
+			"surah": {
+				"number": 73,
+				"name": "سُورَةُ المُزَّمِّلِ",
+				"englishName": "Al-Muzzammil",
+				"englishNameTranslation": "The Enshrouded One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 20
+			},
+			"numberInSurah": 1,
+			"juz": 29,
+			"manzil": 7,
+			"page": 574,
+			"ruku": 508,
+			"hizbQuarter": 229,
+			"sajda": false
+		},
+		{
+			"number": 5477,
+			"text": "قُمِ اللَّيْلَ إِلَّا قَلِيلًا",
+			"surah": {
+				"number": 73,
+				"name": "سُورَةُ المُزَّمِّلِ",
+				"englishName": "Al-Muzzammil",
+				"englishNameTranslation": "The Enshrouded One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 20
+			},
+			"numberInSurah": 2,
+			"juz": 29,
+			"manzil": 7,
+			"page": 574,
+			"ruku": 508,
+			"hizbQuarter": 229,
+			"sajda": false
+		},
+		{
+			"number": 5478,
+			"text": "نِصْفَهُ أَوِ انْقُصْ مِنْهُ قَلِيلًا",
+			"surah": {
+				"number": 73,
+				"name": "سُورَةُ المُزَّمِّلِ",
+				"englishName": "Al-Muzzammil",
+				"englishNameTranslation": "The Enshrouded One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 20
+			},
+			"numberInSurah": 3,
+			"juz": 29,
+			"manzil": 7,
+			"page": 574,
+			"ruku": 508,
+			"hizbQuarter": 229,
+			"sajda": false
+		},
+		{
+			"number": 5479,
+			"text": "أَوْ زِدْ عَلَيْهِ وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا",
+			"surah": {
+				"number": 73,
+				"name": "سُورَةُ المُزَّمِّلِ",
+				"englishName": "Al-Muzzammil",
+				"englishNameTranslation": "The Enshrouded One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 20
+			},
+			"numberInSurah": 4,
+			"juz": 29,
+			"manzil": 7,
+			"page": 574,
+			"ruku": 508,
+			"hizbQuarter": 229,
+			"sajda": false
+		},
+		{
+			"number": 5480,
+			"text": "إِنَّا سَنُلْقِي عَلَيْكَ قَوْلًا ثَقِيلًا",
+			"surah": {
+				"number": 73,
+				"name": "سُورَةُ المُزَّمِّلِ",
+				"englishName": "Al-Muzzammil",
+				"englishNameTranslation": "The Enshrouded One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 20
+			},
+			"numberInSurah": 5,
+			"juz": 29,
+			"manzil": 7,
+			"page": 574,
+			"ruku": 508,
+			"hizbQuarter": 229,
+			"sajda": false
+		},
+		{
+			"number": 5481,
+			"text": "إِنَّ نَاشِئَةَ اللَّيْلِ هِيَ أَشَدُّ وَطْئًا وَأَقْوَمُ قِيلًا",
+			"surah": {
+				"number": 73,
+				"name": "سُورَةُ المُزَّمِّلِ",
+				"englishName": "Al-Muzzammil",
+				"englishNameTranslation": "The Enshrouded One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 20
+			},
+			"numberInSurah": 6,
+			"juz": 29,
+			"manzil": 7,
+			"page": 574,
+			"ruku": 508,
+			"hizbQuarter": 229,
+			"sajda": false
+		},
+		{
+			"number": 5482,
+			"text": "إِنَّ لَكَ فِي النَّهَارِ سَبْحًا طَوِيلًا",
+			"surah": {
+				"number": 73,
+				"name": "سُورَةُ المُزَّمِّلِ",
+				"englishName": "Al-Muzzammil",
+				"englishNameTranslation": "The Enshrouded One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 20
+			},
+			"numberInSurah": 7,
+			"juz": 29,
+			"manzil": 7,
+			"page": 574,
+			"ruku": 508,
+			"hizbQuarter": 229,
+			"sajda": false
+		},
+		{
+			"number": 5483,
+			"text": "وَاذْكُرِ اسْمَ رَبِّكَ وَتَبَتَّلْ إِلَيْهِ تَبْتِيلًا",
+			"surah": {
+				"number": 73,
+				"name": "سُورَةُ المُزَّمِّلِ",
+				"englishName": "Al-Muzzammil",
+				"englishNameTranslation": "The Enshrouded One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 20
+			},
+			"numberInSurah": 8,
+			"juz": 29,
+			"manzil": 7,
+			"page": 574,
+			"ruku": 508,
+			"hizbQuarter": 229,
+			"sajda": false
+		},
+		{
+			"number": 5484,
+			"text": "رَبُّ الْمَشْرِقِ وَالْمَغْرِبِ لَا إِلَٰهَ إِلَّا هُوَ فَاتَّخِذْهُ وَكِيلًا",
+			"surah": {
+				"number": 73,
+				"name": "سُورَةُ المُزَّمِّلِ",
+				"englishName": "Al-Muzzammil",
+				"englishNameTranslation": "The Enshrouded One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 20
+			},
+			"numberInSurah": 9,
+			"juz": 29,
+			"manzil": 7,
+			"page": 574,
+			"ruku": 508,
+			"hizbQuarter": 229,
+			"sajda": false
+		},
+		{
+			"number": 5485,
+			"text": "وَاصْبِرْ عَلَىٰ مَا يَقُولُونَ وَاهْجُرْهُمْ هَجْرًا جَمِيلًا",
+			"surah": {
+				"number": 73,
+				"name": "سُورَةُ المُزَّمِّلِ",
+				"englishName": "Al-Muzzammil",
+				"englishNameTranslation": "The Enshrouded One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 20
+			},
+			"numberInSurah": 10,
+			"juz": 29,
+			"manzil": 7,
+			"page": 574,
+			"ruku": 508,
+			"hizbQuarter": 229,
+			"sajda": false
+		},
+		{
+			"number": 5486,
+			"text": "وَذَرْنِي وَالْمُكَذِّبِينَ أُولِي النَّعْمَةِ وَمَهِّلْهُمْ قَلِيلًا",
+			"surah": {
+				"number": 73,
+				"name": "سُورَةُ المُزَّمِّلِ",
+				"englishName": "Al-Muzzammil",
+				"englishNameTranslation": "The Enshrouded One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 20
+			},
+			"numberInSurah": 11,
+			"juz": 29,
+			"manzil": 7,
+			"page": 574,
+			"ruku": 508,
+			"hizbQuarter": 229,
+			"sajda": false
+		},
+		{
+			"number": 5487,
+			"text": "إِنَّ لَدَيْنَا أَنْكَالًا وَجَحِيمًا",
+			"surah": {
+				"number": 73,
+				"name": "سُورَةُ المُزَّمِّلِ",
+				"englishName": "Al-Muzzammil",
+				"englishNameTranslation": "The Enshrouded One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 20
+			},
+			"numberInSurah": 12,
+			"juz": 29,
+			"manzil": 7,
+			"page": 574,
+			"ruku": 508,
+			"hizbQuarter": 229,
+			"sajda": false
+		},
+		{
+			"number": 5488,
+			"text": "وَطَعَامًا ذَا غُصَّةٍ وَعَذَابًا أَلِيمًا",
+			"surah": {
+				"number": 73,
+				"name": "سُورَةُ المُزَّمِّلِ",
+				"englishName": "Al-Muzzammil",
+				"englishNameTranslation": "The Enshrouded One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 20
+			},
+			"numberInSurah": 13,
+			"juz": 29,
+			"manzil": 7,
+			"page": 574,
+			"ruku": 508,
+			"hizbQuarter": 229,
+			"sajda": false
+		},
+		{
+			"number": 5489,
+			"text": "يَوْمَ تَرْجُفُ الْأَرْضُ وَالْجِبَالُ وَكَانَتِ الْجِبَالُ كَثِيبًا مَهِيلًا",
+			"surah": {
+				"number": 73,
+				"name": "سُورَةُ المُزَّمِّلِ",
+				"englishName": "Al-Muzzammil",
+				"englishNameTranslation": "The Enshrouded One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 20
+			},
+			"numberInSurah": 14,
+			"juz": 29,
+			"manzil": 7,
+			"page": 574,
+			"ruku": 508,
+			"hizbQuarter": 229,
+			"sajda": false
+		},
+		{
+			"number": 5490,
+			"text": "إِنَّا أَرْسَلْنَا إِلَيْكُمْ رَسُولًا شَاهِدًا عَلَيْكُمْ كَمَا أَرْسَلْنَا إِلَىٰ فِرْعَوْنَ رَسُولًا",
+			"surah": {
+				"number": 73,
+				"name": "سُورَةُ المُزَّمِّلِ",
+				"englishName": "Al-Muzzammil",
+				"englishNameTranslation": "The Enshrouded One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 20
+			},
+			"numberInSurah": 15,
+			"juz": 29,
+			"manzil": 7,
+			"page": 574,
+			"ruku": 508,
+			"hizbQuarter": 229,
+			"sajda": false
+		},
+		{
+			"number": 5491,
+			"text": "فَعَصَىٰ فِرْعَوْنُ الرَّسُولَ فَأَخَذْنَاهُ أَخْذًا وَبِيلًا",
+			"surah": {
+				"number": 73,
+				"name": "سُورَةُ المُزَّمِّلِ",
+				"englishName": "Al-Muzzammil",
+				"englishNameTranslation": "The Enshrouded One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 20
+			},
+			"numberInSurah": 16,
+			"juz": 29,
+			"manzil": 7,
+			"page": 574,
+			"ruku": 508,
+			"hizbQuarter": 229,
+			"sajda": false
+		},
+		{
+			"number": 5492,
+			"text": "فَكَيْفَ تَتَّقُونَ إِنْ كَفَرْتُمْ يَوْمًا يَجْعَلُ الْوِلْدَانَ شِيبًا",
+			"surah": {
+				"number": 73,
+				"name": "سُورَةُ المُزَّمِّلِ",
+				"englishName": "Al-Muzzammil",
+				"englishNameTranslation": "The Enshrouded One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 20
+			},
+			"numberInSurah": 17,
+			"juz": 29,
+			"manzil": 7,
+			"page": 574,
+			"ruku": 508,
+			"hizbQuarter": 229,
+			"sajda": false
+		},
+		{
+			"number": 5493,
+			"text": "السَّمَاءُ مُنْفَطِرٌ بِهِ ۚ كَانَ وَعْدُهُ مَفْعُولًا",
+			"surah": {
+				"number": 73,
+				"name": "سُورَةُ المُزَّمِّلِ",
+				"englishName": "Al-Muzzammil",
+				"englishNameTranslation": "The Enshrouded One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 20
+			},
+			"numberInSurah": 18,
+			"juz": 29,
+			"manzil": 7,
+			"page": 574,
+			"ruku": 508,
+			"hizbQuarter": 229,
+			"sajda": false
+		},
+		{
+			"number": 5494,
+			"text": "إِنَّ هَٰذِهِ تَذْكِرَةٌ ۖ فَمَنْ شَاءَ اتَّخَذَ إِلَىٰ رَبِّهِ سَبِيلًا",
+			"surah": {
+				"number": 73,
+				"name": "سُورَةُ المُزَّمِّلِ",
+				"englishName": "Al-Muzzammil",
+				"englishNameTranslation": "The Enshrouded One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 20
+			},
+			"numberInSurah": 19,
+			"juz": 29,
+			"manzil": 7,
+			"page": 574,
+			"ruku": 508,
+			"hizbQuarter": 229,
+			"sajda": false
+		}
+	],
+	"surahs": {
+		"72": {
+			"number": 72,
+			"name": "سُورَةُ الجِنِّ",
+			"englishName": "Al-Jinn",
+			"englishNameTranslation": "The Jinn",
+			"revelationType": "Meccan",
+			"numberOfAyahs": 28
+		},
+		"73": {
+			"number": 73,
+			"name": "سُورَةُ المُزَّمِّلِ",
+			"englishName": "Al-Muzzammil",
+			"englishNameTranslation": "The Enshrouded One",
+			"revelationType": "Meccan",
+			"numberOfAyahs": 20
+		}
+	},
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

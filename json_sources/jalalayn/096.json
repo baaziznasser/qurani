@@ -1,0 +1,232 @@
+﻿{
+	"number": 96,
+	"name": "سُورَةُ العَلَقِ",
+	"englishName": "Al-Alaq",
+	"englishNameTranslation": "The Clot",
+	"revelationType": "Meccan",
+	"numberOfAyahs": 19,
+	"ayahs": [
+		{
+			"number": 6107,
+			"text": "«اقرأ» أوجد القراءة مبتدئا «باسم ربك الذي خلق» الخلائق.",
+			"numberInSurah": 1,
+			"juz": 30,
+			"manzil": 7,
+			"page": 597,
+			"ruku": 538,
+			"hizbQuarter": 239,
+			"sajda": false
+		},
+		{
+			"number": 6108,
+			"text": "«خلق الإنسان» الجنس «من علق» جمع علقة وهي القطعة اليسيرة من الدم الغليظ.",
+			"numberInSurah": 2,
+			"juz": 30,
+			"manzil": 7,
+			"page": 597,
+			"ruku": 538,
+			"hizbQuarter": 239,
+			"sajda": false
+		},
+		{
+			"number": 6109,
+			"text": "«اقرأ» تأكيد للأول «وربك الأكرم» الذي لا يوازيه كريم، حال من الضمير اقرأ.",
+			"numberInSurah": 3,
+			"juz": 30,
+			"manzil": 7,
+			"page": 597,
+			"ruku": 538,
+			"hizbQuarter": 239,
+			"sajda": false
+		},
+		{
+			"number": 6110,
+			"text": "«الذي علم» الخط «بالقلم» وأول من خط به إدريس عليه السلام.",
+			"numberInSurah": 4,
+			"juz": 30,
+			"manzil": 7,
+			"page": 597,
+			"ruku": 538,
+			"hizbQuarter": 239,
+			"sajda": false
+		},
+		{
+			"number": 6111,
+			"text": "«علم الإنسان» الجنس «ما لم يعلم» قبل تعليمه الهدى والكتابة والصناعة وغيرها.",
+			"numberInSurah": 5,
+			"juz": 30,
+			"manzil": 7,
+			"page": 597,
+			"ruku": 538,
+			"hizbQuarter": 239,
+			"sajda": false
+		},
+		{
+			"number": 6112,
+			"text": "«كلا» حقا «إنَّ الإنسان ليطغى».",
+			"numberInSurah": 6,
+			"juz": 30,
+			"manzil": 7,
+			"page": 597,
+			"ruku": 538,
+			"hizbQuarter": 239,
+			"sajda": false
+		},
+		{
+			"number": 6113,
+			"text": "«أن رآه» أي نفسه «استغنى» بالمال، نزل في أبي جهل، ورأى علمية واستغنى مفعول ثان وأن رآه مفعول له.",
+			"numberInSurah": 7,
+			"juz": 30,
+			"manzil": 7,
+			"page": 597,
+			"ruku": 538,
+			"hizbQuarter": 239,
+			"sajda": false
+		},
+		{
+			"number": 6114,
+			"text": "«إن إلى ربك» يا إنسان «الرجعى» أي الرجوع تخويف له فيجازي الطاغي بما يستحقه.",
+			"numberInSurah": 8,
+			"juz": 30,
+			"manzil": 7,
+			"page": 597,
+			"ruku": 538,
+			"hizbQuarter": 239,
+			"sajda": false
+		},
+		{
+			"number": 6115,
+			"text": "«أرأيت» في الثلاثة مواضع للتعجب «الذي ينهي» هو أبو جهل.",
+			"numberInSurah": 9,
+			"juz": 30,
+			"manzil": 7,
+			"page": 597,
+			"ruku": 538,
+			"hizbQuarter": 239,
+			"sajda": false
+		},
+		{
+			"number": 6116,
+			"text": "«عبدا» هو النبي صلى الله عليه وسلم «إذا صلّى».",
+			"numberInSurah": 10,
+			"juz": 30,
+			"manzil": 7,
+			"page": 597,
+			"ruku": 538,
+			"hizbQuarter": 239,
+			"sajda": false
+		},
+		{
+			"number": 6117,
+			"text": "«أرأيت إن كان» المنهي «على الهدى».",
+			"numberInSurah": 11,
+			"juz": 30,
+			"manzil": 7,
+			"page": 597,
+			"ruku": 538,
+			"hizbQuarter": 239,
+			"sajda": false
+		},
+		{
+			"number": 6118,
+			"text": "«أو» للتقسيم «أمر بالتقوى».",
+			"numberInSurah": 12,
+			"juz": 30,
+			"manzil": 7,
+			"page": 597,
+			"ruku": 538,
+			"hizbQuarter": 239,
+			"sajda": false
+		},
+		{
+			"number": 6119,
+			"text": "«أرأيت إن كذب» أي الناهي النبي «وتولى» عن الإيمان.",
+			"numberInSurah": 13,
+			"juz": 30,
+			"manzil": 7,
+			"page": 597,
+			"ruku": 538,
+			"hizbQuarter": 239,
+			"sajda": false
+		},
+		{
+			"number": 6120,
+			"text": "«ألم يعلم بأن الله يرى» ما صدر منه، أي يعلمه فيجازيه عليه، أي اعجب منه يا مخاطب من حيث نهيه عن الصلاة ومن حيث أن المنهي على الهدى آمر بالتقوى ومن حيث أن الناهي مكذب متولٍ عن الإيمان.",
+			"numberInSurah": 14,
+			"juz": 30,
+			"manzil": 7,
+			"page": 597,
+			"ruku": 538,
+			"hizbQuarter": 239,
+			"sajda": false
+		},
+		{
+			"number": 6121,
+			"text": "«كلا» ردع له «لئن» لام قسم «لم ينته» عما هو عليه من الكفر «لنسفعا بالناصية» لنجرنَّ بناصيته غلى النار.",
+			"numberInSurah": 15,
+			"juz": 30,
+			"manzil": 7,
+			"page": 597,
+			"ruku": 538,
+			"hizbQuarter": 239,
+			"sajda": false
+		},
+		{
+			"number": 6122,
+			"text": "«ناصية» بدل نكرة من معرفة «كاذبة خاطئة» وصفها بذلك مجازًا والمراد صاحبها.",
+			"numberInSurah": 16,
+			"juz": 30,
+			"manzil": 7,
+			"page": 597,
+			"ruku": 538,
+			"hizbQuarter": 239,
+			"sajda": false
+		},
+		{
+			"number": 6123,
+			"text": "«فليدع ناديه» أي أهل ناديه وهو المجلس ينتدى يتحدث فيه القوم وكان قال للنبي صلى الله عليه وسلم لما انتهره حيث نهاه عن الصلاة: لقد علمت ما بها رجل أكثر ناديا مني لأملأنَّ عليك هذا الوادي إن شئت خيلا جردا ورجالا مردا.",
+			"numberInSurah": 17,
+			"juz": 30,
+			"manzil": 7,
+			"page": 597,
+			"ruku": 538,
+			"hizbQuarter": 239,
+			"sajda": false
+		},
+		{
+			"number": 6124,
+			"text": "(سندع الزبانية) الملائكة الغلاظ الشداد لإهلاكه كما في الحديث \"\" لو دعا ناديه لأخذته الزبانية عيانا \"\".",
+			"numberInSurah": 18,
+			"juz": 30,
+			"manzil": 7,
+			"page": 597,
+			"ruku": 538,
+			"hizbQuarter": 239,
+			"sajda": false
+		},
+		{
+			"number": 6125,
+			"text": "«كلا» ردع له «لا تطعه» يا محمد في ترك الصلاة «واسجد» صلِّ لله «واقترب» منه بطاعته.",
+			"numberInSurah": 19,
+			"juz": 30,
+			"manzil": 7,
+			"page": 597,
+			"ruku": 538,
+			"hizbQuarter": 239,
+			"sajda": {
+				"id": 15,
+				"recommended": false,
+				"obligatory": true
+			}
+		}
+	],
+	"edition": {
+		"identifier": "ar.jalalayn",
+		"language": "ar",
+		"name": "تفسير الجلالين",
+		"englishName": "Jalal ad-Din al-Mahalli and Jalal ad-Din as-Suyuti",
+		"format": "text",
+		"type": "tafsir",
+		"direction": "rtl"
+	}
+}

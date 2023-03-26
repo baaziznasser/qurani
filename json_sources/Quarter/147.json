@@ -1,0 +1,993 @@
+﻿{
+	"number": 147,
+	"ayahs": [
+		{
+			"number": 2933,
+			"surah": {
+				"number": 26,
+				"name": "سُورَةُ الشُّعَرَاءِ",
+				"englishName": "Ash-Shu'araa",
+				"englishNameTranslation": "The Poets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 227
+			},
+			"numberInSurah": 1,
+			"juz": 19,
+			"manzil": 5,
+			"page": 367,
+			"ruku": 316,
+			"hizbQuarter": 147,
+			"sajda": false,
+			"text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ طسم"
+		},
+		{
+			"number": 2934,
+			"surah": {
+				"number": 26,
+				"name": "سُورَةُ الشُّعَرَاءِ",
+				"englishName": "Ash-Shu'araa",
+				"englishNameTranslation": "The Poets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 227
+			},
+			"numberInSurah": 2,
+			"juz": 19,
+			"manzil": 5,
+			"page": 367,
+			"ruku": 316,
+			"hizbQuarter": 147,
+			"sajda": false,
+			"text": "تِلْكَ آيَاتُ الْكِتَابِ الْمُبِينِ"
+		},
+		{
+			"number": 2935,
+			"surah": {
+				"number": 26,
+				"name": "سُورَةُ الشُّعَرَاءِ",
+				"englishName": "Ash-Shu'araa",
+				"englishNameTranslation": "The Poets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 227
+			},
+			"numberInSurah": 3,
+			"juz": 19,
+			"manzil": 5,
+			"page": 367,
+			"ruku": 316,
+			"hizbQuarter": 147,
+			"sajda": false,
+			"text": "لَعَلَّكَ بَاخِعٌ نَّفْسَكَ أَلَّا يَكُونُوا مُؤْمِنِينَ"
+		},
+		{
+			"number": 2936,
+			"surah": {
+				"number": 26,
+				"name": "سُورَةُ الشُّعَرَاءِ",
+				"englishName": "Ash-Shu'araa",
+				"englishNameTranslation": "The Poets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 227
+			},
+			"numberInSurah": 4,
+			"juz": 19,
+			"manzil": 5,
+			"page": 367,
+			"ruku": 316,
+			"hizbQuarter": 147,
+			"sajda": false,
+			"text": "إِن نَّشَأْ نُنَزِّلْ عَلَيْهِم مِّنَ السَّمَاءِ آيَةً فَظَلَّتْ أَعْنَاقُهُمْ لَهَا خَاضِعِينَ"
+		},
+		{
+			"number": 2937,
+			"surah": {
+				"number": 26,
+				"name": "سُورَةُ الشُّعَرَاءِ",
+				"englishName": "Ash-Shu'araa",
+				"englishNameTranslation": "The Poets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 227
+			},
+			"numberInSurah": 5,
+			"juz": 19,
+			"manzil": 5,
+			"page": 367,
+			"ruku": 316,
+			"hizbQuarter": 147,
+			"sajda": false,
+			"text": "وَمَا يَأْتِيهِم مِّن ذِكْرٍ مِّنَ الرَّحْمَٰنِ مُحْدَثٍ إِلَّا كَانُوا عَنْهُ مُعْرِضِينَ"
+		},
+		{
+			"number": 2938,
+			"surah": {
+				"number": 26,
+				"name": "سُورَةُ الشُّعَرَاءِ",
+				"englishName": "Ash-Shu'araa",
+				"englishNameTranslation": "The Poets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 227
+			},
+			"numberInSurah": 6,
+			"juz": 19,
+			"manzil": 5,
+			"page": 367,
+			"ruku": 316,
+			"hizbQuarter": 147,
+			"sajda": false,
+			"text": "فَقَدْ كَذَّبُوا فَسَيَأْتِيهِمْ أَنبَاءُ مَا كَانُوا بِهِ يَسْتَهْزِئُونَ"
+		},
+		{
+			"number": 2939,
+			"surah": {
+				"number": 26,
+				"name": "سُورَةُ الشُّعَرَاءِ",
+				"englishName": "Ash-Shu'araa",
+				"englishNameTranslation": "The Poets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 227
+			},
+			"numberInSurah": 7,
+			"juz": 19,
+			"manzil": 5,
+			"page": 367,
+			"ruku": 316,
+			"hizbQuarter": 147,
+			"sajda": false,
+			"text": "أَوَلَمْ يَرَوْا إِلَى الْأَرْضِ كَمْ أَنبَتْنَا فِيهَا مِن كُلِّ زَوْجٍ كَرِيمٍ"
+		},
+		{
+			"number": 2940,
+			"surah": {
+				"number": 26,
+				"name": "سُورَةُ الشُّعَرَاءِ",
+				"englishName": "Ash-Shu'araa",
+				"englishNameTranslation": "The Poets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 227
+			},
+			"numberInSurah": 8,
+			"juz": 19,
+			"manzil": 5,
+			"page": 367,
+			"ruku": 316,
+			"hizbQuarter": 147,
+			"sajda": false,
+			"text": "إِنَّ فِي ذَٰلِكَ لَآيَةً ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ"
+		},
+		{
+			"number": 2941,
+			"surah": {
+				"number": 26,
+				"name": "سُورَةُ الشُّعَرَاءِ",
+				"englishName": "Ash-Shu'araa",
+				"englishNameTranslation": "The Poets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 227
+			},
+			"numberInSurah": 9,
+			"juz": 19,
+			"manzil": 5,
+			"page": 367,
+			"ruku": 316,
+			"hizbQuarter": 147,
+			"sajda": false,
+			"text": "وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ"
+		},
+		{
+			"number": 2942,
+			"surah": {
+				"number": 26,
+				"name": "سُورَةُ الشُّعَرَاءِ",
+				"englishName": "Ash-Shu'araa",
+				"englishNameTranslation": "The Poets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 227
+			},
+			"numberInSurah": 10,
+			"juz": 19,
+			"manzil": 5,
+			"page": 367,
+			"ruku": 317,
+			"hizbQuarter": 147,
+			"sajda": false,
+			"text": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰ أَنِ ائْتِ الْقَوْمَ الظَّالِمِينَ"
+		},
+		{
+			"number": 2943,
+			"surah": {
+				"number": 26,
+				"name": "سُورَةُ الشُّعَرَاءِ",
+				"englishName": "Ash-Shu'araa",
+				"englishNameTranslation": "The Poets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 227
+			},
+			"numberInSurah": 11,
+			"juz": 19,
+			"manzil": 5,
+			"page": 367,
+			"ruku": 317,
+			"hizbQuarter": 147,
+			"sajda": false,
+			"text": "قَوْمَ فِرْعَوْنَ ۚ أَلَا يَتَّقُونَ"
+		},
+		{
+			"number": 2944,
+			"surah": {
+				"number": 26,
+				"name": "سُورَةُ الشُّعَرَاءِ",
+				"englishName": "Ash-Shu'araa",
+				"englishNameTranslation": "The Poets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 227
+			},
+			"numberInSurah": 12,
+			"juz": 19,
+			"manzil": 5,
+			"page": 367,
+			"ruku": 317,
+			"hizbQuarter": 147,
+			"sajda": false,
+			"text": "قَالَ رَبِّ إِنِّي أَخَافُ أَن يُكَذِّبُونِ"
+		},
+		{
+			"number": 2945,
+			"surah": {
+				"number": 26,
+				"name": "سُورَةُ الشُّعَرَاءِ",
+				"englishName": "Ash-Shu'araa",
+				"englishNameTranslation": "The Poets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 227
+			},
+			"numberInSurah": 13,
+			"juz": 19,
+			"manzil": 5,
+			"page": 367,
+			"ruku": 317,
+			"hizbQuarter": 147,
+			"sajda": false,
+			"text": "وَيَضِيقُ صَدْرِي وَلَا يَنطَلِقُ لِسَانِي فَأَرْسِلْ إِلَىٰ هَارُونَ"
+		},
+		{
+			"number": 2946,
+			"surah": {
+				"number": 26,
+				"name": "سُورَةُ الشُّعَرَاءِ",
+				"englishName": "Ash-Shu'araa",
+				"englishNameTranslation": "The Poets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 227
+			},
+			"numberInSurah": 14,
+			"juz": 19,
+			"manzil": 5,
+			"page": 367,
+			"ruku": 317,
+			"hizbQuarter": 147,
+			"sajda": false,
+			"text": "وَلَهُمْ عَلَيَّ ذَنبٌ فَأَخَافُ أَن يَقْتُلُونِ"
+		},
+		{
+			"number": 2947,
+			"surah": {
+				"number": 26,
+				"name": "سُورَةُ الشُّعَرَاءِ",
+				"englishName": "Ash-Shu'araa",
+				"englishNameTranslation": "The Poets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 227
+			},
+			"numberInSurah": 15,
+			"juz": 19,
+			"manzil": 5,
+			"page": 367,
+			"ruku": 317,
+			"hizbQuarter": 147,
+			"sajda": false,
+			"text": "قَالَ كَلَّا ۖ فَاذْهَبَا بِآيَاتِنَا ۖ إِنَّا مَعَكُم مُّسْتَمِعُونَ"
+		},
+		{
+			"number": 2948,
+			"surah": {
+				"number": 26,
+				"name": "سُورَةُ الشُّعَرَاءِ",
+				"englishName": "Ash-Shu'araa",
+				"englishNameTranslation": "The Poets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 227
+			},
+			"numberInSurah": 16,
+			"juz": 19,
+			"manzil": 5,
+			"page": 367,
+			"ruku": 317,
+			"hizbQuarter": 147,
+			"sajda": false,
+			"text": "فَأْتِيَا فِرْعَوْنَ فَقُولَا إِنَّا رَسُولُ رَبِّ الْعَالَمِينَ"
+		},
+		{
+			"number": 2949,
+			"surah": {
+				"number": 26,
+				"name": "سُورَةُ الشُّعَرَاءِ",
+				"englishName": "Ash-Shu'araa",
+				"englishNameTranslation": "The Poets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 227
+			},
+			"numberInSurah": 17,
+			"juz": 19,
+			"manzil": 5,
+			"page": 367,
+			"ruku": 317,
+			"hizbQuarter": 147,
+			"sajda": false,
+			"text": "أَنْ أَرْسِلْ مَعَنَا بَنِي إِسْرَائِيلَ"
+		},
+		{
+			"number": 2950,
+			"surah": {
+				"number": 26,
+				"name": "سُورَةُ الشُّعَرَاءِ",
+				"englishName": "Ash-Shu'araa",
+				"englishNameTranslation": "The Poets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 227
+			},
+			"numberInSurah": 18,
+			"juz": 19,
+			"manzil": 5,
+			"page": 367,
+			"ruku": 317,
+			"hizbQuarter": 147,
+			"sajda": false,
+			"text": "قَالَ أَلَمْ نُرَبِّكَ فِينَا وَلِيدًا وَلَبِثْتَ فِينَا مِنْ عُمُرِكَ سِنِينَ"
+		},
+		{
+			"number": 2951,
+			"surah": {
+				"number": 26,
+				"name": "سُورَةُ الشُّعَرَاءِ",
+				"englishName": "Ash-Shu'araa",
+				"englishNameTranslation": "The Poets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 227
+			},
+			"numberInSurah": 19,
+			"juz": 19,
+			"manzil": 5,
+			"page": 367,
+			"ruku": 317,
+			"hizbQuarter": 147,
+			"sajda": false,
+			"text": "وَفَعَلْتَ فَعْلَتَكَ الَّتِي فَعَلْتَ وَأَنتَ مِنَ الْكَافِرِينَ"
+		},
+		{
+			"number": 2952,
+			"surah": {
+				"number": 26,
+				"name": "سُورَةُ الشُّعَرَاءِ",
+				"englishName": "Ash-Shu'araa",
+				"englishNameTranslation": "The Poets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 227
+			},
+			"numberInSurah": 20,
+			"juz": 19,
+			"manzil": 5,
+			"page": 368,
+			"ruku": 317,
+			"hizbQuarter": 147,
+			"sajda": false,
+			"text": "قَالَ فَعَلْتُهَا إِذًا وَأَنَا مِنَ الضَّالِّينَ"
+		},
+		{
+			"number": 2953,
+			"surah": {
+				"number": 26,
+				"name": "سُورَةُ الشُّعَرَاءِ",
+				"englishName": "Ash-Shu'araa",
+				"englishNameTranslation": "The Poets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 227
+			},
+			"numberInSurah": 21,
+			"juz": 19,
+			"manzil": 5,
+			"page": 368,
+			"ruku": 317,
+			"hizbQuarter": 147,
+			"sajda": false,
+			"text": "فَفَرَرْتُ مِنكُمْ لَمَّا خِفْتُكُمْ فَوَهَبَ لِي رَبِّي حُكْمًا وَجَعَلَنِي مِنَ الْمُرْسَلِينَ"
+		},
+		{
+			"number": 2954,
+			"surah": {
+				"number": 26,
+				"name": "سُورَةُ الشُّعَرَاءِ",
+				"englishName": "Ash-Shu'araa",
+				"englishNameTranslation": "The Poets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 227
+			},
+			"numberInSurah": 22,
+			"juz": 19,
+			"manzil": 5,
+			"page": 368,
+			"ruku": 317,
+			"hizbQuarter": 147,
+			"sajda": false,
+			"text": "وَتِلْكَ نِعْمَةٌ تَمُنُّهَا عَلَيَّ أَنْ عَبَّدتَّ بَنِي إِسْرَائِيلَ"
+		},
+		{
+			"number": 2955,
+			"surah": {
+				"number": 26,
+				"name": "سُورَةُ الشُّعَرَاءِ",
+				"englishName": "Ash-Shu'araa",
+				"englishNameTranslation": "The Poets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 227
+			},
+			"numberInSurah": 23,
+			"juz": 19,
+			"manzil": 5,
+			"page": 368,
+			"ruku": 317,
+			"hizbQuarter": 147,
+			"sajda": false,
+			"text": "قَالَ فِرْعَوْنُ وَمَا رَبُّ الْعَالَمِينَ"
+		},
+		{
+			"number": 2956,
+			"surah": {
+				"number": 26,
+				"name": "سُورَةُ الشُّعَرَاءِ",
+				"englishName": "Ash-Shu'araa",
+				"englishNameTranslation": "The Poets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 227
+			},
+			"numberInSurah": 24,
+			"juz": 19,
+			"manzil": 5,
+			"page": 368,
+			"ruku": 317,
+			"hizbQuarter": 147,
+			"sajda": false,
+			"text": "قَالَ رَبُّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا ۖ إِن كُنتُم مُّوقِنِينَ"
+		},
+		{
+			"number": 2957,
+			"surah": {
+				"number": 26,
+				"name": "سُورَةُ الشُّعَرَاءِ",
+				"englishName": "Ash-Shu'araa",
+				"englishNameTranslation": "The Poets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 227
+			},
+			"numberInSurah": 25,
+			"juz": 19,
+			"manzil": 5,
+			"page": 368,
+			"ruku": 317,
+			"hizbQuarter": 147,
+			"sajda": false,
+			"text": "قَالَ لِمَنْ حَوْلَهُ أَلَا تَسْتَمِعُونَ"
+		},
+		{
+			"number": 2958,
+			"surah": {
+				"number": 26,
+				"name": "سُورَةُ الشُّعَرَاءِ",
+				"englishName": "Ash-Shu'araa",
+				"englishNameTranslation": "The Poets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 227
+			},
+			"numberInSurah": 26,
+			"juz": 19,
+			"manzil": 5,
+			"page": 368,
+			"ruku": 317,
+			"hizbQuarter": 147,
+			"sajda": false,
+			"text": "قَالَ رَبُّكُمْ وَرَبُّ آبَائِكُمُ الْأَوَّلِينَ"
+		},
+		{
+			"number": 2959,
+			"surah": {
+				"number": 26,
+				"name": "سُورَةُ الشُّعَرَاءِ",
+				"englishName": "Ash-Shu'araa",
+				"englishNameTranslation": "The Poets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 227
+			},
+			"numberInSurah": 27,
+			"juz": 19,
+			"manzil": 5,
+			"page": 368,
+			"ruku": 317,
+			"hizbQuarter": 147,
+			"sajda": false,
+			"text": "قَالَ إِنَّ رَسُولَكُمُ الَّذِي أُرْسِلَ إِلَيْكُمْ لَمَجْنُونٌ"
+		},
+		{
+			"number": 2960,
+			"surah": {
+				"number": 26,
+				"name": "سُورَةُ الشُّعَرَاءِ",
+				"englishName": "Ash-Shu'araa",
+				"englishNameTranslation": "The Poets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 227
+			},
+			"numberInSurah": 28,
+			"juz": 19,
+			"manzil": 5,
+			"page": 368,
+			"ruku": 317,
+			"hizbQuarter": 147,
+			"sajda": false,
+			"text": "قَالَ رَبُّ الْمَشْرِقِ وَالْمَغْرِبِ وَمَا بَيْنَهُمَا ۖ إِن كُنتُمْ تَعْقِلُونَ"
+		},
+		{
+			"number": 2961,
+			"surah": {
+				"number": 26,
+				"name": "سُورَةُ الشُّعَرَاءِ",
+				"englishName": "Ash-Shu'araa",
+				"englishNameTranslation": "The Poets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 227
+			},
+			"numberInSurah": 29,
+			"juz": 19,
+			"manzil": 5,
+			"page": 368,
+			"ruku": 317,
+			"hizbQuarter": 147,
+			"sajda": false,
+			"text": "قَالَ لَئِنِ اتَّخَذْتَ إِلَٰهًا غَيْرِي لَأَجْعَلَنَّكَ مِنَ الْمَسْجُونِينَ"
+		},
+		{
+			"number": 2962,
+			"surah": {
+				"number": 26,
+				"name": "سُورَةُ الشُّعَرَاءِ",
+				"englishName": "Ash-Shu'araa",
+				"englishNameTranslation": "The Poets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 227
+			},
+			"numberInSurah": 30,
+			"juz": 19,
+			"manzil": 5,
+			"page": 368,
+			"ruku": 317,
+			"hizbQuarter": 147,
+			"sajda": false,
+			"text": "قَالَ أَوَلَوْ جِئْتُكَ بِشَيْءٍ مُّبِينٍ"
+		},
+		{
+			"number": 2963,
+			"surah": {
+				"number": 26,
+				"name": "سُورَةُ الشُّعَرَاءِ",
+				"englishName": "Ash-Shu'araa",
+				"englishNameTranslation": "The Poets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 227
+			},
+			"numberInSurah": 31,
+			"juz": 19,
+			"manzil": 5,
+			"page": 368,
+			"ruku": 317,
+			"hizbQuarter": 147,
+			"sajda": false,
+			"text": "قَالَ فَأْتِ بِهِ إِن كُنتَ مِنَ الصَّادِقِينَ"
+		},
+		{
+			"number": 2964,
+			"surah": {
+				"number": 26,
+				"name": "سُورَةُ الشُّعَرَاءِ",
+				"englishName": "Ash-Shu'araa",
+				"englishNameTranslation": "The Poets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 227
+			},
+			"numberInSurah": 32,
+			"juz": 19,
+			"manzil": 5,
+			"page": 368,
+			"ruku": 317,
+			"hizbQuarter": 147,
+			"sajda": false,
+			"text": "فَأَلْقَىٰ عَصَاهُ فَإِذَا هِيَ ثُعْبَانٌ مُّبِينٌ"
+		},
+		{
+			"number": 2965,
+			"surah": {
+				"number": 26,
+				"name": "سُورَةُ الشُّعَرَاءِ",
+				"englishName": "Ash-Shu'araa",
+				"englishNameTranslation": "The Poets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 227
+			},
+			"numberInSurah": 33,
+			"juz": 19,
+			"manzil": 5,
+			"page": 368,
+			"ruku": 317,
+			"hizbQuarter": 147,
+			"sajda": false,
+			"text": "وَنَزَعَ يَدَهُ فَإِذَا هِيَ بَيْضَاءُ لِلنَّاظِرِينَ"
+		},
+		{
+			"number": 2966,
+			"surah": {
+				"number": 26,
+				"name": "سُورَةُ الشُّعَرَاءِ",
+				"englishName": "Ash-Shu'araa",
+				"englishNameTranslation": "The Poets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 227
+			},
+			"numberInSurah": 34,
+			"juz": 19,
+			"manzil": 5,
+			"page": 368,
+			"ruku": 318,
+			"hizbQuarter": 147,
+			"sajda": false,
+			"text": "قَالَ لِلْمَلَإِ حَوْلَهُ إِنَّ هَٰذَا لَسَاحِرٌ عَلِيمٌ"
+		},
+		{
+			"number": 2967,
+			"surah": {
+				"number": 26,
+				"name": "سُورَةُ الشُّعَرَاءِ",
+				"englishName": "Ash-Shu'araa",
+				"englishNameTranslation": "The Poets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 227
+			},
+			"numberInSurah": 35,
+			"juz": 19,
+			"manzil": 5,
+			"page": 368,
+			"ruku": 318,
+			"hizbQuarter": 147,
+			"sajda": false,
+			"text": "يُرِيدُ أَن يُخْرِجَكُم مِّنْ أَرْضِكُم بِسِحْرِهِ فَمَاذَا تَأْمُرُونَ"
+		},
+		{
+			"number": 2968,
+			"surah": {
+				"number": 26,
+				"name": "سُورَةُ الشُّعَرَاءِ",
+				"englishName": "Ash-Shu'araa",
+				"englishNameTranslation": "The Poets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 227
+			},
+			"numberInSurah": 36,
+			"juz": 19,
+			"manzil": 5,
+			"page": 368,
+			"ruku": 318,
+			"hizbQuarter": 147,
+			"sajda": false,
+			"text": "قَالُوا أَرْجِهْ وَأَخَاهُ وَابْعَثْ فِي الْمَدَائِنِ حَاشِرِينَ"
+		},
+		{
+			"number": 2969,
+			"surah": {
+				"number": 26,
+				"name": "سُورَةُ الشُّعَرَاءِ",
+				"englishName": "Ash-Shu'araa",
+				"englishNameTranslation": "The Poets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 227
+			},
+			"numberInSurah": 37,
+			"juz": 19,
+			"manzil": 5,
+			"page": 368,
+			"ruku": 318,
+			"hizbQuarter": 147,
+			"sajda": false,
+			"text": "يَأْتُوكَ بِكُلِّ سَحَّارٍ عَلِيمٍ"
+		},
+		{
+			"number": 2970,
+			"surah": {
+				"number": 26,
+				"name": "سُورَةُ الشُّعَرَاءِ",
+				"englishName": "Ash-Shu'araa",
+				"englishNameTranslation": "The Poets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 227
+			},
+			"numberInSurah": 38,
+			"juz": 19,
+			"manzil": 5,
+			"page": 368,
+			"ruku": 318,
+			"hizbQuarter": 147,
+			"sajda": false,
+			"text": "فَجُمِعَ السَّحَرَةُ لِمِيقَاتِ يَوْمٍ مَّعْلُومٍ"
+		},
+		{
+			"number": 2971,
+			"surah": {
+				"number": 26,
+				"name": "سُورَةُ الشُّعَرَاءِ",
+				"englishName": "Ash-Shu'araa",
+				"englishNameTranslation": "The Poets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 227
+			},
+			"numberInSurah": 39,
+			"juz": 19,
+			"manzil": 5,
+			"page": 368,
+			"ruku": 318,
+			"hizbQuarter": 147,
+			"sajda": false,
+			"text": "وَقِيلَ لِلنَّاسِ هَلْ أَنتُم مُّجْتَمِعُونَ"
+		},
+		{
+			"number": 2972,
+			"surah": {
+				"number": 26,
+				"name": "سُورَةُ الشُّعَرَاءِ",
+				"englishName": "Ash-Shu'araa",
+				"englishNameTranslation": "The Poets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 227
+			},
+			"numberInSurah": 40,
+			"juz": 19,
+			"manzil": 5,
+			"page": 369,
+			"ruku": 318,
+			"hizbQuarter": 147,
+			"sajda": false,
+			"text": "لَعَلَّنَا نَتَّبِعُ السَّحَرَةَ إِن كَانُوا هُمُ الْغَالِبِينَ"
+		},
+		{
+			"number": 2973,
+			"surah": {
+				"number": 26,
+				"name": "سُورَةُ الشُّعَرَاءِ",
+				"englishName": "Ash-Shu'araa",
+				"englishNameTranslation": "The Poets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 227
+			},
+			"numberInSurah": 41,
+			"juz": 19,
+			"manzil": 5,
+			"page": 369,
+			"ruku": 318,
+			"hizbQuarter": 147,
+			"sajda": false,
+			"text": "فَلَمَّا جَاءَ السَّحَرَةُ قَالُوا لِفِرْعَوْنَ أَئِنَّ لَنَا لَأَجْرًا إِن كُنَّا نَحْنُ الْغَالِبِينَ"
+		},
+		{
+			"number": 2974,
+			"surah": {
+				"number": 26,
+				"name": "سُورَةُ الشُّعَرَاءِ",
+				"englishName": "Ash-Shu'araa",
+				"englishNameTranslation": "The Poets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 227
+			},
+			"numberInSurah": 42,
+			"juz": 19,
+			"manzil": 5,
+			"page": 369,
+			"ruku": 318,
+			"hizbQuarter": 147,
+			"sajda": false,
+			"text": "قَالَ نَعَمْ وَإِنَّكُمْ إِذًا لَّمِنَ الْمُقَرَّبِينَ"
+		},
+		{
+			"number": 2975,
+			"surah": {
+				"number": 26,
+				"name": "سُورَةُ الشُّعَرَاءِ",
+				"englishName": "Ash-Shu'araa",
+				"englishNameTranslation": "The Poets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 227
+			},
+			"numberInSurah": 43,
+			"juz": 19,
+			"manzil": 5,
+			"page": 369,
+			"ruku": 318,
+			"hizbQuarter": 147,
+			"sajda": false,
+			"text": "قَالَ لَهُم مُّوسَىٰ أَلْقُوا مَا أَنتُم مُّلْقُونَ"
+		},
+		{
+			"number": 2976,
+			"surah": {
+				"number": 26,
+				"name": "سُورَةُ الشُّعَرَاءِ",
+				"englishName": "Ash-Shu'araa",
+				"englishNameTranslation": "The Poets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 227
+			},
+			"numberInSurah": 44,
+			"juz": 19,
+			"manzil": 5,
+			"page": 369,
+			"ruku": 318,
+			"hizbQuarter": 147,
+			"sajda": false,
+			"text": "فَأَلْقَوْا حِبَالَهُمْ وَعِصِيَّهُمْ وَقَالُوا بِعِزَّةِ فِرْعَوْنَ إِنَّا لَنَحْنُ الْغَالِبُونَ"
+		},
+		{
+			"number": 2977,
+			"surah": {
+				"number": 26,
+				"name": "سُورَةُ الشُّعَرَاءِ",
+				"englishName": "Ash-Shu'araa",
+				"englishNameTranslation": "The Poets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 227
+			},
+			"numberInSurah": 45,
+			"juz": 19,
+			"manzil": 5,
+			"page": 369,
+			"ruku": 318,
+			"hizbQuarter": 147,
+			"sajda": false,
+			"text": "فَأَلْقَىٰ مُوسَىٰ عَصَاهُ فَإِذَا هِيَ تَلْقَفُ مَا يَأْفِكُونَ"
+		},
+		{
+			"number": 2978,
+			"surah": {
+				"number": 26,
+				"name": "سُورَةُ الشُّعَرَاءِ",
+				"englishName": "Ash-Shu'araa",
+				"englishNameTranslation": "The Poets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 227
+			},
+			"numberInSurah": 46,
+			"juz": 19,
+			"manzil": 5,
+			"page": 369,
+			"ruku": 318,
+			"hizbQuarter": 147,
+			"sajda": false,
+			"text": "فَأُلْقِيَ السَّحَرَةُ سَاجِدِينَ"
+		},
+		{
+			"number": 2979,
+			"surah": {
+				"number": 26,
+				"name": "سُورَةُ الشُّعَرَاءِ",
+				"englishName": "Ash-Shu'araa",
+				"englishNameTranslation": "The Poets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 227
+			},
+			"numberInSurah": 47,
+			"juz": 19,
+			"manzil": 5,
+			"page": 369,
+			"ruku": 318,
+			"hizbQuarter": 147,
+			"sajda": false,
+			"text": "قَالُوا آمَنَّا بِرَبِّ الْعَالَمِينَ"
+		},
+		{
+			"number": 2980,
+			"surah": {
+				"number": 26,
+				"name": "سُورَةُ الشُّعَرَاءِ",
+				"englishName": "Ash-Shu'araa",
+				"englishNameTranslation": "The Poets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 227
+			},
+			"numberInSurah": 48,
+			"juz": 19,
+			"manzil": 5,
+			"page": 369,
+			"ruku": 318,
+			"hizbQuarter": 147,
+			"sajda": false,
+			"text": "رَبِّ مُوسَىٰ وَهَارُونَ"
+		},
+		{
+			"number": 2981,
+			"surah": {
+				"number": 26,
+				"name": "سُورَةُ الشُّعَرَاءِ",
+				"englishName": "Ash-Shu'araa",
+				"englishNameTranslation": "The Poets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 227
+			},
+			"numberInSurah": 49,
+			"juz": 19,
+			"manzil": 5,
+			"page": 369,
+			"ruku": 318,
+			"hizbQuarter": 147,
+			"sajda": false,
+			"text": "قَالَ آمَنتُمْ لَهُ قَبْلَ أَنْ آذَنَ لَكُمْ ۖ إِنَّهُ لَكَبِيرُكُمُ الَّذِي عَلَّمَكُمُ السِّحْرَ فَلَسَوْفَ تَعْلَمُونَ ۚ لَأُقَطِّعَنَّ أَيْدِيَكُمْ وَأَرْجُلَكُم مِّنْ خِلَافٍ وَلَأُصَلِّبَنَّكُمْ أَجْمَعِينَ"
+		},
+		{
+			"number": 2982,
+			"surah": {
+				"number": 26,
+				"name": "سُورَةُ الشُّعَرَاءِ",
+				"englishName": "Ash-Shu'araa",
+				"englishNameTranslation": "The Poets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 227
+			},
+			"numberInSurah": 50,
+			"juz": 19,
+			"manzil": 5,
+			"page": 369,
+			"ruku": 318,
+			"hizbQuarter": 147,
+			"sajda": false,
+			"text": "قَالُوا لَا ضَيْرَ ۖ إِنَّا إِلَىٰ رَبِّنَا مُنقَلِبُونَ"
+		},
+		{
+			"number": 2983,
+			"surah": {
+				"number": 26,
+				"name": "سُورَةُ الشُّعَرَاءِ",
+				"englishName": "Ash-Shu'araa",
+				"englishNameTranslation": "The Poets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 227
+			},
+			"numberInSurah": 51,
+			"juz": 19,
+			"manzil": 5,
+			"page": 369,
+			"ruku": 318,
+			"hizbQuarter": 147,
+			"sajda": false,
+			"text": "إِنَّا نَطْمَعُ أَن يَغْفِرَ لَنَا رَبُّنَا خَطَايَانَا أَن كُنَّا أَوَّلَ الْمُؤْمِنِينَ"
+		}
+	],
+	"surahs": {
+		"26": {
+			"number": 26,
+			"name": "سُورَةُ الشُّعَرَاءِ",
+			"englishName": "Ash-Shu'araa",
+			"englishNameTranslation": "The Poets",
+			"revelationType": "Meccan",
+			"numberOfAyahs": 227
+		}
+	},
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

@@ -1,0 +1,583 @@
+﻿{
+	"number": 595,
+	"ayahs": [
+		{
+			"number": 6044,
+			"text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ وَالشَّمْسِ وَضُحَاهَا",
+			"surah": {
+				"number": 91,
+				"name": "سُورَةُ الشَّمۡسِ",
+				"englishName": "Ash-Shams",
+				"englishNameTranslation": "The Sun",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 15
+			},
+			"numberInSurah": 1,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 533,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6045,
+			"text": "وَالْقَمَرِ إِذَا تَلَاهَا",
+			"surah": {
+				"number": 91,
+				"name": "سُورَةُ الشَّمۡسِ",
+				"englishName": "Ash-Shams",
+				"englishNameTranslation": "The Sun",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 15
+			},
+			"numberInSurah": 2,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 533,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6046,
+			"text": "وَالنَّهَارِ إِذَا جَلَّاهَا",
+			"surah": {
+				"number": 91,
+				"name": "سُورَةُ الشَّمۡسِ",
+				"englishName": "Ash-Shams",
+				"englishNameTranslation": "The Sun",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 15
+			},
+			"numberInSurah": 3,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 533,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6047,
+			"text": "وَاللَّيْلِ إِذَا يَغْشَاهَا",
+			"surah": {
+				"number": 91,
+				"name": "سُورَةُ الشَّمۡسِ",
+				"englishName": "Ash-Shams",
+				"englishNameTranslation": "The Sun",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 15
+			},
+			"numberInSurah": 4,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 533,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6048,
+			"text": "وَالسَّمَاءِ وَمَا بَنَاهَا",
+			"surah": {
+				"number": 91,
+				"name": "سُورَةُ الشَّمۡسِ",
+				"englishName": "Ash-Shams",
+				"englishNameTranslation": "The Sun",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 15
+			},
+			"numberInSurah": 5,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 533,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6049,
+			"text": "وَالْأَرْضِ وَمَا طَحَاهَا",
+			"surah": {
+				"number": 91,
+				"name": "سُورَةُ الشَّمۡسِ",
+				"englishName": "Ash-Shams",
+				"englishNameTranslation": "The Sun",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 15
+			},
+			"numberInSurah": 6,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 533,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6050,
+			"text": "وَنَفْسٍ وَمَا سَوَّاهَا",
+			"surah": {
+				"number": 91,
+				"name": "سُورَةُ الشَّمۡسِ",
+				"englishName": "Ash-Shams",
+				"englishNameTranslation": "The Sun",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 15
+			},
+			"numberInSurah": 7,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 533,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6051,
+			"text": "فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا",
+			"surah": {
+				"number": 91,
+				"name": "سُورَةُ الشَّمۡسِ",
+				"englishName": "Ash-Shams",
+				"englishNameTranslation": "The Sun",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 15
+			},
+			"numberInSurah": 8,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 533,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6052,
+			"text": "قَدْ أَفْلَحَ مَنْ زَكَّاهَا",
+			"surah": {
+				"number": 91,
+				"name": "سُورَةُ الشَّمۡسِ",
+				"englishName": "Ash-Shams",
+				"englishNameTranslation": "The Sun",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 15
+			},
+			"numberInSurah": 9,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 533,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6053,
+			"text": "وَقَدْ خَابَ مَنْ دَسَّاهَا",
+			"surah": {
+				"number": 91,
+				"name": "سُورَةُ الشَّمۡسِ",
+				"englishName": "Ash-Shams",
+				"englishNameTranslation": "The Sun",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 15
+			},
+			"numberInSurah": 10,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 533,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6054,
+			"text": "كَذَّبَتْ ثَمُودُ بِطَغْوَاهَا",
+			"surah": {
+				"number": 91,
+				"name": "سُورَةُ الشَّمۡسِ",
+				"englishName": "Ash-Shams",
+				"englishNameTranslation": "The Sun",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 15
+			},
+			"numberInSurah": 11,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 533,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6055,
+			"text": "إِذِ انْبَعَثَ أَشْقَاهَا",
+			"surah": {
+				"number": 91,
+				"name": "سُورَةُ الشَّمۡسِ",
+				"englishName": "Ash-Shams",
+				"englishNameTranslation": "The Sun",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 15
+			},
+			"numberInSurah": 12,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 533,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6056,
+			"text": "فَقَالَ لَهُمْ رَسُولُ اللَّهِ نَاقَةَ اللَّهِ وَسُقْيَاهَا",
+			"surah": {
+				"number": 91,
+				"name": "سُورَةُ الشَّمۡسِ",
+				"englishName": "Ash-Shams",
+				"englishNameTranslation": "The Sun",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 15
+			},
+			"numberInSurah": 13,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 533,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6057,
+			"text": "فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُمْ بِذَنْبِهِمْ فَسَوَّاهَا",
+			"surah": {
+				"number": 91,
+				"name": "سُورَةُ الشَّمۡسِ",
+				"englishName": "Ash-Shams",
+				"englishNameTranslation": "The Sun",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 15
+			},
+			"numberInSurah": 14,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 533,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6058,
+			"text": "وَلَا يَخَافُ عُقْبَاهَا",
+			"surah": {
+				"number": 91,
+				"name": "سُورَةُ الشَّمۡسِ",
+				"englishName": "Ash-Shams",
+				"englishNameTranslation": "The Sun",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 15
+			},
+			"numberInSurah": 15,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 533,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6059,
+			"text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ وَاللَّيْلِ إِذَا يَغْشَىٰ",
+			"surah": {
+				"number": 92,
+				"name": "سُورَةُ اللَّيۡلِ",
+				"englishName": "Al-Lail",
+				"englishNameTranslation": "The Night",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 21
+			},
+			"numberInSurah": 1,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 534,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6060,
+			"text": "وَالنَّهَارِ إِذَا تَجَلَّىٰ",
+			"surah": {
+				"number": 92,
+				"name": "سُورَةُ اللَّيۡلِ",
+				"englishName": "Al-Lail",
+				"englishNameTranslation": "The Night",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 21
+			},
+			"numberInSurah": 2,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 534,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6061,
+			"text": "وَمَا خَلَقَ الذَّكَرَ وَالْأُنْثَىٰ",
+			"surah": {
+				"number": 92,
+				"name": "سُورَةُ اللَّيۡلِ",
+				"englishName": "Al-Lail",
+				"englishNameTranslation": "The Night",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 21
+			},
+			"numberInSurah": 3,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 534,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6062,
+			"text": "إِنَّ سَعْيَكُمْ لَشَتَّىٰ",
+			"surah": {
+				"number": 92,
+				"name": "سُورَةُ اللَّيۡلِ",
+				"englishName": "Al-Lail",
+				"englishNameTranslation": "The Night",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 21
+			},
+			"numberInSurah": 4,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 534,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6063,
+			"text": "فَأَمَّا مَنْ أَعْطَىٰ وَاتَّقَىٰ",
+			"surah": {
+				"number": 92,
+				"name": "سُورَةُ اللَّيۡلِ",
+				"englishName": "Al-Lail",
+				"englishNameTranslation": "The Night",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 21
+			},
+			"numberInSurah": 5,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 534,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6064,
+			"text": "وَصَدَّقَ بِالْحُسْنَىٰ",
+			"surah": {
+				"number": 92,
+				"name": "سُورَةُ اللَّيۡلِ",
+				"englishName": "Al-Lail",
+				"englishNameTranslation": "The Night",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 21
+			},
+			"numberInSurah": 6,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 534,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6065,
+			"text": "فَسَنُيَسِّرُهُ لِلْيُسْرَىٰ",
+			"surah": {
+				"number": 92,
+				"name": "سُورَةُ اللَّيۡلِ",
+				"englishName": "Al-Lail",
+				"englishNameTranslation": "The Night",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 21
+			},
+			"numberInSurah": 7,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 534,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6066,
+			"text": "وَأَمَّا مَنْ بَخِلَ وَاسْتَغْنَىٰ",
+			"surah": {
+				"number": 92,
+				"name": "سُورَةُ اللَّيۡلِ",
+				"englishName": "Al-Lail",
+				"englishNameTranslation": "The Night",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 21
+			},
+			"numberInSurah": 8,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 534,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6067,
+			"text": "وَكَذَّبَ بِالْحُسْنَىٰ",
+			"surah": {
+				"number": 92,
+				"name": "سُورَةُ اللَّيۡلِ",
+				"englishName": "Al-Lail",
+				"englishNameTranslation": "The Night",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 21
+			},
+			"numberInSurah": 9,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 534,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6068,
+			"text": "فَسَنُيَسِّرُهُ لِلْعُسْرَىٰ",
+			"surah": {
+				"number": 92,
+				"name": "سُورَةُ اللَّيۡلِ",
+				"englishName": "Al-Lail",
+				"englishNameTranslation": "The Night",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 21
+			},
+			"numberInSurah": 10,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 534,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6069,
+			"text": "وَمَا يُغْنِي عَنْهُ مَالُهُ إِذَا تَرَدَّىٰ",
+			"surah": {
+				"number": 92,
+				"name": "سُورَةُ اللَّيۡلِ",
+				"englishName": "Al-Lail",
+				"englishNameTranslation": "The Night",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 21
+			},
+			"numberInSurah": 11,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 534,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6070,
+			"text": "إِنَّ عَلَيْنَا لَلْهُدَىٰ",
+			"surah": {
+				"number": 92,
+				"name": "سُورَةُ اللَّيۡلِ",
+				"englishName": "Al-Lail",
+				"englishNameTranslation": "The Night",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 21
+			},
+			"numberInSurah": 12,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 534,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6071,
+			"text": "وَإِنَّ لَنَا لَلْآخِرَةَ وَالْأُولَىٰ",
+			"surah": {
+				"number": 92,
+				"name": "سُورَةُ اللَّيۡلِ",
+				"englishName": "Al-Lail",
+				"englishNameTranslation": "The Night",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 21
+			},
+			"numberInSurah": 13,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 534,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6072,
+			"text": "فَأَنْذَرْتُكُمْ نَارًا تَلَظَّىٰ",
+			"surah": {
+				"number": 92,
+				"name": "سُورَةُ اللَّيۡلِ",
+				"englishName": "Al-Lail",
+				"englishNameTranslation": "The Night",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 21
+			},
+			"numberInSurah": 14,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 534,
+			"hizbQuarter": 238,
+			"sajda": false
+		}
+	],
+	"surahs": {
+		"91": {
+			"number": 91,
+			"name": "سُورَةُ الشَّمۡسِ",
+			"englishName": "Ash-Shams",
+			"englishNameTranslation": "The Sun",
+			"revelationType": "Meccan",
+			"numberOfAyahs": 15
+		},
+		"92": {
+			"number": 92,
+			"name": "سُورَةُ اللَّيۡلِ",
+			"englishName": "Al-Lail",
+			"englishNameTranslation": "The Night",
+			"revelationType": "Meccan",
+			"numberOfAyahs": 21
+		}
+	},
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

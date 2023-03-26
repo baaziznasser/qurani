@@ -1,0 +1,74 @@
+﻿{
+	"number": 113,
+	"name": "سُورَةُ الفَلَقِ",
+	"englishName": "Al-Falaq",
+	"englishNameTranslation": "The Dawn",
+	"revelationType": "Meccan",
+	"numberOfAyahs": 5,
+	"ayahs": [
+		{
+			"number": 6226,
+			"text": "«قل أعوذ برب الفلق» الصبح.",
+			"numberInSurah": 1,
+			"juz": 30,
+			"manzil": 7,
+			"page": 604,
+			"ruku": 555,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6227,
+			"text": "«من شر ما خلق» من حيوان مكلف وغير مكلف وجماد كالسم وغير ذلك.",
+			"numberInSurah": 2,
+			"juz": 30,
+			"manzil": 7,
+			"page": 604,
+			"ruku": 555,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6228,
+			"text": "«ومن شر غاسق إذا وقب» أي الليل إذا أظلم والقمر إذا غاب.",
+			"numberInSurah": 3,
+			"juz": 30,
+			"manzil": 7,
+			"page": 604,
+			"ruku": 555,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6229,
+			"text": "«ومن شر النفاثات» السواحر تنفث «في العقد» التي تعقدها في الخيط تنفخ فيها بشيء تقوله من غير ريق، وقال الزمخشري معه كبنات لبيد المذكور.",
+			"numberInSurah": 4,
+			"juz": 30,
+			"manzil": 7,
+			"page": 604,
+			"ruku": 555,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6230,
+			"text": "«ومن شر حاسد إذا حسد» أظهر حسده وعمل بمقتضاه، كلبيد المذكور من اليهود الحاسدين للنبي صلى الله عليه وسلم، وذكر الثلاثة الشامل لها ما خلق بعده لشدة شرها.",
+			"numberInSurah": 5,
+			"juz": 30,
+			"manzil": 7,
+			"page": 604,
+			"ruku": 555,
+			"hizbQuarter": 240,
+			"sajda": false
+		}
+	],
+	"edition": {
+		"identifier": "ar.jalalayn",
+		"language": "ar",
+		"name": "تفسير الجلالين",
+		"englishName": "Jalal ad-Din al-Mahalli and Jalal ad-Din as-Suyuti",
+		"format": "text",
+		"type": "tafsir",
+		"direction": "rtl"
+	}
+}

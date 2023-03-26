@@ -1,0 +1,74 @@
+﻿{
+	"number": 105,
+	"name": "سُورَةُ الفِيلِ",
+	"englishName": "Al-Fil",
+	"englishNameTranslation": "The Elephant",
+	"revelationType": "Meccan",
+	"numberOfAyahs": 5,
+	"ayahs": [
+		{
+			"number": 6189,
+			"text": "ألم تعلم -أيها الرسول- كيف فعل ربك بأصحاب الفيل: أبرهة الحبشي وجيشه الذين أرادوا تدمير الكعبة المباركة؟",
+			"numberInSurah": 1,
+			"juz": 30,
+			"manzil": 7,
+			"page": 601,
+			"ruku": 547,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6190,
+			"text": "ألم يجعل ما دبَّروه من شر في إبطال وتضييع؟",
+			"numberInSurah": 2,
+			"juz": 30,
+			"manzil": 7,
+			"page": 601,
+			"ruku": 547,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6191,
+			"text": "وبعث عليهم طيرًا في جماعات متتابعة، تقذفهم بحجارة من طين متحجِّر.",
+			"numberInSurah": 3,
+			"juz": 30,
+			"manzil": 7,
+			"page": 601,
+			"ruku": 547,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6192,
+			"text": "وبعث عليهم طيرًا في جماعات متتابعة، تقذفهم بحجارة من طين متحجِّر.",
+			"numberInSurah": 4,
+			"juz": 30,
+			"manzil": 7,
+			"page": 601,
+			"ruku": 547,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6193,
+			"text": "فجعلهم به محطمين كأوراق الزرع اليابسة التي أكلتها البهائم ثم رمت بها.",
+			"numberInSurah": 5,
+			"juz": 30,
+			"manzil": 7,
+			"page": 601,
+			"ruku": 547,
+			"hizbQuarter": 240,
+			"sajda": false
+		}
+	],
+	"edition": {
+		"identifier": "ar.muyassar",
+		"language": "ar",
+		"name": "تفسير المیسر",
+		"englishName": "King Fahad Quran Complex",
+		"format": "text",
+		"type": "tafsir",
+		"direction": "rtl"
+	}
+}

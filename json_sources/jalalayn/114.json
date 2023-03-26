@@ -1,0 +1,85 @@
+﻿{
+	"number": 114,
+	"name": "سُورَةُ النَّاسِ",
+	"englishName": "An-Naas",
+	"englishNameTranslation": "Mankind",
+	"revelationType": "Meccan",
+	"numberOfAyahs": 6,
+	"ayahs": [
+		{
+			"number": 6231,
+			"text": "«قل أعوذ برب الناس» خالقهم ومالكهم خُصُّوا بالذكر تشريفا لهم ومناسبة للاستفادة من شر الموسوس في صدورهم.",
+			"numberInSurah": 1,
+			"juz": 30,
+			"manzil": 7,
+			"page": 604,
+			"ruku": 556,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6232,
+			"text": "«ملك الناس».",
+			"numberInSurah": 2,
+			"juz": 30,
+			"manzil": 7,
+			"page": 604,
+			"ruku": 556,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6233,
+			"text": "«إله الناس» بدلان أو صفتان أو عطفا بيان وأظهر المضاف إليه فيهما زيادة للبيان.",
+			"numberInSurah": 3,
+			"juz": 30,
+			"manzil": 7,
+			"page": 604,
+			"ruku": 556,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6234,
+			"text": "«من شر الوسواس» الشيطان سمي بالحدث لكثرة ملابسته له «الخناس» لأنه يخنس ويتأخر عن القلب كلما ذكر الله.",
+			"numberInSurah": 4,
+			"juz": 30,
+			"manzil": 7,
+			"page": 604,
+			"ruku": 556,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6235,
+			"text": "«الذي يوسوس في صدور الناس» قلوبهم إذا غفلوا عن ذكر الله.",
+			"numberInSurah": 5,
+			"juz": 30,
+			"manzil": 7,
+			"page": 604,
+			"ruku": 556,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6236,
+			"text": "(من الجنة والناس) بيان للشيطان الموسوس أنه جني وإنسي، كقوله تعالى: \"\" شياطين الإنس والجن \"\" أو من الجنة بيان له والناس عطف على الوسواس وعلى كل يشتمل شر لبيد وبناته المذكورين، واعترض الأول بأن الناس لا يوسوس في صدورهم الناس إنما يوسوس في صدورهم الجن، وأجيب بأن الناس يوسوسون أيضاً بمعنى يليق بهم في الظاهر ثم تصل وسوستهم إلى القلب وتثبت فيه بالطريق المؤدي إلى ذلك والله تعالى أعلم.",
+			"numberInSurah": 6,
+			"juz": 30,
+			"manzil": 7,
+			"page": 604,
+			"ruku": 556,
+			"hizbQuarter": 240,
+			"sajda": false
+		}
+	],
+	"edition": {
+		"identifier": "ar.jalalayn",
+		"language": "ar",
+		"name": "تفسير الجلالين",
+		"englishName": "Jalal ad-Din al-Mahalli and Jalal ad-Din as-Suyuti",
+		"format": "text",
+		"type": "tafsir",
+		"direction": "rtl"
+	}
+}

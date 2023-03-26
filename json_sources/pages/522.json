@@ -1,0 +1,423 @@
+﻿{
+	"number": 522,
+	"ayahs": [
+		{
+			"number": 4706,
+			"text": "۞ قَالَ فَمَا خَطْبُكُمْ أَيُّهَا الْمُرْسَلُونَ",
+			"surah": {
+				"number": 51,
+				"name": "سُورَةُ الذَّارِيَاتِ",
+				"englishName": "Adh-Dhaariyat",
+				"englishNameTranslation": "The Winnowing Winds",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 60
+			},
+			"numberInSurah": 31,
+			"juz": 27,
+			"manzil": 7,
+			"page": 522,
+			"ruku": 456,
+			"hizbQuarter": 209,
+			"sajda": false
+		},
+		{
+			"number": 4707,
+			"text": "قَالُوا إِنَّا أُرْسِلْنَا إِلَىٰ قَوْمٍ مُجْرِمِينَ",
+			"surah": {
+				"number": 51,
+				"name": "سُورَةُ الذَّارِيَاتِ",
+				"englishName": "Adh-Dhaariyat",
+				"englishNameTranslation": "The Winnowing Winds",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 60
+			},
+			"numberInSurah": 32,
+			"juz": 27,
+			"manzil": 7,
+			"page": 522,
+			"ruku": 456,
+			"hizbQuarter": 209,
+			"sajda": false
+		},
+		{
+			"number": 4708,
+			"text": "لِنُرْسِلَ عَلَيْهِمْ حِجَارَةً مِنْ طِينٍ",
+			"surah": {
+				"number": 51,
+				"name": "سُورَةُ الذَّارِيَاتِ",
+				"englishName": "Adh-Dhaariyat",
+				"englishNameTranslation": "The Winnowing Winds",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 60
+			},
+			"numberInSurah": 33,
+			"juz": 27,
+			"manzil": 7,
+			"page": 522,
+			"ruku": 456,
+			"hizbQuarter": 209,
+			"sajda": false
+		},
+		{
+			"number": 4709,
+			"text": "مُسَوَّمَةً عِنْدَ رَبِّكَ لِلْمُسْرِفِينَ",
+			"surah": {
+				"number": 51,
+				"name": "سُورَةُ الذَّارِيَاتِ",
+				"englishName": "Adh-Dhaariyat",
+				"englishNameTranslation": "The Winnowing Winds",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 60
+			},
+			"numberInSurah": 34,
+			"juz": 27,
+			"manzil": 7,
+			"page": 522,
+			"ruku": 456,
+			"hizbQuarter": 209,
+			"sajda": false
+		},
+		{
+			"number": 4710,
+			"text": "فَأَخْرَجْنَا مَنْ كَانَ فِيهَا مِنَ الْمُؤْمِنِينَ",
+			"surah": {
+				"number": 51,
+				"name": "سُورَةُ الذَّارِيَاتِ",
+				"englishName": "Adh-Dhaariyat",
+				"englishNameTranslation": "The Winnowing Winds",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 60
+			},
+			"numberInSurah": 35,
+			"juz": 27,
+			"manzil": 7,
+			"page": 522,
+			"ruku": 456,
+			"hizbQuarter": 209,
+			"sajda": false
+		},
+		{
+			"number": 4711,
+			"text": "فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍ مِنَ الْمُسْلِمِينَ",
+			"surah": {
+				"number": 51,
+				"name": "سُورَةُ الذَّارِيَاتِ",
+				"englishName": "Adh-Dhaariyat",
+				"englishNameTranslation": "The Winnowing Winds",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 60
+			},
+			"numberInSurah": 36,
+			"juz": 27,
+			"manzil": 7,
+			"page": 522,
+			"ruku": 456,
+			"hizbQuarter": 209,
+			"sajda": false
+		},
+		{
+			"number": 4712,
+			"text": "وَتَرَكْنَا فِيهَا آيَةً لِلَّذِينَ يَخَافُونَ الْعَذَابَ الْأَلِيمَ",
+			"surah": {
+				"number": 51,
+				"name": "سُورَةُ الذَّارِيَاتِ",
+				"englishName": "Adh-Dhaariyat",
+				"englishNameTranslation": "The Winnowing Winds",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 60
+			},
+			"numberInSurah": 37,
+			"juz": 27,
+			"manzil": 7,
+			"page": 522,
+			"ruku": 456,
+			"hizbQuarter": 209,
+			"sajda": false
+		},
+		{
+			"number": 4713,
+			"text": "وَفِي مُوسَىٰ إِذْ أَرْسَلْنَاهُ إِلَىٰ فِرْعَوْنَ بِسُلْطَانٍ مُبِينٍ",
+			"surah": {
+				"number": 51,
+				"name": "سُورَةُ الذَّارِيَاتِ",
+				"englishName": "Adh-Dhaariyat",
+				"englishNameTranslation": "The Winnowing Winds",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 60
+			},
+			"numberInSurah": 38,
+			"juz": 27,
+			"manzil": 7,
+			"page": 522,
+			"ruku": 456,
+			"hizbQuarter": 209,
+			"sajda": false
+		},
+		{
+			"number": 4714,
+			"text": "فَتَوَلَّىٰ بِرُكْنِهِ وَقَالَ سَاحِرٌ أَوْ مَجْنُونٌ",
+			"surah": {
+				"number": 51,
+				"name": "سُورَةُ الذَّارِيَاتِ",
+				"englishName": "Adh-Dhaariyat",
+				"englishNameTranslation": "The Winnowing Winds",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 60
+			},
+			"numberInSurah": 39,
+			"juz": 27,
+			"manzil": 7,
+			"page": 522,
+			"ruku": 456,
+			"hizbQuarter": 209,
+			"sajda": false
+		},
+		{
+			"number": 4715,
+			"text": "فَأَخَذْنَاهُ وَجُنُودَهُ فَنَبَذْنَاهُمْ فِي الْيَمِّ وَهُوَ مُلِيمٌ",
+			"surah": {
+				"number": 51,
+				"name": "سُورَةُ الذَّارِيَاتِ",
+				"englishName": "Adh-Dhaariyat",
+				"englishNameTranslation": "The Winnowing Winds",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 60
+			},
+			"numberInSurah": 40,
+			"juz": 27,
+			"manzil": 7,
+			"page": 522,
+			"ruku": 456,
+			"hizbQuarter": 209,
+			"sajda": false
+		},
+		{
+			"number": 4716,
+			"text": "وَفِي عَادٍ إِذْ أَرْسَلْنَا عَلَيْهِمُ الرِّيحَ الْعَقِيمَ",
+			"surah": {
+				"number": 51,
+				"name": "سُورَةُ الذَّارِيَاتِ",
+				"englishName": "Adh-Dhaariyat",
+				"englishNameTranslation": "The Winnowing Winds",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 60
+			},
+			"numberInSurah": 41,
+			"juz": 27,
+			"manzil": 7,
+			"page": 522,
+			"ruku": 456,
+			"hizbQuarter": 209,
+			"sajda": false
+		},
+		{
+			"number": 4717,
+			"text": "مَا تَذَرُ مِنْ شَيْءٍ أَتَتْ عَلَيْهِ إِلَّا جَعَلَتْهُ كَالرَّمِيمِ",
+			"surah": {
+				"number": 51,
+				"name": "سُورَةُ الذَّارِيَاتِ",
+				"englishName": "Adh-Dhaariyat",
+				"englishNameTranslation": "The Winnowing Winds",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 60
+			},
+			"numberInSurah": 42,
+			"juz": 27,
+			"manzil": 7,
+			"page": 522,
+			"ruku": 456,
+			"hizbQuarter": 209,
+			"sajda": false
+		},
+		{
+			"number": 4718,
+			"text": "وَفِي ثَمُودَ إِذْ قِيلَ لَهُمْ تَمَتَّعُوا حَتَّىٰ حِينٍ",
+			"surah": {
+				"number": 51,
+				"name": "سُورَةُ الذَّارِيَاتِ",
+				"englishName": "Adh-Dhaariyat",
+				"englishNameTranslation": "The Winnowing Winds",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 60
+			},
+			"numberInSurah": 43,
+			"juz": 27,
+			"manzil": 7,
+			"page": 522,
+			"ruku": 456,
+			"hizbQuarter": 209,
+			"sajda": false
+		},
+		{
+			"number": 4719,
+			"text": "فَعَتَوْا عَنْ أَمْرِ رَبِّهِمْ فَأَخَذَتْهُمُ الصَّاعِقَةُ وَهُمْ يَنْظُرُونَ",
+			"surah": {
+				"number": 51,
+				"name": "سُورَةُ الذَّارِيَاتِ",
+				"englishName": "Adh-Dhaariyat",
+				"englishNameTranslation": "The Winnowing Winds",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 60
+			},
+			"numberInSurah": 44,
+			"juz": 27,
+			"manzil": 7,
+			"page": 522,
+			"ruku": 456,
+			"hizbQuarter": 209,
+			"sajda": false
+		},
+		{
+			"number": 4720,
+			"text": "فَمَا اسْتَطَاعُوا مِنْ قِيَامٍ وَمَا كَانُوا مُنْتَصِرِينَ",
+			"surah": {
+				"number": 51,
+				"name": "سُورَةُ الذَّارِيَاتِ",
+				"englishName": "Adh-Dhaariyat",
+				"englishNameTranslation": "The Winnowing Winds",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 60
+			},
+			"numberInSurah": 45,
+			"juz": 27,
+			"manzil": 7,
+			"page": 522,
+			"ruku": 456,
+			"hizbQuarter": 209,
+			"sajda": false
+		},
+		{
+			"number": 4721,
+			"text": "وَقَوْمَ نُوحٍ مِنْ قَبْلُ ۖ إِنَّهُمْ كَانُوا قَوْمًا فَاسِقِينَ",
+			"surah": {
+				"number": 51,
+				"name": "سُورَةُ الذَّارِيَاتِ",
+				"englishName": "Adh-Dhaariyat",
+				"englishNameTranslation": "The Winnowing Winds",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 60
+			},
+			"numberInSurah": 46,
+			"juz": 27,
+			"manzil": 7,
+			"page": 522,
+			"ruku": 456,
+			"hizbQuarter": 209,
+			"sajda": false
+		},
+		{
+			"number": 4722,
+			"text": "وَالسَّمَاءَ بَنَيْنَاهَا بِأَيْدٍ وَإِنَّا لَمُوسِعُونَ",
+			"surah": {
+				"number": 51,
+				"name": "سُورَةُ الذَّارِيَاتِ",
+				"englishName": "Adh-Dhaariyat",
+				"englishNameTranslation": "The Winnowing Winds",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 60
+			},
+			"numberInSurah": 47,
+			"juz": 27,
+			"manzil": 7,
+			"page": 522,
+			"ruku": 457,
+			"hizbQuarter": 209,
+			"sajda": false
+		},
+		{
+			"number": 4723,
+			"text": "وَالْأَرْضَ فَرَشْنَاهَا فَنِعْمَ الْمَاهِدُونَ",
+			"surah": {
+				"number": 51,
+				"name": "سُورَةُ الذَّارِيَاتِ",
+				"englishName": "Adh-Dhaariyat",
+				"englishNameTranslation": "The Winnowing Winds",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 60
+			},
+			"numberInSurah": 48,
+			"juz": 27,
+			"manzil": 7,
+			"page": 522,
+			"ruku": 457,
+			"hizbQuarter": 209,
+			"sajda": false
+		},
+		{
+			"number": 4724,
+			"text": "وَمِنْ كُلِّ شَيْءٍ خَلَقْنَا زَوْجَيْنِ لَعَلَّكُمْ تَذَكَّرُونَ",
+			"surah": {
+				"number": 51,
+				"name": "سُورَةُ الذَّارِيَاتِ",
+				"englishName": "Adh-Dhaariyat",
+				"englishNameTranslation": "The Winnowing Winds",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 60
+			},
+			"numberInSurah": 49,
+			"juz": 27,
+			"manzil": 7,
+			"page": 522,
+			"ruku": 457,
+			"hizbQuarter": 209,
+			"sajda": false
+		},
+		{
+			"number": 4725,
+			"text": "فَفِرُّوا إِلَى اللَّهِ ۖ إِنِّي لَكُمْ مِنْهُ نَذِيرٌ مُبِينٌ",
+			"surah": {
+				"number": 51,
+				"name": "سُورَةُ الذَّارِيَاتِ",
+				"englishName": "Adh-Dhaariyat",
+				"englishNameTranslation": "The Winnowing Winds",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 60
+			},
+			"numberInSurah": 50,
+			"juz": 27,
+			"manzil": 7,
+			"page": 522,
+			"ruku": 457,
+			"hizbQuarter": 209,
+			"sajda": false
+		},
+		{
+			"number": 4726,
+			"text": "وَلَا تَجْعَلُوا مَعَ اللَّهِ إِلَٰهًا آخَرَ ۖ إِنِّي لَكُمْ مِنْهُ نَذِيرٌ مُبِينٌ",
+			"surah": {
+				"number": 51,
+				"name": "سُورَةُ الذَّارِيَاتِ",
+				"englishName": "Adh-Dhaariyat",
+				"englishNameTranslation": "The Winnowing Winds",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 60
+			},
+			"numberInSurah": 51,
+			"juz": 27,
+			"manzil": 7,
+			"page": 522,
+			"ruku": 457,
+			"hizbQuarter": 209,
+			"sajda": false
+		}
+	],
+	"surahs": {
+		"51": {
+			"number": 51,
+			"name": "سُورَةُ الذَّارِيَاتِ",
+			"englishName": "Adh-Dhaariyat",
+			"englishNameTranslation": "The Winnowing Winds",
+			"revelationType": "Meccan",
+			"numberOfAyahs": 60
+		}
+	},
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

@@ -1,0 +1,450 @@
+﻿{
+	"number": 94,
+	"ayahs": [
+		{
+			"number": 1581,
+			"surah": {
+				"number": 11,
+				"name": "سُورَةُ هُودٍ",
+				"englishName": "Hud",
+				"englishNameTranslation": "Hud",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 123
+			},
+			"numberInSurah": 108,
+			"juz": 12,
+			"manzil": 3,
+			"page": 233,
+			"ruku": 191,
+			"hizbQuarter": 94,
+			"sajda": false,
+			"text": "وَأَمَّا الَّذِينَ سُعِدُوا فَفِي الْجَنَّةِ خَالِدِينَ فِيهَا مَا دَامَتِ السَّمَاوَاتُ وَالْأَرْضُ إِلَّا مَا شَاءَ رَبُّكَ ۖ عَطَاءً غَيْرَ مَجْذُوذٍ"
+		},
+		{
+			"number": 1582,
+			"surah": {
+				"number": 11,
+				"name": "سُورَةُ هُودٍ",
+				"englishName": "Hud",
+				"englishNameTranslation": "Hud",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 123
+			},
+			"numberInSurah": 109,
+			"juz": 12,
+			"manzil": 3,
+			"page": 234,
+			"ruku": 191,
+			"hizbQuarter": 94,
+			"sajda": false,
+			"text": "فَلَا تَكُ فِي مِرْيَةٍ مِّمَّا يَعْبُدُ هَٰؤُلَاءِ ۚ مَا يَعْبُدُونَ إِلَّا كَمَا يَعْبُدُ آبَاؤُهُم مِّن قَبْلُ ۚ وَإِنَّا لَمُوَفُّوهُمْ نَصِيبَهُمْ غَيْرَ مَنقُوصٍ"
+		},
+		{
+			"number": 1583,
+			"surah": {
+				"number": 11,
+				"name": "سُورَةُ هُودٍ",
+				"englishName": "Hud",
+				"englishNameTranslation": "Hud",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 123
+			},
+			"numberInSurah": 110,
+			"juz": 12,
+			"manzil": 3,
+			"page": 234,
+			"ruku": 192,
+			"hizbQuarter": 94,
+			"sajda": false,
+			"text": "وَلَقَدْ آتَيْنَا مُوسَى الْكِتَابَ فَاخْتُلِفَ فِيهِ ۚ وَلَوْلَا كَلِمَةٌ سَبَقَتْ مِن رَّبِّكَ لَقُضِيَ بَيْنَهُمْ ۚ وَإِنَّهُمْ لَفِي شَكٍّ مِّنْهُ مُرِيبٍ"
+		},
+		{
+			"number": 1584,
+			"surah": {
+				"number": 11,
+				"name": "سُورَةُ هُودٍ",
+				"englishName": "Hud",
+				"englishNameTranslation": "Hud",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 123
+			},
+			"numberInSurah": 111,
+			"juz": 12,
+			"manzil": 3,
+			"page": 234,
+			"ruku": 192,
+			"hizbQuarter": 94,
+			"sajda": false,
+			"text": "وَإِنَّ كُلًّا لَّمَّا لَيُوَفِّيَنَّهُمْ رَبُّكَ أَعْمَالَهُمْ ۚ إِنَّهُ بِمَا يَعْمَلُونَ خَبِيرٌ"
+		},
+		{
+			"number": 1585,
+			"surah": {
+				"number": 11,
+				"name": "سُورَةُ هُودٍ",
+				"englishName": "Hud",
+				"englishNameTranslation": "Hud",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 123
+			},
+			"numberInSurah": 112,
+			"juz": 12,
+			"manzil": 3,
+			"page": 234,
+			"ruku": 192,
+			"hizbQuarter": 94,
+			"sajda": false,
+			"text": "فَاسْتَقِمْ كَمَا أُمِرْتَ وَمَن تَابَ مَعَكَ وَلَا تَطْغَوْا ۚ إِنَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ"
+		},
+		{
+			"number": 1586,
+			"surah": {
+				"number": 11,
+				"name": "سُورَةُ هُودٍ",
+				"englishName": "Hud",
+				"englishNameTranslation": "Hud",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 123
+			},
+			"numberInSurah": 113,
+			"juz": 12,
+			"manzil": 3,
+			"page": 234,
+			"ruku": 192,
+			"hizbQuarter": 94,
+			"sajda": false,
+			"text": "وَلَا تَرْكَنُوا إِلَى الَّذِينَ ظَلَمُوا فَتَمَسَّكُمُ النَّارُ وَمَا لَكُم مِّن دُونِ اللَّهِ مِنْ أَوْلِيَاءَ ثُمَّ لَا تُنصَرُونَ"
+		},
+		{
+			"number": 1587,
+			"surah": {
+				"number": 11,
+				"name": "سُورَةُ هُودٍ",
+				"englishName": "Hud",
+				"englishNameTranslation": "Hud",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 123
+			},
+			"numberInSurah": 114,
+			"juz": 12,
+			"manzil": 3,
+			"page": 234,
+			"ruku": 192,
+			"hizbQuarter": 94,
+			"sajda": false,
+			"text": "وَأَقِمِ الصَّلَاةَ طَرَفَيِ النَّهَارِ وَزُلَفًا مِّنَ اللَّيْلِ ۚ إِنَّ الْحَسَنَاتِ يُذْهِبْنَ السَّيِّئَاتِ ۚ ذَٰلِكَ ذِكْرَىٰ لِلذَّاكِرِينَ"
+		},
+		{
+			"number": 1588,
+			"surah": {
+				"number": 11,
+				"name": "سُورَةُ هُودٍ",
+				"englishName": "Hud",
+				"englishNameTranslation": "Hud",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 123
+			},
+			"numberInSurah": 115,
+			"juz": 12,
+			"manzil": 3,
+			"page": 234,
+			"ruku": 192,
+			"hizbQuarter": 94,
+			"sajda": false,
+			"text": "وَاصْبِرْ فَإِنَّ اللَّهَ لَا يُضِيعُ أَجْرَ الْمُحْسِنِينَ"
+		},
+		{
+			"number": 1589,
+			"surah": {
+				"number": 11,
+				"name": "سُورَةُ هُودٍ",
+				"englishName": "Hud",
+				"englishNameTranslation": "Hud",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 123
+			},
+			"numberInSurah": 116,
+			"juz": 12,
+			"manzil": 3,
+			"page": 234,
+			"ruku": 192,
+			"hizbQuarter": 94,
+			"sajda": false,
+			"text": "فَلَوْلَا كَانَ مِنَ الْقُرُونِ مِن قَبْلِكُمْ أُولُو بَقِيَّةٍ يَنْهَوْنَ عَنِ الْفَسَادِ فِي الْأَرْضِ إِلَّا قَلِيلًا مِّمَّنْ أَنجَيْنَا مِنْهُمْ ۗ وَاتَّبَعَ الَّذِينَ ظَلَمُوا مَا أُتْرِفُوا فِيهِ وَكَانُوا مُجْرِمِينَ"
+		},
+		{
+			"number": 1590,
+			"surah": {
+				"number": 11,
+				"name": "سُورَةُ هُودٍ",
+				"englishName": "Hud",
+				"englishNameTranslation": "Hud",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 123
+			},
+			"numberInSurah": 117,
+			"juz": 12,
+			"manzil": 3,
+			"page": 234,
+			"ruku": 192,
+			"hizbQuarter": 94,
+			"sajda": false,
+			"text": "وَمَا كَانَ رَبُّكَ لِيُهْلِكَ الْقُرَىٰ بِظُلْمٍ وَأَهْلُهَا مُصْلِحُونَ"
+		},
+		{
+			"number": 1591,
+			"surah": {
+				"number": 11,
+				"name": "سُورَةُ هُودٍ",
+				"englishName": "Hud",
+				"englishNameTranslation": "Hud",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 123
+			},
+			"numberInSurah": 118,
+			"juz": 12,
+			"manzil": 3,
+			"page": 235,
+			"ruku": 192,
+			"hizbQuarter": 94,
+			"sajda": false,
+			"text": "وَلَوْ شَاءَ رَبُّكَ لَجَعَلَ النَّاسَ أُمَّةً وَاحِدَةً ۖ وَلَا يَزَالُونَ مُخْتَلِفِينَ"
+		},
+		{
+			"number": 1592,
+			"surah": {
+				"number": 11,
+				"name": "سُورَةُ هُودٍ",
+				"englishName": "Hud",
+				"englishNameTranslation": "Hud",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 123
+			},
+			"numberInSurah": 119,
+			"juz": 12,
+			"manzil": 3,
+			"page": 235,
+			"ruku": 192,
+			"hizbQuarter": 94,
+			"sajda": false,
+			"text": "إِلَّا مَن رَّحِمَ رَبُّكَ ۚ وَلِذَٰلِكَ خَلَقَهُمْ ۗ وَتَمَّتْ كَلِمَةُ رَبِّكَ لَأَمْلَأَنَّ جَهَنَّمَ مِنَ الْجِنَّةِ وَالنَّاسِ أَجْمَعِينَ"
+		},
+		{
+			"number": 1593,
+			"surah": {
+				"number": 11,
+				"name": "سُورَةُ هُودٍ",
+				"englishName": "Hud",
+				"englishNameTranslation": "Hud",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 123
+			},
+			"numberInSurah": 120,
+			"juz": 12,
+			"manzil": 3,
+			"page": 235,
+			"ruku": 192,
+			"hizbQuarter": 94,
+			"sajda": false,
+			"text": "وَكُلًّا نَّقُصُّ عَلَيْكَ مِنْ أَنبَاءِ الرُّسُلِ مَا نُثَبِّتُ بِهِ فُؤَادَكَ ۚ وَجَاءَكَ فِي هَٰذِهِ الْحَقُّ وَمَوْعِظَةٌ وَذِكْرَىٰ لِلْمُؤْمِنِينَ"
+		},
+		{
+			"number": 1594,
+			"surah": {
+				"number": 11,
+				"name": "سُورَةُ هُودٍ",
+				"englishName": "Hud",
+				"englishNameTranslation": "Hud",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 123
+			},
+			"numberInSurah": 121,
+			"juz": 12,
+			"manzil": 3,
+			"page": 235,
+			"ruku": 192,
+			"hizbQuarter": 94,
+			"sajda": false,
+			"text": "وَقُل لِّلَّذِينَ لَا يُؤْمِنُونَ اعْمَلُوا عَلَىٰ مَكَانَتِكُمْ إِنَّا عَامِلُونَ"
+		},
+		{
+			"number": 1595,
+			"surah": {
+				"number": 11,
+				"name": "سُورَةُ هُودٍ",
+				"englishName": "Hud",
+				"englishNameTranslation": "Hud",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 123
+			},
+			"numberInSurah": 122,
+			"juz": 12,
+			"manzil": 3,
+			"page": 235,
+			"ruku": 192,
+			"hizbQuarter": 94,
+			"sajda": false,
+			"text": "وَانتَظِرُوا إِنَّا مُنتَظِرُونَ"
+		},
+		{
+			"number": 1596,
+			"surah": {
+				"number": 11,
+				"name": "سُورَةُ هُودٍ",
+				"englishName": "Hud",
+				"englishNameTranslation": "Hud",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 123
+			},
+			"numberInSurah": 123,
+			"juz": 12,
+			"manzil": 3,
+			"page": 235,
+			"ruku": 192,
+			"hizbQuarter": 94,
+			"sajda": false,
+			"text": "وَلِلَّهِ غَيْبُ السَّمَاوَاتِ وَالْأَرْضِ وَإِلَيْهِ يُرْجَعُ الْأَمْرُ كُلُّهُ فَاعْبُدْهُ وَتَوَكَّلْ عَلَيْهِ ۚ وَمَا رَبُّكَ بِغَافِلٍ عَمَّا تَعْمَلُونَ"
+		},
+		{
+			"number": 1597,
+			"surah": {
+				"number": 12,
+				"name": "سُورَةُ يُوسُفَ",
+				"englishName": "Yusuf",
+				"englishNameTranslation": "Joseph",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 1,
+			"juz": 12,
+			"manzil": 3,
+			"page": 235,
+			"ruku": 193,
+			"hizbQuarter": 94,
+			"sajda": false,
+			"text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ الر ۚ تِلْكَ آيَاتُ الْكِتَابِ الْمُبِينِ"
+		},
+		{
+			"number": 1598,
+			"surah": {
+				"number": 12,
+				"name": "سُورَةُ يُوسُفَ",
+				"englishName": "Yusuf",
+				"englishNameTranslation": "Joseph",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 2,
+			"juz": 12,
+			"manzil": 3,
+			"page": 235,
+			"ruku": 193,
+			"hizbQuarter": 94,
+			"sajda": false,
+			"text": "إِنَّا أَنزَلْنَاهُ قُرْآنًا عَرَبِيًّا لَّعَلَّكُمْ تَعْقِلُونَ"
+		},
+		{
+			"number": 1599,
+			"surah": {
+				"number": 12,
+				"name": "سُورَةُ يُوسُفَ",
+				"englishName": "Yusuf",
+				"englishNameTranslation": "Joseph",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 3,
+			"juz": 12,
+			"manzil": 3,
+			"page": 235,
+			"ruku": 193,
+			"hizbQuarter": 94,
+			"sajda": false,
+			"text": "نَحْنُ نَقُصُّ عَلَيْكَ أَحْسَنَ الْقَصَصِ بِمَا أَوْحَيْنَا إِلَيْكَ هَٰذَا الْقُرْآنَ وَإِن كُنتَ مِن قَبْلِهِ لَمِنَ الْغَافِلِينَ"
+		},
+		{
+			"number": 1600,
+			"surah": {
+				"number": 12,
+				"name": "سُورَةُ يُوسُفَ",
+				"englishName": "Yusuf",
+				"englishNameTranslation": "Joseph",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 4,
+			"juz": 12,
+			"manzil": 3,
+			"page": 235,
+			"ruku": 193,
+			"hizbQuarter": 94,
+			"sajda": false,
+			"text": "إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَا أَبَتِ إِنِّي رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًا وَالشَّمْسَ وَالْقَمَرَ رَأَيْتُهُمْ لِي سَاجِدِينَ"
+		},
+		{
+			"number": 1601,
+			"surah": {
+				"number": 12,
+				"name": "سُورَةُ يُوسُفَ",
+				"englishName": "Yusuf",
+				"englishNameTranslation": "Joseph",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 5,
+			"juz": 12,
+			"manzil": 3,
+			"page": 236,
+			"ruku": 193,
+			"hizbQuarter": 94,
+			"sajda": false,
+			"text": "قَالَ يَا بُنَيَّ لَا تَقْصُصْ رُؤْيَاكَ عَلَىٰ إِخْوَتِكَ فَيَكِيدُوا لَكَ كَيْدًا ۖ إِنَّ الشَّيْطَانَ لِلْإِنسَانِ عَدُوٌّ مُّبِينٌ"
+		},
+		{
+			"number": 1602,
+			"surah": {
+				"number": 12,
+				"name": "سُورَةُ يُوسُفَ",
+				"englishName": "Yusuf",
+				"englishNameTranslation": "Joseph",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 6,
+			"juz": 12,
+			"manzil": 3,
+			"page": 236,
+			"ruku": 193,
+			"hizbQuarter": 94,
+			"sajda": false,
+			"text": "وَكَذَٰلِكَ يَجْتَبِيكَ رَبُّكَ وَيُعَلِّمُكَ مِن تَأْوِيلِ الْأَحَادِيثِ وَيُتِمُّ نِعْمَتَهُ عَلَيْكَ وَعَلَىٰ آلِ يَعْقُوبَ كَمَا أَتَمَّهَا عَلَىٰ أَبَوَيْكَ مِن قَبْلُ إِبْرَاهِيمَ وَإِسْحَاقَ ۚ إِنَّ رَبَّكَ عَلِيمٌ حَكِيمٌ"
+		}
+	],
+	"surahs": {
+		"11": {
+			"number": 11,
+			"name": "سُورَةُ هُودٍ",
+			"englishName": "Hud",
+			"englishNameTranslation": "Hud",
+			"revelationType": "Meccan",
+			"numberOfAyahs": 123
+		},
+		"12": {
+			"number": 12,
+			"name": "سُورَةُ يُوسُفَ",
+			"englishName": "Yusuf",
+			"englishNameTranslation": "Joseph",
+			"revelationType": "Meccan",
+			"numberOfAyahs": 111
+		}
+	},
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

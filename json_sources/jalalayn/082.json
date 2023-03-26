@@ -1,0 +1,228 @@
+﻿{
+	"number": 82,
+	"name": "سُورَةُ الانفِطَارِ",
+	"englishName": "Al-Infitaar",
+	"englishNameTranslation": "The Cleaving",
+	"revelationType": "Meccan",
+	"numberOfAyahs": 19,
+	"ayahs": [
+		{
+			"number": 5830,
+			"text": "«إذا السماء انفطرت» انشقت.",
+			"numberInSurah": 1,
+			"juz": 30,
+			"manzil": 7,
+			"page": 587,
+			"ruku": 524,
+			"hizbQuarter": 235,
+			"sajda": false
+		},
+		{
+			"number": 5831,
+			"text": "«وإذا الكواكب انتثرت» انقضت وتساقطت.",
+			"numberInSurah": 2,
+			"juz": 30,
+			"manzil": 7,
+			"page": 587,
+			"ruku": 524,
+			"hizbQuarter": 235,
+			"sajda": false
+		},
+		{
+			"number": 5832,
+			"text": "«وإذا البحار فُجِّرت» فتح بعضها في بعض فصارت بحرا واحدا واختلط العذب بالملح.",
+			"numberInSurah": 3,
+			"juz": 30,
+			"manzil": 7,
+			"page": 587,
+			"ruku": 524,
+			"hizbQuarter": 235,
+			"sajda": false
+		},
+		{
+			"number": 5833,
+			"text": "«وإذا القبور بُعثرت» قلب ترابها وبعث موتاها وجواب إذا وما عطف عليها.",
+			"numberInSurah": 4,
+			"juz": 30,
+			"manzil": 7,
+			"page": 587,
+			"ruku": 524,
+			"hizbQuarter": 235,
+			"sajda": false
+		},
+		{
+			"number": 5834,
+			"text": "«علمت نفس» أي كل نفس وقت هذه المذكورات وهو يوم القيامة «ما قدمت» من الأعمال «و» ما «أَخَّرت» منها فلم تعمله.",
+			"numberInSurah": 5,
+			"juz": 30,
+			"manzil": 7,
+			"page": 587,
+			"ruku": 524,
+			"hizbQuarter": 235,
+			"sajda": false
+		},
+		{
+			"number": 5835,
+			"text": "«يا أيها الإنسان» الكافر «ما غرَّك بربك الكريم» حتى عصيته.",
+			"numberInSurah": 6,
+			"juz": 30,
+			"manzil": 7,
+			"page": 587,
+			"ruku": 524,
+			"hizbQuarter": 235,
+			"sajda": false
+		},
+		{
+			"number": 5836,
+			"text": "«الذي خلقك» بعد أن لم تكن «فسوَّاك» جعلك مستوي الخلقة، سالم الأعضاء «فعدَلك» بالتخفيف والتشديد: جعلك معتدل الخلق متناسب الأعضاء ليست يد أو رجل أطول من الأخرى.",
+			"numberInSurah": 7,
+			"juz": 30,
+			"manzil": 7,
+			"page": 587,
+			"ruku": 524,
+			"hizbQuarter": 235,
+			"sajda": false
+		},
+		{
+			"number": 5837,
+			"text": "«في أي صورة ما» صلة «شاء ركَّبك».",
+			"numberInSurah": 8,
+			"juz": 30,
+			"manzil": 7,
+			"page": 587,
+			"ruku": 524,
+			"hizbQuarter": 235,
+			"sajda": false
+		},
+		{
+			"number": 5838,
+			"text": "«كلا» ردع عن الاغترار بكرم الله تعالى «بل تكذبون» أي كفار مكة «بالدين» بالجزاء على الأعمال.",
+			"numberInSurah": 9,
+			"juz": 30,
+			"manzil": 7,
+			"page": 587,
+			"ruku": 524,
+			"hizbQuarter": 235,
+			"sajda": false
+		},
+		{
+			"number": 5839,
+			"text": "«وإن عليكم لحافظين» من الملائكة لأعمالكم.",
+			"numberInSurah": 10,
+			"juz": 30,
+			"manzil": 7,
+			"page": 587,
+			"ruku": 524,
+			"hizbQuarter": 235,
+			"sajda": false
+		},
+		{
+			"number": 5840,
+			"text": "«كِراما» على الله «كاتبين» لها.",
+			"numberInSurah": 11,
+			"juz": 30,
+			"manzil": 7,
+			"page": 587,
+			"ruku": 524,
+			"hizbQuarter": 235,
+			"sajda": false
+		},
+		{
+			"number": 5841,
+			"text": "«يعلمون ما تفعلون» جميعه.",
+			"numberInSurah": 12,
+			"juz": 30,
+			"manzil": 7,
+			"page": 587,
+			"ruku": 524,
+			"hizbQuarter": 235,
+			"sajda": false
+		},
+		{
+			"number": 5842,
+			"text": "«إن الأبرار» المؤمنين الصادقين في إيمانهم «لفي نعيم» جنة.",
+			"numberInSurah": 13,
+			"juz": 30,
+			"manzil": 7,
+			"page": 587,
+			"ruku": 524,
+			"hizbQuarter": 235,
+			"sajda": false
+		},
+		{
+			"number": 5843,
+			"text": "«وإن الفجار الكفار «لفي جحيم» نار محرقة.",
+			"numberInSurah": 14,
+			"juz": 30,
+			"manzil": 7,
+			"page": 587,
+			"ruku": 524,
+			"hizbQuarter": 235,
+			"sajda": false
+		},
+		{
+			"number": 5844,
+			"text": "«يصلونها» يدخلونها ويقاسون حرَّها «يوم الدين» الجزاء.",
+			"numberInSurah": 15,
+			"juz": 30,
+			"manzil": 7,
+			"page": 587,
+			"ruku": 524,
+			"hizbQuarter": 235,
+			"sajda": false
+		},
+		{
+			"number": 5845,
+			"text": "«وما هم عنها بغائبين» بمخرجين.",
+			"numberInSurah": 16,
+			"juz": 30,
+			"manzil": 7,
+			"page": 587,
+			"ruku": 524,
+			"hizbQuarter": 235,
+			"sajda": false
+		},
+		{
+			"number": 5846,
+			"text": "«وما أدراك» أعلمك «ما يوم الدين».",
+			"numberInSurah": 17,
+			"juz": 30,
+			"manzil": 7,
+			"page": 587,
+			"ruku": 524,
+			"hizbQuarter": 235,
+			"sajda": false
+		},
+		{
+			"number": 5847,
+			"text": "«ثم ما أدراك ما يومُ الدين» تعظيم لشأنه.",
+			"numberInSurah": 18,
+			"juz": 30,
+			"manzil": 7,
+			"page": 587,
+			"ruku": 524,
+			"hizbQuarter": 235,
+			"sajda": false
+		},
+		{
+			"number": 5848,
+			"text": "«يوم» بالرفع، أي هو يوم «لا تملك نفس لنفس شيئا» من المنفعة «والأمر يومئذ لله» لا أمر لغيره فيه، أي لم يمكن أحدا من التوسط فيه بخلاف الدنيا.",
+			"numberInSurah": 19,
+			"juz": 30,
+			"manzil": 7,
+			"page": 587,
+			"ruku": 524,
+			"hizbQuarter": 235,
+			"sajda": false
+		}
+	],
+	"edition": {
+		"identifier": "ar.jalalayn",
+		"language": "ar",
+		"name": "تفسير الجلالين",
+		"englishName": "Jalal ad-Din al-Mahalli and Jalal ad-Din as-Suyuti",
+		"format": "text",
+		"type": "tafsir",
+		"direction": "rtl"
+	}
+}

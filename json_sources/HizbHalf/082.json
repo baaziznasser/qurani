@@ -1,0 +1,974 @@
+﻿{
+	"number": 41.5,
+	"ayahs": [
+		{
+			"number": 3440,
+			"text": "۞ مُنِيبِينَ إِلَيْهِ وَاتَّقُوهُ وَأَقِيمُوا الصَّلَاةَ وَلَا تَكُونُوا مِنَ الْمُشْرِكِينَ",
+			"surah": {
+				"number": 30,
+				"name": "سُورَةُ الرُّومِ",
+				"englishName": "Ar-Room",
+				"englishNameTranslation": "The Romans",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 60
+			},
+			"numberInSurah": 31,
+			"juz": 21,
+			"manzil": 5,
+			"page": 407,
+			"ruku": 352,
+			"hizbQuarter": 163,
+			"sajda": false
+		},
+		{
+			"number": 3441,
+			"text": "مِنَ الَّذِينَ فَرَّقُوا دِينَهُمْ وَكَانُوا شِيَعًا ۖ كُلُّ حِزْبٍ بِمَا لَدَيْهِمْ فَرِحُونَ",
+			"surah": {
+				"number": 30,
+				"name": "سُورَةُ الرُّومِ",
+				"englishName": "Ar-Room",
+				"englishNameTranslation": "The Romans",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 60
+			},
+			"numberInSurah": 32,
+			"juz": 21,
+			"manzil": 5,
+			"page": 407,
+			"ruku": 352,
+			"hizbQuarter": 163,
+			"sajda": false
+		},
+		{
+			"number": 3442,
+			"text": "وَإِذَا مَسَّ النَّاسَ ضُرٌّ دَعَوْا رَبَّهُمْ مُنِيبِينَ إِلَيْهِ ثُمَّ إِذَا أَذَاقَهُمْ مِنْهُ رَحْمَةً إِذَا فَرِيقٌ مِنْهُمْ بِرَبِّهِمْ يُشْرِكُونَ",
+			"surah": {
+				"number": 30,
+				"name": "سُورَةُ الرُّومِ",
+				"englishName": "Ar-Room",
+				"englishNameTranslation": "The Romans",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 60
+			},
+			"numberInSurah": 33,
+			"juz": 21,
+			"manzil": 5,
+			"page": 408,
+			"ruku": 352,
+			"hizbQuarter": 163,
+			"sajda": false
+		},
+		{
+			"number": 3443,
+			"text": "لِيَكْفُرُوا بِمَا آتَيْنَاهُمْ ۚ فَتَمَتَّعُوا فَسَوْفَ تَعْلَمُونَ",
+			"surah": {
+				"number": 30,
+				"name": "سُورَةُ الرُّومِ",
+				"englishName": "Ar-Room",
+				"englishNameTranslation": "The Romans",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 60
+			},
+			"numberInSurah": 34,
+			"juz": 21,
+			"manzil": 5,
+			"page": 408,
+			"ruku": 352,
+			"hizbQuarter": 163,
+			"sajda": false
+		},
+		{
+			"number": 3444,
+			"text": "أَمْ أَنْزَلْنَا عَلَيْهِمْ سُلْطَانًا فَهُوَ يَتَكَلَّمُ بِمَا كَانُوا بِهِ يُشْرِكُونَ",
+			"surah": {
+				"number": 30,
+				"name": "سُورَةُ الرُّومِ",
+				"englishName": "Ar-Room",
+				"englishNameTranslation": "The Romans",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 60
+			},
+			"numberInSurah": 35,
+			"juz": 21,
+			"manzil": 5,
+			"page": 408,
+			"ruku": 352,
+			"hizbQuarter": 163,
+			"sajda": false
+		},
+		{
+			"number": 3445,
+			"text": "وَإِذَا أَذَقْنَا النَّاسَ رَحْمَةً فَرِحُوا بِهَا ۖ وَإِنْ تُصِبْهُمْ سَيِّئَةٌ بِمَا قَدَّمَتْ أَيْدِيهِمْ إِذَا هُمْ يَقْنَطُونَ",
+			"surah": {
+				"number": 30,
+				"name": "سُورَةُ الرُّومِ",
+				"englishName": "Ar-Room",
+				"englishNameTranslation": "The Romans",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 60
+			},
+			"numberInSurah": 36,
+			"juz": 21,
+			"manzil": 5,
+			"page": 408,
+			"ruku": 352,
+			"hizbQuarter": 163,
+			"sajda": false
+		},
+		{
+			"number": 3446,
+			"text": "أَوَلَمْ يَرَوْا أَنَّ اللَّهَ يَبْسُطُ الرِّزْقَ لِمَنْ يَشَاءُ وَيَقْدِرُ ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِقَوْمٍ يُؤْمِنُونَ",
+			"surah": {
+				"number": 30,
+				"name": "سُورَةُ الرُّومِ",
+				"englishName": "Ar-Room",
+				"englishNameTranslation": "The Romans",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 60
+			},
+			"numberInSurah": 37,
+			"juz": 21,
+			"manzil": 5,
+			"page": 408,
+			"ruku": 352,
+			"hizbQuarter": 163,
+			"sajda": false
+		},
+		{
+			"number": 3447,
+			"text": "فَآتِ ذَا الْقُرْبَىٰ حَقَّهُ وَالْمِسْكِينَ وَابْنَ السَّبِيلِ ۚ ذَٰلِكَ خَيْرٌ لِلَّذِينَ يُرِيدُونَ وَجْهَ اللَّهِ ۖ وَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ",
+			"surah": {
+				"number": 30,
+				"name": "سُورَةُ الرُّومِ",
+				"englishName": "Ar-Room",
+				"englishNameTranslation": "The Romans",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 60
+			},
+			"numberInSurah": 38,
+			"juz": 21,
+			"manzil": 5,
+			"page": 408,
+			"ruku": 352,
+			"hizbQuarter": 163,
+			"sajda": false
+		},
+		{
+			"number": 3448,
+			"text": "وَمَا آتَيْتُمْ مِنْ رِبًا لِيَرْبُوَ فِي أَمْوَالِ النَّاسِ فَلَا يَرْبُو عِنْدَ اللَّهِ ۖ وَمَا آتَيْتُمْ مِنْ زَكَاةٍ تُرِيدُونَ وَجْهَ اللَّهِ فَأُولَٰئِكَ هُمُ الْمُضْعِفُونَ",
+			"surah": {
+				"number": 30,
+				"name": "سُورَةُ الرُّومِ",
+				"englishName": "Ar-Room",
+				"englishNameTranslation": "The Romans",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 60
+			},
+			"numberInSurah": 39,
+			"juz": 21,
+			"manzil": 5,
+			"page": 408,
+			"ruku": 352,
+			"hizbQuarter": 163,
+			"sajda": false
+		},
+		{
+			"number": 3449,
+			"text": "اللَّهُ الَّذِي خَلَقَكُمْ ثُمَّ رَزَقَكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ يُحْيِيكُمْ ۖ هَلْ مِنْ شُرَكَائِكُمْ مَنْ يَفْعَلُ مِنْ ذَٰلِكُمْ مِنْ شَيْءٍ ۚ سُبْحَانَهُ وَتَعَالَىٰ عَمَّا يُشْرِكُونَ",
+			"surah": {
+				"number": 30,
+				"name": "سُورَةُ الرُّومِ",
+				"englishName": "Ar-Room",
+				"englishNameTranslation": "The Romans",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 60
+			},
+			"numberInSurah": 40,
+			"juz": 21,
+			"manzil": 5,
+			"page": 408,
+			"ruku": 352,
+			"hizbQuarter": 163,
+			"sajda": false
+		},
+		{
+			"number": 3450,
+			"text": "ظَهَرَ الْفَسَادُ فِي الْبَرِّ وَالْبَحْرِ بِمَا كَسَبَتْ أَيْدِي النَّاسِ لِيُذِيقَهُمْ بَعْضَ الَّذِي عَمِلُوا لَعَلَّهُمْ يَرْجِعُونَ",
+			"surah": {
+				"number": 30,
+				"name": "سُورَةُ الرُّومِ",
+				"englishName": "Ar-Room",
+				"englishNameTranslation": "The Romans",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 60
+			},
+			"numberInSurah": 41,
+			"juz": 21,
+			"manzil": 5,
+			"page": 408,
+			"ruku": 353,
+			"hizbQuarter": 163,
+			"sajda": false
+		},
+		{
+			"number": 3451,
+			"text": "قُلْ سِيرُوا فِي الْأَرْضِ فَانْظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِنْ قَبْلُ ۚ كَانَ أَكْثَرُهُمْ مُشْرِكِينَ",
+			"surah": {
+				"number": 30,
+				"name": "سُورَةُ الرُّومِ",
+				"englishName": "Ar-Room",
+				"englishNameTranslation": "The Romans",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 60
+			},
+			"numberInSurah": 42,
+			"juz": 21,
+			"manzil": 5,
+			"page": 409,
+			"ruku": 353,
+			"hizbQuarter": 163,
+			"sajda": false
+		},
+		{
+			"number": 3452,
+			"text": "فَأَقِمْ وَجْهَكَ لِلدِّينِ الْقَيِّمِ مِنْ قَبْلِ أَنْ يَأْتِيَ يَوْمٌ لَا مَرَدَّ لَهُ مِنَ اللَّهِ ۖ يَوْمَئِذٍ يَصَّدَّعُونَ",
+			"surah": {
+				"number": 30,
+				"name": "سُورَةُ الرُّومِ",
+				"englishName": "Ar-Room",
+				"englishNameTranslation": "The Romans",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 60
+			},
+			"numberInSurah": 43,
+			"juz": 21,
+			"manzil": 5,
+			"page": 409,
+			"ruku": 353,
+			"hizbQuarter": 163,
+			"sajda": false
+		},
+		{
+			"number": 3453,
+			"text": "مَنْ كَفَرَ فَعَلَيْهِ كُفْرُهُ ۖ وَمَنْ عَمِلَ صَالِحًا فَلِأَنْفُسِهِمْ يَمْهَدُونَ",
+			"surah": {
+				"number": 30,
+				"name": "سُورَةُ الرُّومِ",
+				"englishName": "Ar-Room",
+				"englishNameTranslation": "The Romans",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 60
+			},
+			"numberInSurah": 44,
+			"juz": 21,
+			"manzil": 5,
+			"page": 409,
+			"ruku": 353,
+			"hizbQuarter": 163,
+			"sajda": false
+		},
+		{
+			"number": 3454,
+			"text": "لِيَجْزِيَ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ مِنْ فَضْلِهِ ۚ إِنَّهُ لَا يُحِبُّ الْكَافِرِينَ",
+			"surah": {
+				"number": 30,
+				"name": "سُورَةُ الرُّومِ",
+				"englishName": "Ar-Room",
+				"englishNameTranslation": "The Romans",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 60
+			},
+			"numberInSurah": 45,
+			"juz": 21,
+			"manzil": 5,
+			"page": 409,
+			"ruku": 353,
+			"hizbQuarter": 163,
+			"sajda": false
+		},
+		{
+			"number": 3455,
+			"text": "وَمِنْ آيَاتِهِ أَنْ يُرْسِلَ الرِّيَاحَ مُبَشِّرَاتٍ وَلِيُذِيقَكُمْ مِنْ رَحْمَتِهِ وَلِتَجْرِيَ الْفُلْكُ بِأَمْرِهِ وَلِتَبْتَغُوا مِنْ فَضْلِهِ وَلَعَلَّكُمْ تَشْكُرُونَ",
+			"surah": {
+				"number": 30,
+				"name": "سُورَةُ الرُّومِ",
+				"englishName": "Ar-Room",
+				"englishNameTranslation": "The Romans",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 60
+			},
+			"numberInSurah": 46,
+			"juz": 21,
+			"manzil": 5,
+			"page": 409,
+			"ruku": 353,
+			"hizbQuarter": 163,
+			"sajda": false
+		},
+		{
+			"number": 3456,
+			"text": "وَلَقَدْ أَرْسَلْنَا مِنْ قَبْلِكَ رُسُلًا إِلَىٰ قَوْمِهِمْ فَجَاءُوهُمْ بِالْبَيِّنَاتِ فَانْتَقَمْنَا مِنَ الَّذِينَ أَجْرَمُوا ۖ وَكَانَ حَقًّا عَلَيْنَا نَصْرُ الْمُؤْمِنِينَ",
+			"surah": {
+				"number": 30,
+				"name": "سُورَةُ الرُّومِ",
+				"englishName": "Ar-Room",
+				"englishNameTranslation": "The Romans",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 60
+			},
+			"numberInSurah": 47,
+			"juz": 21,
+			"manzil": 5,
+			"page": 409,
+			"ruku": 353,
+			"hizbQuarter": 163,
+			"sajda": false
+		},
+		{
+			"number": 3457,
+			"text": "اللَّهُ الَّذِي يُرْسِلُ الرِّيَاحَ فَتُثِيرُ سَحَابًا فَيَبْسُطُهُ فِي السَّمَاءِ كَيْفَ يَشَاءُ وَيَجْعَلُهُ كِسَفًا فَتَرَى الْوَدْقَ يَخْرُجُ مِنْ خِلَالِهِ ۖ فَإِذَا أَصَابَ بِهِ مَنْ يَشَاءُ مِنْ عِبَادِهِ إِذَا هُمْ يَسْتَبْشِرُونَ",
+			"surah": {
+				"number": 30,
+				"name": "سُورَةُ الرُّومِ",
+				"englishName": "Ar-Room",
+				"englishNameTranslation": "The Romans",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 60
+			},
+			"numberInSurah": 48,
+			"juz": 21,
+			"manzil": 5,
+			"page": 409,
+			"ruku": 353,
+			"hizbQuarter": 163,
+			"sajda": false
+		},
+		{
+			"number": 3458,
+			"text": "وَإِنْ كَانُوا مِنْ قَبْلِ أَنْ يُنَزَّلَ عَلَيْهِمْ مِنْ قَبْلِهِ لَمُبْلِسِينَ",
+			"surah": {
+				"number": 30,
+				"name": "سُورَةُ الرُّومِ",
+				"englishName": "Ar-Room",
+				"englishNameTranslation": "The Romans",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 60
+			},
+			"numberInSurah": 49,
+			"juz": 21,
+			"manzil": 5,
+			"page": 409,
+			"ruku": 353,
+			"hizbQuarter": 163,
+			"sajda": false
+		},
+		{
+			"number": 3459,
+			"text": "فَانْظُرْ إِلَىٰ آثَارِ رَحْمَتِ اللَّهِ كَيْفَ يُحْيِي الْأَرْضَ بَعْدَ مَوْتِهَا ۚ إِنَّ ذَٰلِكَ لَمُحْيِي الْمَوْتَىٰ ۖ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+			"surah": {
+				"number": 30,
+				"name": "سُورَةُ الرُّومِ",
+				"englishName": "Ar-Room",
+				"englishNameTranslation": "The Romans",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 60
+			},
+			"numberInSurah": 50,
+			"juz": 21,
+			"manzil": 5,
+			"page": 409,
+			"ruku": 353,
+			"hizbQuarter": 163,
+			"sajda": false
+		},
+		{
+			"number": 3460,
+			"text": "وَلَئِنْ أَرْسَلْنَا رِيحًا فَرَأَوْهُ مُصْفَرًّا لَظَلُّوا مِنْ بَعْدِهِ يَكْفُرُونَ",
+			"surah": {
+				"number": 30,
+				"name": "سُورَةُ الرُّومِ",
+				"englishName": "Ar-Room",
+				"englishNameTranslation": "The Romans",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 60
+			},
+			"numberInSurah": 51,
+			"juz": 21,
+			"manzil": 5,
+			"page": 410,
+			"ruku": 353,
+			"hizbQuarter": 163,
+			"sajda": false
+		},
+		{
+			"number": 3461,
+			"text": "فَإِنَّكَ لَا تُسْمِعُ الْمَوْتَىٰ وَلَا تُسْمِعُ الصُّمَّ الدُّعَاءَ إِذَا وَلَّوْا مُدْبِرِينَ",
+			"surah": {
+				"number": 30,
+				"name": "سُورَةُ الرُّومِ",
+				"englishName": "Ar-Room",
+				"englishNameTranslation": "The Romans",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 60
+			},
+			"numberInSurah": 52,
+			"juz": 21,
+			"manzil": 5,
+			"page": 410,
+			"ruku": 353,
+			"hizbQuarter": 163,
+			"sajda": false
+		},
+		{
+			"number": 3462,
+			"text": "وَمَا أَنْتَ بِهَادِ الْعُمْيِ عَنْ ضَلَالَتِهِمْ ۖ إِنْ تُسْمِعُ إِلَّا مَنْ يُؤْمِنُ بِآيَاتِنَا فَهُمْ مُسْلِمُونَ",
+			"surah": {
+				"number": 30,
+				"name": "سُورَةُ الرُّومِ",
+				"englishName": "Ar-Room",
+				"englishNameTranslation": "The Romans",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 60
+			},
+			"numberInSurah": 53,
+			"juz": 21,
+			"manzil": 5,
+			"page": 410,
+			"ruku": 353,
+			"hizbQuarter": 163,
+			"sajda": false
+		},
+		{
+			"number": 3463,
+			"text": "۞ اللَّهُ الَّذِي خَلَقَكُمْ مِنْ ضَعْفٍ ثُمَّ جَعَلَ مِنْ بَعْدِ ضَعْفٍ قُوَّةً ثُمَّ جَعَلَ مِنْ بَعْدِ قُوَّةٍ ضَعْفًا وَشَيْبَةً ۚ يَخْلُقُ مَا يَشَاءُ ۖ وَهُوَ الْعَلِيمُ الْقَدِيرُ",
+			"surah": {
+				"number": 30,
+				"name": "سُورَةُ الرُّومِ",
+				"englishName": "Ar-Room",
+				"englishNameTranslation": "The Romans",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 60
+			},
+			"numberInSurah": 54,
+			"juz": 21,
+			"manzil": 5,
+			"page": 410,
+			"ruku": 354,
+			"hizbQuarter": 164,
+			"sajda": false
+		},
+		{
+			"number": 3464,
+			"text": "وَيَوْمَ تَقُومُ السَّاعَةُ يُقْسِمُ الْمُجْرِمُونَ مَا لَبِثُوا غَيْرَ سَاعَةٍ ۚ كَذَٰلِكَ كَانُوا يُؤْفَكُونَ",
+			"surah": {
+				"number": 30,
+				"name": "سُورَةُ الرُّومِ",
+				"englishName": "Ar-Room",
+				"englishNameTranslation": "The Romans",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 60
+			},
+			"numberInSurah": 55,
+			"juz": 21,
+			"manzil": 5,
+			"page": 410,
+			"ruku": 354,
+			"hizbQuarter": 164,
+			"sajda": false
+		},
+		{
+			"number": 3465,
+			"text": "وَقَالَ الَّذِينَ أُوتُوا الْعِلْمَ وَالْإِيمَانَ لَقَدْ لَبِثْتُمْ فِي كِتَابِ اللَّهِ إِلَىٰ يَوْمِ الْبَعْثِ ۖ فَهَٰذَا يَوْمُ الْبَعْثِ وَلَٰكِنَّكُمْ كُنْتُمْ لَا تَعْلَمُونَ",
+			"surah": {
+				"number": 30,
+				"name": "سُورَةُ الرُّومِ",
+				"englishName": "Ar-Room",
+				"englishNameTranslation": "The Romans",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 60
+			},
+			"numberInSurah": 56,
+			"juz": 21,
+			"manzil": 5,
+			"page": 410,
+			"ruku": 354,
+			"hizbQuarter": 164,
+			"sajda": false
+		},
+		{
+			"number": 3466,
+			"text": "فَيَوْمَئِذٍ لَا يَنْفَعُ الَّذِينَ ظَلَمُوا مَعْذِرَتُهُمْ وَلَا هُمْ يُسْتَعْتَبُونَ",
+			"surah": {
+				"number": 30,
+				"name": "سُورَةُ الرُّومِ",
+				"englishName": "Ar-Room",
+				"englishNameTranslation": "The Romans",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 60
+			},
+			"numberInSurah": 57,
+			"juz": 21,
+			"manzil": 5,
+			"page": 410,
+			"ruku": 354,
+			"hizbQuarter": 164,
+			"sajda": false
+		},
+		{
+			"number": 3467,
+			"text": "وَلَقَدْ ضَرَبْنَا لِلنَّاسِ فِي هَٰذَا الْقُرْآنِ مِنْ كُلِّ مَثَلٍ ۚ وَلَئِنْ جِئْتَهُمْ بِآيَةٍ لَيَقُولَنَّ الَّذِينَ كَفَرُوا إِنْ أَنْتُمْ إِلَّا مُبْطِلُونَ",
+			"surah": {
+				"number": 30,
+				"name": "سُورَةُ الرُّومِ",
+				"englishName": "Ar-Room",
+				"englishNameTranslation": "The Romans",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 60
+			},
+			"numberInSurah": 58,
+			"juz": 21,
+			"manzil": 5,
+			"page": 410,
+			"ruku": 354,
+			"hizbQuarter": 164,
+			"sajda": false
+		},
+		{
+			"number": 3468,
+			"text": "كَذَٰلِكَ يَطْبَعُ اللَّهُ عَلَىٰ قُلُوبِ الَّذِينَ لَا يَعْلَمُونَ",
+			"surah": {
+				"number": 30,
+				"name": "سُورَةُ الرُّومِ",
+				"englishName": "Ar-Room",
+				"englishNameTranslation": "The Romans",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 60
+			},
+			"numberInSurah": 59,
+			"juz": 21,
+			"manzil": 5,
+			"page": 410,
+			"ruku": 354,
+			"hizbQuarter": 164,
+			"sajda": false
+		},
+		{
+			"number": 3469,
+			"text": "فَاصْبِرْ إِنَّ وَعْدَ اللَّهِ حَقٌّ ۖ وَلَا يَسْتَخِفَّنَّكَ الَّذِينَ لَا يُوقِنُونَ",
+			"surah": {
+				"number": 30,
+				"name": "سُورَةُ الرُّومِ",
+				"englishName": "Ar-Room",
+				"englishNameTranslation": "The Romans",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 60
+			},
+			"numberInSurah": 60,
+			"juz": 21,
+			"manzil": 5,
+			"page": 410,
+			"ruku": 354,
+			"hizbQuarter": 164,
+			"sajda": false
+		},
+		{
+			"number": 3470,
+			"text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ الم",
+			"surah": {
+				"number": 31,
+				"name": "سُورَةُ لُقۡمَانَ",
+				"englishName": "Luqman",
+				"englishNameTranslation": "Luqman",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 34
+			},
+			"numberInSurah": 1,
+			"juz": 21,
+			"manzil": 5,
+			"page": 411,
+			"ruku": 355,
+			"hizbQuarter": 164,
+			"sajda": false
+		},
+		{
+			"number": 3471,
+			"text": "تِلْكَ آيَاتُ الْكِتَابِ الْحَكِيمِ",
+			"surah": {
+				"number": 31,
+				"name": "سُورَةُ لُقۡمَانَ",
+				"englishName": "Luqman",
+				"englishNameTranslation": "Luqman",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 34
+			},
+			"numberInSurah": 2,
+			"juz": 21,
+			"manzil": 5,
+			"page": 411,
+			"ruku": 355,
+			"hizbQuarter": 164,
+			"sajda": false
+		},
+		{
+			"number": 3472,
+			"text": "هُدًى وَرَحْمَةً لِلْمُحْسِنِينَ",
+			"surah": {
+				"number": 31,
+				"name": "سُورَةُ لُقۡمَانَ",
+				"englishName": "Luqman",
+				"englishNameTranslation": "Luqman",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 34
+			},
+			"numberInSurah": 3,
+			"juz": 21,
+			"manzil": 5,
+			"page": 411,
+			"ruku": 355,
+			"hizbQuarter": 164,
+			"sajda": false
+		},
+		{
+			"number": 3473,
+			"text": "الَّذِينَ يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ بِالْآخِرَةِ هُمْ يُوقِنُونَ",
+			"surah": {
+				"number": 31,
+				"name": "سُورَةُ لُقۡمَانَ",
+				"englishName": "Luqman",
+				"englishNameTranslation": "Luqman",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 34
+			},
+			"numberInSurah": 4,
+			"juz": 21,
+			"manzil": 5,
+			"page": 411,
+			"ruku": 355,
+			"hizbQuarter": 164,
+			"sajda": false
+		},
+		{
+			"number": 3474,
+			"text": "أُولَٰئِكَ عَلَىٰ هُدًى مِنْ رَبِّهِمْ ۖ وَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ",
+			"surah": {
+				"number": 31,
+				"name": "سُورَةُ لُقۡمَانَ",
+				"englishName": "Luqman",
+				"englishNameTranslation": "Luqman",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 34
+			},
+			"numberInSurah": 5,
+			"juz": 21,
+			"manzil": 5,
+			"page": 411,
+			"ruku": 355,
+			"hizbQuarter": 164,
+			"sajda": false
+		},
+		{
+			"number": 3475,
+			"text": "وَمِنَ النَّاسِ مَنْ يَشْتَرِي لَهْوَ الْحَدِيثِ لِيُضِلَّ عَنْ سَبِيلِ اللَّهِ بِغَيْرِ عِلْمٍ وَيَتَّخِذَهَا هُزُوًا ۚ أُولَٰئِكَ لَهُمْ عَذَابٌ مُهِينٌ",
+			"surah": {
+				"number": 31,
+				"name": "سُورَةُ لُقۡمَانَ",
+				"englishName": "Luqman",
+				"englishNameTranslation": "Luqman",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 34
+			},
+			"numberInSurah": 6,
+			"juz": 21,
+			"manzil": 5,
+			"page": 411,
+			"ruku": 355,
+			"hizbQuarter": 164,
+			"sajda": false
+		},
+		{
+			"number": 3476,
+			"text": "وَإِذَا تُتْلَىٰ عَلَيْهِ آيَاتُنَا وَلَّىٰ مُسْتَكْبِرًا كَأَنْ لَمْ يَسْمَعْهَا كَأَنَّ فِي أُذُنَيْهِ وَقْرًا ۖ فَبَشِّرْهُ بِعَذَابٍ أَلِيمٍ",
+			"surah": {
+				"number": 31,
+				"name": "سُورَةُ لُقۡمَانَ",
+				"englishName": "Luqman",
+				"englishNameTranslation": "Luqman",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 34
+			},
+			"numberInSurah": 7,
+			"juz": 21,
+			"manzil": 5,
+			"page": 411,
+			"ruku": 355,
+			"hizbQuarter": 164,
+			"sajda": false
+		},
+		{
+			"number": 3477,
+			"text": "إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ جَنَّاتُ النَّعِيمِ",
+			"surah": {
+				"number": 31,
+				"name": "سُورَةُ لُقۡمَانَ",
+				"englishName": "Luqman",
+				"englishNameTranslation": "Luqman",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 34
+			},
+			"numberInSurah": 8,
+			"juz": 21,
+			"manzil": 5,
+			"page": 411,
+			"ruku": 355,
+			"hizbQuarter": 164,
+			"sajda": false
+		},
+		{
+			"number": 3478,
+			"text": "خَالِدِينَ فِيهَا ۖ وَعْدَ اللَّهِ حَقًّا ۚ وَهُوَ الْعَزِيزُ الْحَكِيمُ",
+			"surah": {
+				"number": 31,
+				"name": "سُورَةُ لُقۡمَانَ",
+				"englishName": "Luqman",
+				"englishNameTranslation": "Luqman",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 34
+			},
+			"numberInSurah": 9,
+			"juz": 21,
+			"manzil": 5,
+			"page": 411,
+			"ruku": 355,
+			"hizbQuarter": 164,
+			"sajda": false
+		},
+		{
+			"number": 3479,
+			"text": "خَلَقَ السَّمَاوَاتِ بِغَيْرِ عَمَدٍ تَرَوْنَهَا ۖ وَأَلْقَىٰ فِي الْأَرْضِ رَوَاسِيَ أَنْ تَمِيدَ بِكُمْ وَبَثَّ فِيهَا مِنْ كُلِّ دَابَّةٍ ۚ وَأَنْزَلْنَا مِنَ السَّمَاءِ مَاءً فَأَنْبَتْنَا فِيهَا مِنْ كُلِّ زَوْجٍ كَرِيمٍ",
+			"surah": {
+				"number": 31,
+				"name": "سُورَةُ لُقۡمَانَ",
+				"englishName": "Luqman",
+				"englishNameTranslation": "Luqman",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 34
+			},
+			"numberInSurah": 10,
+			"juz": 21,
+			"manzil": 5,
+			"page": 411,
+			"ruku": 355,
+			"hizbQuarter": 164,
+			"sajda": false
+		},
+		{
+			"number": 3480,
+			"text": "هَٰذَا خَلْقُ اللَّهِ فَأَرُونِي مَاذَا خَلَقَ الَّذِينَ مِنْ دُونِهِ ۚ بَلِ الظَّالِمُونَ فِي ضَلَالٍ مُبِينٍ",
+			"surah": {
+				"number": 31,
+				"name": "سُورَةُ لُقۡمَانَ",
+				"englishName": "Luqman",
+				"englishNameTranslation": "Luqman",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 34
+			},
+			"numberInSurah": 11,
+			"juz": 21,
+			"manzil": 5,
+			"page": 411,
+			"ruku": 355,
+			"hizbQuarter": 164,
+			"sajda": false
+		},
+		{
+			"number": 3481,
+			"text": "وَلَقَدْ آتَيْنَا لُقْمَانَ الْحِكْمَةَ أَنِ اشْكُرْ لِلَّهِ ۚ وَمَنْ يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِ ۖ وَمَنْ كَفَرَ فَإِنَّ اللَّهَ غَنِيٌّ حَمِيدٌ",
+			"surah": {
+				"number": 31,
+				"name": "سُورَةُ لُقۡمَانَ",
+				"englishName": "Luqman",
+				"englishNameTranslation": "Luqman",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 34
+			},
+			"numberInSurah": 12,
+			"juz": 21,
+			"manzil": 5,
+			"page": 412,
+			"ruku": 356,
+			"hizbQuarter": 164,
+			"sajda": false
+		},
+		{
+			"number": 3482,
+			"text": "وَإِذْ قَالَ لُقْمَانُ لِابْنِهِ وَهُوَ يَعِظُهُ يَا بُنَيَّ لَا تُشْرِكْ بِاللَّهِ ۖ إِنَّ الشِّرْكَ لَظُلْمٌ عَظِيمٌ",
+			"surah": {
+				"number": 31,
+				"name": "سُورَةُ لُقۡمَانَ",
+				"englishName": "Luqman",
+				"englishNameTranslation": "Luqman",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 34
+			},
+			"numberInSurah": 13,
+			"juz": 21,
+			"manzil": 5,
+			"page": 412,
+			"ruku": 356,
+			"hizbQuarter": 164,
+			"sajda": false
+		},
+		{
+			"number": 3483,
+			"text": "وَوَصَّيْنَا الْإِنْسَانَ بِوَالِدَيْهِ حَمَلَتْهُ أُمُّهُ وَهْنًا عَلَىٰ وَهْنٍ وَفِصَالُهُ فِي عَامَيْنِ أَنِ اشْكُرْ لِي وَلِوَالِدَيْكَ إِلَيَّ الْمَصِيرُ",
+			"surah": {
+				"number": 31,
+				"name": "سُورَةُ لُقۡمَانَ",
+				"englishName": "Luqman",
+				"englishNameTranslation": "Luqman",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 34
+			},
+			"numberInSurah": 14,
+			"juz": 21,
+			"manzil": 5,
+			"page": 412,
+			"ruku": 356,
+			"hizbQuarter": 164,
+			"sajda": false
+		},
+		{
+			"number": 3484,
+			"text": "وَإِنْ جَاهَدَاكَ عَلَىٰ أَنْ تُشْرِكَ بِي مَا لَيْسَ لَكَ بِهِ عِلْمٌ فَلَا تُطِعْهُمَا ۖ وَصَاحِبْهُمَا فِي الدُّنْيَا مَعْرُوفًا ۖ وَاتَّبِعْ سَبِيلَ مَنْ أَنَابَ إِلَيَّ ۚ ثُمَّ إِلَيَّ مَرْجِعُكُمْ فَأُنَبِّئُكُمْ بِمَا كُنْتُمْ تَعْمَلُونَ",
+			"surah": {
+				"number": 31,
+				"name": "سُورَةُ لُقۡمَانَ",
+				"englishName": "Luqman",
+				"englishNameTranslation": "Luqman",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 34
+			},
+			"numberInSurah": 15,
+			"juz": 21,
+			"manzil": 5,
+			"page": 412,
+			"ruku": 356,
+			"hizbQuarter": 164,
+			"sajda": false
+		},
+		{
+			"number": 3485,
+			"text": "يَا بُنَيَّ إِنَّهَا إِنْ تَكُ مِثْقَالَ حَبَّةٍ مِنْ خَرْدَلٍ فَتَكُنْ فِي صَخْرَةٍ أَوْ فِي السَّمَاوَاتِ أَوْ فِي الْأَرْضِ يَأْتِ بِهَا اللَّهُ ۚ إِنَّ اللَّهَ لَطِيفٌ خَبِيرٌ",
+			"surah": {
+				"number": 31,
+				"name": "سُورَةُ لُقۡمَانَ",
+				"englishName": "Luqman",
+				"englishNameTranslation": "Luqman",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 34
+			},
+			"numberInSurah": 16,
+			"juz": 21,
+			"manzil": 5,
+			"page": 412,
+			"ruku": 356,
+			"hizbQuarter": 164,
+			"sajda": false
+		},
+		{
+			"number": 3486,
+			"text": "يَا بُنَيَّ أَقِمِ الصَّلَاةَ وَأْمُرْ بِالْمَعْرُوفِ وَانْهَ عَنِ الْمُنْكَرِ وَاصْبِرْ عَلَىٰ مَا أَصَابَكَ ۖ إِنَّ ذَٰلِكَ مِنْ عَزْمِ الْأُمُورِ",
+			"surah": {
+				"number": 31,
+				"name": "سُورَةُ لُقۡمَانَ",
+				"englishName": "Luqman",
+				"englishNameTranslation": "Luqman",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 34
+			},
+			"numberInSurah": 17,
+			"juz": 21,
+			"manzil": 5,
+			"page": 412,
+			"ruku": 356,
+			"hizbQuarter": 164,
+			"sajda": false
+		},
+		{
+			"number": 3487,
+			"text": "وَلَا تُصَعِّرْ خَدَّكَ لِلنَّاسِ وَلَا تَمْشِ فِي الْأَرْضِ مَرَحًا ۖ إِنَّ اللَّهَ لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ",
+			"surah": {
+				"number": 31,
+				"name": "سُورَةُ لُقۡمَانَ",
+				"englishName": "Luqman",
+				"englishNameTranslation": "Luqman",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 34
+			},
+			"numberInSurah": 18,
+			"juz": 21,
+			"manzil": 5,
+			"page": 412,
+			"ruku": 356,
+			"hizbQuarter": 164,
+			"sajda": false
+		},
+		{
+			"number": 3488,
+			"text": "وَاقْصِدْ فِي مَشْيِكَ وَاغْضُضْ مِنْ صَوْتِكَ ۚ إِنَّ أَنْكَرَ الْأَصْوَاتِ لَصَوْتُ الْحَمِيرِ",
+			"surah": {
+				"number": 31,
+				"name": "سُورَةُ لُقۡمَانَ",
+				"englishName": "Luqman",
+				"englishNameTranslation": "Luqman",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 34
+			},
+			"numberInSurah": 19,
+			"juz": 21,
+			"manzil": 5,
+			"page": 412,
+			"ruku": 356,
+			"hizbQuarter": 164,
+			"sajda": false
+		},
+		{
+			"number": 3489,
+			"text": "أَلَمْ تَرَوْا أَنَّ اللَّهَ سَخَّرَ لَكُمْ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَأَسْبَغَ عَلَيْكُمْ نِعَمَهُ ظَاهِرَةً وَبَاطِنَةً ۗ وَمِنَ النَّاسِ مَنْ يُجَادِلُ فِي اللَّهِ بِغَيْرِ عِلْمٍ وَلَا هُدًى وَلَا كِتَابٍ مُنِيرٍ",
+			"surah": {
+				"number": 31,
+				"name": "سُورَةُ لُقۡمَانَ",
+				"englishName": "Luqman",
+				"englishNameTranslation": "Luqman",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 34
+			},
+			"numberInSurah": 20,
+			"juz": 21,
+			"manzil": 5,
+			"page": 413,
+			"ruku": 357,
+			"hizbQuarter": 164,
+			"sajda": false
+		},
+		{
+			"number": 3490,
+			"text": "وَإِذَا قِيلَ لَهُمُ اتَّبِعُوا مَا أَنْزَلَ اللَّهُ قَالُوا بَلْ نَتَّبِعُ مَا وَجَدْنَا عَلَيْهِ آبَاءَنَا ۚ أَوَلَوْ كَانَ الشَّيْطَانُ يَدْعُوهُمْ إِلَىٰ عَذَابِ السَّعِيرِ",
+			"surah": {
+				"number": 31,
+				"name": "سُورَةُ لُقۡمَانَ",
+				"englishName": "Luqman",
+				"englishNameTranslation": "Luqman",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 34
+			},
+			"numberInSurah": 21,
+			"juz": 21,
+			"manzil": 5,
+			"page": 413,
+			"ruku": 357,
+			"hizbQuarter": 164,
+			"sajda": false
+		}
+	]
+}

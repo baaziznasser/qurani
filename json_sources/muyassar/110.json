@@ -1,0 +1,52 @@
+﻿{
+	"number": 110,
+	"name": "سُورَةُ النَّصۡرِ",
+	"englishName": "An-Nasr",
+	"englishNameTranslation": "Divine Support",
+	"revelationType": "Medinan",
+	"numberOfAyahs": 3,
+	"ayahs": [
+		{
+			"number": 6214,
+			"text": "إذا تمَّ لك -أيها الرسول- النصر على كفار قريش، وتم لك فتح \"مكة\".",
+			"numberInSurah": 1,
+			"juz": 30,
+			"manzil": 7,
+			"page": 603,
+			"ruku": 552,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6215,
+			"text": "ورأيت الكثير من الناس يدخلون في الإسلام جماعات جماعات.",
+			"numberInSurah": 2,
+			"juz": 30,
+			"manzil": 7,
+			"page": 603,
+			"ruku": 552,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6216,
+			"text": "إذا وقع ذلك فتهيأ للقاء ربك بالإكثار من التسبيح بحمده والإكثار من استغفاره، إنه كان توابًا على المسبحين والمستغفرين، يتوب عليهم ويرحمهم ويقبل توبتهم.",
+			"numberInSurah": 3,
+			"juz": 30,
+			"manzil": 7,
+			"page": 603,
+			"ruku": 552,
+			"hizbQuarter": 240,
+			"sajda": false
+		}
+	],
+	"edition": {
+		"identifier": "ar.muyassar",
+		"language": "ar",
+		"name": "تفسير المیسر",
+		"englishName": "King Fahad Quran Complex",
+		"format": "text",
+		"type": "tafsir",
+		"direction": "rtl"
+	}
+}

@@ -1,0 +1,499 @@
+﻿{
+	"number": 313,
+	"ayahs": [
+		{
+			"number": 2361,
+			"text": "وَأَنَا اخْتَرْتُكَ فَاسْتَمِعْ لِمَا يُوحَىٰ",
+			"surah": {
+				"number": 20,
+				"name": "سُورَةُ طه",
+				"englishName": "Taa-Haa",
+				"englishNameTranslation": "Taa-Haa",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 135
+			},
+			"numberInSurah": 13,
+			"juz": 16,
+			"manzil": 4,
+			"page": 313,
+			"ruku": 270,
+			"hizbQuarter": 125,
+			"sajda": false
+		},
+		{
+			"number": 2362,
+			"text": "إِنَّنِي أَنَا اللَّهُ لَا إِلَٰهَ إِلَّا أَنَا فَاعْبُدْنِي وَأَقِمِ الصَّلَاةَ لِذِكْرِي",
+			"surah": {
+				"number": 20,
+				"name": "سُورَةُ طه",
+				"englishName": "Taa-Haa",
+				"englishNameTranslation": "Taa-Haa",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 135
+			},
+			"numberInSurah": 14,
+			"juz": 16,
+			"manzil": 4,
+			"page": 313,
+			"ruku": 270,
+			"hizbQuarter": 125,
+			"sajda": false
+		},
+		{
+			"number": 2363,
+			"text": "إِنَّ السَّاعَةَ آتِيَةٌ أَكَادُ أُخْفِيهَا لِتُجْزَىٰ كُلُّ نَفْسٍ بِمَا تَسْعَىٰ",
+			"surah": {
+				"number": 20,
+				"name": "سُورَةُ طه",
+				"englishName": "Taa-Haa",
+				"englishNameTranslation": "Taa-Haa",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 135
+			},
+			"numberInSurah": 15,
+			"juz": 16,
+			"manzil": 4,
+			"page": 313,
+			"ruku": 270,
+			"hizbQuarter": 125,
+			"sajda": false
+		},
+		{
+			"number": 2364,
+			"text": "فَلَا يَصُدَّنَّكَ عَنْهَا مَنْ لَا يُؤْمِنُ بِهَا وَاتَّبَعَ هَوَاهُ فَتَرْدَىٰ",
+			"surah": {
+				"number": 20,
+				"name": "سُورَةُ طه",
+				"englishName": "Taa-Haa",
+				"englishNameTranslation": "Taa-Haa",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 135
+			},
+			"numberInSurah": 16,
+			"juz": 16,
+			"manzil": 4,
+			"page": 313,
+			"ruku": 270,
+			"hizbQuarter": 125,
+			"sajda": false
+		},
+		{
+			"number": 2365,
+			"text": "وَمَا تِلْكَ بِيَمِينِكَ يَا مُوسَىٰ",
+			"surah": {
+				"number": 20,
+				"name": "سُورَةُ طه",
+				"englishName": "Taa-Haa",
+				"englishNameTranslation": "Taa-Haa",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 135
+			},
+			"numberInSurah": 17,
+			"juz": 16,
+			"manzil": 4,
+			"page": 313,
+			"ruku": 270,
+			"hizbQuarter": 125,
+			"sajda": false
+		},
+		{
+			"number": 2366,
+			"text": "قَالَ هِيَ عَصَايَ أَتَوَكَّأُ عَلَيْهَا وَأَهُشُّ بِهَا عَلَىٰ غَنَمِي وَلِيَ فِيهَا مَآرِبُ أُخْرَىٰ",
+			"surah": {
+				"number": 20,
+				"name": "سُورَةُ طه",
+				"englishName": "Taa-Haa",
+				"englishNameTranslation": "Taa-Haa",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 135
+			},
+			"numberInSurah": 18,
+			"juz": 16,
+			"manzil": 4,
+			"page": 313,
+			"ruku": 270,
+			"hizbQuarter": 125,
+			"sajda": false
+		},
+		{
+			"number": 2367,
+			"text": "قَالَ أَلْقِهَا يَا مُوسَىٰ",
+			"surah": {
+				"number": 20,
+				"name": "سُورَةُ طه",
+				"englishName": "Taa-Haa",
+				"englishNameTranslation": "Taa-Haa",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 135
+			},
+			"numberInSurah": 19,
+			"juz": 16,
+			"manzil": 4,
+			"page": 313,
+			"ruku": 270,
+			"hizbQuarter": 125,
+			"sajda": false
+		},
+		{
+			"number": 2368,
+			"text": "فَأَلْقَاهَا فَإِذَا هِيَ حَيَّةٌ تَسْعَىٰ",
+			"surah": {
+				"number": 20,
+				"name": "سُورَةُ طه",
+				"englishName": "Taa-Haa",
+				"englishNameTranslation": "Taa-Haa",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 135
+			},
+			"numberInSurah": 20,
+			"juz": 16,
+			"manzil": 4,
+			"page": 313,
+			"ruku": 270,
+			"hizbQuarter": 125,
+			"sajda": false
+		},
+		{
+			"number": 2369,
+			"text": "قَالَ خُذْهَا وَلَا تَخَفْ ۖ سَنُعِيدُهَا سِيرَتَهَا الْأُولَىٰ",
+			"surah": {
+				"number": 20,
+				"name": "سُورَةُ طه",
+				"englishName": "Taa-Haa",
+				"englishNameTranslation": "Taa-Haa",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 135
+			},
+			"numberInSurah": 21,
+			"juz": 16,
+			"manzil": 4,
+			"page": 313,
+			"ruku": 270,
+			"hizbQuarter": 125,
+			"sajda": false
+		},
+		{
+			"number": 2370,
+			"text": "وَاضْمُمْ يَدَكَ إِلَىٰ جَنَاحِكَ تَخْرُجْ بَيْضَاءَ مِنْ غَيْرِ سُوءٍ آيَةً أُخْرَىٰ",
+			"surah": {
+				"number": 20,
+				"name": "سُورَةُ طه",
+				"englishName": "Taa-Haa",
+				"englishNameTranslation": "Taa-Haa",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 135
+			},
+			"numberInSurah": 22,
+			"juz": 16,
+			"manzil": 4,
+			"page": 313,
+			"ruku": 270,
+			"hizbQuarter": 125,
+			"sajda": false
+		},
+		{
+			"number": 2371,
+			"text": "لِنُرِيَكَ مِنْ آيَاتِنَا الْكُبْرَى",
+			"surah": {
+				"number": 20,
+				"name": "سُورَةُ طه",
+				"englishName": "Taa-Haa",
+				"englishNameTranslation": "Taa-Haa",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 135
+			},
+			"numberInSurah": 23,
+			"juz": 16,
+			"manzil": 4,
+			"page": 313,
+			"ruku": 270,
+			"hizbQuarter": 125,
+			"sajda": false
+		},
+		{
+			"number": 2372,
+			"text": "اذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُ طَغَىٰ",
+			"surah": {
+				"number": 20,
+				"name": "سُورَةُ طه",
+				"englishName": "Taa-Haa",
+				"englishNameTranslation": "Taa-Haa",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 135
+			},
+			"numberInSurah": 24,
+			"juz": 16,
+			"manzil": 4,
+			"page": 313,
+			"ruku": 270,
+			"hizbQuarter": 125,
+			"sajda": false
+		},
+		{
+			"number": 2373,
+			"text": "قَالَ رَبِّ اشْرَحْ لِي صَدْرِي",
+			"surah": {
+				"number": 20,
+				"name": "سُورَةُ طه",
+				"englishName": "Taa-Haa",
+				"englishNameTranslation": "Taa-Haa",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 135
+			},
+			"numberInSurah": 25,
+			"juz": 16,
+			"manzil": 4,
+			"page": 313,
+			"ruku": 271,
+			"hizbQuarter": 125,
+			"sajda": false
+		},
+		{
+			"number": 2374,
+			"text": "وَيَسِّرْ لِي أَمْرِي",
+			"surah": {
+				"number": 20,
+				"name": "سُورَةُ طه",
+				"englishName": "Taa-Haa",
+				"englishNameTranslation": "Taa-Haa",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 135
+			},
+			"numberInSurah": 26,
+			"juz": 16,
+			"manzil": 4,
+			"page": 313,
+			"ruku": 271,
+			"hizbQuarter": 125,
+			"sajda": false
+		},
+		{
+			"number": 2375,
+			"text": "وَاحْلُلْ عُقْدَةً مِنْ لِسَانِي",
+			"surah": {
+				"number": 20,
+				"name": "سُورَةُ طه",
+				"englishName": "Taa-Haa",
+				"englishNameTranslation": "Taa-Haa",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 135
+			},
+			"numberInSurah": 27,
+			"juz": 16,
+			"manzil": 4,
+			"page": 313,
+			"ruku": 271,
+			"hizbQuarter": 125,
+			"sajda": false
+		},
+		{
+			"number": 2376,
+			"text": "يَفْقَهُوا قَوْلِي",
+			"surah": {
+				"number": 20,
+				"name": "سُورَةُ طه",
+				"englishName": "Taa-Haa",
+				"englishNameTranslation": "Taa-Haa",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 135
+			},
+			"numberInSurah": 28,
+			"juz": 16,
+			"manzil": 4,
+			"page": 313,
+			"ruku": 271,
+			"hizbQuarter": 125,
+			"sajda": false
+		},
+		{
+			"number": 2377,
+			"text": "وَاجْعَلْ لِي وَزِيرًا مِنْ أَهْلِي",
+			"surah": {
+				"number": 20,
+				"name": "سُورَةُ طه",
+				"englishName": "Taa-Haa",
+				"englishNameTranslation": "Taa-Haa",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 135
+			},
+			"numberInSurah": 29,
+			"juz": 16,
+			"manzil": 4,
+			"page": 313,
+			"ruku": 271,
+			"hizbQuarter": 125,
+			"sajda": false
+		},
+		{
+			"number": 2378,
+			"text": "هَارُونَ أَخِي",
+			"surah": {
+				"number": 20,
+				"name": "سُورَةُ طه",
+				"englishName": "Taa-Haa",
+				"englishNameTranslation": "Taa-Haa",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 135
+			},
+			"numberInSurah": 30,
+			"juz": 16,
+			"manzil": 4,
+			"page": 313,
+			"ruku": 271,
+			"hizbQuarter": 125,
+			"sajda": false
+		},
+		{
+			"number": 2379,
+			"text": "اشْدُدْ بِهِ أَزْرِي",
+			"surah": {
+				"number": 20,
+				"name": "سُورَةُ طه",
+				"englishName": "Taa-Haa",
+				"englishNameTranslation": "Taa-Haa",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 135
+			},
+			"numberInSurah": 31,
+			"juz": 16,
+			"manzil": 4,
+			"page": 313,
+			"ruku": 271,
+			"hizbQuarter": 125,
+			"sajda": false
+		},
+		{
+			"number": 2380,
+			"text": "وَأَشْرِكْهُ فِي أَمْرِي",
+			"surah": {
+				"number": 20,
+				"name": "سُورَةُ طه",
+				"englishName": "Taa-Haa",
+				"englishNameTranslation": "Taa-Haa",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 135
+			},
+			"numberInSurah": 32,
+			"juz": 16,
+			"manzil": 4,
+			"page": 313,
+			"ruku": 271,
+			"hizbQuarter": 125,
+			"sajda": false
+		},
+		{
+			"number": 2381,
+			"text": "كَيْ نُسَبِّحَكَ كَثِيرًا",
+			"surah": {
+				"number": 20,
+				"name": "سُورَةُ طه",
+				"englishName": "Taa-Haa",
+				"englishNameTranslation": "Taa-Haa",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 135
+			},
+			"numberInSurah": 33,
+			"juz": 16,
+			"manzil": 4,
+			"page": 313,
+			"ruku": 271,
+			"hizbQuarter": 125,
+			"sajda": false
+		},
+		{
+			"number": 2382,
+			"text": "وَنَذْكُرَكَ كَثِيرًا",
+			"surah": {
+				"number": 20,
+				"name": "سُورَةُ طه",
+				"englishName": "Taa-Haa",
+				"englishNameTranslation": "Taa-Haa",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 135
+			},
+			"numberInSurah": 34,
+			"juz": 16,
+			"manzil": 4,
+			"page": 313,
+			"ruku": 271,
+			"hizbQuarter": 125,
+			"sajda": false
+		},
+		{
+			"number": 2383,
+			"text": "إِنَّكَ كُنْتَ بِنَا بَصِيرًا",
+			"surah": {
+				"number": 20,
+				"name": "سُورَةُ طه",
+				"englishName": "Taa-Haa",
+				"englishNameTranslation": "Taa-Haa",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 135
+			},
+			"numberInSurah": 35,
+			"juz": 16,
+			"manzil": 4,
+			"page": 313,
+			"ruku": 271,
+			"hizbQuarter": 125,
+			"sajda": false
+		},
+		{
+			"number": 2384,
+			"text": "قَالَ قَدْ أُوتِيتَ سُؤْلَكَ يَا مُوسَىٰ",
+			"surah": {
+				"number": 20,
+				"name": "سُورَةُ طه",
+				"englishName": "Taa-Haa",
+				"englishNameTranslation": "Taa-Haa",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 135
+			},
+			"numberInSurah": 36,
+			"juz": 16,
+			"manzil": 4,
+			"page": 313,
+			"ruku": 271,
+			"hizbQuarter": 125,
+			"sajda": false
+		},
+		{
+			"number": 2385,
+			"text": "وَلَقَدْ مَنَنَّا عَلَيْكَ مَرَّةً أُخْرَىٰ",
+			"surah": {
+				"number": 20,
+				"name": "سُورَةُ طه",
+				"englishName": "Taa-Haa",
+				"englishNameTranslation": "Taa-Haa",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 135
+			},
+			"numberInSurah": 37,
+			"juz": 16,
+			"manzil": 4,
+			"page": 313,
+			"ruku": 271,
+			"hizbQuarter": 125,
+			"sajda": false
+		}
+	],
+	"surahs": {
+		"20": {
+			"number": 20,
+			"name": "سُورَةُ طه",
+			"englishName": "Taa-Haa",
+			"englishNameTranslation": "Taa-Haa",
+			"revelationType": "Meccan",
+			"numberOfAyahs": 135
+		}
+	},
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

@@ -1,0 +1,184 @@
+﻿{
+	"number": 91,
+	"name": "سُورَةُ الشَّمۡسِ",
+	"englishName": "Ash-Shams",
+	"englishNameTranslation": "The Sun",
+	"revelationType": "Meccan",
+	"numberOfAyahs": 15,
+	"ayahs": [
+		{
+			"number": 6044,
+			"text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ وَالشَّمْسِ وَضُحَاهَا",
+			"numberInSurah": 1,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 533,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6045,
+			"text": "وَالْقَمَرِ إِذَا تَلَاهَا",
+			"numberInSurah": 2,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 533,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6046,
+			"text": "وَالنَّهَارِ إِذَا جَلَّاهَا",
+			"numberInSurah": 3,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 533,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6047,
+			"text": "وَاللَّيْلِ إِذَا يَغْشَاهَا",
+			"numberInSurah": 4,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 533,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6048,
+			"text": "وَالسَّمَاءِ وَمَا بَنَاهَا",
+			"numberInSurah": 5,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 533,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6049,
+			"text": "وَالْأَرْضِ وَمَا طَحَاهَا",
+			"numberInSurah": 6,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 533,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6050,
+			"text": "وَنَفْسٍ وَمَا سَوَّاهَا",
+			"numberInSurah": 7,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 533,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6051,
+			"text": "فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا",
+			"numberInSurah": 8,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 533,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6052,
+			"text": "قَدْ أَفْلَحَ مَنْ زَكَّاهَا",
+			"numberInSurah": 9,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 533,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6053,
+			"text": "وَقَدْ خَابَ مَنْ دَسَّاهَا",
+			"numberInSurah": 10,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 533,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6054,
+			"text": "كَذَّبَتْ ثَمُودُ بِطَغْوَاهَا",
+			"numberInSurah": 11,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 533,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6055,
+			"text": "إِذِ انْبَعَثَ أَشْقَاهَا",
+			"numberInSurah": 12,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 533,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6056,
+			"text": "فَقَالَ لَهُمْ رَسُولُ اللَّهِ نَاقَةَ اللَّهِ وَسُقْيَاهَا",
+			"numberInSurah": 13,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 533,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6057,
+			"text": "فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُمْ بِذَنْبِهِمْ فَسَوَّاهَا",
+			"numberInSurah": 14,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 533,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6058,
+			"text": "وَلَا يَخَافُ عُقْبَاهَا",
+			"numberInSurah": 15,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 533,
+			"hizbQuarter": 238,
+			"sajda": false
+		}
+	],
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

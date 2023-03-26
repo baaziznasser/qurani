@@ -1,0 +1,214 @@
+﻿{
+	"number": 501,
+	"ayahs": [
+		{
+			"number": 4496,
+			"text": "أَفَرَأَيْتَ مَنِ اتَّخَذَ إِلَٰهَهُ هَوَاهُ وَأَضَلَّهُ اللَّهُ عَلَىٰ عِلْمٍ وَخَتَمَ عَلَىٰ سَمْعِهِ وَقَلْبِهِ وَجَعَلَ عَلَىٰ بَصَرِهِ غِشَاوَةً فَمَنْ يَهْدِيهِ مِنْ بَعْدِ اللَّهِ ۚ أَفَلَا تَذَكَّرُونَ",
+			"surah": {
+				"number": 45,
+				"name": "سُورَةُ الجَاثِيَةِ",
+				"englishName": "Al-Jaathiya",
+				"englishNameTranslation": "Crouching",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 37
+			},
+			"numberInSurah": 23,
+			"juz": 25,
+			"manzil": 6,
+			"page": 501,
+			"ruku": 436,
+			"hizbQuarter": 200,
+			"sajda": false
+		},
+		{
+			"number": 4497,
+			"text": "وَقَالُوا مَا هِيَ إِلَّا حَيَاتُنَا الدُّنْيَا نَمُوتُ وَنَحْيَا وَمَا يُهْلِكُنَا إِلَّا الدَّهْرُ ۚ وَمَا لَهُمْ بِذَٰلِكَ مِنْ عِلْمٍ ۖ إِنْ هُمْ إِلَّا يَظُنُّونَ",
+			"surah": {
+				"number": 45,
+				"name": "سُورَةُ الجَاثِيَةِ",
+				"englishName": "Al-Jaathiya",
+				"englishNameTranslation": "Crouching",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 37
+			},
+			"numberInSurah": 24,
+			"juz": 25,
+			"manzil": 6,
+			"page": 501,
+			"ruku": 436,
+			"hizbQuarter": 200,
+			"sajda": false
+		},
+		{
+			"number": 4498,
+			"text": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ آيَاتُنَا بَيِّنَاتٍ مَا كَانَ حُجَّتَهُمْ إِلَّا أَنْ قَالُوا ائْتُوا بِآبَائِنَا إِنْ كُنْتُمْ صَادِقِينَ",
+			"surah": {
+				"number": 45,
+				"name": "سُورَةُ الجَاثِيَةِ",
+				"englishName": "Al-Jaathiya",
+				"englishNameTranslation": "Crouching",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 37
+			},
+			"numberInSurah": 25,
+			"juz": 25,
+			"manzil": 6,
+			"page": 501,
+			"ruku": 436,
+			"hizbQuarter": 200,
+			"sajda": false
+		},
+		{
+			"number": 4499,
+			"text": "قُلِ اللَّهُ يُحْيِيكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ يَجْمَعُكُمْ إِلَىٰ يَوْمِ الْقِيَامَةِ لَا رَيْبَ فِيهِ وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ",
+			"surah": {
+				"number": 45,
+				"name": "سُورَةُ الجَاثِيَةِ",
+				"englishName": "Al-Jaathiya",
+				"englishNameTranslation": "Crouching",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 37
+			},
+			"numberInSurah": 26,
+			"juz": 25,
+			"manzil": 6,
+			"page": 501,
+			"ruku": 436,
+			"hizbQuarter": 200,
+			"sajda": false
+		},
+		{
+			"number": 4500,
+			"text": "وَلِلَّهِ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ ۚ وَيَوْمَ تَقُومُ السَّاعَةُ يَوْمَئِذٍ يَخْسَرُ الْمُبْطِلُونَ",
+			"surah": {
+				"number": 45,
+				"name": "سُورَةُ الجَاثِيَةِ",
+				"englishName": "Al-Jaathiya",
+				"englishNameTranslation": "Crouching",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 37
+			},
+			"numberInSurah": 27,
+			"juz": 25,
+			"manzil": 6,
+			"page": 501,
+			"ruku": 437,
+			"hizbQuarter": 200,
+			"sajda": false
+		},
+		{
+			"number": 4501,
+			"text": "وَتَرَىٰ كُلَّ أُمَّةٍ جَاثِيَةً ۚ كُلُّ أُمَّةٍ تُدْعَىٰ إِلَىٰ كِتَابِهَا الْيَوْمَ تُجْزَوْنَ مَا كُنْتُمْ تَعْمَلُونَ",
+			"surah": {
+				"number": 45,
+				"name": "سُورَةُ الجَاثِيَةِ",
+				"englishName": "Al-Jaathiya",
+				"englishNameTranslation": "Crouching",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 37
+			},
+			"numberInSurah": 28,
+			"juz": 25,
+			"manzil": 6,
+			"page": 501,
+			"ruku": 437,
+			"hizbQuarter": 200,
+			"sajda": false
+		},
+		{
+			"number": 4502,
+			"text": "هَٰذَا كِتَابُنَا يَنْطِقُ عَلَيْكُمْ بِالْحَقِّ ۚ إِنَّا كُنَّا نَسْتَنْسِخُ مَا كُنْتُمْ تَعْمَلُونَ",
+			"surah": {
+				"number": 45,
+				"name": "سُورَةُ الجَاثِيَةِ",
+				"englishName": "Al-Jaathiya",
+				"englishNameTranslation": "Crouching",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 37
+			},
+			"numberInSurah": 29,
+			"juz": 25,
+			"manzil": 6,
+			"page": 501,
+			"ruku": 437,
+			"hizbQuarter": 200,
+			"sajda": false
+		},
+		{
+			"number": 4503,
+			"text": "فَأَمَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ فَيُدْخِلُهُمْ رَبُّهُمْ فِي رَحْمَتِهِ ۚ ذَٰلِكَ هُوَ الْفَوْزُ الْمُبِينُ",
+			"surah": {
+				"number": 45,
+				"name": "سُورَةُ الجَاثِيَةِ",
+				"englishName": "Al-Jaathiya",
+				"englishNameTranslation": "Crouching",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 37
+			},
+			"numberInSurah": 30,
+			"juz": 25,
+			"manzil": 6,
+			"page": 501,
+			"ruku": 437,
+			"hizbQuarter": 200,
+			"sajda": false
+		},
+		{
+			"number": 4504,
+			"text": "وَأَمَّا الَّذِينَ كَفَرُوا أَفَلَمْ تَكُنْ آيَاتِي تُتْلَىٰ عَلَيْكُمْ فَاسْتَكْبَرْتُمْ وَكُنْتُمْ قَوْمًا مُجْرِمِينَ",
+			"surah": {
+				"number": 45,
+				"name": "سُورَةُ الجَاثِيَةِ",
+				"englishName": "Al-Jaathiya",
+				"englishNameTranslation": "Crouching",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 37
+			},
+			"numberInSurah": 31,
+			"juz": 25,
+			"manzil": 6,
+			"page": 501,
+			"ruku": 437,
+			"hizbQuarter": 200,
+			"sajda": false
+		},
+		{
+			"number": 4505,
+			"text": "وَإِذَا قِيلَ إِنَّ وَعْدَ اللَّهِ حَقٌّ وَالسَّاعَةُ لَا رَيْبَ فِيهَا قُلْتُمْ مَا نَدْرِي مَا السَّاعَةُ إِنْ نَظُنُّ إِلَّا ظَنًّا وَمَا نَحْنُ بِمُسْتَيْقِنِينَ",
+			"surah": {
+				"number": 45,
+				"name": "سُورَةُ الجَاثِيَةِ",
+				"englishName": "Al-Jaathiya",
+				"englishNameTranslation": "Crouching",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 37
+			},
+			"numberInSurah": 32,
+			"juz": 25,
+			"manzil": 6,
+			"page": 501,
+			"ruku": 437,
+			"hizbQuarter": 200,
+			"sajda": false
+		}
+	],
+	"surahs": {
+		"45": {
+			"number": 45,
+			"name": "سُورَةُ الجَاثِيَةِ",
+			"englishName": "Al-Jaathiya",
+			"englishNameTranslation": "Crouching",
+			"revelationType": "Meccan",
+			"numberOfAyahs": 37
+		}
+	},
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

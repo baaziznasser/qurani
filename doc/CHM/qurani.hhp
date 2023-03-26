@@ -1,0 +1,14 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=qurani.chm
+Contents file=Table of Contents.hhc
+Index file=Index.hhk
+Default topic=index.html
+Default Window = WindowType
+Display compile progress=Yes
+Language=0x401 Arabic (Saudi Arabia)
+Title=qurani
+[INFOTYPES]
+
+[WINDOWS]
+WindowType = "???", "Table of Contents.hhc", "Index.hhk", "Index.html", "Index.html"

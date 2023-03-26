@@ -1,0 +1,518 @@
+﻿{
+	"number": 567,
+	"ayahs": [
+		{
+			"number": 5332,
+			"text": "وَجَاءَ فِرْعَوْنُ وَمَنْ قَبْلَهُ وَالْمُؤْتَفِكَاتُ بِالْخَاطِئَةِ",
+			"surah": {
+				"number": 69,
+				"name": "سُورَةُ الحَاقَّةِ",
+				"englishName": "Al-Haaqqa",
+				"englishNameTranslation": "The Reality",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 9,
+			"juz": 29,
+			"manzil": 7,
+			"page": 567,
+			"ruku": 500,
+			"hizbQuarter": 227,
+			"sajda": false
+		},
+		{
+			"number": 5333,
+			"text": "فَعَصَوْا رَسُولَ رَبِّهِمْ فَأَخَذَهُمْ أَخْذَةً رَابِيَةً",
+			"surah": {
+				"number": 69,
+				"name": "سُورَةُ الحَاقَّةِ",
+				"englishName": "Al-Haaqqa",
+				"englishNameTranslation": "The Reality",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 10,
+			"juz": 29,
+			"manzil": 7,
+			"page": 567,
+			"ruku": 500,
+			"hizbQuarter": 227,
+			"sajda": false
+		},
+		{
+			"number": 5334,
+			"text": "إِنَّا لَمَّا طَغَى الْمَاءُ حَمَلْنَاكُمْ فِي الْجَارِيَةِ",
+			"surah": {
+				"number": 69,
+				"name": "سُورَةُ الحَاقَّةِ",
+				"englishName": "Al-Haaqqa",
+				"englishNameTranslation": "The Reality",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 11,
+			"juz": 29,
+			"manzil": 7,
+			"page": 567,
+			"ruku": 500,
+			"hizbQuarter": 227,
+			"sajda": false
+		},
+		{
+			"number": 5335,
+			"text": "لِنَجْعَلَهَا لَكُمْ تَذْكِرَةً وَتَعِيَهَا أُذُنٌ وَاعِيَةٌ",
+			"surah": {
+				"number": 69,
+				"name": "سُورَةُ الحَاقَّةِ",
+				"englishName": "Al-Haaqqa",
+				"englishNameTranslation": "The Reality",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 12,
+			"juz": 29,
+			"manzil": 7,
+			"page": 567,
+			"ruku": 500,
+			"hizbQuarter": 227,
+			"sajda": false
+		},
+		{
+			"number": 5336,
+			"text": "فَإِذَا نُفِخَ فِي الصُّورِ نَفْخَةٌ وَاحِدَةٌ",
+			"surah": {
+				"number": 69,
+				"name": "سُورَةُ الحَاقَّةِ",
+				"englishName": "Al-Haaqqa",
+				"englishNameTranslation": "The Reality",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 13,
+			"juz": 29,
+			"manzil": 7,
+			"page": 567,
+			"ruku": 500,
+			"hizbQuarter": 227,
+			"sajda": false
+		},
+		{
+			"number": 5337,
+			"text": "وَحُمِلَتِ الْأَرْضُ وَالْجِبَالُ فَدُكَّتَا دَكَّةً وَاحِدَةً",
+			"surah": {
+				"number": 69,
+				"name": "سُورَةُ الحَاقَّةِ",
+				"englishName": "Al-Haaqqa",
+				"englishNameTranslation": "The Reality",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 14,
+			"juz": 29,
+			"manzil": 7,
+			"page": 567,
+			"ruku": 500,
+			"hizbQuarter": 227,
+			"sajda": false
+		},
+		{
+			"number": 5338,
+			"text": "فَيَوْمَئِذٍ وَقَعَتِ الْوَاقِعَةُ",
+			"surah": {
+				"number": 69,
+				"name": "سُورَةُ الحَاقَّةِ",
+				"englishName": "Al-Haaqqa",
+				"englishNameTranslation": "The Reality",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 15,
+			"juz": 29,
+			"manzil": 7,
+			"page": 567,
+			"ruku": 500,
+			"hizbQuarter": 227,
+			"sajda": false
+		},
+		{
+			"number": 5339,
+			"text": "وَانْشَقَّتِ السَّمَاءُ فَهِيَ يَوْمَئِذٍ وَاهِيَةٌ",
+			"surah": {
+				"number": 69,
+				"name": "سُورَةُ الحَاقَّةِ",
+				"englishName": "Al-Haaqqa",
+				"englishNameTranslation": "The Reality",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 16,
+			"juz": 29,
+			"manzil": 7,
+			"page": 567,
+			"ruku": 500,
+			"hizbQuarter": 227,
+			"sajda": false
+		},
+		{
+			"number": 5340,
+			"text": "وَالْمَلَكُ عَلَىٰ أَرْجَائِهَا ۚ وَيَحْمِلُ عَرْشَ رَبِّكَ فَوْقَهُمْ يَوْمَئِذٍ ثَمَانِيَةٌ",
+			"surah": {
+				"number": 69,
+				"name": "سُورَةُ الحَاقَّةِ",
+				"englishName": "Al-Haaqqa",
+				"englishNameTranslation": "The Reality",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 17,
+			"juz": 29,
+			"manzil": 7,
+			"page": 567,
+			"ruku": 500,
+			"hizbQuarter": 227,
+			"sajda": false
+		},
+		{
+			"number": 5341,
+			"text": "يَوْمَئِذٍ تُعْرَضُونَ لَا تَخْفَىٰ مِنْكُمْ خَافِيَةٌ",
+			"surah": {
+				"number": 69,
+				"name": "سُورَةُ الحَاقَّةِ",
+				"englishName": "Al-Haaqqa",
+				"englishNameTranslation": "The Reality",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 18,
+			"juz": 29,
+			"manzil": 7,
+			"page": 567,
+			"ruku": 500,
+			"hizbQuarter": 227,
+			"sajda": false
+		},
+		{
+			"number": 5342,
+			"text": "فَأَمَّا مَنْ أُوتِيَ كِتَابَهُ بِيَمِينِهِ فَيَقُولُ هَاؤُمُ اقْرَءُوا كِتَابِيَهْ",
+			"surah": {
+				"number": 69,
+				"name": "سُورَةُ الحَاقَّةِ",
+				"englishName": "Al-Haaqqa",
+				"englishNameTranslation": "The Reality",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 19,
+			"juz": 29,
+			"manzil": 7,
+			"page": 567,
+			"ruku": 500,
+			"hizbQuarter": 227,
+			"sajda": false
+		},
+		{
+			"number": 5343,
+			"text": "إِنِّي ظَنَنْتُ أَنِّي مُلَاقٍ حِسَابِيَهْ",
+			"surah": {
+				"number": 69,
+				"name": "سُورَةُ الحَاقَّةِ",
+				"englishName": "Al-Haaqqa",
+				"englishNameTranslation": "The Reality",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 20,
+			"juz": 29,
+			"manzil": 7,
+			"page": 567,
+			"ruku": 500,
+			"hizbQuarter": 227,
+			"sajda": false
+		},
+		{
+			"number": 5344,
+			"text": "فَهُوَ فِي عِيشَةٍ رَاضِيَةٍ",
+			"surah": {
+				"number": 69,
+				"name": "سُورَةُ الحَاقَّةِ",
+				"englishName": "Al-Haaqqa",
+				"englishNameTranslation": "The Reality",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 21,
+			"juz": 29,
+			"manzil": 7,
+			"page": 567,
+			"ruku": 500,
+			"hizbQuarter": 227,
+			"sajda": false
+		},
+		{
+			"number": 5345,
+			"text": "فِي جَنَّةٍ عَالِيَةٍ",
+			"surah": {
+				"number": 69,
+				"name": "سُورَةُ الحَاقَّةِ",
+				"englishName": "Al-Haaqqa",
+				"englishNameTranslation": "The Reality",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 22,
+			"juz": 29,
+			"manzil": 7,
+			"page": 567,
+			"ruku": 500,
+			"hizbQuarter": 227,
+			"sajda": false
+		},
+		{
+			"number": 5346,
+			"text": "قُطُوفُهَا دَانِيَةٌ",
+			"surah": {
+				"number": 69,
+				"name": "سُورَةُ الحَاقَّةِ",
+				"englishName": "Al-Haaqqa",
+				"englishNameTranslation": "The Reality",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 23,
+			"juz": 29,
+			"manzil": 7,
+			"page": 567,
+			"ruku": 500,
+			"hizbQuarter": 227,
+			"sajda": false
+		},
+		{
+			"number": 5347,
+			"text": "كُلُوا وَاشْرَبُوا هَنِيئًا بِمَا أَسْلَفْتُمْ فِي الْأَيَّامِ الْخَالِيَةِ",
+			"surah": {
+				"number": 69,
+				"name": "سُورَةُ الحَاقَّةِ",
+				"englishName": "Al-Haaqqa",
+				"englishNameTranslation": "The Reality",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 24,
+			"juz": 29,
+			"manzil": 7,
+			"page": 567,
+			"ruku": 500,
+			"hizbQuarter": 227,
+			"sajda": false
+		},
+		{
+			"number": 5348,
+			"text": "وَأَمَّا مَنْ أُوتِيَ كِتَابَهُ بِشِمَالِهِ فَيَقُولُ يَا لَيْتَنِي لَمْ أُوتَ كِتَابِيَهْ",
+			"surah": {
+				"number": 69,
+				"name": "سُورَةُ الحَاقَّةِ",
+				"englishName": "Al-Haaqqa",
+				"englishNameTranslation": "The Reality",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 25,
+			"juz": 29,
+			"manzil": 7,
+			"page": 567,
+			"ruku": 500,
+			"hizbQuarter": 227,
+			"sajda": false
+		},
+		{
+			"number": 5349,
+			"text": "وَلَمْ أَدْرِ مَا حِسَابِيَهْ",
+			"surah": {
+				"number": 69,
+				"name": "سُورَةُ الحَاقَّةِ",
+				"englishName": "Al-Haaqqa",
+				"englishNameTranslation": "The Reality",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 26,
+			"juz": 29,
+			"manzil": 7,
+			"page": 567,
+			"ruku": 500,
+			"hizbQuarter": 227,
+			"sajda": false
+		},
+		{
+			"number": 5350,
+			"text": "يَا لَيْتَهَا كَانَتِ الْقَاضِيَةَ",
+			"surah": {
+				"number": 69,
+				"name": "سُورَةُ الحَاقَّةِ",
+				"englishName": "Al-Haaqqa",
+				"englishNameTranslation": "The Reality",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 27,
+			"juz": 29,
+			"manzil": 7,
+			"page": 567,
+			"ruku": 500,
+			"hizbQuarter": 227,
+			"sajda": false
+		},
+		{
+			"number": 5351,
+			"text": "مَا أَغْنَىٰ عَنِّي مَالِيَهْ ۜ",
+			"surah": {
+				"number": 69,
+				"name": "سُورَةُ الحَاقَّةِ",
+				"englishName": "Al-Haaqqa",
+				"englishNameTranslation": "The Reality",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 28,
+			"juz": 29,
+			"manzil": 7,
+			"page": 567,
+			"ruku": 500,
+			"hizbQuarter": 227,
+			"sajda": false
+		},
+		{
+			"number": 5352,
+			"text": "هَلَكَ عَنِّي سُلْطَانِيَهْ",
+			"surah": {
+				"number": 69,
+				"name": "سُورَةُ الحَاقَّةِ",
+				"englishName": "Al-Haaqqa",
+				"englishNameTranslation": "The Reality",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 29,
+			"juz": 29,
+			"manzil": 7,
+			"page": 567,
+			"ruku": 500,
+			"hizbQuarter": 227,
+			"sajda": false
+		},
+		{
+			"number": 5353,
+			"text": "خُذُوهُ فَغُلُّوهُ",
+			"surah": {
+				"number": 69,
+				"name": "سُورَةُ الحَاقَّةِ",
+				"englishName": "Al-Haaqqa",
+				"englishNameTranslation": "The Reality",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 30,
+			"juz": 29,
+			"manzil": 7,
+			"page": 567,
+			"ruku": 500,
+			"hizbQuarter": 227,
+			"sajda": false
+		},
+		{
+			"number": 5354,
+			"text": "ثُمَّ الْجَحِيمَ صَلُّوهُ",
+			"surah": {
+				"number": 69,
+				"name": "سُورَةُ الحَاقَّةِ",
+				"englishName": "Al-Haaqqa",
+				"englishNameTranslation": "The Reality",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 31,
+			"juz": 29,
+			"manzil": 7,
+			"page": 567,
+			"ruku": 500,
+			"hizbQuarter": 227,
+			"sajda": false
+		},
+		{
+			"number": 5355,
+			"text": "ثُمَّ فِي سِلْسِلَةٍ ذَرْعُهَا سَبْعُونَ ذِرَاعًا فَاسْلُكُوهُ",
+			"surah": {
+				"number": 69,
+				"name": "سُورَةُ الحَاقَّةِ",
+				"englishName": "Al-Haaqqa",
+				"englishNameTranslation": "The Reality",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 32,
+			"juz": 29,
+			"manzil": 7,
+			"page": 567,
+			"ruku": 500,
+			"hizbQuarter": 227,
+			"sajda": false
+		},
+		{
+			"number": 5356,
+			"text": "إِنَّهُ كَانَ لَا يُؤْمِنُ بِاللَّهِ الْعَظِيمِ",
+			"surah": {
+				"number": 69,
+				"name": "سُورَةُ الحَاقَّةِ",
+				"englishName": "Al-Haaqqa",
+				"englishNameTranslation": "The Reality",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 33,
+			"juz": 29,
+			"manzil": 7,
+			"page": 567,
+			"ruku": 500,
+			"hizbQuarter": 227,
+			"sajda": false
+		},
+		{
+			"number": 5357,
+			"text": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ الْمِسْكِينِ",
+			"surah": {
+				"number": 69,
+				"name": "سُورَةُ الحَاقَّةِ",
+				"englishName": "Al-Haaqqa",
+				"englishNameTranslation": "The Reality",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 34,
+			"juz": 29,
+			"manzil": 7,
+			"page": 567,
+			"ruku": 500,
+			"hizbQuarter": 227,
+			"sajda": false
+		}
+	],
+	"surahs": {
+		"69": {
+			"number": 69,
+			"name": "سُورَةُ الحَاقَّةِ",
+			"englishName": "Al-Haaqqa",
+			"englishNameTranslation": "The Reality",
+			"revelationType": "Meccan",
+			"numberOfAyahs": 52
+		}
+	},
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

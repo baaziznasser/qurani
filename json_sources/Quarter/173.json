@@ -1,0 +1,442 @@
+﻿{
+	"number": 173,
+	"ayahs": [
+		{
+			"number": 3630,
+			"surah": {
+				"number": 34,
+				"name": "سُورَةُ سَبَإٍ",
+				"englishName": "Saba",
+				"englishNameTranslation": "Sheba",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 54
+			},
+			"numberInSurah": 24,
+			"juz": 22,
+			"manzil": 5,
+			"page": 431,
+			"ruku": 372,
+			"hizbQuarter": 173,
+			"sajda": false,
+			"text": "قُلْ مَن يَرْزُقُكُم مِّنَ السَّمَاوَاتِ وَالْأَرْضِ ۖ قُلِ اللَّهُ ۖ وَإِنَّا أَوْ إِيَّاكُمْ لَعَلَىٰ هُدًى أَوْ فِي ضَلَالٍ مُّبِينٍ"
+		},
+		{
+			"number": 3631,
+			"surah": {
+				"number": 34,
+				"name": "سُورَةُ سَبَإٍ",
+				"englishName": "Saba",
+				"englishNameTranslation": "Sheba",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 54
+			},
+			"numberInSurah": 25,
+			"juz": 22,
+			"manzil": 5,
+			"page": 431,
+			"ruku": 372,
+			"hizbQuarter": 173,
+			"sajda": false,
+			"text": "قُل لَّا تُسْأَلُونَ عَمَّا أَجْرَمْنَا وَلَا نُسْأَلُ عَمَّا تَعْمَلُونَ"
+		},
+		{
+			"number": 3632,
+			"surah": {
+				"number": 34,
+				"name": "سُورَةُ سَبَإٍ",
+				"englishName": "Saba",
+				"englishNameTranslation": "Sheba",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 54
+			},
+			"numberInSurah": 26,
+			"juz": 22,
+			"manzil": 5,
+			"page": 431,
+			"ruku": 372,
+			"hizbQuarter": 173,
+			"sajda": false,
+			"text": "قُلْ يَجْمَعُ بَيْنَنَا رَبُّنَا ثُمَّ يَفْتَحُ بَيْنَنَا بِالْحَقِّ وَهُوَ الْفَتَّاحُ الْعَلِيمُ"
+		},
+		{
+			"number": 3633,
+			"surah": {
+				"number": 34,
+				"name": "سُورَةُ سَبَإٍ",
+				"englishName": "Saba",
+				"englishNameTranslation": "Sheba",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 54
+			},
+			"numberInSurah": 27,
+			"juz": 22,
+			"manzil": 5,
+			"page": 431,
+			"ruku": 372,
+			"hizbQuarter": 173,
+			"sajda": false,
+			"text": "قُلْ أَرُونِيَ الَّذِينَ أَلْحَقْتُم بِهِ شُرَكَاءَ ۖ كَلَّا ۚ بَلْ هُوَ اللَّهُ الْعَزِيزُ الْحَكِيمُ"
+		},
+		{
+			"number": 3634,
+			"surah": {
+				"number": 34,
+				"name": "سُورَةُ سَبَإٍ",
+				"englishName": "Saba",
+				"englishNameTranslation": "Sheba",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 54
+			},
+			"numberInSurah": 28,
+			"juz": 22,
+			"manzil": 5,
+			"page": 431,
+			"ruku": 372,
+			"hizbQuarter": 173,
+			"sajda": false,
+			"text": "وَمَا أَرْسَلْنَاكَ إِلَّا كَافَّةً لِّلنَّاسِ بَشِيرًا وَنَذِيرًا وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ"
+		},
+		{
+			"number": 3635,
+			"surah": {
+				"number": 34,
+				"name": "سُورَةُ سَبَإٍ",
+				"englishName": "Saba",
+				"englishNameTranslation": "Sheba",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 54
+			},
+			"numberInSurah": 29,
+			"juz": 22,
+			"manzil": 5,
+			"page": 431,
+			"ruku": 372,
+			"hizbQuarter": 173,
+			"sajda": false,
+			"text": "وَيَقُولُونَ مَتَىٰ هَٰذَا الْوَعْدُ إِن كُنتُمْ صَادِقِينَ"
+		},
+		{
+			"number": 3636,
+			"surah": {
+				"number": 34,
+				"name": "سُورَةُ سَبَإٍ",
+				"englishName": "Saba",
+				"englishNameTranslation": "Sheba",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 54
+			},
+			"numberInSurah": 30,
+			"juz": 22,
+			"manzil": 5,
+			"page": 431,
+			"ruku": 372,
+			"hizbQuarter": 173,
+			"sajda": false,
+			"text": "قُل لَّكُم مِّيعَادُ يَوْمٍ لَّا تَسْتَأْخِرُونَ عَنْهُ سَاعَةً وَلَا تَسْتَقْدِمُونَ"
+		},
+		{
+			"number": 3637,
+			"surah": {
+				"number": 34,
+				"name": "سُورَةُ سَبَإٍ",
+				"englishName": "Saba",
+				"englishNameTranslation": "Sheba",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 54
+			},
+			"numberInSurah": 31,
+			"juz": 22,
+			"manzil": 5,
+			"page": 431,
+			"ruku": 373,
+			"hizbQuarter": 173,
+			"sajda": false,
+			"text": "وَقَالَ الَّذِينَ كَفَرُوا لَن نُّؤْمِنَ بِهَٰذَا الْقُرْآنِ وَلَا بِالَّذِي بَيْنَ يَدَيْهِ ۗ وَلَوْ تَرَىٰ إِذِ الظَّالِمُونَ مَوْقُوفُونَ عِندَ رَبِّهِمْ يَرْجِعُ بَعْضُهُمْ إِلَىٰ بَعْضٍ الْقَوْلَ يَقُولُ الَّذِينَ اسْتُضْعِفُوا لِلَّذِينَ اسْتَكْبَرُوا لَوْلَا أَنتُمْ لَكُنَّا مُؤْمِنِينَ"
+		},
+		{
+			"number": 3638,
+			"surah": {
+				"number": 34,
+				"name": "سُورَةُ سَبَإٍ",
+				"englishName": "Saba",
+				"englishNameTranslation": "Sheba",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 54
+			},
+			"numberInSurah": 32,
+			"juz": 22,
+			"manzil": 5,
+			"page": 432,
+			"ruku": 373,
+			"hizbQuarter": 173,
+			"sajda": false,
+			"text": "قَالَ الَّذِينَ اسْتَكْبَرُوا لِلَّذِينَ اسْتُضْعِفُوا أَنَحْنُ صَدَدْنَاكُمْ عَنِ الْهُدَىٰ بَعْدَ إِذْ جَاءَكُم ۖ بَلْ كُنتُم مُّجْرِمِينَ"
+		},
+		{
+			"number": 3639,
+			"surah": {
+				"number": 34,
+				"name": "سُورَةُ سَبَإٍ",
+				"englishName": "Saba",
+				"englishNameTranslation": "Sheba",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 54
+			},
+			"numberInSurah": 33,
+			"juz": 22,
+			"manzil": 5,
+			"page": 432,
+			"ruku": 373,
+			"hizbQuarter": 173,
+			"sajda": false,
+			"text": "وَقَالَ الَّذِينَ اسْتُضْعِفُوا لِلَّذِينَ اسْتَكْبَرُوا بَلْ مَكْرُ اللَّيْلِ وَالنَّهَارِ إِذْ تَأْمُرُونَنَا أَن نَّكْفُرَ بِاللَّهِ وَنَجْعَلَ لَهُ أَندَادًا ۚ وَأَسَرُّوا النَّدَامَةَ لَمَّا رَأَوُا الْعَذَابَ وَجَعَلْنَا الْأَغْلَالَ فِي أَعْنَاقِ الَّذِينَ كَفَرُوا ۚ هَلْ يُجْزَوْنَ إِلَّا مَا كَانُوا يَعْمَلُونَ"
+		},
+		{
+			"number": 3640,
+			"surah": {
+				"number": 34,
+				"name": "سُورَةُ سَبَإٍ",
+				"englishName": "Saba",
+				"englishNameTranslation": "Sheba",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 54
+			},
+			"numberInSurah": 34,
+			"juz": 22,
+			"manzil": 5,
+			"page": 432,
+			"ruku": 373,
+			"hizbQuarter": 173,
+			"sajda": false,
+			"text": "وَمَا أَرْسَلْنَا فِي قَرْيَةٍ مِّن نَّذِيرٍ إِلَّا قَالَ مُتْرَفُوهَا إِنَّا بِمَا أُرْسِلْتُم بِهِ كَافِرُونَ"
+		},
+		{
+			"number": 3641,
+			"surah": {
+				"number": 34,
+				"name": "سُورَةُ سَبَإٍ",
+				"englishName": "Saba",
+				"englishNameTranslation": "Sheba",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 54
+			},
+			"numberInSurah": 35,
+			"juz": 22,
+			"manzil": 5,
+			"page": 432,
+			"ruku": 373,
+			"hizbQuarter": 173,
+			"sajda": false,
+			"text": "وَقَالُوا نَحْنُ أَكْثَرُ أَمْوَالًا وَأَوْلَادًا وَمَا نَحْنُ بِمُعَذَّبِينَ"
+		},
+		{
+			"number": 3642,
+			"surah": {
+				"number": 34,
+				"name": "سُورَةُ سَبَإٍ",
+				"englishName": "Saba",
+				"englishNameTranslation": "Sheba",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 54
+			},
+			"numberInSurah": 36,
+			"juz": 22,
+			"manzil": 5,
+			"page": 432,
+			"ruku": 373,
+			"hizbQuarter": 173,
+			"sajda": false,
+			"text": "قُلْ إِنَّ رَبِّي يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ وَيَقْدِرُ وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ"
+		},
+		{
+			"number": 3643,
+			"surah": {
+				"number": 34,
+				"name": "سُورَةُ سَبَإٍ",
+				"englishName": "Saba",
+				"englishNameTranslation": "Sheba",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 54
+			},
+			"numberInSurah": 37,
+			"juz": 22,
+			"manzil": 5,
+			"page": 432,
+			"ruku": 374,
+			"hizbQuarter": 173,
+			"sajda": false,
+			"text": "وَمَا أَمْوَالُكُمْ وَلَا أَوْلَادُكُم بِالَّتِي تُقَرِّبُكُمْ عِندَنَا زُلْفَىٰ إِلَّا مَنْ آمَنَ وَعَمِلَ صَالِحًا فَأُولَٰئِكَ لَهُمْ جَزَاءُ الضِّعْفِ بِمَا عَمِلُوا وَهُمْ فِي الْغُرُفَاتِ آمِنُونَ"
+		},
+		{
+			"number": 3644,
+			"surah": {
+				"number": 34,
+				"name": "سُورَةُ سَبَإٍ",
+				"englishName": "Saba",
+				"englishNameTranslation": "Sheba",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 54
+			},
+			"numberInSurah": 38,
+			"juz": 22,
+			"manzil": 5,
+			"page": 432,
+			"ruku": 374,
+			"hizbQuarter": 173,
+			"sajda": false,
+			"text": "وَالَّذِينَ يَسْعَوْنَ فِي آيَاتِنَا مُعَاجِزِينَ أُولَٰئِكَ فِي الْعَذَابِ مُحْضَرُونَ"
+		},
+		{
+			"number": 3645,
+			"surah": {
+				"number": 34,
+				"name": "سُورَةُ سَبَإٍ",
+				"englishName": "Saba",
+				"englishNameTranslation": "Sheba",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 54
+			},
+			"numberInSurah": 39,
+			"juz": 22,
+			"manzil": 5,
+			"page": 432,
+			"ruku": 374,
+			"hizbQuarter": 173,
+			"sajda": false,
+			"text": "قُلْ إِنَّ رَبِّي يَبْسُطُ الرِّزْقَ لِمَن يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ لَهُ ۚ وَمَا أَنفَقْتُم مِّن شَيْءٍ فَهُوَ يُخْلِفُهُ ۖ وَهُوَ خَيْرُ الرَّازِقِينَ"
+		},
+		{
+			"number": 3646,
+			"surah": {
+				"number": 34,
+				"name": "سُورَةُ سَبَإٍ",
+				"englishName": "Saba",
+				"englishNameTranslation": "Sheba",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 54
+			},
+			"numberInSurah": 40,
+			"juz": 22,
+			"manzil": 5,
+			"page": 433,
+			"ruku": 374,
+			"hizbQuarter": 173,
+			"sajda": false,
+			"text": "وَيَوْمَ يَحْشُرُهُمْ جَمِيعًا ثُمَّ يَقُولُ لِلْمَلَائِكَةِ أَهَٰؤُلَاءِ إِيَّاكُمْ كَانُوا يَعْبُدُونَ"
+		},
+		{
+			"number": 3647,
+			"surah": {
+				"number": 34,
+				"name": "سُورَةُ سَبَإٍ",
+				"englishName": "Saba",
+				"englishNameTranslation": "Sheba",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 54
+			},
+			"numberInSurah": 41,
+			"juz": 22,
+			"manzil": 5,
+			"page": 433,
+			"ruku": 374,
+			"hizbQuarter": 173,
+			"sajda": false,
+			"text": "قَالُوا سُبْحَانَكَ أَنتَ وَلِيُّنَا مِن دُونِهِم ۖ بَلْ كَانُوا يَعْبُدُونَ الْجِنَّ ۖ أَكْثَرُهُم بِهِم مُّؤْمِنُونَ"
+		},
+		{
+			"number": 3648,
+			"surah": {
+				"number": 34,
+				"name": "سُورَةُ سَبَإٍ",
+				"englishName": "Saba",
+				"englishNameTranslation": "Sheba",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 54
+			},
+			"numberInSurah": 42,
+			"juz": 22,
+			"manzil": 5,
+			"page": 433,
+			"ruku": 374,
+			"hizbQuarter": 173,
+			"sajda": false,
+			"text": "فَالْيَوْمَ لَا يَمْلِكُ بَعْضُكُمْ لِبَعْضٍ نَّفْعًا وَلَا ضَرًّا وَنَقُولُ لِلَّذِينَ ظَلَمُوا ذُوقُوا عَذَابَ النَّارِ الَّتِي كُنتُم بِهَا تُكَذِّبُونَ"
+		},
+		{
+			"number": 3649,
+			"surah": {
+				"number": 34,
+				"name": "سُورَةُ سَبَإٍ",
+				"englishName": "Saba",
+				"englishNameTranslation": "Sheba",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 54
+			},
+			"numberInSurah": 43,
+			"juz": 22,
+			"manzil": 5,
+			"page": 433,
+			"ruku": 374,
+			"hizbQuarter": 173,
+			"sajda": false,
+			"text": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ آيَاتُنَا بَيِّنَاتٍ قَالُوا مَا هَٰذَا إِلَّا رَجُلٌ يُرِيدُ أَن يَصُدَّكُمْ عَمَّا كَانَ يَعْبُدُ آبَاؤُكُمْ وَقَالُوا مَا هَٰذَا إِلَّا إِفْكٌ مُّفْتَرًى ۚ وَقَالَ الَّذِينَ كَفَرُوا لِلْحَقِّ لَمَّا جَاءَهُمْ إِنْ هَٰذَا إِلَّا سِحْرٌ مُّبِينٌ"
+		},
+		{
+			"number": 3650,
+			"surah": {
+				"number": 34,
+				"name": "سُورَةُ سَبَإٍ",
+				"englishName": "Saba",
+				"englishNameTranslation": "Sheba",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 54
+			},
+			"numberInSurah": 44,
+			"juz": 22,
+			"manzil": 5,
+			"page": 433,
+			"ruku": 374,
+			"hizbQuarter": 173,
+			"sajda": false,
+			"text": "وَمَا آتَيْنَاهُم مِّن كُتُبٍ يَدْرُسُونَهَا ۖ وَمَا أَرْسَلْنَا إِلَيْهِمْ قَبْلَكَ مِن نَّذِيرٍ"
+		},
+		{
+			"number": 3651,
+			"surah": {
+				"number": 34,
+				"name": "سُورَةُ سَبَإٍ",
+				"englishName": "Saba",
+				"englishNameTranslation": "Sheba",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 54
+			},
+			"numberInSurah": 45,
+			"juz": 22,
+			"manzil": 5,
+			"page": 433,
+			"ruku": 374,
+			"hizbQuarter": 173,
+			"sajda": false,
+			"text": "وَكَذَّبَ الَّذِينَ مِن قَبْلِهِمْ وَمَا بَلَغُوا مِعْشَارَ مَا آتَيْنَاهُمْ فَكَذَّبُوا رُسُلِي ۖ فَكَيْفَ كَانَ نَكِيرِ"
+		}
+	],
+	"surahs": {
+		"34": {
+			"number": 34,
+			"name": "سُورَةُ سَبَإٍ",
+			"englishName": "Saba",
+			"englishNameTranslation": "Sheba",
+			"revelationType": "Meccan",
+			"numberOfAyahs": 54
+		}
+	},
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

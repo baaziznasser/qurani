@@ -1,0 +1,157 @@
+﻿{
+	"number": 52,
+	"ayahs": [
+		{
+			"number": 309,
+			"text": "الَّذِينَ يَقُولُونَ رَبَّنَا إِنَّنَا آمَنَّا فَاغْفِرْ لَنَا ذُنُوبَنَا وَقِنَا عَذَابَ النَّارِ",
+			"surah": {
+				"number": 3,
+				"name": "سُورَةُ آلِ عِمۡرَانَ",
+				"englishName": "Aal-i-Imraan",
+				"englishNameTranslation": "The Family of Imraan",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 200
+			},
+			"numberInSurah": 16,
+			"juz": 3,
+			"manzil": 1,
+			"page": 52,
+			"ruku": 43,
+			"hizbQuarter": 21,
+			"sajda": false
+		},
+		{
+			"number": 310,
+			"text": "الصَّابِرِينَ وَالصَّادِقِينَ وَالْقَانِتِينَ وَالْمُنْفِقِينَ وَالْمُسْتَغْفِرِينَ بِالْأَسْحَارِ",
+			"surah": {
+				"number": 3,
+				"name": "سُورَةُ آلِ عِمۡرَانَ",
+				"englishName": "Aal-i-Imraan",
+				"englishNameTranslation": "The Family of Imraan",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 200
+			},
+			"numberInSurah": 17,
+			"juz": 3,
+			"manzil": 1,
+			"page": 52,
+			"ruku": 43,
+			"hizbQuarter": 21,
+			"sajda": false
+		},
+		{
+			"number": 311,
+			"text": "شَهِدَ اللَّهُ أَنَّهُ لَا إِلَٰهَ إِلَّا هُوَ وَالْمَلَائِكَةُ وَأُولُو الْعِلْمِ قَائِمًا بِالْقِسْطِ ۚ لَا إِلَٰهَ إِلَّا هُوَ الْعَزِيزُ الْحَكِيمُ",
+			"surah": {
+				"number": 3,
+				"name": "سُورَةُ آلِ عِمۡرَانَ",
+				"englishName": "Aal-i-Imraan",
+				"englishNameTranslation": "The Family of Imraan",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 200
+			},
+			"numberInSurah": 18,
+			"juz": 3,
+			"manzil": 1,
+			"page": 52,
+			"ruku": 43,
+			"hizbQuarter": 21,
+			"sajda": false
+		},
+		{
+			"number": 312,
+			"text": "إِنَّ الدِّينَ عِنْدَ اللَّهِ الْإِسْلَامُ ۗ وَمَا اخْتَلَفَ الَّذِينَ أُوتُوا الْكِتَابَ إِلَّا مِنْ بَعْدِ مَا جَاءَهُمُ الْعِلْمُ بَغْيًا بَيْنَهُمْ ۗ وَمَنْ يَكْفُرْ بِآيَاتِ اللَّهِ فَإِنَّ اللَّهَ سَرِيعُ الْحِسَابِ",
+			"surah": {
+				"number": 3,
+				"name": "سُورَةُ آلِ عِمۡرَانَ",
+				"englishName": "Aal-i-Imraan",
+				"englishNameTranslation": "The Family of Imraan",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 200
+			},
+			"numberInSurah": 19,
+			"juz": 3,
+			"manzil": 1,
+			"page": 52,
+			"ruku": 43,
+			"hizbQuarter": 21,
+			"sajda": false
+		},
+		{
+			"number": 313,
+			"text": "فَإِنْ حَاجُّوكَ فَقُلْ أَسْلَمْتُ وَجْهِيَ لِلَّهِ وَمَنِ اتَّبَعَنِ ۗ وَقُلْ لِلَّذِينَ أُوتُوا الْكِتَابَ وَالْأُمِّيِّينَ أَأَسْلَمْتُمْ ۚ فَإِنْ أَسْلَمُوا فَقَدِ اهْتَدَوْا ۖ وَإِنْ تَوَلَّوْا فَإِنَّمَا عَلَيْكَ الْبَلَاغُ ۗ وَاللَّهُ بَصِيرٌ بِالْعِبَادِ",
+			"surah": {
+				"number": 3,
+				"name": "سُورَةُ آلِ عِمۡرَانَ",
+				"englishName": "Aal-i-Imraan",
+				"englishNameTranslation": "The Family of Imraan",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 200
+			},
+			"numberInSurah": 20,
+			"juz": 3,
+			"manzil": 1,
+			"page": 52,
+			"ruku": 43,
+			"hizbQuarter": 21,
+			"sajda": false
+		},
+		{
+			"number": 314,
+			"text": "إِنَّ الَّذِينَ يَكْفُرُونَ بِآيَاتِ اللَّهِ وَيَقْتُلُونَ النَّبِيِّينَ بِغَيْرِ حَقٍّ وَيَقْتُلُونَ الَّذِينَ يَأْمُرُونَ بِالْقِسْطِ مِنَ النَّاسِ فَبَشِّرْهُمْ بِعَذَابٍ أَلِيمٍ",
+			"surah": {
+				"number": 3,
+				"name": "سُورَةُ آلِ عِمۡرَانَ",
+				"englishName": "Aal-i-Imraan",
+				"englishNameTranslation": "The Family of Imraan",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 200
+			},
+			"numberInSurah": 21,
+			"juz": 3,
+			"manzil": 1,
+			"page": 52,
+			"ruku": 44,
+			"hizbQuarter": 21,
+			"sajda": false
+		},
+		{
+			"number": 315,
+			"text": "أُولَٰئِكَ الَّذِينَ حَبِطَتْ أَعْمَالُهُمْ فِي الدُّنْيَا وَالْآخِرَةِ وَمَا لَهُمْ مِنْ نَاصِرِينَ",
+			"surah": {
+				"number": 3,
+				"name": "سُورَةُ آلِ عِمۡرَانَ",
+				"englishName": "Aal-i-Imraan",
+				"englishNameTranslation": "The Family of Imraan",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 200
+			},
+			"numberInSurah": 22,
+			"juz": 3,
+			"manzil": 1,
+			"page": 52,
+			"ruku": 44,
+			"hizbQuarter": 21,
+			"sajda": false
+		}
+	],
+	"surahs": {
+		"3": {
+			"number": 3,
+			"name": "سُورَةُ آلِ عِمۡرَانَ",
+			"englishName": "Aal-i-Imraan",
+			"englishNameTranslation": "The Family of Imraan",
+			"revelationType": "Medinan",
+			"numberOfAyahs": 200
+		}
+	},
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

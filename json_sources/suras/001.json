@@ -1,0 +1,96 @@
+﻿{
+	"number": 1,
+	"name": "سُورَةُ ٱلْفَاتِحَةِ",
+	"englishName": "Al-Faatiha",
+	"englishNameTranslation": "The Opening",
+	"revelationType": "Meccan",
+	"numberOfAyahs": 7,
+	"ayahs": [
+		{
+			"number": 1,
+			"text": "﻿بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+			"numberInSurah": 1,
+			"juz": 1,
+			"manzil": 1,
+			"page": 1,
+			"ruku": 1,
+			"hizbQuarter": 1,
+			"sajda": false
+		},
+		{
+			"number": 2,
+			"text": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+			"numberInSurah": 2,
+			"juz": 1,
+			"manzil": 1,
+			"page": 1,
+			"ruku": 1,
+			"hizbQuarter": 1,
+			"sajda": false
+		},
+		{
+			"number": 3,
+			"text": "الرَّحْمَٰنِ الرَّحِيمِ",
+			"numberInSurah": 3,
+			"juz": 1,
+			"manzil": 1,
+			"page": 1,
+			"ruku": 1,
+			"hizbQuarter": 1,
+			"sajda": false
+		},
+		{
+			"number": 4,
+			"text": "مَالِكِ يَوْمِ الدِّينِ",
+			"numberInSurah": 4,
+			"juz": 1,
+			"manzil": 1,
+			"page": 1,
+			"ruku": 1,
+			"hizbQuarter": 1,
+			"sajda": false
+		},
+		{
+			"number": 5,
+			"text": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+			"numberInSurah": 5,
+			"juz": 1,
+			"manzil": 1,
+			"page": 1,
+			"ruku": 1,
+			"hizbQuarter": 1,
+			"sajda": false
+		},
+		{
+			"number": 6,
+			"text": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+			"numberInSurah": 6,
+			"juz": 1,
+			"manzil": 1,
+			"page": 1,
+			"ruku": 1,
+			"hizbQuarter": 1,
+			"sajda": false
+		},
+		{
+			"number": 7,
+			"text": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
+			"numberInSurah": 7,
+			"juz": 1,
+			"manzil": 1,
+			"page": 1,
+			"ruku": 1,
+			"hizbQuarter": 1,
+			"sajda": false
+		}
+	],
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

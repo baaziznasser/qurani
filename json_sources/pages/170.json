@@ -1,0 +1,100 @@
+﻿{
+	"number": 170,
+	"ayahs": [
+		{
+			"number": 1110,
+			"text": "۞ وَاكْتُبْ لَنَا فِي هَٰذِهِ الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ إِنَّا هُدْنَا إِلَيْكَ ۚ قَالَ عَذَابِي أُصِيبُ بِهِ مَنْ أَشَاءُ ۖ وَرَحْمَتِي وَسِعَتْ كُلَّ شَيْءٍ ۚ فَسَأَكْتُبُهَا لِلَّذِينَ يَتَّقُونَ وَيُؤْتُونَ الزَّكَاةَ وَالَّذِينَ هُمْ بِآيَاتِنَا يُؤْمِنُونَ",
+			"surah": {
+				"number": 7,
+				"name": "سُورَةُ الأَعۡرَافِ",
+				"englishName": "Al-A'raaf",
+				"englishNameTranslation": "The Heights",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 206
+			},
+			"numberInSurah": 156,
+			"juz": 9,
+			"manzil": 2,
+			"page": 170,
+			"ruku": 140,
+			"hizbQuarter": 68,
+			"sajda": false
+		},
+		{
+			"number": 1111,
+			"text": "الَّذِينَ يَتَّبِعُونَ الرَّسُولَ النَّبِيَّ الْأُمِّيَّ الَّذِي يَجِدُونَهُ مَكْتُوبًا عِنْدَهُمْ فِي التَّوْرَاةِ وَالْإِنْجِيلِ يَأْمُرُهُمْ بِالْمَعْرُوفِ وَيَنْهَاهُمْ عَنِ الْمُنْكَرِ وَيُحِلُّ لَهُمُ الطَّيِّبَاتِ وَيُحَرِّمُ عَلَيْهِمُ الْخَبَائِثَ وَيَضَعُ عَنْهُمْ إِصْرَهُمْ وَالْأَغْلَالَ الَّتِي كَانَتْ عَلَيْهِمْ ۚ فَالَّذِينَ آمَنُوا بِهِ وَعَزَّرُوهُ وَنَصَرُوهُ وَاتَّبَعُوا النُّورَ الَّذِي أُنْزِلَ مَعَهُ ۙ أُولَٰئِكَ هُمُ الْمُفْلِحُونَ",
+			"surah": {
+				"number": 7,
+				"name": "سُورَةُ الأَعۡرَافِ",
+				"englishName": "Al-A'raaf",
+				"englishNameTranslation": "The Heights",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 206
+			},
+			"numberInSurah": 157,
+			"juz": 9,
+			"manzil": 2,
+			"page": 170,
+			"ruku": 140,
+			"hizbQuarter": 68,
+			"sajda": false
+		},
+		{
+			"number": 1112,
+			"text": "قُلْ يَا أَيُّهَا النَّاسُ إِنِّي رَسُولُ اللَّهِ إِلَيْكُمْ جَمِيعًا الَّذِي لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ ۖ لَا إِلَٰهَ إِلَّا هُوَ يُحْيِي وَيُمِيتُ ۖ فَآمِنُوا بِاللَّهِ وَرَسُولِهِ النَّبِيِّ الْأُمِّيِّ الَّذِي يُؤْمِنُ بِاللَّهِ وَكَلِمَاتِهِ وَاتَّبِعُوهُ لَعَلَّكُمْ تَهْتَدُونَ",
+			"surah": {
+				"number": 7,
+				"name": "سُورَةُ الأَعۡرَافِ",
+				"englishName": "Al-A'raaf",
+				"englishNameTranslation": "The Heights",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 206
+			},
+			"numberInSurah": 158,
+			"juz": 9,
+			"manzil": 2,
+			"page": 170,
+			"ruku": 141,
+			"hizbQuarter": 68,
+			"sajda": false
+		},
+		{
+			"number": 1113,
+			"text": "وَمِنْ قَوْمِ مُوسَىٰ أُمَّةٌ يَهْدُونَ بِالْحَقِّ وَبِهِ يَعْدِلُونَ",
+			"surah": {
+				"number": 7,
+				"name": "سُورَةُ الأَعۡرَافِ",
+				"englishName": "Al-A'raaf",
+				"englishNameTranslation": "The Heights",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 206
+			},
+			"numberInSurah": 159,
+			"juz": 9,
+			"manzil": 2,
+			"page": 170,
+			"ruku": 141,
+			"hizbQuarter": 68,
+			"sajda": false
+		}
+	],
+	"surahs": {
+		"7": {
+			"number": 7,
+			"name": "سُورَةُ الأَعۡرَافِ",
+			"englishName": "Al-A'raaf",
+			"englishNameTranslation": "The Heights",
+			"revelationType": "Meccan",
+			"numberOfAyahs": 206
+		}
+	},
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

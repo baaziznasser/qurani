@@ -1,0 +1,138 @@
+﻿{
+	"number": 120,
+	"ayahs": [
+		{
+			"number": 740,
+			"text": "وَحَسِبُوا أَلَّا تَكُونَ فِتْنَةٌ فَعَمُوا وَصَمُّوا ثُمَّ تَابَ اللَّهُ عَلَيْهِمْ ثُمَّ عَمُوا وَصَمُّوا كَثِيرٌ مِنْهُمْ ۚ وَاللَّهُ بَصِيرٌ بِمَا يَعْمَلُونَ",
+			"surah": {
+				"number": 5,
+				"name": "سُورَةُ المَائـِدَةِ",
+				"englishName": "Al-Maaida",
+				"englishNameTranslation": "The Table",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 120
+			},
+			"numberInSurah": 71,
+			"juz": 6,
+			"manzil": 2,
+			"page": 120,
+			"ruku": 95,
+			"hizbQuarter": 48,
+			"sajda": false
+		},
+		{
+			"number": 741,
+			"text": "لَقَدْ كَفَرَ الَّذِينَ قَالُوا إِنَّ اللَّهَ هُوَ الْمَسِيحُ ابْنُ مَرْيَمَ ۖ وَقَالَ الْمَسِيحُ يَا بَنِي إِسْرَائِيلَ اعْبُدُوا اللَّهَ رَبِّي وَرَبَّكُمْ ۖ إِنَّهُ مَنْ يُشْرِكْ بِاللَّهِ فَقَدْ حَرَّمَ اللَّهُ عَلَيْهِ الْجَنَّةَ وَمَأْوَاهُ النَّارُ ۖ وَمَا لِلظَّالِمِينَ مِنْ أَنْصَارٍ",
+			"surah": {
+				"number": 5,
+				"name": "سُورَةُ المَائـِدَةِ",
+				"englishName": "Al-Maaida",
+				"englishNameTranslation": "The Table",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 120
+			},
+			"numberInSurah": 72,
+			"juz": 6,
+			"manzil": 2,
+			"page": 120,
+			"ruku": 95,
+			"hizbQuarter": 48,
+			"sajda": false
+		},
+		{
+			"number": 742,
+			"text": "لَقَدْ كَفَرَ الَّذِينَ قَالُوا إِنَّ اللَّهَ ثَالِثُ ثَلَاثَةٍ ۘ وَمَا مِنْ إِلَٰهٍ إِلَّا إِلَٰهٌ وَاحِدٌ ۚ وَإِنْ لَمْ يَنْتَهُوا عَمَّا يَقُولُونَ لَيَمَسَّنَّ الَّذِينَ كَفَرُوا مِنْهُمْ عَذَابٌ أَلِيمٌ",
+			"surah": {
+				"number": 5,
+				"name": "سُورَةُ المَائـِدَةِ",
+				"englishName": "Al-Maaida",
+				"englishNameTranslation": "The Table",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 120
+			},
+			"numberInSurah": 73,
+			"juz": 6,
+			"manzil": 2,
+			"page": 120,
+			"ruku": 95,
+			"hizbQuarter": 48,
+			"sajda": false
+		},
+		{
+			"number": 743,
+			"text": "أَفَلَا يَتُوبُونَ إِلَى اللَّهِ وَيَسْتَغْفِرُونَهُ ۚ وَاللَّهُ غَفُورٌ رَحِيمٌ",
+			"surah": {
+				"number": 5,
+				"name": "سُورَةُ المَائـِدَةِ",
+				"englishName": "Al-Maaida",
+				"englishNameTranslation": "The Table",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 120
+			},
+			"numberInSurah": 74,
+			"juz": 6,
+			"manzil": 2,
+			"page": 120,
+			"ruku": 95,
+			"hizbQuarter": 48,
+			"sajda": false
+		},
+		{
+			"number": 744,
+			"text": "مَا الْمَسِيحُ ابْنُ مَرْيَمَ إِلَّا رَسُولٌ قَدْ خَلَتْ مِنْ قَبْلِهِ الرُّسُلُ وَأُمُّهُ صِدِّيقَةٌ ۖ كَانَا يَأْكُلَانِ الطَّعَامَ ۗ انْظُرْ كَيْفَ نُبَيِّنُ لَهُمُ الْآيَاتِ ثُمَّ انْظُرْ أَنَّىٰ يُؤْفَكُونَ",
+			"surah": {
+				"number": 5,
+				"name": "سُورَةُ المَائـِدَةِ",
+				"englishName": "Al-Maaida",
+				"englishNameTranslation": "The Table",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 120
+			},
+			"numberInSurah": 75,
+			"juz": 6,
+			"manzil": 2,
+			"page": 120,
+			"ruku": 95,
+			"hizbQuarter": 48,
+			"sajda": false
+		},
+		{
+			"number": 745,
+			"text": "قُلْ أَتَعْبُدُونَ مِنْ دُونِ اللَّهِ مَا لَا يَمْلِكُ لَكُمْ ضَرًّا وَلَا نَفْعًا ۚ وَاللَّهُ هُوَ السَّمِيعُ الْعَلِيمُ",
+			"surah": {
+				"number": 5,
+				"name": "سُورَةُ المَائـِدَةِ",
+				"englishName": "Al-Maaida",
+				"englishNameTranslation": "The Table",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 120
+			},
+			"numberInSurah": 76,
+			"juz": 6,
+			"manzil": 2,
+			"page": 120,
+			"ruku": 95,
+			"hizbQuarter": 48,
+			"sajda": false
+		}
+	],
+	"surahs": {
+		"5": {
+			"number": 5,
+			"name": "سُورَةُ المَائـِدَةِ",
+			"englishName": "Al-Maaida",
+			"englishNameTranslation": "The Table",
+			"revelationType": "Medinan",
+			"numberOfAyahs": 120
+		}
+	},
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

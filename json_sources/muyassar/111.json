@@ -1,0 +1,74 @@
+﻿{
+	"number": 111,
+	"name": "سُورَةُ المَسَدِ",
+	"englishName": "Al-Masad",
+	"englishNameTranslation": "The Palm Fibre",
+	"revelationType": "Meccan",
+	"numberOfAyahs": 5,
+	"ayahs": [
+		{
+			"number": 6217,
+			"text": "خسرت يدا أبي لهب وشقي بإيذائه رسول الله محمدا صلى الله عليه وسلم، وقد تحقق خسران أبي لهب.",
+			"numberInSurah": 1,
+			"juz": 30,
+			"manzil": 7,
+			"page": 603,
+			"ruku": 553,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6218,
+			"text": "ما أغنى عنه ماله وولده، فلن يَرُدَّا عنه شيئًا من عذاب الله إذا نزل به.",
+			"numberInSurah": 2,
+			"juz": 30,
+			"manzil": 7,
+			"page": 603,
+			"ruku": 553,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6219,
+			"text": "سيدخل نارًا متأججة، هو وامرأته التي كانت تحمل الشوك، فتطرحه في طريق النبي صلى الله عليه وسلم؛ لأذيَّته.",
+			"numberInSurah": 3,
+			"juz": 30,
+			"manzil": 7,
+			"page": 603,
+			"ruku": 553,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6220,
+			"text": "سيدخل نارًا متأججة، هو وامرأته التي كانت تحمل الشوك، فتطرحه في طريق النبي صلى الله عليه وسلم؛ لأذيَّته.",
+			"numberInSurah": 4,
+			"juz": 30,
+			"manzil": 7,
+			"page": 603,
+			"ruku": 553,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6221,
+			"text": "في عنقها حبل محكم الفَتْلِ مِن ليف شديد خشن، تُرْفَع به في نار جهنم، ثم تُرْمى إلى أسفلها.",
+			"numberInSurah": 5,
+			"juz": 30,
+			"manzil": 7,
+			"page": 603,
+			"ruku": 553,
+			"hizbQuarter": 240,
+			"sajda": false
+		}
+	],
+	"edition": {
+		"identifier": "ar.muyassar",
+		"language": "ar",
+		"name": "تفسير المیسر",
+		"englishName": "King Fahad Quran Complex",
+		"format": "text",
+		"type": "tafsir",
+		"direction": "rtl"
+	}
+}

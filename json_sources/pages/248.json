@@ -1,0 +1,176 @@
+﻿{
+	"number": 248,
+	"ayahs": [
+		{
+			"number": 1700,
+			"text": "وَمَا تَسْأَلُهُمْ عَلَيْهِ مِنْ أَجْرٍ ۚ إِنْ هُوَ إِلَّا ذِكْرٌ لِلْعَالَمِينَ",
+			"surah": {
+				"number": 12,
+				"name": "سُورَةُ يُوسُفَ",
+				"englishName": "Yusuf",
+				"englishNameTranslation": "Joseph",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 104,
+			"juz": 13,
+			"manzil": 3,
+			"page": 248,
+			"ruku": 203,
+			"hizbQuarter": 99,
+			"sajda": false
+		},
+		{
+			"number": 1701,
+			"text": "وَكَأَيِّنْ مِنْ آيَةٍ فِي السَّمَاوَاتِ وَالْأَرْضِ يَمُرُّونَ عَلَيْهَا وَهُمْ عَنْهَا مُعْرِضُونَ",
+			"surah": {
+				"number": 12,
+				"name": "سُورَةُ يُوسُفَ",
+				"englishName": "Yusuf",
+				"englishNameTranslation": "Joseph",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 105,
+			"juz": 13,
+			"manzil": 3,
+			"page": 248,
+			"ruku": 204,
+			"hizbQuarter": 99,
+			"sajda": false
+		},
+		{
+			"number": 1702,
+			"text": "وَمَا يُؤْمِنُ أَكْثَرُهُمْ بِاللَّهِ إِلَّا وَهُمْ مُشْرِكُونَ",
+			"surah": {
+				"number": 12,
+				"name": "سُورَةُ يُوسُفَ",
+				"englishName": "Yusuf",
+				"englishNameTranslation": "Joseph",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 106,
+			"juz": 13,
+			"manzil": 3,
+			"page": 248,
+			"ruku": 204,
+			"hizbQuarter": 99,
+			"sajda": false
+		},
+		{
+			"number": 1703,
+			"text": "أَفَأَمِنُوا أَنْ تَأْتِيَهُمْ غَاشِيَةٌ مِنْ عَذَابِ اللَّهِ أَوْ تَأْتِيَهُمُ السَّاعَةُ بَغْتَةً وَهُمْ لَا يَشْعُرُونَ",
+			"surah": {
+				"number": 12,
+				"name": "سُورَةُ يُوسُفَ",
+				"englishName": "Yusuf",
+				"englishNameTranslation": "Joseph",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 107,
+			"juz": 13,
+			"manzil": 3,
+			"page": 248,
+			"ruku": 204,
+			"hizbQuarter": 99,
+			"sajda": false
+		},
+		{
+			"number": 1704,
+			"text": "قُلْ هَٰذِهِ سَبِيلِي أَدْعُو إِلَى اللَّهِ ۚ عَلَىٰ بَصِيرَةٍ أَنَا وَمَنِ اتَّبَعَنِي ۖ وَسُبْحَانَ اللَّهِ وَمَا أَنَا مِنَ الْمُشْرِكِينَ",
+			"surah": {
+				"number": 12,
+				"name": "سُورَةُ يُوسُفَ",
+				"englishName": "Yusuf",
+				"englishNameTranslation": "Joseph",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 108,
+			"juz": 13,
+			"manzil": 3,
+			"page": 248,
+			"ruku": 204,
+			"hizbQuarter": 99,
+			"sajda": false
+		},
+		{
+			"number": 1705,
+			"text": "وَمَا أَرْسَلْنَا مِنْ قَبْلِكَ إِلَّا رِجَالًا نُوحِي إِلَيْهِمْ مِنْ أَهْلِ الْقُرَىٰ ۗ أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنْظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِنْ قَبْلِهِمْ ۗ وَلَدَارُ الْآخِرَةِ خَيْرٌ لِلَّذِينَ اتَّقَوْا ۗ أَفَلَا تَعْقِلُونَ",
+			"surah": {
+				"number": 12,
+				"name": "سُورَةُ يُوسُفَ",
+				"englishName": "Yusuf",
+				"englishNameTranslation": "Joseph",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 109,
+			"juz": 13,
+			"manzil": 3,
+			"page": 248,
+			"ruku": 204,
+			"hizbQuarter": 99,
+			"sajda": false
+		},
+		{
+			"number": 1706,
+			"text": "حَتَّىٰ إِذَا اسْتَيْأَسَ الرُّسُلُ وَظَنُّوا أَنَّهُمْ قَدْ كُذِبُوا جَاءَهُمْ نَصْرُنَا فَنُجِّيَ مَنْ نَشَاءُ ۖ وَلَا يُرَدُّ بَأْسُنَا عَنِ الْقَوْمِ الْمُجْرِمِينَ",
+			"surah": {
+				"number": 12,
+				"name": "سُورَةُ يُوسُفَ",
+				"englishName": "Yusuf",
+				"englishNameTranslation": "Joseph",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 110,
+			"juz": 13,
+			"manzil": 3,
+			"page": 248,
+			"ruku": 204,
+			"hizbQuarter": 99,
+			"sajda": false
+		},
+		{
+			"number": 1707,
+			"text": "لَقَدْ كَانَ فِي قَصَصِهِمْ عِبْرَةٌ لِأُولِي الْأَلْبَابِ ۗ مَا كَانَ حَدِيثًا يُفْتَرَىٰ وَلَٰكِنْ تَصْدِيقَ الَّذِي بَيْنَ يَدَيْهِ وَتَفْصِيلَ كُلِّ شَيْءٍ وَهُدًى وَرَحْمَةً لِقَوْمٍ يُؤْمِنُونَ",
+			"surah": {
+				"number": 12,
+				"name": "سُورَةُ يُوسُفَ",
+				"englishName": "Yusuf",
+				"englishNameTranslation": "Joseph",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 111,
+			"juz": 13,
+			"manzil": 3,
+			"page": 248,
+			"ruku": 204,
+			"hizbQuarter": 99,
+			"sajda": false
+		}
+	],
+	"surahs": {
+		"12": {
+			"number": 12,
+			"name": "سُورَةُ يُوسُفَ",
+			"englishName": "Yusuf",
+			"englishNameTranslation": "Joseph",
+			"revelationType": "Meccan",
+			"numberOfAyahs": 111
+		}
+	},
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

@@ -1,0 +1,594 @@
+﻿{
+	"number": 2,
+	"ayahs": [
+		{
+			"number": 82,
+			"text": "۞ أَفَتَطْمَعُونَ أَنْ يُؤْمِنُوا لَكُمْ وَقَدْ كَانَ فَرِيقٌ مِنْهُمْ يَسْمَعُونَ كَلَامَ اللَّهِ ثُمَّ يُحَرِّفُونَهُ مِنْ بَعْدِ مَا عَقَلُوهُ وَهُمْ يَعْلَمُونَ",
+			"surah": {
+				"number": 2,
+				"name": "سُورَةُ البَقَرَةِ",
+				"englishName": "Al-Baqara",
+				"englishNameTranslation": "The Cow",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 286
+			},
+			"numberInSurah": 75,
+			"juz": 1,
+			"manzil": 1,
+			"page": 11,
+			"ruku": 10,
+			"hizbQuarter": 5,
+			"sajda": false
+		},
+		{
+			"number": 83,
+			"text": "وَإِذَا لَقُوا الَّذِينَ آمَنُوا قَالُوا آمَنَّا وَإِذَا خَلَا بَعْضُهُمْ إِلَىٰ بَعْضٍ قَالُوا أَتُحَدِّثُونَهُمْ بِمَا فَتَحَ اللَّهُ عَلَيْكُمْ لِيُحَاجُّوكُمْ بِهِ عِنْدَ رَبِّكُمْ ۚ أَفَلَا تَعْقِلُونَ",
+			"surah": {
+				"number": 2,
+				"name": "سُورَةُ البَقَرَةِ",
+				"englishName": "Al-Baqara",
+				"englishNameTranslation": "The Cow",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 286
+			},
+			"numberInSurah": 76,
+			"juz": 1,
+			"manzil": 1,
+			"page": 11,
+			"ruku": 10,
+			"hizbQuarter": 5,
+			"sajda": false
+		},
+		{
+			"number": 84,
+			"text": "أَوَلَا يَعْلَمُونَ أَنَّ اللَّهَ يَعْلَمُ مَا يُسِرُّونَ وَمَا يُعْلِنُونَ",
+			"surah": {
+				"number": 2,
+				"name": "سُورَةُ البَقَرَةِ",
+				"englishName": "Al-Baqara",
+				"englishNameTranslation": "The Cow",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 286
+			},
+			"numberInSurah": 77,
+			"juz": 1,
+			"manzil": 1,
+			"page": 12,
+			"ruku": 10,
+			"hizbQuarter": 5,
+			"sajda": false
+		},
+		{
+			"number": 85,
+			"text": "وَمِنْهُمْ أُمِّيُّونَ لَا يَعْلَمُونَ الْكِتَابَ إِلَّا أَمَانِيَّ وَإِنْ هُمْ إِلَّا يَظُنُّونَ",
+			"surah": {
+				"number": 2,
+				"name": "سُورَةُ البَقَرَةِ",
+				"englishName": "Al-Baqara",
+				"englishNameTranslation": "The Cow",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 286
+			},
+			"numberInSurah": 78,
+			"juz": 1,
+			"manzil": 1,
+			"page": 12,
+			"ruku": 10,
+			"hizbQuarter": 5,
+			"sajda": false
+		},
+		{
+			"number": 86,
+			"text": "فَوَيْلٌ لِلَّذِينَ يَكْتُبُونَ الْكِتَابَ بِأَيْدِيهِمْ ثُمَّ يَقُولُونَ هَٰذَا مِنْ عِنْدِ اللَّهِ لِيَشْتَرُوا بِهِ ثَمَنًا قَلِيلًا ۖ فَوَيْلٌ لَهُمْ مِمَّا كَتَبَتْ أَيْدِيهِمْ وَوَيْلٌ لَهُمْ مِمَّا يَكْسِبُونَ",
+			"surah": {
+				"number": 2,
+				"name": "سُورَةُ البَقَرَةِ",
+				"englishName": "Al-Baqara",
+				"englishNameTranslation": "The Cow",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 286
+			},
+			"numberInSurah": 79,
+			"juz": 1,
+			"manzil": 1,
+			"page": 12,
+			"ruku": 10,
+			"hizbQuarter": 5,
+			"sajda": false
+		},
+		{
+			"number": 87,
+			"text": "وَقَالُوا لَنْ تَمَسَّنَا النَّارُ إِلَّا أَيَّامًا مَعْدُودَةً ۚ قُلْ أَتَّخَذْتُمْ عِنْدَ اللَّهِ عَهْدًا فَلَنْ يُخْلِفَ اللَّهُ عَهْدَهُ ۖ أَمْ تَقُولُونَ عَلَى اللَّهِ مَا لَا تَعْلَمُونَ",
+			"surah": {
+				"number": 2,
+				"name": "سُورَةُ البَقَرَةِ",
+				"englishName": "Al-Baqara",
+				"englishNameTranslation": "The Cow",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 286
+			},
+			"numberInSurah": 80,
+			"juz": 1,
+			"manzil": 1,
+			"page": 12,
+			"ruku": 10,
+			"hizbQuarter": 5,
+			"sajda": false
+		},
+		{
+			"number": 88,
+			"text": "بَلَىٰ مَنْ كَسَبَ سَيِّئَةً وَأَحَاطَتْ بِهِ خَطِيئَتُهُ فَأُولَٰئِكَ أَصْحَابُ النَّارِ ۖ هُمْ فِيهَا خَالِدُونَ",
+			"surah": {
+				"number": 2,
+				"name": "سُورَةُ البَقَرَةِ",
+				"englishName": "Al-Baqara",
+				"englishNameTranslation": "The Cow",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 286
+			},
+			"numberInSurah": 81,
+			"juz": 1,
+			"manzil": 1,
+			"page": 12,
+			"ruku": 10,
+			"hizbQuarter": 5,
+			"sajda": false
+		},
+		{
+			"number": 89,
+			"text": "وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ أُولَٰئِكَ أَصْحَابُ الْجَنَّةِ ۖ هُمْ فِيهَا خَالِدُونَ",
+			"surah": {
+				"number": 2,
+				"name": "سُورَةُ البَقَرَةِ",
+				"englishName": "Al-Baqara",
+				"englishNameTranslation": "The Cow",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 286
+			},
+			"numberInSurah": 82,
+			"juz": 1,
+			"manzil": 1,
+			"page": 12,
+			"ruku": 10,
+			"hizbQuarter": 5,
+			"sajda": false
+		},
+		{
+			"number": 90,
+			"text": "وَإِذْ أَخَذْنَا مِيثَاقَ بَنِي إِسْرَائِيلَ لَا تَعْبُدُونَ إِلَّا اللَّهَ وَبِالْوَالِدَيْنِ إِحْسَانًا وَذِي الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينِ وَقُولُوا لِلنَّاسِ حُسْنًا وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ ثُمَّ تَوَلَّيْتُمْ إِلَّا قَلِيلًا مِنْكُمْ وَأَنْتُمْ مُعْرِضُونَ",
+			"surah": {
+				"number": 2,
+				"name": "سُورَةُ البَقَرَةِ",
+				"englishName": "Al-Baqara",
+				"englishNameTranslation": "The Cow",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 286
+			},
+			"numberInSurah": 83,
+			"juz": 1,
+			"manzil": 1,
+			"page": 12,
+			"ruku": 11,
+			"hizbQuarter": 5,
+			"sajda": false
+		},
+		{
+			"number": 91,
+			"text": "وَإِذْ أَخَذْنَا مِيثَاقَكُمْ لَا تَسْفِكُونَ دِمَاءَكُمْ وَلَا تُخْرِجُونَ أَنْفُسَكُمْ مِنْ دِيَارِكُمْ ثُمَّ أَقْرَرْتُمْ وَأَنْتُمْ تَشْهَدُونَ",
+			"surah": {
+				"number": 2,
+				"name": "سُورَةُ البَقَرَةِ",
+				"englishName": "Al-Baqara",
+				"englishNameTranslation": "The Cow",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 286
+			},
+			"numberInSurah": 84,
+			"juz": 1,
+			"manzil": 1,
+			"page": 13,
+			"ruku": 11,
+			"hizbQuarter": 5,
+			"sajda": false
+		},
+		{
+			"number": 92,
+			"text": "ثُمَّ أَنْتُمْ هَٰؤُلَاءِ تَقْتُلُونَ أَنْفُسَكُمْ وَتُخْرِجُونَ فَرِيقًا مِنْكُمْ مِنْ دِيَارِهِمْ تَظَاهَرُونَ عَلَيْهِمْ بِالْإِثْمِ وَالْعُدْوَانِ وَإِنْ يَأْتُوكُمْ أُسَارَىٰ تُفَادُوهُمْ وَهُوَ مُحَرَّمٌ عَلَيْكُمْ إِخْرَاجُهُمْ ۚ أَفَتُؤْمِنُونَ بِبَعْضِ الْكِتَابِ وَتَكْفُرُونَ بِبَعْضٍ ۚ فَمَا جَزَاءُ مَنْ يَفْعَلُ ذَٰلِكَ مِنْكُمْ إِلَّا خِزْيٌ فِي الْحَيَاةِ الدُّنْيَا ۖ وَيَوْمَ الْقِيَامَةِ يُرَدُّونَ إِلَىٰ أَشَدِّ الْعَذَابِ ۗ وَمَا اللَّهُ بِغَافِلٍ عَمَّا تَعْمَلُونَ",
+			"surah": {
+				"number": 2,
+				"name": "سُورَةُ البَقَرَةِ",
+				"englishName": "Al-Baqara",
+				"englishNameTranslation": "The Cow",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 286
+			},
+			"numberInSurah": 85,
+			"juz": 1,
+			"manzil": 1,
+			"page": 13,
+			"ruku": 11,
+			"hizbQuarter": 5,
+			"sajda": false
+		},
+		{
+			"number": 93,
+			"text": "أُولَٰئِكَ الَّذِينَ اشْتَرَوُا الْحَيَاةَ الدُّنْيَا بِالْآخِرَةِ ۖ فَلَا يُخَفَّفُ عَنْهُمُ الْعَذَابُ وَلَا هُمْ يُنْصَرُونَ",
+			"surah": {
+				"number": 2,
+				"name": "سُورَةُ البَقَرَةِ",
+				"englishName": "Al-Baqara",
+				"englishNameTranslation": "The Cow",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 286
+			},
+			"numberInSurah": 86,
+			"juz": 1,
+			"manzil": 1,
+			"page": 13,
+			"ruku": 11,
+			"hizbQuarter": 5,
+			"sajda": false
+		},
+		{
+			"number": 94,
+			"text": "وَلَقَدْ آتَيْنَا مُوسَى الْكِتَابَ وَقَفَّيْنَا مِنْ بَعْدِهِ بِالرُّسُلِ ۖ وَآتَيْنَا عِيسَى ابْنَ مَرْيَمَ الْبَيِّنَاتِ وَأَيَّدْنَاهُ بِرُوحِ الْقُدُسِ ۗ أَفَكُلَّمَا جَاءَكُمْ رَسُولٌ بِمَا لَا تَهْوَىٰ أَنْفُسُكُمُ اسْتَكْبَرْتُمْ فَفَرِيقًا كَذَّبْتُمْ وَفَرِيقًا تَقْتُلُونَ",
+			"surah": {
+				"number": 2,
+				"name": "سُورَةُ البَقَرَةِ",
+				"englishName": "Al-Baqara",
+				"englishNameTranslation": "The Cow",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 286
+			},
+			"numberInSurah": 87,
+			"juz": 1,
+			"manzil": 1,
+			"page": 13,
+			"ruku": 12,
+			"hizbQuarter": 5,
+			"sajda": false
+		},
+		{
+			"number": 95,
+			"text": "وَقَالُوا قُلُوبُنَا غُلْفٌ ۚ بَلْ لَعَنَهُمُ اللَّهُ بِكُفْرِهِمْ فَقَلِيلًا مَا يُؤْمِنُونَ",
+			"surah": {
+				"number": 2,
+				"name": "سُورَةُ البَقَرَةِ",
+				"englishName": "Al-Baqara",
+				"englishNameTranslation": "The Cow",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 286
+			},
+			"numberInSurah": 88,
+			"juz": 1,
+			"manzil": 1,
+			"page": 13,
+			"ruku": 12,
+			"hizbQuarter": 5,
+			"sajda": false
+		},
+		{
+			"number": 96,
+			"text": "وَلَمَّا جَاءَهُمْ كِتَابٌ مِنْ عِنْدِ اللَّهِ مُصَدِّقٌ لِمَا مَعَهُمْ وَكَانُوا مِنْ قَبْلُ يَسْتَفْتِحُونَ عَلَى الَّذِينَ كَفَرُوا فَلَمَّا جَاءَهُمْ مَا عَرَفُوا كَفَرُوا بِهِ ۚ فَلَعْنَةُ اللَّهِ عَلَى الْكَافِرِينَ",
+			"surah": {
+				"number": 2,
+				"name": "سُورَةُ البَقَرَةِ",
+				"englishName": "Al-Baqara",
+				"englishNameTranslation": "The Cow",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 286
+			},
+			"numberInSurah": 89,
+			"juz": 1,
+			"manzil": 1,
+			"page": 14,
+			"ruku": 12,
+			"hizbQuarter": 5,
+			"sajda": false
+		},
+		{
+			"number": 97,
+			"text": "بِئْسَمَا اشْتَرَوْا بِهِ أَنْفُسَهُمْ أَنْ يَكْفُرُوا بِمَا أَنْزَلَ اللَّهُ بَغْيًا أَنْ يُنَزِّلَ اللَّهُ مِنْ فَضْلِهِ عَلَىٰ مَنْ يَشَاءُ مِنْ عِبَادِهِ ۖ فَبَاءُوا بِغَضَبٍ عَلَىٰ غَضَبٍ ۚ وَلِلْكَافِرِينَ عَذَابٌ مُهِينٌ",
+			"surah": {
+				"number": 2,
+				"name": "سُورَةُ البَقَرَةِ",
+				"englishName": "Al-Baqara",
+				"englishNameTranslation": "The Cow",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 286
+			},
+			"numberInSurah": 90,
+			"juz": 1,
+			"manzil": 1,
+			"page": 14,
+			"ruku": 12,
+			"hizbQuarter": 5,
+			"sajda": false
+		},
+		{
+			"number": 98,
+			"text": "وَإِذَا قِيلَ لَهُمْ آمِنُوا بِمَا أَنْزَلَ اللَّهُ قَالُوا نُؤْمِنُ بِمَا أُنْزِلَ عَلَيْنَا وَيَكْفُرُونَ بِمَا وَرَاءَهُ وَهُوَ الْحَقُّ مُصَدِّقًا لِمَا مَعَهُمْ ۗ قُلْ فَلِمَ تَقْتُلُونَ أَنْبِيَاءَ اللَّهِ مِنْ قَبْلُ إِنْ كُنْتُمْ مُؤْمِنِينَ",
+			"surah": {
+				"number": 2,
+				"name": "سُورَةُ البَقَرَةِ",
+				"englishName": "Al-Baqara",
+				"englishNameTranslation": "The Cow",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 286
+			},
+			"numberInSurah": 91,
+			"juz": 1,
+			"manzil": 1,
+			"page": 14,
+			"ruku": 12,
+			"hizbQuarter": 5,
+			"sajda": false
+		},
+		{
+			"number": 99,
+			"text": "۞ وَلَقَدْ جَاءَكُمْ مُوسَىٰ بِالْبَيِّنَاتِ ثُمَّ اتَّخَذْتُمُ الْعِجْلَ مِنْ بَعْدِهِ وَأَنْتُمْ ظَالِمُونَ",
+			"surah": {
+				"number": 2,
+				"name": "سُورَةُ البَقَرَةِ",
+				"englishName": "Al-Baqara",
+				"englishNameTranslation": "The Cow",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 286
+			},
+			"numberInSurah": 92,
+			"juz": 1,
+			"manzil": 1,
+			"page": 14,
+			"ruku": 12,
+			"hizbQuarter": 6,
+			"sajda": false
+		},
+		{
+			"number": 100,
+			"text": "وَإِذْ أَخَذْنَا مِيثَاقَكُمْ وَرَفَعْنَا فَوْقَكُمُ الطُّورَ خُذُوا مَا آتَيْنَاكُمْ بِقُوَّةٍ وَاسْمَعُوا ۖ قَالُوا سَمِعْنَا وَعَصَيْنَا وَأُشْرِبُوا فِي قُلُوبِهِمُ الْعِجْلَ بِكُفْرِهِمْ ۚ قُلْ بِئْسَمَا يَأْمُرُكُمْ بِهِ إِيمَانُكُمْ إِنْ كُنْتُمْ مُؤْمِنِينَ",
+			"surah": {
+				"number": 2,
+				"name": "سُورَةُ البَقَرَةِ",
+				"englishName": "Al-Baqara",
+				"englishNameTranslation": "The Cow",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 286
+			},
+			"numberInSurah": 93,
+			"juz": 1,
+			"manzil": 1,
+			"page": 14,
+			"ruku": 12,
+			"hizbQuarter": 6,
+			"sajda": false
+		},
+		{
+			"number": 101,
+			"text": "قُلْ إِنْ كَانَتْ لَكُمُ الدَّارُ الْآخِرَةُ عِنْدَ اللَّهِ خَالِصَةً مِنْ دُونِ النَّاسِ فَتَمَنَّوُا الْمَوْتَ إِنْ كُنْتُمْ صَادِقِينَ",
+			"surah": {
+				"number": 2,
+				"name": "سُورَةُ البَقَرَةِ",
+				"englishName": "Al-Baqara",
+				"englishNameTranslation": "The Cow",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 286
+			},
+			"numberInSurah": 94,
+			"juz": 1,
+			"manzil": 1,
+			"page": 15,
+			"ruku": 12,
+			"hizbQuarter": 6,
+			"sajda": false
+		},
+		{
+			"number": 102,
+			"text": "وَلَنْ يَتَمَنَّوْهُ أَبَدًا بِمَا قَدَّمَتْ أَيْدِيهِمْ ۗ وَاللَّهُ عَلِيمٌ بِالظَّالِمِينَ",
+			"surah": {
+				"number": 2,
+				"name": "سُورَةُ البَقَرَةِ",
+				"englishName": "Al-Baqara",
+				"englishNameTranslation": "The Cow",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 286
+			},
+			"numberInSurah": 95,
+			"juz": 1,
+			"manzil": 1,
+			"page": 15,
+			"ruku": 12,
+			"hizbQuarter": 6,
+			"sajda": false
+		},
+		{
+			"number": 103,
+			"text": "وَلَتَجِدَنَّهُمْ أَحْرَصَ النَّاسِ عَلَىٰ حَيَاةٍ وَمِنَ الَّذِينَ أَشْرَكُوا ۚ يَوَدُّ أَحَدُهُمْ لَوْ يُعَمَّرُ أَلْفَ سَنَةٍ وَمَا هُوَ بِمُزَحْزِحِهِ مِنَ الْعَذَابِ أَنْ يُعَمَّرَ ۗ وَاللَّهُ بَصِيرٌ بِمَا يَعْمَلُونَ",
+			"surah": {
+				"number": 2,
+				"name": "سُورَةُ البَقَرَةِ",
+				"englishName": "Al-Baqara",
+				"englishNameTranslation": "The Cow",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 286
+			},
+			"numberInSurah": 96,
+			"juz": 1,
+			"manzil": 1,
+			"page": 15,
+			"ruku": 12,
+			"hizbQuarter": 6,
+			"sajda": false
+		},
+		{
+			"number": 104,
+			"text": "قُلْ مَنْ كَانَ عَدُوًّا لِجِبْرِيلَ فَإِنَّهُ نَزَّلَهُ عَلَىٰ قَلْبِكَ بِإِذْنِ اللَّهِ مُصَدِّقًا لِمَا بَيْنَ يَدَيْهِ وَهُدًى وَبُشْرَىٰ لِلْمُؤْمِنِينَ",
+			"surah": {
+				"number": 2,
+				"name": "سُورَةُ البَقَرَةِ",
+				"englishName": "Al-Baqara",
+				"englishNameTranslation": "The Cow",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 286
+			},
+			"numberInSurah": 97,
+			"juz": 1,
+			"manzil": 1,
+			"page": 15,
+			"ruku": 13,
+			"hizbQuarter": 6,
+			"sajda": false
+		},
+		{
+			"number": 105,
+			"text": "مَنْ كَانَ عَدُوًّا لِلَّهِ وَمَلَائِكَتِهِ وَرُسُلِهِ وَجِبْرِيلَ وَمِيكَالَ فَإِنَّ اللَّهَ عَدُوٌّ لِلْكَافِرِينَ",
+			"surah": {
+				"number": 2,
+				"name": "سُورَةُ البَقَرَةِ",
+				"englishName": "Al-Baqara",
+				"englishNameTranslation": "The Cow",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 286
+			},
+			"numberInSurah": 98,
+			"juz": 1,
+			"manzil": 1,
+			"page": 15,
+			"ruku": 13,
+			"hizbQuarter": 6,
+			"sajda": false
+		},
+		{
+			"number": 106,
+			"text": "وَلَقَدْ أَنْزَلْنَا إِلَيْكَ آيَاتٍ بَيِّنَاتٍ ۖ وَمَا يَكْفُرُ بِهَا إِلَّا الْفَاسِقُونَ",
+			"surah": {
+				"number": 2,
+				"name": "سُورَةُ البَقَرَةِ",
+				"englishName": "Al-Baqara",
+				"englishNameTranslation": "The Cow",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 286
+			},
+			"numberInSurah": 99,
+			"juz": 1,
+			"manzil": 1,
+			"page": 15,
+			"ruku": 13,
+			"hizbQuarter": 6,
+			"sajda": false
+		},
+		{
+			"number": 107,
+			"text": "أَوَكُلَّمَا عَاهَدُوا عَهْدًا نَبَذَهُ فَرِيقٌ مِنْهُمْ ۚ بَلْ أَكْثَرُهُمْ لَا يُؤْمِنُونَ",
+			"surah": {
+				"number": 2,
+				"name": "سُورَةُ البَقَرَةِ",
+				"englishName": "Al-Baqara",
+				"englishNameTranslation": "The Cow",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 286
+			},
+			"numberInSurah": 100,
+			"juz": 1,
+			"manzil": 1,
+			"page": 15,
+			"ruku": 13,
+			"hizbQuarter": 6,
+			"sajda": false
+		},
+		{
+			"number": 108,
+			"text": "وَلَمَّا جَاءَهُمْ رَسُولٌ مِنْ عِنْدِ اللَّهِ مُصَدِّقٌ لِمَا مَعَهُمْ نَبَذَ فَرِيقٌ مِنَ الَّذِينَ أُوتُوا الْكِتَابَ كِتَابَ اللَّهِ وَرَاءَ ظُهُورِهِمْ كَأَنَّهُمْ لَا يَعْلَمُونَ",
+			"surah": {
+				"number": 2,
+				"name": "سُورَةُ البَقَرَةِ",
+				"englishName": "Al-Baqara",
+				"englishNameTranslation": "The Cow",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 286
+			},
+			"numberInSurah": 101,
+			"juz": 1,
+			"manzil": 1,
+			"page": 15,
+			"ruku": 13,
+			"hizbQuarter": 6,
+			"sajda": false
+		},
+		{
+			"number": 109,
+			"text": "وَاتَّبَعُوا مَا تَتْلُو الشَّيَاطِينُ عَلَىٰ مُلْكِ سُلَيْمَانَ ۖ وَمَا كَفَرَ سُلَيْمَانُ وَلَٰكِنَّ الشَّيَاطِينَ كَفَرُوا يُعَلِّمُونَ النَّاسَ السِّحْرَ وَمَا أُنْزِلَ عَلَى الْمَلَكَيْنِ بِبَابِلَ هَارُوتَ وَمَارُوتَ ۚ وَمَا يُعَلِّمَانِ مِنْ أَحَدٍ حَتَّىٰ يَقُولَا إِنَّمَا نَحْنُ فِتْنَةٌ فَلَا تَكْفُرْ ۖ فَيَتَعَلَّمُونَ مِنْهُمَا مَا يُفَرِّقُونَ بِهِ بَيْنَ الْمَرْءِ وَزَوْجِهِ ۚ وَمَا هُمْ بِضَارِّينَ بِهِ مِنْ أَحَدٍ إِلَّا بِإِذْنِ اللَّهِ ۚ وَيَتَعَلَّمُونَ مَا يَضُرُّهُمْ وَلَا يَنْفَعُهُمْ ۚ وَلَقَدْ عَلِمُوا لَمَنِ اشْتَرَاهُ مَا لَهُ فِي الْآخِرَةِ مِنْ خَلَاقٍ ۚ وَلَبِئْسَ مَا شَرَوْا بِهِ أَنْفُسَهُمْ ۚ لَوْ كَانُوا يَعْلَمُونَ",
+			"surah": {
+				"number": 2,
+				"name": "سُورَةُ البَقَرَةِ",
+				"englishName": "Al-Baqara",
+				"englishNameTranslation": "The Cow",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 286
+			},
+			"numberInSurah": 102,
+			"juz": 1,
+			"manzil": 1,
+			"page": 16,
+			"ruku": 13,
+			"hizbQuarter": 6,
+			"sajda": false
+		},
+		{
+			"number": 110,
+			"text": "وَلَوْ أَنَّهُمْ آمَنُوا وَاتَّقَوْا لَمَثُوبَةٌ مِنْ عِنْدِ اللَّهِ خَيْرٌ ۖ لَوْ كَانُوا يَعْلَمُونَ",
+			"surah": {
+				"number": 2,
+				"name": "سُورَةُ البَقَرَةِ",
+				"englishName": "Al-Baqara",
+				"englishNameTranslation": "The Cow",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 286
+			},
+			"numberInSurah": 103,
+			"juz": 1,
+			"manzil": 1,
+			"page": 16,
+			"ruku": 13,
+			"hizbQuarter": 6,
+			"sajda": false
+		},
+		{
+			"number": 111,
+			"text": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَقُولُوا رَاعِنَا وَقُولُوا انْظُرْنَا وَاسْمَعُوا ۗ وَلِلْكَافِرِينَ عَذَابٌ أَلِيمٌ",
+			"surah": {
+				"number": 2,
+				"name": "سُورَةُ البَقَرَةِ",
+				"englishName": "Al-Baqara",
+				"englishNameTranslation": "The Cow",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 286
+			},
+			"numberInSurah": 104,
+			"juz": 1,
+			"manzil": 1,
+			"page": 16,
+			"ruku": 14,
+			"hizbQuarter": 6,
+			"sajda": false
+		},
+		{
+			"number": 112,
+			"text": "مَا يَوَدُّ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ وَلَا الْمُشْرِكِينَ أَنْ يُنَزَّلَ عَلَيْكُمْ مِنْ خَيْرٍ مِنْ رَبِّكُمْ ۗ وَاللَّهُ يَخْتَصُّ بِرَحْمَتِهِ مَنْ يَشَاءُ ۚ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ",
+			"surah": {
+				"number": 2,
+				"name": "سُورَةُ البَقَرَةِ",
+				"englishName": "Al-Baqara",
+				"englishNameTranslation": "The Cow",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 286
+			},
+			"numberInSurah": 105,
+			"juz": 1,
+			"manzil": 1,
+			"page": 16,
+			"ruku": 14,
+			"hizbQuarter": 6,
+			"sajda": false
+		}
+	]
+}

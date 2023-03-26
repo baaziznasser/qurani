@@ -1,0 +1,290 @@
+﻿{
+	"number": 78,
+	"ayahs": [
+		{
+			"number": 1281,
+			"surah": {
+				"number": 9,
+				"name": "سُورَةُ التَّوۡبَةِ",
+				"englishName": "At-Tawba",
+				"englishNameTranslation": "The Repentance",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 129
+			},
+			"numberInSurah": 46,
+			"juz": 10,
+			"manzil": 2,
+			"page": 194,
+			"ruku": 162,
+			"hizbQuarter": 78,
+			"sajda": false,
+			"text": "وَلَوْ أَرَادُوا الْخُرُوجَ لَأَعَدُّوا لَهُ عُدَّةً وَلَٰكِن كَرِهَ اللَّهُ انبِعَاثَهُمْ فَثَبَّطَهُمْ وَقِيلَ اقْعُدُوا مَعَ الْقَاعِدِينَ"
+		},
+		{
+			"number": 1282,
+			"surah": {
+				"number": 9,
+				"name": "سُورَةُ التَّوۡبَةِ",
+				"englishName": "At-Tawba",
+				"englishNameTranslation": "The Repentance",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 129
+			},
+			"numberInSurah": 47,
+			"juz": 10,
+			"manzil": 2,
+			"page": 194,
+			"ruku": 162,
+			"hizbQuarter": 78,
+			"sajda": false,
+			"text": "لَوْ خَرَجُوا فِيكُم مَّا زَادُوكُمْ إِلَّا خَبَالًا وَلَأَوْضَعُوا خِلَالَكُمْ يَبْغُونَكُمُ الْفِتْنَةَ وَفِيكُمْ سَمَّاعُونَ لَهُمْ ۗ وَاللَّهُ عَلِيمٌ بِالظَّالِمِينَ"
+		},
+		{
+			"number": 1283,
+			"surah": {
+				"number": 9,
+				"name": "سُورَةُ التَّوۡبَةِ",
+				"englishName": "At-Tawba",
+				"englishNameTranslation": "The Repentance",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 129
+			},
+			"numberInSurah": 48,
+			"juz": 10,
+			"manzil": 2,
+			"page": 195,
+			"ruku": 162,
+			"hizbQuarter": 78,
+			"sajda": false,
+			"text": "لَقَدِ ابْتَغَوُا الْفِتْنَةَ مِن قَبْلُ وَقَلَّبُوا لَكَ الْأُمُورَ حَتَّىٰ جَاءَ الْحَقُّ وَظَهَرَ أَمْرُ اللَّهِ وَهُمْ كَارِهُونَ"
+		},
+		{
+			"number": 1284,
+			"surah": {
+				"number": 9,
+				"name": "سُورَةُ التَّوۡبَةِ",
+				"englishName": "At-Tawba",
+				"englishNameTranslation": "The Repentance",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 129
+			},
+			"numberInSurah": 49,
+			"juz": 10,
+			"manzil": 2,
+			"page": 195,
+			"ruku": 162,
+			"hizbQuarter": 78,
+			"sajda": false,
+			"text": "وَمِنْهُم مَّن يَقُولُ ائْذَن لِّي وَلَا تَفْتِنِّي ۚ أَلَا فِي الْفِتْنَةِ سَقَطُوا ۗ وَإِنَّ جَهَنَّمَ لَمُحِيطَةٌ بِالْكَافِرِينَ"
+		},
+		{
+			"number": 1285,
+			"surah": {
+				"number": 9,
+				"name": "سُورَةُ التَّوۡبَةِ",
+				"englishName": "At-Tawba",
+				"englishNameTranslation": "The Repentance",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 129
+			},
+			"numberInSurah": 50,
+			"juz": 10,
+			"manzil": 2,
+			"page": 195,
+			"ruku": 162,
+			"hizbQuarter": 78,
+			"sajda": false,
+			"text": "إِن تُصِبْكَ حَسَنَةٌ تَسُؤْهُمْ ۖ وَإِن تُصِبْكَ مُصِيبَةٌ يَقُولُوا قَدْ أَخَذْنَا أَمْرَنَا مِن قَبْلُ وَيَتَوَلَّوا وَّهُمْ فَرِحُونَ"
+		},
+		{
+			"number": 1286,
+			"surah": {
+				"number": 9,
+				"name": "سُورَةُ التَّوۡبَةِ",
+				"englishName": "At-Tawba",
+				"englishNameTranslation": "The Repentance",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 129
+			},
+			"numberInSurah": 51,
+			"juz": 10,
+			"manzil": 2,
+			"page": 195,
+			"ruku": 162,
+			"hizbQuarter": 78,
+			"sajda": false,
+			"text": "قُل لَّن يُصِيبَنَا إِلَّا مَا كَتَبَ اللَّهُ لَنَا هُوَ مَوْلَانَا ۚ وَعَلَى اللَّهِ فَلْيَتَوَكَّلِ الْمُؤْمِنُونَ"
+		},
+		{
+			"number": 1287,
+			"surah": {
+				"number": 9,
+				"name": "سُورَةُ التَّوۡبَةِ",
+				"englishName": "At-Tawba",
+				"englishNameTranslation": "The Repentance",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 129
+			},
+			"numberInSurah": 52,
+			"juz": 10,
+			"manzil": 2,
+			"page": 195,
+			"ruku": 162,
+			"hizbQuarter": 78,
+			"sajda": false,
+			"text": "قُلْ هَلْ تَرَبَّصُونَ بِنَا إِلَّا إِحْدَى الْحُسْنَيَيْنِ ۖ وَنَحْنُ نَتَرَبَّصُ بِكُمْ أَن يُصِيبَكُمُ اللَّهُ بِعَذَابٍ مِّنْ عِندِهِ أَوْ بِأَيْدِينَا ۖ فَتَرَبَّصُوا إِنَّا مَعَكُم مُّتَرَبِّصُونَ"
+		},
+		{
+			"number": 1288,
+			"surah": {
+				"number": 9,
+				"name": "سُورَةُ التَّوۡبَةِ",
+				"englishName": "At-Tawba",
+				"englishNameTranslation": "The Repentance",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 129
+			},
+			"numberInSurah": 53,
+			"juz": 10,
+			"manzil": 2,
+			"page": 195,
+			"ruku": 162,
+			"hizbQuarter": 78,
+			"sajda": false,
+			"text": "قُلْ أَنفِقُوا طَوْعًا أَوْ كَرْهًا لَّن يُتَقَبَّلَ مِنكُمْ ۖ إِنَّكُمْ كُنتُمْ قَوْمًا فَاسِقِينَ"
+		},
+		{
+			"number": 1289,
+			"surah": {
+				"number": 9,
+				"name": "سُورَةُ التَّوۡبَةِ",
+				"englishName": "At-Tawba",
+				"englishNameTranslation": "The Repentance",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 129
+			},
+			"numberInSurah": 54,
+			"juz": 10,
+			"manzil": 2,
+			"page": 195,
+			"ruku": 162,
+			"hizbQuarter": 78,
+			"sajda": false,
+			"text": "وَمَا مَنَعَهُمْ أَن تُقْبَلَ مِنْهُمْ نَفَقَاتُهُمْ إِلَّا أَنَّهُمْ كَفَرُوا بِاللَّهِ وَبِرَسُولِهِ وَلَا يَأْتُونَ الصَّلَاةَ إِلَّا وَهُمْ كُسَالَىٰ وَلَا يُنفِقُونَ إِلَّا وَهُمْ كَارِهُونَ"
+		},
+		{
+			"number": 1290,
+			"surah": {
+				"number": 9,
+				"name": "سُورَةُ التَّوۡبَةِ",
+				"englishName": "At-Tawba",
+				"englishNameTranslation": "The Repentance",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 129
+			},
+			"numberInSurah": 55,
+			"juz": 10,
+			"manzil": 2,
+			"page": 196,
+			"ruku": 162,
+			"hizbQuarter": 78,
+			"sajda": false,
+			"text": "فَلَا تُعْجِبْكَ أَمْوَالُهُمْ وَلَا أَوْلَادُهُمْ ۚ إِنَّمَا يُرِيدُ اللَّهُ لِيُعَذِّبَهُم بِهَا فِي الْحَيَاةِ الدُّنْيَا وَتَزْهَقَ أَنفُسُهُمْ وَهُمْ كَافِرُونَ"
+		},
+		{
+			"number": 1291,
+			"surah": {
+				"number": 9,
+				"name": "سُورَةُ التَّوۡبَةِ",
+				"englishName": "At-Tawba",
+				"englishNameTranslation": "The Repentance",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 129
+			},
+			"numberInSurah": 56,
+			"juz": 10,
+			"manzil": 2,
+			"page": 196,
+			"ruku": 162,
+			"hizbQuarter": 78,
+			"sajda": false,
+			"text": "وَيَحْلِفُونَ بِاللَّهِ إِنَّهُمْ لَمِنكُمْ وَمَا هُم مِّنكُمْ وَلَٰكِنَّهُمْ قَوْمٌ يَفْرَقُونَ"
+		},
+		{
+			"number": 1292,
+			"surah": {
+				"number": 9,
+				"name": "سُورَةُ التَّوۡبَةِ",
+				"englishName": "At-Tawba",
+				"englishNameTranslation": "The Repentance",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 129
+			},
+			"numberInSurah": 57,
+			"juz": 10,
+			"manzil": 2,
+			"page": 196,
+			"ruku": 162,
+			"hizbQuarter": 78,
+			"sajda": false,
+			"text": "لَوْ يَجِدُونَ مَلْجَأً أَوْ مَغَارَاتٍ أَوْ مُدَّخَلًا لَّوَلَّوْا إِلَيْهِ وَهُمْ يَجْمَحُونَ"
+		},
+		{
+			"number": 1293,
+			"surah": {
+				"number": 9,
+				"name": "سُورَةُ التَّوۡبَةِ",
+				"englishName": "At-Tawba",
+				"englishNameTranslation": "The Repentance",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 129
+			},
+			"numberInSurah": 58,
+			"juz": 10,
+			"manzil": 2,
+			"page": 196,
+			"ruku": 162,
+			"hizbQuarter": 78,
+			"sajda": false,
+			"text": "وَمِنْهُم مَّن يَلْمِزُكَ فِي الصَّدَقَاتِ فَإِنْ أُعْطُوا مِنْهَا رَضُوا وَإِن لَّمْ يُعْطَوْا مِنْهَا إِذَا هُمْ يَسْخَطُونَ"
+		},
+		{
+			"number": 1294,
+			"surah": {
+				"number": 9,
+				"name": "سُورَةُ التَّوۡبَةِ",
+				"englishName": "At-Tawba",
+				"englishNameTranslation": "The Repentance",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 129
+			},
+			"numberInSurah": 59,
+			"juz": 10,
+			"manzil": 2,
+			"page": 196,
+			"ruku": 162,
+			"hizbQuarter": 78,
+			"sajda": false,
+			"text": "وَلَوْ أَنَّهُمْ رَضُوا مَا آتَاهُمُ اللَّهُ وَرَسُولُهُ وَقَالُوا حَسْبُنَا اللَّهُ سَيُؤْتِينَا اللَّهُ مِن فَضْلِهِ وَرَسُولُهُ إِنَّا إِلَى اللَّهِ رَاغِبُونَ"
+		}
+	],
+	"surahs": {
+		"9": {
+			"number": 9,
+			"name": "سُورَةُ التَّوۡبَةِ",
+			"englishName": "At-Tawba",
+			"englishNameTranslation": "The Repentance",
+			"revelationType": "Medinan",
+			"numberOfAyahs": 129
+		}
+	},
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

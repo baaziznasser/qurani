@@ -1,0 +1,480 @@
+﻿{
+	"number": 109,
+	"ayahs": [
+		{
+			"number": 1952,
+			"surah": {
+				"number": 16,
+				"name": "سُورَةُ النَّحۡلِ",
+				"englishName": "An-Nahl",
+				"englishNameTranslation": "The Bee",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 128
+			},
+			"numberInSurah": 51,
+			"juz": 14,
+			"manzil": 3,
+			"page": 272,
+			"ruku": 230,
+			"hizbQuarter": 109,
+			"sajda": false,
+			"text": "وَقَالَ اللَّهُ لَا تَتَّخِذُوا إِلَٰهَيْنِ اثْنَيْنِ ۖ إِنَّمَا هُوَ إِلَٰهٌ وَاحِدٌ ۖ فَإِيَّايَ فَارْهَبُونِ"
+		},
+		{
+			"number": 1953,
+			"surah": {
+				"number": 16,
+				"name": "سُورَةُ النَّحۡلِ",
+				"englishName": "An-Nahl",
+				"englishNameTranslation": "The Bee",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 128
+			},
+			"numberInSurah": 52,
+			"juz": 14,
+			"manzil": 3,
+			"page": 272,
+			"ruku": 230,
+			"hizbQuarter": 109,
+			"sajda": false,
+			"text": "وَلَهُ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ وَلَهُ الدِّينُ وَاصِبًا ۚ أَفَغَيْرَ اللَّهِ تَتَّقُونَ"
+		},
+		{
+			"number": 1954,
+			"surah": {
+				"number": 16,
+				"name": "سُورَةُ النَّحۡلِ",
+				"englishName": "An-Nahl",
+				"englishNameTranslation": "The Bee",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 128
+			},
+			"numberInSurah": 53,
+			"juz": 14,
+			"manzil": 3,
+			"page": 272,
+			"ruku": 230,
+			"hizbQuarter": 109,
+			"sajda": false,
+			"text": "وَمَا بِكُم مِّن نِّعْمَةٍ فَمِنَ اللَّهِ ۖ ثُمَّ إِذَا مَسَّكُمُ الضُّرُّ فَإِلَيْهِ تَجْأَرُونَ"
+		},
+		{
+			"number": 1955,
+			"surah": {
+				"number": 16,
+				"name": "سُورَةُ النَّحۡلِ",
+				"englishName": "An-Nahl",
+				"englishNameTranslation": "The Bee",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 128
+			},
+			"numberInSurah": 54,
+			"juz": 14,
+			"manzil": 3,
+			"page": 272,
+			"ruku": 230,
+			"hizbQuarter": 109,
+			"sajda": false,
+			"text": "ثُمَّ إِذَا كَشَفَ الضُّرَّ عَنكُمْ إِذَا فَرِيقٌ مِّنكُم بِرَبِّهِمْ يُشْرِكُونَ"
+		},
+		{
+			"number": 1956,
+			"surah": {
+				"number": 16,
+				"name": "سُورَةُ النَّحۡلِ",
+				"englishName": "An-Nahl",
+				"englishNameTranslation": "The Bee",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 128
+			},
+			"numberInSurah": 55,
+			"juz": 14,
+			"manzil": 3,
+			"page": 273,
+			"ruku": 230,
+			"hizbQuarter": 109,
+			"sajda": false,
+			"text": "لِيَكْفُرُوا بِمَا آتَيْنَاهُمْ ۚ فَتَمَتَّعُوا ۖ فَسَوْفَ تَعْلَمُونَ"
+		},
+		{
+			"number": 1957,
+			"surah": {
+				"number": 16,
+				"name": "سُورَةُ النَّحۡلِ",
+				"englishName": "An-Nahl",
+				"englishNameTranslation": "The Bee",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 128
+			},
+			"numberInSurah": 56,
+			"juz": 14,
+			"manzil": 3,
+			"page": 273,
+			"ruku": 230,
+			"hizbQuarter": 109,
+			"sajda": false,
+			"text": "وَيَجْعَلُونَ لِمَا لَا يَعْلَمُونَ نَصِيبًا مِّمَّا رَزَقْنَاهُمْ ۗ تَاللَّهِ لَتُسْأَلُنَّ عَمَّا كُنتُمْ تَفْتَرُونَ"
+		},
+		{
+			"number": 1958,
+			"surah": {
+				"number": 16,
+				"name": "سُورَةُ النَّحۡلِ",
+				"englishName": "An-Nahl",
+				"englishNameTranslation": "The Bee",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 128
+			},
+			"numberInSurah": 57,
+			"juz": 14,
+			"manzil": 3,
+			"page": 273,
+			"ruku": 230,
+			"hizbQuarter": 109,
+			"sajda": false,
+			"text": "وَيَجْعَلُونَ لِلَّهِ الْبَنَاتِ سُبْحَانَهُ ۙ وَلَهُم مَّا يَشْتَهُونَ"
+		},
+		{
+			"number": 1959,
+			"surah": {
+				"number": 16,
+				"name": "سُورَةُ النَّحۡلِ",
+				"englishName": "An-Nahl",
+				"englishNameTranslation": "The Bee",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 128
+			},
+			"numberInSurah": 58,
+			"juz": 14,
+			"manzil": 3,
+			"page": 273,
+			"ruku": 230,
+			"hizbQuarter": 109,
+			"sajda": false,
+			"text": "وَإِذَا بُشِّرَ أَحَدُهُم بِالْأُنثَىٰ ظَلَّ وَجْهُهُ مُسْوَدًّا وَهُوَ كَظِيمٌ"
+		},
+		{
+			"number": 1960,
+			"surah": {
+				"number": 16,
+				"name": "سُورَةُ النَّحۡلِ",
+				"englishName": "An-Nahl",
+				"englishNameTranslation": "The Bee",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 128
+			},
+			"numberInSurah": 59,
+			"juz": 14,
+			"manzil": 3,
+			"page": 273,
+			"ruku": 230,
+			"hizbQuarter": 109,
+			"sajda": false,
+			"text": "يَتَوَارَىٰ مِنَ الْقَوْمِ مِن سُوءِ مَا بُشِّرَ بِهِ ۚ أَيُمْسِكُهُ عَلَىٰ هُونٍ أَمْ يَدُسُّهُ فِي التُّرَابِ ۗ أَلَا سَاءَ مَا يَحْكُمُونَ"
+		},
+		{
+			"number": 1961,
+			"surah": {
+				"number": 16,
+				"name": "سُورَةُ النَّحۡلِ",
+				"englishName": "An-Nahl",
+				"englishNameTranslation": "The Bee",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 128
+			},
+			"numberInSurah": 60,
+			"juz": 14,
+			"manzil": 3,
+			"page": 273,
+			"ruku": 230,
+			"hizbQuarter": 109,
+			"sajda": false,
+			"text": "لِلَّذِينَ لَا يُؤْمِنُونَ بِالْآخِرَةِ مَثَلُ السَّوْءِ ۖ وَلِلَّهِ الْمَثَلُ الْأَعْلَىٰ ۚ وَهُوَ الْعَزِيزُ الْحَكِيمُ"
+		},
+		{
+			"number": 1962,
+			"surah": {
+				"number": 16,
+				"name": "سُورَةُ النَّحۡلِ",
+				"englishName": "An-Nahl",
+				"englishNameTranslation": "The Bee",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 128
+			},
+			"numberInSurah": 61,
+			"juz": 14,
+			"manzil": 3,
+			"page": 273,
+			"ruku": 231,
+			"hizbQuarter": 109,
+			"sajda": false,
+			"text": "وَلَوْ يُؤَاخِذُ اللَّهُ النَّاسَ بِظُلْمِهِم مَّا تَرَكَ عَلَيْهَا مِن دَابَّةٍ وَلَٰكِن يُؤَخِّرُهُمْ إِلَىٰ أَجَلٍ مُّسَمًّى ۖ فَإِذَا جَاءَ أَجَلُهُمْ لَا يَسْتَأْخِرُونَ سَاعَةً ۖ وَلَا يَسْتَقْدِمُونَ"
+		},
+		{
+			"number": 1963,
+			"surah": {
+				"number": 16,
+				"name": "سُورَةُ النَّحۡلِ",
+				"englishName": "An-Nahl",
+				"englishNameTranslation": "The Bee",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 128
+			},
+			"numberInSurah": 62,
+			"juz": 14,
+			"manzil": 3,
+			"page": 273,
+			"ruku": 231,
+			"hizbQuarter": 109,
+			"sajda": false,
+			"text": "وَيَجْعَلُونَ لِلَّهِ مَا يَكْرَهُونَ وَتَصِفُ أَلْسِنَتُهُمُ الْكَذِبَ أَنَّ لَهُمُ الْحُسْنَىٰ ۖ لَا جَرَمَ أَنَّ لَهُمُ النَّارَ وَأَنَّهُم مُّفْرَطُونَ"
+		},
+		{
+			"number": 1964,
+			"surah": {
+				"number": 16,
+				"name": "سُورَةُ النَّحۡلِ",
+				"englishName": "An-Nahl",
+				"englishNameTranslation": "The Bee",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 128
+			},
+			"numberInSurah": 63,
+			"juz": 14,
+			"manzil": 3,
+			"page": 273,
+			"ruku": 231,
+			"hizbQuarter": 109,
+			"sajda": false,
+			"text": "تَاللَّهِ لَقَدْ أَرْسَلْنَا إِلَىٰ أُمَمٍ مِّن قَبْلِكَ فَزَيَّنَ لَهُمُ الشَّيْطَانُ أَعْمَالَهُمْ فَهُوَ وَلِيُّهُمُ الْيَوْمَ وَلَهُمْ عَذَابٌ أَلِيمٌ"
+		},
+		{
+			"number": 1965,
+			"surah": {
+				"number": 16,
+				"name": "سُورَةُ النَّحۡلِ",
+				"englishName": "An-Nahl",
+				"englishNameTranslation": "The Bee",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 128
+			},
+			"numberInSurah": 64,
+			"juz": 14,
+			"manzil": 3,
+			"page": 273,
+			"ruku": 231,
+			"hizbQuarter": 109,
+			"sajda": false,
+			"text": "وَمَا أَنزَلْنَا عَلَيْكَ الْكِتَابَ إِلَّا لِتُبَيِّنَ لَهُمُ الَّذِي اخْتَلَفُوا فِيهِ ۙ وَهُدًى وَرَحْمَةً لِّقَوْمٍ يُؤْمِنُونَ"
+		},
+		{
+			"number": 1966,
+			"surah": {
+				"number": 16,
+				"name": "سُورَةُ النَّحۡلِ",
+				"englishName": "An-Nahl",
+				"englishNameTranslation": "The Bee",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 128
+			},
+			"numberInSurah": 65,
+			"juz": 14,
+			"manzil": 3,
+			"page": 274,
+			"ruku": 231,
+			"hizbQuarter": 109,
+			"sajda": false,
+			"text": "وَاللَّهُ أَنزَلَ مِنَ السَّمَاءِ مَاءً فَأَحْيَا بِهِ الْأَرْضَ بَعْدَ مَوْتِهَا ۚ إِنَّ فِي ذَٰلِكَ لَآيَةً لِّقَوْمٍ يَسْمَعُونَ"
+		},
+		{
+			"number": 1967,
+			"surah": {
+				"number": 16,
+				"name": "سُورَةُ النَّحۡلِ",
+				"englishName": "An-Nahl",
+				"englishNameTranslation": "The Bee",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 128
+			},
+			"numberInSurah": 66,
+			"juz": 14,
+			"manzil": 3,
+			"page": 274,
+			"ruku": 232,
+			"hizbQuarter": 109,
+			"sajda": false,
+			"text": "وَإِنَّ لَكُمْ فِي الْأَنْعَامِ لَعِبْرَةً ۖ نُّسْقِيكُم مِّمَّا فِي بُطُونِهِ مِن بَيْنِ فَرْثٍ وَدَمٍ لَّبَنًا خَالِصًا سَائِغًا لِّلشَّارِبِينَ"
+		},
+		{
+			"number": 1968,
+			"surah": {
+				"number": 16,
+				"name": "سُورَةُ النَّحۡلِ",
+				"englishName": "An-Nahl",
+				"englishNameTranslation": "The Bee",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 128
+			},
+			"numberInSurah": 67,
+			"juz": 14,
+			"manzil": 3,
+			"page": 274,
+			"ruku": 232,
+			"hizbQuarter": 109,
+			"sajda": false,
+			"text": "وَمِن ثَمَرَاتِ النَّخِيلِ وَالْأَعْنَابِ تَتَّخِذُونَ مِنْهُ سَكَرًا وَرِزْقًا حَسَنًا ۗ إِنَّ فِي ذَٰلِكَ لَآيَةً لِّقَوْمٍ يَعْقِلُونَ"
+		},
+		{
+			"number": 1969,
+			"surah": {
+				"number": 16,
+				"name": "سُورَةُ النَّحۡلِ",
+				"englishName": "An-Nahl",
+				"englishNameTranslation": "The Bee",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 128
+			},
+			"numberInSurah": 68,
+			"juz": 14,
+			"manzil": 3,
+			"page": 274,
+			"ruku": 232,
+			"hizbQuarter": 109,
+			"sajda": false,
+			"text": "وَأَوْحَىٰ رَبُّكَ إِلَى النَّحْلِ أَنِ اتَّخِذِي مِنَ الْجِبَالِ بُيُوتًا وَمِنَ الشَّجَرِ وَمِمَّا يَعْرِشُونَ"
+		},
+		{
+			"number": 1970,
+			"surah": {
+				"number": 16,
+				"name": "سُورَةُ النَّحۡلِ",
+				"englishName": "An-Nahl",
+				"englishNameTranslation": "The Bee",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 128
+			},
+			"numberInSurah": 69,
+			"juz": 14,
+			"manzil": 3,
+			"page": 274,
+			"ruku": 232,
+			"hizbQuarter": 109,
+			"sajda": false,
+			"text": "ثُمَّ كُلِي مِن كُلِّ الثَّمَرَاتِ فَاسْلُكِي سُبُلَ رَبِّكِ ذُلُلًا ۚ يَخْرُجُ مِن بُطُونِهَا شَرَابٌ مُّخْتَلِفٌ أَلْوَانُهُ فِيهِ شِفَاءٌ لِّلنَّاسِ ۗ إِنَّ فِي ذَٰلِكَ لَآيَةً لِّقَوْمٍ يَتَفَكَّرُونَ"
+		},
+		{
+			"number": 1971,
+			"surah": {
+				"number": 16,
+				"name": "سُورَةُ النَّحۡلِ",
+				"englishName": "An-Nahl",
+				"englishNameTranslation": "The Bee",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 128
+			},
+			"numberInSurah": 70,
+			"juz": 14,
+			"manzil": 3,
+			"page": 274,
+			"ruku": 232,
+			"hizbQuarter": 109,
+			"sajda": false,
+			"text": "وَاللَّهُ خَلَقَكُمْ ثُمَّ يَتَوَفَّاكُمْ ۚ وَمِنكُم مَّن يُرَدُّ إِلَىٰ أَرْذَلِ الْعُمُرِ لِكَيْ لَا يَعْلَمَ بَعْدَ عِلْمٍ شَيْئًا ۚ إِنَّ اللَّهَ عَلِيمٌ قَدِيرٌ"
+		},
+		{
+			"number": 1972,
+			"surah": {
+				"number": 16,
+				"name": "سُورَةُ النَّحۡلِ",
+				"englishName": "An-Nahl",
+				"englishNameTranslation": "The Bee",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 128
+			},
+			"numberInSurah": 71,
+			"juz": 14,
+			"manzil": 3,
+			"page": 274,
+			"ruku": 233,
+			"hizbQuarter": 109,
+			"sajda": false,
+			"text": "وَاللَّهُ فَضَّلَ بَعْضَكُمْ عَلَىٰ بَعْضٍ فِي الرِّزْقِ ۚ فَمَا الَّذِينَ فُضِّلُوا بِرَادِّي رِزْقِهِمْ عَلَىٰ مَا مَلَكَتْ أَيْمَانُهُمْ فَهُمْ فِيهِ سَوَاءٌ ۚ أَفَبِنِعْمَةِ اللَّهِ يَجْحَدُونَ"
+		},
+		{
+			"number": 1973,
+			"surah": {
+				"number": 16,
+				"name": "سُورَةُ النَّحۡلِ",
+				"englishName": "An-Nahl",
+				"englishNameTranslation": "The Bee",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 128
+			},
+			"numberInSurah": 72,
+			"juz": 14,
+			"manzil": 3,
+			"page": 274,
+			"ruku": 233,
+			"hizbQuarter": 109,
+			"sajda": false,
+			"text": "وَاللَّهُ جَعَلَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَاجًا وَجَعَلَ لَكُم مِّنْ أَزْوَاجِكُم بَنِينَ وَحَفَدَةً وَرَزَقَكُم مِّنَ الطَّيِّبَاتِ ۚ أَفَبِالْبَاطِلِ يُؤْمِنُونَ وَبِنِعْمَتِ اللَّهِ هُمْ يَكْفُرُونَ"
+		},
+		{
+			"number": 1974,
+			"surah": {
+				"number": 16,
+				"name": "سُورَةُ النَّحۡلِ",
+				"englishName": "An-Nahl",
+				"englishNameTranslation": "The Bee",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 128
+			},
+			"numberInSurah": 73,
+			"juz": 14,
+			"manzil": 3,
+			"page": 275,
+			"ruku": 233,
+			"hizbQuarter": 109,
+			"sajda": false,
+			"text": "وَيَعْبُدُونَ مِن دُونِ اللَّهِ مَا لَا يَمْلِكُ لَهُمْ رِزْقًا مِّنَ السَّمَاوَاتِ وَالْأَرْضِ شَيْئًا وَلَا يَسْتَطِيعُونَ"
+		},
+		{
+			"number": 1975,
+			"surah": {
+				"number": 16,
+				"name": "سُورَةُ النَّحۡلِ",
+				"englishName": "An-Nahl",
+				"englishNameTranslation": "The Bee",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 128
+			},
+			"numberInSurah": 74,
+			"juz": 14,
+			"manzil": 3,
+			"page": 275,
+			"ruku": 233,
+			"hizbQuarter": 109,
+			"sajda": false,
+			"text": "فَلَا تَضْرِبُوا لِلَّهِ الْأَمْثَالَ ۚ إِنَّ اللَّهَ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ"
+		}
+	],
+	"surahs": {
+		"16": {
+			"number": 16,
+			"name": "سُورَةُ النَّحۡلِ",
+			"englishName": "An-Nahl",
+			"englishNameTranslation": "The Bee",
+			"revelationType": "Meccan",
+			"numberOfAyahs": 128
+		}
+	},
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

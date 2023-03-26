@@ -1,0 +1,214 @@
+﻿{
+	"number": 509,
+	"ayahs": [
+		{
+			"number": 4565,
+			"text": "وَيَقُولُ الَّذِينَ آمَنُوا لَوْلَا نُزِّلَتْ سُورَةٌ ۖ فَإِذَا أُنْزِلَتْ سُورَةٌ مُحْكَمَةٌ وَذُكِرَ فِيهَا الْقِتَالُ ۙ رَأَيْتَ الَّذِينَ فِي قُلُوبِهِمْ مَرَضٌ يَنْظُرُونَ إِلَيْكَ نَظَرَ الْمَغْشِيِّ عَلَيْهِ مِنَ الْمَوْتِ ۖ فَأَوْلَىٰ لَهُمْ",
+			"surah": {
+				"number": 47,
+				"name": "سُورَةُ مُحَمَّدٍ",
+				"englishName": "Muhammad",
+				"englishNameTranslation": "Muhammad",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 38
+			},
+			"numberInSurah": 20,
+			"juz": 26,
+			"manzil": 6,
+			"page": 509,
+			"ruku": 444,
+			"hizbQuarter": 203,
+			"sajda": false
+		},
+		{
+			"number": 4566,
+			"text": "طَاعَةٌ وَقَوْلٌ مَعْرُوفٌ ۚ فَإِذَا عَزَمَ الْأَمْرُ فَلَوْ صَدَقُوا اللَّهَ لَكَانَ خَيْرًا لَهُمْ",
+			"surah": {
+				"number": 47,
+				"name": "سُورَةُ مُحَمَّدٍ",
+				"englishName": "Muhammad",
+				"englishNameTranslation": "Muhammad",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 38
+			},
+			"numberInSurah": 21,
+			"juz": 26,
+			"manzil": 6,
+			"page": 509,
+			"ruku": 444,
+			"hizbQuarter": 203,
+			"sajda": false
+		},
+		{
+			"number": 4567,
+			"text": "فَهَلْ عَسَيْتُمْ إِنْ تَوَلَّيْتُمْ أَنْ تُفْسِدُوا فِي الْأَرْضِ وَتُقَطِّعُوا أَرْحَامَكُمْ",
+			"surah": {
+				"number": 47,
+				"name": "سُورَةُ مُحَمَّدٍ",
+				"englishName": "Muhammad",
+				"englishNameTranslation": "Muhammad",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 38
+			},
+			"numberInSurah": 22,
+			"juz": 26,
+			"manzil": 6,
+			"page": 509,
+			"ruku": 444,
+			"hizbQuarter": 203,
+			"sajda": false
+		},
+		{
+			"number": 4568,
+			"text": "أُولَٰئِكَ الَّذِينَ لَعَنَهُمُ اللَّهُ فَأَصَمَّهُمْ وَأَعْمَىٰ أَبْصَارَهُمْ",
+			"surah": {
+				"number": 47,
+				"name": "سُورَةُ مُحَمَّدٍ",
+				"englishName": "Muhammad",
+				"englishNameTranslation": "Muhammad",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 38
+			},
+			"numberInSurah": 23,
+			"juz": 26,
+			"manzil": 6,
+			"page": 509,
+			"ruku": 444,
+			"hizbQuarter": 203,
+			"sajda": false
+		},
+		{
+			"number": 4569,
+			"text": "أَفَلَا يَتَدَبَّرُونَ الْقُرْآنَ أَمْ عَلَىٰ قُلُوبٍ أَقْفَالُهَا",
+			"surah": {
+				"number": 47,
+				"name": "سُورَةُ مُحَمَّدٍ",
+				"englishName": "Muhammad",
+				"englishNameTranslation": "Muhammad",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 38
+			},
+			"numberInSurah": 24,
+			"juz": 26,
+			"manzil": 6,
+			"page": 509,
+			"ruku": 444,
+			"hizbQuarter": 203,
+			"sajda": false
+		},
+		{
+			"number": 4570,
+			"text": "إِنَّ الَّذِينَ ارْتَدُّوا عَلَىٰ أَدْبَارِهِمْ مِنْ بَعْدِ مَا تَبَيَّنَ لَهُمُ الْهُدَى ۙ الشَّيْطَانُ سَوَّلَ لَهُمْ وَأَمْلَىٰ لَهُمْ",
+			"surah": {
+				"number": 47,
+				"name": "سُورَةُ مُحَمَّدٍ",
+				"englishName": "Muhammad",
+				"englishNameTranslation": "Muhammad",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 38
+			},
+			"numberInSurah": 25,
+			"juz": 26,
+			"manzil": 6,
+			"page": 509,
+			"ruku": 444,
+			"hizbQuarter": 203,
+			"sajda": false
+		},
+		{
+			"number": 4571,
+			"text": "ذَٰلِكَ بِأَنَّهُمْ قَالُوا لِلَّذِينَ كَرِهُوا مَا نَزَّلَ اللَّهُ سَنُطِيعُكُمْ فِي بَعْضِ الْأَمْرِ ۖ وَاللَّهُ يَعْلَمُ إِسْرَارَهُمْ",
+			"surah": {
+				"number": 47,
+				"name": "سُورَةُ مُحَمَّدٍ",
+				"englishName": "Muhammad",
+				"englishNameTranslation": "Muhammad",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 38
+			},
+			"numberInSurah": 26,
+			"juz": 26,
+			"manzil": 6,
+			"page": 509,
+			"ruku": 444,
+			"hizbQuarter": 203,
+			"sajda": false
+		},
+		{
+			"number": 4572,
+			"text": "فَكَيْفَ إِذَا تَوَفَّتْهُمُ الْمَلَائِكَةُ يَضْرِبُونَ وُجُوهَهُمْ وَأَدْبَارَهُمْ",
+			"surah": {
+				"number": 47,
+				"name": "سُورَةُ مُحَمَّدٍ",
+				"englishName": "Muhammad",
+				"englishNameTranslation": "Muhammad",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 38
+			},
+			"numberInSurah": 27,
+			"juz": 26,
+			"manzil": 6,
+			"page": 509,
+			"ruku": 444,
+			"hizbQuarter": 203,
+			"sajda": false
+		},
+		{
+			"number": 4573,
+			"text": "ذَٰلِكَ بِأَنَّهُمُ اتَّبَعُوا مَا أَسْخَطَ اللَّهَ وَكَرِهُوا رِضْوَانَهُ فَأَحْبَطَ أَعْمَالَهُمْ",
+			"surah": {
+				"number": 47,
+				"name": "سُورَةُ مُحَمَّدٍ",
+				"englishName": "Muhammad",
+				"englishNameTranslation": "Muhammad",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 38
+			},
+			"numberInSurah": 28,
+			"juz": 26,
+			"manzil": 6,
+			"page": 509,
+			"ruku": 444,
+			"hizbQuarter": 203,
+			"sajda": false
+		},
+		{
+			"number": 4574,
+			"text": "أَمْ حَسِبَ الَّذِينَ فِي قُلُوبِهِمْ مَرَضٌ أَنْ لَنْ يُخْرِجَ اللَّهُ أَضْغَانَهُمْ",
+			"surah": {
+				"number": 47,
+				"name": "سُورَةُ مُحَمَّدٍ",
+				"englishName": "Muhammad",
+				"englishNameTranslation": "Muhammad",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 38
+			},
+			"numberInSurah": 29,
+			"juz": 26,
+			"manzil": 6,
+			"page": 509,
+			"ruku": 445,
+			"hizbQuarter": 203,
+			"sajda": false
+		}
+	],
+	"surahs": {
+		"47": {
+			"number": 47,
+			"name": "سُورَةُ مُحَمَّدٍ",
+			"englishName": "Muhammad",
+			"englishNameTranslation": "Muhammad",
+			"revelationType": "Medinan",
+			"numberOfAyahs": 38
+		}
+	},
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

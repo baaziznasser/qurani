@@ -1,0 +1,74 @@
+﻿{
+	"number": 105,
+	"name": "سُورَةُ الفِيلِ",
+	"englishName": "Al-Fil",
+	"englishNameTranslation": "The Elephant",
+	"revelationType": "Meccan",
+	"numberOfAyahs": 5,
+	"ayahs": [
+		{
+			"number": 6189,
+			"text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ",
+			"numberInSurah": 1,
+			"juz": 30,
+			"manzil": 7,
+			"page": 601,
+			"ruku": 547,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6190,
+			"text": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِي تَضْلِيلٍ",
+			"numberInSurah": 2,
+			"juz": 30,
+			"manzil": 7,
+			"page": 601,
+			"ruku": 547,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6191,
+			"text": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ",
+			"numberInSurah": 3,
+			"juz": 30,
+			"manzil": 7,
+			"page": 601,
+			"ruku": 547,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6192,
+			"text": "تَرْمِيهِمْ بِحِجَارَةٍ مِنْ سِجِّيلٍ",
+			"numberInSurah": 4,
+			"juz": 30,
+			"manzil": 7,
+			"page": 601,
+			"ruku": 547,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6193,
+			"text": "فَجَعَلَهُمْ كَعَصْفٍ مَأْكُولٍ",
+			"numberInSurah": 5,
+			"juz": 30,
+			"manzil": 7,
+			"page": 601,
+			"ruku": 547,
+			"hizbQuarter": 240,
+			"sajda": false
+		}
+	],
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

@@ -1,0 +1,107 @@
+﻿{
+	"number": 102,
+	"name": "سُورَةُ التَّكَاثُرِ",
+	"englishName": "At-Takaathur",
+	"englishNameTranslation": "Competition",
+	"revelationType": "Meccan",
+	"numberOfAyahs": 8,
+	"ayahs": [
+		{
+			"number": 6169,
+			"text": "شغلكم عن طاعة الله التفاخر بكثرة الأموال والأولاد.",
+			"numberInSurah": 1,
+			"juz": 30,
+			"manzil": 7,
+			"page": 600,
+			"ruku": 544,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6170,
+			"text": "واستمر اشتغالكم بذلك إلى أن صرتم إلى المقابر، ودُفنتم فيها.",
+			"numberInSurah": 2,
+			"juz": 30,
+			"manzil": 7,
+			"page": 600,
+			"ruku": 544,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6171,
+			"text": "ما هكذا ينبغي أن يُلْهيكم التكاثر بالأموال، سوف تتبيَّنون أن الدار الآخرة خير لكم.",
+			"numberInSurah": 3,
+			"juz": 30,
+			"manzil": 7,
+			"page": 600,
+			"ruku": 544,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6172,
+			"text": "ثم احذروا سوف تعلمون سوء عاقبة انشغالكم عنها.",
+			"numberInSurah": 4,
+			"juz": 30,
+			"manzil": 7,
+			"page": 600,
+			"ruku": 544,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6173,
+			"text": "ما هكذا ينبغي أن يلهيكم التكاثر بالأموال، لو تعلمون حق العلم لانزجرتم، ولبادرتم إلى إنقاذ أنفسكم من الهلاك. لتبصرُنَّ الجحيم، ثم لتبصرُنَّها دون ريب، ثم لتسألُنَّ يوم القيامة عن كل أنواع النعيم.",
+			"numberInSurah": 5,
+			"juz": 30,
+			"manzil": 7,
+			"page": 600,
+			"ruku": 544,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6174,
+			"text": "ما هكذا ينبغي أن يلهيكم التكاثر بالأموال، لو تعلمون حق العلم لانزجرتم، ولبادرتم إلى إنقاذ أنفسكم من الهلاك. لتبصرُنَّ الجحيم، ثم لتبصرُنَّها دون ريب، ثم لتسألُنَّ يوم القيامة عن كل أنواع النعيم.",
+			"numberInSurah": 6,
+			"juz": 30,
+			"manzil": 7,
+			"page": 600,
+			"ruku": 544,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6175,
+			"text": "ما هكذا ينبغي أن يلهيكم التكاثر بالأموال، لو تعلمون حق العلم لانزجرتم، ولبادرتم إلى إنقاذ أنفسكم من الهلاك. لتبصرُنَّ الجحيم، ثم لتبصرُنَّها دون ريب، ثم لتسألُنَّ يوم القيامة عن كل أنواع النعيم.",
+			"numberInSurah": 7,
+			"juz": 30,
+			"manzil": 7,
+			"page": 600,
+			"ruku": 544,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6176,
+			"text": "ما هكذا ينبغي أن يلهيكم التكاثر بالأموال، لو تعلمون حق العلم لانزجرتم، ولبادرتم إلى إنقاذ أنفسكم من الهلاك. لتبصرُنَّ الجحيم، ثم لتبصرُنَّها دون ريب، ثم لتسألُنَّ يوم القيامة عن كل أنواع النعيم.",
+			"numberInSurah": 8,
+			"juz": 30,
+			"manzil": 7,
+			"page": 600,
+			"ruku": 544,
+			"hizbQuarter": 240,
+			"sajda": false
+		}
+	],
+	"edition": {
+		"identifier": "ar.muyassar",
+		"language": "ar",
+		"name": "تفسير المیسر",
+		"englishName": "King Fahad Quran Complex",
+		"format": "text",
+		"type": "tafsir",
+		"direction": "rtl"
+	}
+}

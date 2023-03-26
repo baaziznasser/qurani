@@ -1,0 +1,499 @@
+﻿{
+	"number": 10,
+	"ayahs": [
+		{
+			"number": 581,
+			"text": "۞ فَمَا لَكُمْ فِي الْمُنَافِقِينَ فِئَتَيْنِ وَاللَّهُ أَرْكَسَهُمْ بِمَا كَسَبُوا ۚ أَتُرِيدُونَ أَنْ تَهْدُوا مَنْ أَضَلَّ اللَّهُ ۖ وَمَنْ يُضْلِلِ اللَّهُ فَلَنْ تَجِدَ لَهُ سَبِيلًا",
+			"surah": {
+				"number": 4,
+				"name": "سُورَةُ النِّسَاءِ",
+				"englishName": "An-Nisaa",
+				"englishNameTranslation": "The Women",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 176
+			},
+			"numberInSurah": 88,
+			"juz": 5,
+			"manzil": 1,
+			"page": 92,
+			"ruku": 73,
+			"hizbQuarter": 37,
+			"sajda": false
+		},
+		{
+			"number": 582,
+			"text": "وَدُّوا لَوْ تَكْفُرُونَ كَمَا كَفَرُوا فَتَكُونُونَ سَوَاءً ۖ فَلَا تَتَّخِذُوا مِنْهُمْ أَوْلِيَاءَ حَتَّىٰ يُهَاجِرُوا فِي سَبِيلِ اللَّهِ ۚ فَإِنْ تَوَلَّوْا فَخُذُوهُمْ وَاقْتُلُوهُمْ حَيْثُ وَجَدْتُمُوهُمْ ۖ وَلَا تَتَّخِذُوا مِنْهُمْ وَلِيًّا وَلَا نَصِيرًا",
+			"surah": {
+				"number": 4,
+				"name": "سُورَةُ النِّسَاءِ",
+				"englishName": "An-Nisaa",
+				"englishNameTranslation": "The Women",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 176
+			},
+			"numberInSurah": 89,
+			"juz": 5,
+			"manzil": 1,
+			"page": 92,
+			"ruku": 73,
+			"hizbQuarter": 37,
+			"sajda": false
+		},
+		{
+			"number": 583,
+			"text": "إِلَّا الَّذِينَ يَصِلُونَ إِلَىٰ قَوْمٍ بَيْنَكُمْ وَبَيْنَهُمْ مِيثَاقٌ أَوْ جَاءُوكُمْ حَصِرَتْ صُدُورُهُمْ أَنْ يُقَاتِلُوكُمْ أَوْ يُقَاتِلُوا قَوْمَهُمْ ۚ وَلَوْ شَاءَ اللَّهُ لَسَلَّطَهُمْ عَلَيْكُمْ فَلَقَاتَلُوكُمْ ۚ فَإِنِ اعْتَزَلُوكُمْ فَلَمْ يُقَاتِلُوكُمْ وَأَلْقَوْا إِلَيْكُمُ السَّلَمَ فَمَا جَعَلَ اللَّهُ لَكُمْ عَلَيْهِمْ سَبِيلًا",
+			"surah": {
+				"number": 4,
+				"name": "سُورَةُ النِّسَاءِ",
+				"englishName": "An-Nisaa",
+				"englishNameTranslation": "The Women",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 176
+			},
+			"numberInSurah": 90,
+			"juz": 5,
+			"manzil": 1,
+			"page": 92,
+			"ruku": 73,
+			"hizbQuarter": 37,
+			"sajda": false
+		},
+		{
+			"number": 584,
+			"text": "سَتَجِدُونَ آخَرِينَ يُرِيدُونَ أَنْ يَأْمَنُوكُمْ وَيَأْمَنُوا قَوْمَهُمْ كُلَّ مَا رُدُّوا إِلَى الْفِتْنَةِ أُرْكِسُوا فِيهَا ۚ فَإِنْ لَمْ يَعْتَزِلُوكُمْ وَيُلْقُوا إِلَيْكُمُ السَّلَمَ وَيَكُفُّوا أَيْدِيَهُمْ فَخُذُوهُمْ وَاقْتُلُوهُمْ حَيْثُ ثَقِفْتُمُوهُمْ ۚ وَأُولَٰئِكُمْ جَعَلْنَا لَكُمْ عَلَيْهِمْ سُلْطَانًا مُبِينًا",
+			"surah": {
+				"number": 4,
+				"name": "سُورَةُ النِّسَاءِ",
+				"englishName": "An-Nisaa",
+				"englishNameTranslation": "The Women",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 176
+			},
+			"numberInSurah": 91,
+			"juz": 5,
+			"manzil": 1,
+			"page": 92,
+			"ruku": 73,
+			"hizbQuarter": 37,
+			"sajda": false
+		},
+		{
+			"number": 585,
+			"text": "وَمَا كَانَ لِمُؤْمِنٍ أَنْ يَقْتُلَ مُؤْمِنًا إِلَّا خَطَأً ۚ وَمَنْ قَتَلَ مُؤْمِنًا خَطَأً فَتَحْرِيرُ رَقَبَةٍ مُؤْمِنَةٍ وَدِيَةٌ مُسَلَّمَةٌ إِلَىٰ أَهْلِهِ إِلَّا أَنْ يَصَّدَّقُوا ۚ فَإِنْ كَانَ مِنْ قَوْمٍ عَدُوٍّ لَكُمْ وَهُوَ مُؤْمِنٌ فَتَحْرِيرُ رَقَبَةٍ مُؤْمِنَةٍ ۖ وَإِنْ كَانَ مِنْ قَوْمٍ بَيْنَكُمْ وَبَيْنَهُمْ مِيثَاقٌ فَدِيَةٌ مُسَلَّمَةٌ إِلَىٰ أَهْلِهِ وَتَحْرِيرُ رَقَبَةٍ مُؤْمِنَةٍ ۖ فَمَنْ لَمْ يَجِدْ فَصِيَامُ شَهْرَيْنِ مُتَتَابِعَيْنِ تَوْبَةً مِنَ اللَّهِ ۗ وَكَانَ اللَّهُ عَلِيمًا حَكِيمًا",
+			"surah": {
+				"number": 4,
+				"name": "سُورَةُ النِّسَاءِ",
+				"englishName": "An-Nisaa",
+				"englishNameTranslation": "The Women",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 176
+			},
+			"numberInSurah": 92,
+			"juz": 5,
+			"manzil": 1,
+			"page": 93,
+			"ruku": 74,
+			"hizbQuarter": 37,
+			"sajda": false
+		},
+		{
+			"number": 586,
+			"text": "وَمَنْ يَقْتُلْ مُؤْمِنًا مُتَعَمِّدًا فَجَزَاؤُهُ جَهَنَّمُ خَالِدًا فِيهَا وَغَضِبَ اللَّهُ عَلَيْهِ وَلَعَنَهُ وَأَعَدَّ لَهُ عَذَابًا عَظِيمًا",
+			"surah": {
+				"number": 4,
+				"name": "سُورَةُ النِّسَاءِ",
+				"englishName": "An-Nisaa",
+				"englishNameTranslation": "The Women",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 176
+			},
+			"numberInSurah": 93,
+			"juz": 5,
+			"manzil": 1,
+			"page": 93,
+			"ruku": 74,
+			"hizbQuarter": 37,
+			"sajda": false
+		},
+		{
+			"number": 587,
+			"text": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا ضَرَبْتُمْ فِي سَبِيلِ اللَّهِ فَتَبَيَّنُوا وَلَا تَقُولُوا لِمَنْ أَلْقَىٰ إِلَيْكُمُ السَّلَامَ لَسْتَ مُؤْمِنًا تَبْتَغُونَ عَرَضَ الْحَيَاةِ الدُّنْيَا فَعِنْدَ اللَّهِ مَغَانِمُ كَثِيرَةٌ ۚ كَذَٰلِكَ كُنْتُمْ مِنْ قَبْلُ فَمَنَّ اللَّهُ عَلَيْكُمْ فَتَبَيَّنُوا ۚ إِنَّ اللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًا",
+			"surah": {
+				"number": 4,
+				"name": "سُورَةُ النِّسَاءِ",
+				"englishName": "An-Nisaa",
+				"englishNameTranslation": "The Women",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 176
+			},
+			"numberInSurah": 94,
+			"juz": 5,
+			"manzil": 1,
+			"page": 93,
+			"ruku": 74,
+			"hizbQuarter": 37,
+			"sajda": false
+		},
+		{
+			"number": 588,
+			"text": "لَا يَسْتَوِي الْقَاعِدُونَ مِنَ الْمُؤْمِنِينَ غَيْرُ أُولِي الضَّرَرِ وَالْمُجَاهِدُونَ فِي سَبِيلِ اللَّهِ بِأَمْوَالِهِمْ وَأَنْفُسِهِمْ ۚ فَضَّلَ اللَّهُ الْمُجَاهِدِينَ بِأَمْوَالِهِمْ وَأَنْفُسِهِمْ عَلَى الْقَاعِدِينَ دَرَجَةً ۚ وَكُلًّا وَعَدَ اللَّهُ الْحُسْنَىٰ ۚ وَفَضَّلَ اللَّهُ الْمُجَاهِدِينَ عَلَى الْقَاعِدِينَ أَجْرًا عَظِيمًا",
+			"surah": {
+				"number": 4,
+				"name": "سُورَةُ النِّسَاءِ",
+				"englishName": "An-Nisaa",
+				"englishNameTranslation": "The Women",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 176
+			},
+			"numberInSurah": 95,
+			"juz": 5,
+			"manzil": 1,
+			"page": 94,
+			"ruku": 74,
+			"hizbQuarter": 37,
+			"sajda": false
+		},
+		{
+			"number": 589,
+			"text": "دَرَجَاتٍ مِنْهُ وَمَغْفِرَةً وَرَحْمَةً ۚ وَكَانَ اللَّهُ غَفُورًا رَحِيمًا",
+			"surah": {
+				"number": 4,
+				"name": "سُورَةُ النِّسَاءِ",
+				"englishName": "An-Nisaa",
+				"englishNameTranslation": "The Women",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 176
+			},
+			"numberInSurah": 96,
+			"juz": 5,
+			"manzil": 1,
+			"page": 94,
+			"ruku": 74,
+			"hizbQuarter": 37,
+			"sajda": false
+		},
+		{
+			"number": 590,
+			"text": "إِنَّ الَّذِينَ تَوَفَّاهُمُ الْمَلَائِكَةُ ظَالِمِي أَنْفُسِهِمْ قَالُوا فِيمَ كُنْتُمْ ۖ قَالُوا كُنَّا مُسْتَضْعَفِينَ فِي الْأَرْضِ ۚ قَالُوا أَلَمْ تَكُنْ أَرْضُ اللَّهِ وَاسِعَةً فَتُهَاجِرُوا فِيهَا ۚ فَأُولَٰئِكَ مَأْوَاهُمْ جَهَنَّمُ ۖ وَسَاءَتْ مَصِيرًا",
+			"surah": {
+				"number": 4,
+				"name": "سُورَةُ النِّسَاءِ",
+				"englishName": "An-Nisaa",
+				"englishNameTranslation": "The Women",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 176
+			},
+			"numberInSurah": 97,
+			"juz": 5,
+			"manzil": 1,
+			"page": 94,
+			"ruku": 75,
+			"hizbQuarter": 37,
+			"sajda": false
+		},
+		{
+			"number": 591,
+			"text": "إِلَّا الْمُسْتَضْعَفِينَ مِنَ الرِّجَالِ وَالنِّسَاءِ وَالْوِلْدَانِ لَا يَسْتَطِيعُونَ حِيلَةً وَلَا يَهْتَدُونَ سَبِيلًا",
+			"surah": {
+				"number": 4,
+				"name": "سُورَةُ النِّسَاءِ",
+				"englishName": "An-Nisaa",
+				"englishNameTranslation": "The Women",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 176
+			},
+			"numberInSurah": 98,
+			"juz": 5,
+			"manzil": 1,
+			"page": 94,
+			"ruku": 75,
+			"hizbQuarter": 37,
+			"sajda": false
+		},
+		{
+			"number": 592,
+			"text": "فَأُولَٰئِكَ عَسَى اللَّهُ أَنْ يَعْفُوَ عَنْهُمْ ۚ وَكَانَ اللَّهُ عَفُوًّا غَفُورًا",
+			"surah": {
+				"number": 4,
+				"name": "سُورَةُ النِّسَاءِ",
+				"englishName": "An-Nisaa",
+				"englishNameTranslation": "The Women",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 176
+			},
+			"numberInSurah": 99,
+			"juz": 5,
+			"manzil": 1,
+			"page": 94,
+			"ruku": 75,
+			"hizbQuarter": 37,
+			"sajda": false
+		},
+		{
+			"number": 593,
+			"text": "۞ وَمَنْ يُهَاجِرْ فِي سَبِيلِ اللَّهِ يَجِدْ فِي الْأَرْضِ مُرَاغَمًا كَثِيرًا وَسَعَةً ۚ وَمَنْ يَخْرُجْ مِنْ بَيْتِهِ مُهَاجِرًا إِلَى اللَّهِ وَرَسُولِهِ ثُمَّ يُدْرِكْهُ الْمَوْتُ فَقَدْ وَقَعَ أَجْرُهُ عَلَى اللَّهِ ۗ وَكَانَ اللَّهُ غَفُورًا رَحِيمًا",
+			"surah": {
+				"number": 4,
+				"name": "سُورَةُ النِّسَاءِ",
+				"englishName": "An-Nisaa",
+				"englishNameTranslation": "The Women",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 176
+			},
+			"numberInSurah": 100,
+			"juz": 5,
+			"manzil": 1,
+			"page": 94,
+			"ruku": 75,
+			"hizbQuarter": 38,
+			"sajda": false
+		},
+		{
+			"number": 594,
+			"text": "وَإِذَا ضَرَبْتُمْ فِي الْأَرْضِ فَلَيْسَ عَلَيْكُمْ جُنَاحٌ أَنْ تَقْصُرُوا مِنَ الصَّلَاةِ إِنْ خِفْتُمْ أَنْ يَفْتِنَكُمُ الَّذِينَ كَفَرُوا ۚ إِنَّ الْكَافِرِينَ كَانُوا لَكُمْ عَدُوًّا مُبِينًا",
+			"surah": {
+				"number": 4,
+				"name": "سُورَةُ النِّسَاءِ",
+				"englishName": "An-Nisaa",
+				"englishNameTranslation": "The Women",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 176
+			},
+			"numberInSurah": 101,
+			"juz": 5,
+			"manzil": 1,
+			"page": 94,
+			"ruku": 76,
+			"hizbQuarter": 38,
+			"sajda": false
+		},
+		{
+			"number": 595,
+			"text": "وَإِذَا كُنْتَ فِيهِمْ فَأَقَمْتَ لَهُمُ الصَّلَاةَ فَلْتَقُمْ طَائِفَةٌ مِنْهُمْ مَعَكَ وَلْيَأْخُذُوا أَسْلِحَتَهُمْ فَإِذَا سَجَدُوا فَلْيَكُونُوا مِنْ وَرَائِكُمْ وَلْتَأْتِ طَائِفَةٌ أُخْرَىٰ لَمْ يُصَلُّوا فَلْيُصَلُّوا مَعَكَ وَلْيَأْخُذُوا حِذْرَهُمْ وَأَسْلِحَتَهُمْ ۗ وَدَّ الَّذِينَ كَفَرُوا لَوْ تَغْفُلُونَ عَنْ أَسْلِحَتِكُمْ وَأَمْتِعَتِكُمْ فَيَمِيلُونَ عَلَيْكُمْ مَيْلَةً وَاحِدَةً ۚ وَلَا جُنَاحَ عَلَيْكُمْ إِنْ كَانَ بِكُمْ أَذًى مِنْ مَطَرٍ أَوْ كُنْتُمْ مَرْضَىٰ أَنْ تَضَعُوا أَسْلِحَتَكُمْ ۖ وَخُذُوا حِذْرَكُمْ ۗ إِنَّ اللَّهَ أَعَدَّ لِلْكَافِرِينَ عَذَابًا مُهِينًا",
+			"surah": {
+				"number": 4,
+				"name": "سُورَةُ النِّسَاءِ",
+				"englishName": "An-Nisaa",
+				"englishNameTranslation": "The Women",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 176
+			},
+			"numberInSurah": 102,
+			"juz": 5,
+			"manzil": 1,
+			"page": 95,
+			"ruku": 76,
+			"hizbQuarter": 38,
+			"sajda": false
+		},
+		{
+			"number": 596,
+			"text": "فَإِذَا قَضَيْتُمُ الصَّلَاةَ فَاذْكُرُوا اللَّهَ قِيَامًا وَقُعُودًا وَعَلَىٰ جُنُوبِكُمْ ۚ فَإِذَا اطْمَأْنَنْتُمْ فَأَقِيمُوا الصَّلَاةَ ۚ إِنَّ الصَّلَاةَ كَانَتْ عَلَى الْمُؤْمِنِينَ كِتَابًا مَوْقُوتًا",
+			"surah": {
+				"number": 4,
+				"name": "سُورَةُ النِّسَاءِ",
+				"englishName": "An-Nisaa",
+				"englishNameTranslation": "The Women",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 176
+			},
+			"numberInSurah": 103,
+			"juz": 5,
+			"manzil": 1,
+			"page": 95,
+			"ruku": 76,
+			"hizbQuarter": 38,
+			"sajda": false
+		},
+		{
+			"number": 597,
+			"text": "وَلَا تَهِنُوا فِي ابْتِغَاءِ الْقَوْمِ ۖ إِنْ تَكُونُوا تَأْلَمُونَ فَإِنَّهُمْ يَأْلَمُونَ كَمَا تَأْلَمُونَ ۖ وَتَرْجُونَ مِنَ اللَّهِ مَا لَا يَرْجُونَ ۗ وَكَانَ اللَّهُ عَلِيمًا حَكِيمًا",
+			"surah": {
+				"number": 4,
+				"name": "سُورَةُ النِّسَاءِ",
+				"englishName": "An-Nisaa",
+				"englishNameTranslation": "The Women",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 176
+			},
+			"numberInSurah": 104,
+			"juz": 5,
+			"manzil": 1,
+			"page": 95,
+			"ruku": 76,
+			"hizbQuarter": 38,
+			"sajda": false
+		},
+		{
+			"number": 598,
+			"text": "إِنَّا أَنْزَلْنَا إِلَيْكَ الْكِتَابَ بِالْحَقِّ لِتَحْكُمَ بَيْنَ النَّاسِ بِمَا أَرَاكَ اللَّهُ ۚ وَلَا تَكُنْ لِلْخَائِنِينَ خَصِيمًا",
+			"surah": {
+				"number": 4,
+				"name": "سُورَةُ النِّسَاءِ",
+				"englishName": "An-Nisaa",
+				"englishNameTranslation": "The Women",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 176
+			},
+			"numberInSurah": 105,
+			"juz": 5,
+			"manzil": 1,
+			"page": 95,
+			"ruku": 77,
+			"hizbQuarter": 38,
+			"sajda": false
+		},
+		{
+			"number": 599,
+			"text": "وَاسْتَغْفِرِ اللَّهَ ۖ إِنَّ اللَّهَ كَانَ غَفُورًا رَحِيمًا",
+			"surah": {
+				"number": 4,
+				"name": "سُورَةُ النِّسَاءِ",
+				"englishName": "An-Nisaa",
+				"englishNameTranslation": "The Women",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 176
+			},
+			"numberInSurah": 106,
+			"juz": 5,
+			"manzil": 1,
+			"page": 96,
+			"ruku": 77,
+			"hizbQuarter": 38,
+			"sajda": false
+		},
+		{
+			"number": 600,
+			"text": "وَلَا تُجَادِلْ عَنِ الَّذِينَ يَخْتَانُونَ أَنْفُسَهُمْ ۚ إِنَّ اللَّهَ لَا يُحِبُّ مَنْ كَانَ خَوَّانًا أَثِيمًا",
+			"surah": {
+				"number": 4,
+				"name": "سُورَةُ النِّسَاءِ",
+				"englishName": "An-Nisaa",
+				"englishNameTranslation": "The Women",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 176
+			},
+			"numberInSurah": 107,
+			"juz": 5,
+			"manzil": 1,
+			"page": 96,
+			"ruku": 77,
+			"hizbQuarter": 38,
+			"sajda": false
+		},
+		{
+			"number": 601,
+			"text": "يَسْتَخْفُونَ مِنَ النَّاسِ وَلَا يَسْتَخْفُونَ مِنَ اللَّهِ وَهُوَ مَعَهُمْ إِذْ يُبَيِّتُونَ مَا لَا يَرْضَىٰ مِنَ الْقَوْلِ ۚ وَكَانَ اللَّهُ بِمَا يَعْمَلُونَ مُحِيطًا",
+			"surah": {
+				"number": 4,
+				"name": "سُورَةُ النِّسَاءِ",
+				"englishName": "An-Nisaa",
+				"englishNameTranslation": "The Women",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 176
+			},
+			"numberInSurah": 108,
+			"juz": 5,
+			"manzil": 1,
+			"page": 96,
+			"ruku": 77,
+			"hizbQuarter": 38,
+			"sajda": false
+		},
+		{
+			"number": 602,
+			"text": "هَا أَنْتُمْ هَٰؤُلَاءِ جَادَلْتُمْ عَنْهُمْ فِي الْحَيَاةِ الدُّنْيَا فَمَنْ يُجَادِلُ اللَّهَ عَنْهُمْ يَوْمَ الْقِيَامَةِ أَمْ مَنْ يَكُونُ عَلَيْهِمْ وَكِيلًا",
+			"surah": {
+				"number": 4,
+				"name": "سُورَةُ النِّسَاءِ",
+				"englishName": "An-Nisaa",
+				"englishNameTranslation": "The Women",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 176
+			},
+			"numberInSurah": 109,
+			"juz": 5,
+			"manzil": 1,
+			"page": 96,
+			"ruku": 77,
+			"hizbQuarter": 38,
+			"sajda": false
+		},
+		{
+			"number": 603,
+			"text": "وَمَنْ يَعْمَلْ سُوءًا أَوْ يَظْلِمْ نَفْسَهُ ثُمَّ يَسْتَغْفِرِ اللَّهَ يَجِدِ اللَّهَ غَفُورًا رَحِيمًا",
+			"surah": {
+				"number": 4,
+				"name": "سُورَةُ النِّسَاءِ",
+				"englishName": "An-Nisaa",
+				"englishNameTranslation": "The Women",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 176
+			},
+			"numberInSurah": 110,
+			"juz": 5,
+			"manzil": 1,
+			"page": 96,
+			"ruku": 77,
+			"hizbQuarter": 38,
+			"sajda": false
+		},
+		{
+			"number": 604,
+			"text": "وَمَنْ يَكْسِبْ إِثْمًا فَإِنَّمَا يَكْسِبُهُ عَلَىٰ نَفْسِهِ ۚ وَكَانَ اللَّهُ عَلِيمًا حَكِيمًا",
+			"surah": {
+				"number": 4,
+				"name": "سُورَةُ النِّسَاءِ",
+				"englishName": "An-Nisaa",
+				"englishNameTranslation": "The Women",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 176
+			},
+			"numberInSurah": 111,
+			"juz": 5,
+			"manzil": 1,
+			"page": 96,
+			"ruku": 77,
+			"hizbQuarter": 38,
+			"sajda": false
+		},
+		{
+			"number": 605,
+			"text": "وَمَنْ يَكْسِبْ خَطِيئَةً أَوْ إِثْمًا ثُمَّ يَرْمِ بِهِ بَرِيئًا فَقَدِ احْتَمَلَ بُهْتَانًا وَإِثْمًا مُبِينًا",
+			"surah": {
+				"number": 4,
+				"name": "سُورَةُ النِّسَاءِ",
+				"englishName": "An-Nisaa",
+				"englishNameTranslation": "The Women",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 176
+			},
+			"numberInSurah": 112,
+			"juz": 5,
+			"manzil": 1,
+			"page": 96,
+			"ruku": 77,
+			"hizbQuarter": 38,
+			"sajda": false
+		},
+		{
+			"number": 606,
+			"text": "وَلَوْلَا فَضْلُ اللَّهِ عَلَيْكَ وَرَحْمَتُهُ لَهَمَّتْ طَائِفَةٌ مِنْهُمْ أَنْ يُضِلُّوكَ وَمَا يُضِلُّونَ إِلَّا أَنْفُسَهُمْ ۖ وَمَا يَضُرُّونَكَ مِنْ شَيْءٍ ۚ وَأَنْزَلَ اللَّهُ عَلَيْكَ الْكِتَابَ وَالْحِكْمَةَ وَعَلَّمَكَ مَا لَمْ تَكُنْ تَعْلَمُ ۚ وَكَانَ فَضْلُ اللَّهِ عَلَيْكَ عَظِيمًا",
+			"surah": {
+				"number": 4,
+				"name": "سُورَةُ النِّسَاءِ",
+				"englishName": "An-Nisaa",
+				"englishNameTranslation": "The Women",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 176
+			},
+			"numberInSurah": 113,
+			"juz": 5,
+			"manzil": 1,
+			"page": 96,
+			"ruku": 78,
+			"hizbQuarter": 38,
+			"sajda": false
+		}
+	]
+}

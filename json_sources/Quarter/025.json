@@ -1,0 +1,404 @@
+﻿{
+	"number": 25,
+	"ayahs": [
+		{
+			"number": 386,
+			"surah": {
+				"number": 3,
+				"name": "سُورَةُ آلِ عِمۡرَانَ",
+				"englishName": "Aal-i-Imraan",
+				"englishNameTranslation": "The Family of Imraan",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 200
+			},
+			"numberInSurah": 93,
+			"juz": 4,
+			"manzil": 1,
+			"page": 62,
+			"ruku": 51,
+			"hizbQuarter": 25,
+			"sajda": false,
+			"text": "كُلُّ الطَّعَامِ كَانَ حِلًّا لِّبَنِي إِسْرَائِيلَ إِلَّا مَا حَرَّمَ إِسْرَائِيلُ عَلَىٰ نَفْسِهِ مِن قَبْلِ أَن تُنَزَّلَ التَّوْرَاةُ ۗ قُلْ فَأْتُوا بِالتَّوْرَاةِ فَاتْلُوهَا إِن كُنتُمْ صَادِقِينَ"
+		},
+		{
+			"number": 387,
+			"surah": {
+				"number": 3,
+				"name": "سُورَةُ آلِ عِمۡرَانَ",
+				"englishName": "Aal-i-Imraan",
+				"englishNameTranslation": "The Family of Imraan",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 200
+			},
+			"numberInSurah": 94,
+			"juz": 4,
+			"manzil": 1,
+			"page": 62,
+			"ruku": 51,
+			"hizbQuarter": 25,
+			"sajda": false,
+			"text": "فَمَنِ افْتَرَىٰ عَلَى اللَّهِ الْكَذِبَ مِن بَعْدِ ذَٰلِكَ فَأُولَٰئِكَ هُمُ الظَّالِمُونَ"
+		},
+		{
+			"number": 388,
+			"surah": {
+				"number": 3,
+				"name": "سُورَةُ آلِ عِمۡرَانَ",
+				"englishName": "Aal-i-Imraan",
+				"englishNameTranslation": "The Family of Imraan",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 200
+			},
+			"numberInSurah": 95,
+			"juz": 4,
+			"manzil": 1,
+			"page": 62,
+			"ruku": 51,
+			"hizbQuarter": 25,
+			"sajda": false,
+			"text": "قُلْ صَدَقَ اللَّهُ ۗ فَاتَّبِعُوا مِلَّةَ إِبْرَاهِيمَ حَنِيفًا وَمَا كَانَ مِنَ الْمُشْرِكِينَ"
+		},
+		{
+			"number": 389,
+			"surah": {
+				"number": 3,
+				"name": "سُورَةُ آلِ عِمۡرَانَ",
+				"englishName": "Aal-i-Imraan",
+				"englishNameTranslation": "The Family of Imraan",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 200
+			},
+			"numberInSurah": 96,
+			"juz": 4,
+			"manzil": 1,
+			"page": 62,
+			"ruku": 51,
+			"hizbQuarter": 25,
+			"sajda": false,
+			"text": "إِنَّ أَوَّلَ بَيْتٍ وُضِعَ لِلنَّاسِ لَلَّذِي بِبَكَّةَ مُبَارَكًا وَهُدًى لِّلْعَالَمِينَ"
+		},
+		{
+			"number": 390,
+			"surah": {
+				"number": 3,
+				"name": "سُورَةُ آلِ عِمۡرَانَ",
+				"englishName": "Aal-i-Imraan",
+				"englishNameTranslation": "The Family of Imraan",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 200
+			},
+			"numberInSurah": 97,
+			"juz": 4,
+			"manzil": 1,
+			"page": 62,
+			"ruku": 51,
+			"hizbQuarter": 25,
+			"sajda": false,
+			"text": "فِيهِ آيَاتٌ بَيِّنَاتٌ مَّقَامُ إِبْرَاهِيمَ ۖ وَمَن دَخَلَهُ كَانَ آمِنًا ۗ وَلِلَّهِ عَلَى النَّاسِ حِجُّ الْبَيْتِ مَنِ اسْتَطَاعَ إِلَيْهِ سَبِيلًا ۚ وَمَن كَفَرَ فَإِنَّ اللَّهَ غَنِيٌّ عَنِ الْعَالَمِينَ"
+		},
+		{
+			"number": 391,
+			"surah": {
+				"number": 3,
+				"name": "سُورَةُ آلِ عِمۡرَانَ",
+				"englishName": "Aal-i-Imraan",
+				"englishNameTranslation": "The Family of Imraan",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 200
+			},
+			"numberInSurah": 98,
+			"juz": 4,
+			"manzil": 1,
+			"page": 62,
+			"ruku": 51,
+			"hizbQuarter": 25,
+			"sajda": false,
+			"text": "قُلْ يَا أَهْلَ الْكِتَابِ لِمَ تَكْفُرُونَ بِآيَاتِ اللَّهِ وَاللَّهُ شَهِيدٌ عَلَىٰ مَا تَعْمَلُونَ"
+		},
+		{
+			"number": 392,
+			"surah": {
+				"number": 3,
+				"name": "سُورَةُ آلِ عِمۡرَانَ",
+				"englishName": "Aal-i-Imraan",
+				"englishNameTranslation": "The Family of Imraan",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 200
+			},
+			"numberInSurah": 99,
+			"juz": 4,
+			"manzil": 1,
+			"page": 62,
+			"ruku": 51,
+			"hizbQuarter": 25,
+			"sajda": false,
+			"text": "قُلْ يَا أَهْلَ الْكِتَابِ لِمَ تَصُدُّونَ عَن سَبِيلِ اللَّهِ مَنْ آمَنَ تَبْغُونَهَا عِوَجًا وَأَنتُمْ شُهَدَاءُ ۗ وَمَا اللَّهُ بِغَافِلٍ عَمَّا تَعْمَلُونَ"
+		},
+		{
+			"number": 393,
+			"surah": {
+				"number": 3,
+				"name": "سُورَةُ آلِ عِمۡرَانَ",
+				"englishName": "Aal-i-Imraan",
+				"englishNameTranslation": "The Family of Imraan",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 200
+			},
+			"numberInSurah": 100,
+			"juz": 4,
+			"manzil": 1,
+			"page": 62,
+			"ruku": 51,
+			"hizbQuarter": 25,
+			"sajda": false,
+			"text": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِن تُطِيعُوا فَرِيقًا مِّنَ الَّذِينَ أُوتُوا الْكِتَابَ يَرُدُّوكُم بَعْدَ إِيمَانِكُمْ كَافِرِينَ"
+		},
+		{
+			"number": 394,
+			"surah": {
+				"number": 3,
+				"name": "سُورَةُ آلِ عِمۡرَانَ",
+				"englishName": "Aal-i-Imraan",
+				"englishNameTranslation": "The Family of Imraan",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 200
+			},
+			"numberInSurah": 101,
+			"juz": 4,
+			"manzil": 1,
+			"page": 63,
+			"ruku": 51,
+			"hizbQuarter": 25,
+			"sajda": false,
+			"text": "وَكَيْفَ تَكْفُرُونَ وَأَنتُمْ تُتْلَىٰ عَلَيْكُمْ آيَاتُ اللَّهِ وَفِيكُمْ رَسُولُهُ ۗ وَمَن يَعْتَصِم بِاللَّهِ فَقَدْ هُدِيَ إِلَىٰ صِرَاطٍ مُّسْتَقِيمٍ"
+		},
+		{
+			"number": 395,
+			"surah": {
+				"number": 3,
+				"name": "سُورَةُ آلِ عِمۡرَانَ",
+				"englishName": "Aal-i-Imraan",
+				"englishNameTranslation": "The Family of Imraan",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 200
+			},
+			"numberInSurah": 102,
+			"juz": 4,
+			"manzil": 1,
+			"page": 63,
+			"ruku": 52,
+			"hizbQuarter": 25,
+			"sajda": false,
+			"text": "يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ حَقَّ تُقَاتِهِ وَلَا تَمُوتُنَّ إِلَّا وَأَنتُم مُّسْلِمُونَ"
+		},
+		{
+			"number": 396,
+			"surah": {
+				"number": 3,
+				"name": "سُورَةُ آلِ عِمۡرَانَ",
+				"englishName": "Aal-i-Imraan",
+				"englishNameTranslation": "The Family of Imraan",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 200
+			},
+			"numberInSurah": 103,
+			"juz": 4,
+			"manzil": 1,
+			"page": 63,
+			"ruku": 52,
+			"hizbQuarter": 25,
+			"sajda": false,
+			"text": "وَاعْتَصِمُوا بِحَبْلِ اللَّهِ جَمِيعًا وَلَا تَفَرَّقُوا ۚ وَاذْكُرُوا نِعْمَتَ اللَّهِ عَلَيْكُمْ إِذْ كُنتُمْ أَعْدَاءً فَأَلَّفَ بَيْنَ قُلُوبِكُمْ فَأَصْبَحْتُم بِنِعْمَتِهِ إِخْوَانًا وَكُنتُمْ عَلَىٰ شَفَا حُفْرَةٍ مِّنَ النَّارِ فَأَنقَذَكُم مِّنْهَا ۗ كَذَٰلِكَ يُبَيِّنُ اللَّهُ لَكُمْ آيَاتِهِ لَعَلَّكُمْ تَهْتَدُونَ"
+		},
+		{
+			"number": 397,
+			"surah": {
+				"number": 3,
+				"name": "سُورَةُ آلِ عِمۡرَانَ",
+				"englishName": "Aal-i-Imraan",
+				"englishNameTranslation": "The Family of Imraan",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 200
+			},
+			"numberInSurah": 104,
+			"juz": 4,
+			"manzil": 1,
+			"page": 63,
+			"ruku": 52,
+			"hizbQuarter": 25,
+			"sajda": false,
+			"text": "وَلْتَكُن مِّنكُمْ أُمَّةٌ يَدْعُونَ إِلَى الْخَيْرِ وَيَأْمُرُونَ بِالْمَعْرُوفِ وَيَنْهَوْنَ عَنِ الْمُنكَرِ ۚ وَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ"
+		},
+		{
+			"number": 398,
+			"surah": {
+				"number": 3,
+				"name": "سُورَةُ آلِ عِمۡرَانَ",
+				"englishName": "Aal-i-Imraan",
+				"englishNameTranslation": "The Family of Imraan",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 200
+			},
+			"numberInSurah": 105,
+			"juz": 4,
+			"manzil": 1,
+			"page": 63,
+			"ruku": 52,
+			"hizbQuarter": 25,
+			"sajda": false,
+			"text": "وَلَا تَكُونُوا كَالَّذِينَ تَفَرَّقُوا وَاخْتَلَفُوا مِن بَعْدِ مَا جَاءَهُمُ الْبَيِّنَاتُ ۚ وَأُولَٰئِكَ لَهُمْ عَذَابٌ عَظِيمٌ"
+		},
+		{
+			"number": 399,
+			"surah": {
+				"number": 3,
+				"name": "سُورَةُ آلِ عِمۡرَانَ",
+				"englishName": "Aal-i-Imraan",
+				"englishNameTranslation": "The Family of Imraan",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 200
+			},
+			"numberInSurah": 106,
+			"juz": 4,
+			"manzil": 1,
+			"page": 63,
+			"ruku": 52,
+			"hizbQuarter": 25,
+			"sajda": false,
+			"text": "يَوْمَ تَبْيَضُّ وُجُوهٌ وَتَسْوَدُّ وُجُوهٌ ۚ فَأَمَّا الَّذِينَ اسْوَدَّتْ وُجُوهُهُمْ أَكَفَرْتُم بَعْدَ إِيمَانِكُمْ فَذُوقُوا الْعَذَابَ بِمَا كُنتُمْ تَكْفُرُونَ"
+		},
+		{
+			"number": 400,
+			"surah": {
+				"number": 3,
+				"name": "سُورَةُ آلِ عِمۡرَانَ",
+				"englishName": "Aal-i-Imraan",
+				"englishNameTranslation": "The Family of Imraan",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 200
+			},
+			"numberInSurah": 107,
+			"juz": 4,
+			"manzil": 1,
+			"page": 63,
+			"ruku": 52,
+			"hizbQuarter": 25,
+			"sajda": false,
+			"text": "وَأَمَّا الَّذِينَ ابْيَضَّتْ وُجُوهُهُمْ فَفِي رَحْمَةِ اللَّهِ هُمْ فِيهَا خَالِدُونَ"
+		},
+		{
+			"number": 401,
+			"surah": {
+				"number": 3,
+				"name": "سُورَةُ آلِ عِمۡرَانَ",
+				"englishName": "Aal-i-Imraan",
+				"englishNameTranslation": "The Family of Imraan",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 200
+			},
+			"numberInSurah": 108,
+			"juz": 4,
+			"manzil": 1,
+			"page": 63,
+			"ruku": 52,
+			"hizbQuarter": 25,
+			"sajda": false,
+			"text": "تِلْكَ آيَاتُ اللَّهِ نَتْلُوهَا عَلَيْكَ بِالْحَقِّ ۗ وَمَا اللَّهُ يُرِيدُ ظُلْمًا لِّلْعَالَمِينَ"
+		},
+		{
+			"number": 402,
+			"surah": {
+				"number": 3,
+				"name": "سُورَةُ آلِ عِمۡرَانَ",
+				"englishName": "Aal-i-Imraan",
+				"englishNameTranslation": "The Family of Imraan",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 200
+			},
+			"numberInSurah": 109,
+			"juz": 4,
+			"manzil": 1,
+			"page": 64,
+			"ruku": 52,
+			"hizbQuarter": 25,
+			"sajda": false,
+			"text": "وَلِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۚ وَإِلَى اللَّهِ تُرْجَعُ الْأُمُورُ"
+		},
+		{
+			"number": 403,
+			"surah": {
+				"number": 3,
+				"name": "سُورَةُ آلِ عِمۡرَانَ",
+				"englishName": "Aal-i-Imraan",
+				"englishNameTranslation": "The Family of Imraan",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 200
+			},
+			"numberInSurah": 110,
+			"juz": 4,
+			"manzil": 1,
+			"page": 64,
+			"ruku": 53,
+			"hizbQuarter": 25,
+			"sajda": false,
+			"text": "كُنتُمْ خَيْرَ أُمَّةٍ أُخْرِجَتْ لِلنَّاسِ تَأْمُرُونَ بِالْمَعْرُوفِ وَتَنْهَوْنَ عَنِ الْمُنكَرِ وَتُؤْمِنُونَ بِاللَّهِ ۗ وَلَوْ آمَنَ أَهْلُ الْكِتَابِ لَكَانَ خَيْرًا لَّهُم ۚ مِّنْهُمُ الْمُؤْمِنُونَ وَأَكْثَرُهُمُ الْفَاسِقُونَ"
+		},
+		{
+			"number": 404,
+			"surah": {
+				"number": 3,
+				"name": "سُورَةُ آلِ عِمۡرَانَ",
+				"englishName": "Aal-i-Imraan",
+				"englishNameTranslation": "The Family of Imraan",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 200
+			},
+			"numberInSurah": 111,
+			"juz": 4,
+			"manzil": 1,
+			"page": 64,
+			"ruku": 53,
+			"hizbQuarter": 25,
+			"sajda": false,
+			"text": "لَن يَضُرُّوكُمْ إِلَّا أَذًى ۖ وَإِن يُقَاتِلُوكُمْ يُوَلُّوكُمُ الْأَدْبَارَ ثُمَّ لَا يُنصَرُونَ"
+		},
+		{
+			"number": 405,
+			"surah": {
+				"number": 3,
+				"name": "سُورَةُ آلِ عِمۡرَانَ",
+				"englishName": "Aal-i-Imraan",
+				"englishNameTranslation": "The Family of Imraan",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 200
+			},
+			"numberInSurah": 112,
+			"juz": 4,
+			"manzil": 1,
+			"page": 64,
+			"ruku": 53,
+			"hizbQuarter": 25,
+			"sajda": false,
+			"text": "ضُرِبَتْ عَلَيْهِمُ الذِّلَّةُ أَيْنَ مَا ثُقِفُوا إِلَّا بِحَبْلٍ مِّنَ اللَّهِ وَحَبْلٍ مِّنَ النَّاسِ وَبَاءُوا بِغَضَبٍ مِّنَ اللَّهِ وَضُرِبَتْ عَلَيْهِمُ الْمَسْكَنَةُ ۚ ذَٰلِكَ بِأَنَّهُمْ كَانُوا يَكْفُرُونَ بِآيَاتِ اللَّهِ وَيَقْتُلُونَ الْأَنبِيَاءَ بِغَيْرِ حَقٍّ ۚ ذَٰلِكَ بِمَا عَصَوا وَّكَانُوا يَعْتَدُونَ"
+		}
+	],
+	"surahs": {
+		"3": {
+			"number": 3,
+			"name": "سُورَةُ آلِ عِمۡرَانَ",
+			"englishName": "Aal-i-Imraan",
+			"englishNameTranslation": "The Family of Imraan",
+			"revelationType": "Medinan",
+			"numberOfAyahs": 200
+		}
+	},
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

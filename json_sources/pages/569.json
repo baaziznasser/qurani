@@ -1,0 +1,575 @@
+﻿{
+	"number": 569,
+	"ayahs": [
+		{
+			"number": 5386,
+			"text": "يُبَصَّرُونَهُمْ ۚ يَوَدُّ الْمُجْرِمُ لَوْ يَفْتَدِي مِنْ عَذَابِ يَوْمِئِذٍ بِبَنِيهِ",
+			"surah": {
+				"number": 70,
+				"name": "سُورَةُ المَعَارِجِ",
+				"englishName": "Al-Ma'aarij",
+				"englishNameTranslation": "The Ascending Stairways",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 44
+			},
+			"numberInSurah": 11,
+			"juz": 29,
+			"manzil": 7,
+			"page": 569,
+			"ruku": 502,
+			"hizbQuarter": 227,
+			"sajda": false
+		},
+		{
+			"number": 5387,
+			"text": "وَصَاحِبَتِهِ وَأَخِيهِ",
+			"surah": {
+				"number": 70,
+				"name": "سُورَةُ المَعَارِجِ",
+				"englishName": "Al-Ma'aarij",
+				"englishNameTranslation": "The Ascending Stairways",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 44
+			},
+			"numberInSurah": 12,
+			"juz": 29,
+			"manzil": 7,
+			"page": 569,
+			"ruku": 502,
+			"hizbQuarter": 227,
+			"sajda": false
+		},
+		{
+			"number": 5388,
+			"text": "وَفَصِيلَتِهِ الَّتِي تُؤْوِيهِ",
+			"surah": {
+				"number": 70,
+				"name": "سُورَةُ المَعَارِجِ",
+				"englishName": "Al-Ma'aarij",
+				"englishNameTranslation": "The Ascending Stairways",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 44
+			},
+			"numberInSurah": 13,
+			"juz": 29,
+			"manzil": 7,
+			"page": 569,
+			"ruku": 502,
+			"hizbQuarter": 227,
+			"sajda": false
+		},
+		{
+			"number": 5389,
+			"text": "وَمَنْ فِي الْأَرْضِ جَمِيعًا ثُمَّ يُنْجِيهِ",
+			"surah": {
+				"number": 70,
+				"name": "سُورَةُ المَعَارِجِ",
+				"englishName": "Al-Ma'aarij",
+				"englishNameTranslation": "The Ascending Stairways",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 44
+			},
+			"numberInSurah": 14,
+			"juz": 29,
+			"manzil": 7,
+			"page": 569,
+			"ruku": 502,
+			"hizbQuarter": 227,
+			"sajda": false
+		},
+		{
+			"number": 5390,
+			"text": "كَلَّا ۖ إِنَّهَا لَظَىٰ",
+			"surah": {
+				"number": 70,
+				"name": "سُورَةُ المَعَارِجِ",
+				"englishName": "Al-Ma'aarij",
+				"englishNameTranslation": "The Ascending Stairways",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 44
+			},
+			"numberInSurah": 15,
+			"juz": 29,
+			"manzil": 7,
+			"page": 569,
+			"ruku": 502,
+			"hizbQuarter": 227,
+			"sajda": false
+		},
+		{
+			"number": 5391,
+			"text": "نَزَّاعَةً لِلشَّوَىٰ",
+			"surah": {
+				"number": 70,
+				"name": "سُورَةُ المَعَارِجِ",
+				"englishName": "Al-Ma'aarij",
+				"englishNameTranslation": "The Ascending Stairways",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 44
+			},
+			"numberInSurah": 16,
+			"juz": 29,
+			"manzil": 7,
+			"page": 569,
+			"ruku": 502,
+			"hizbQuarter": 227,
+			"sajda": false
+		},
+		{
+			"number": 5392,
+			"text": "تَدْعُو مَنْ أَدْبَرَ وَتَوَلَّىٰ",
+			"surah": {
+				"number": 70,
+				"name": "سُورَةُ المَعَارِجِ",
+				"englishName": "Al-Ma'aarij",
+				"englishNameTranslation": "The Ascending Stairways",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 44
+			},
+			"numberInSurah": 17,
+			"juz": 29,
+			"manzil": 7,
+			"page": 569,
+			"ruku": 502,
+			"hizbQuarter": 227,
+			"sajda": false
+		},
+		{
+			"number": 5393,
+			"text": "وَجَمَعَ فَأَوْعَىٰ",
+			"surah": {
+				"number": 70,
+				"name": "سُورَةُ المَعَارِجِ",
+				"englishName": "Al-Ma'aarij",
+				"englishNameTranslation": "The Ascending Stairways",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 44
+			},
+			"numberInSurah": 18,
+			"juz": 29,
+			"manzil": 7,
+			"page": 569,
+			"ruku": 502,
+			"hizbQuarter": 227,
+			"sajda": false
+		},
+		{
+			"number": 5394,
+			"text": "۞ إِنَّ الْإِنْسَانَ خُلِقَ هَلُوعًا",
+			"surah": {
+				"number": 70,
+				"name": "سُورَةُ المَعَارِجِ",
+				"englishName": "Al-Ma'aarij",
+				"englishNameTranslation": "The Ascending Stairways",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 44
+			},
+			"numberInSurah": 19,
+			"juz": 29,
+			"manzil": 7,
+			"page": 569,
+			"ruku": 502,
+			"hizbQuarter": 228,
+			"sajda": false
+		},
+		{
+			"number": 5395,
+			"text": "إِذَا مَسَّهُ الشَّرُّ جَزُوعًا",
+			"surah": {
+				"number": 70,
+				"name": "سُورَةُ المَعَارِجِ",
+				"englishName": "Al-Ma'aarij",
+				"englishNameTranslation": "The Ascending Stairways",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 44
+			},
+			"numberInSurah": 20,
+			"juz": 29,
+			"manzil": 7,
+			"page": 569,
+			"ruku": 502,
+			"hizbQuarter": 228,
+			"sajda": false
+		},
+		{
+			"number": 5396,
+			"text": "وَإِذَا مَسَّهُ الْخَيْرُ مَنُوعًا",
+			"surah": {
+				"number": 70,
+				"name": "سُورَةُ المَعَارِجِ",
+				"englishName": "Al-Ma'aarij",
+				"englishNameTranslation": "The Ascending Stairways",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 44
+			},
+			"numberInSurah": 21,
+			"juz": 29,
+			"manzil": 7,
+			"page": 569,
+			"ruku": 502,
+			"hizbQuarter": 228,
+			"sajda": false
+		},
+		{
+			"number": 5397,
+			"text": "إِلَّا الْمُصَلِّينَ",
+			"surah": {
+				"number": 70,
+				"name": "سُورَةُ المَعَارِجِ",
+				"englishName": "Al-Ma'aarij",
+				"englishNameTranslation": "The Ascending Stairways",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 44
+			},
+			"numberInSurah": 22,
+			"juz": 29,
+			"manzil": 7,
+			"page": 569,
+			"ruku": 502,
+			"hizbQuarter": 228,
+			"sajda": false
+		},
+		{
+			"number": 5398,
+			"text": "الَّذِينَ هُمْ عَلَىٰ صَلَاتِهِمْ دَائِمُونَ",
+			"surah": {
+				"number": 70,
+				"name": "سُورَةُ المَعَارِجِ",
+				"englishName": "Al-Ma'aarij",
+				"englishNameTranslation": "The Ascending Stairways",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 44
+			},
+			"numberInSurah": 23,
+			"juz": 29,
+			"manzil": 7,
+			"page": 569,
+			"ruku": 502,
+			"hizbQuarter": 228,
+			"sajda": false
+		},
+		{
+			"number": 5399,
+			"text": "وَالَّذِينَ فِي أَمْوَالِهِمْ حَقٌّ مَعْلُومٌ",
+			"surah": {
+				"number": 70,
+				"name": "سُورَةُ المَعَارِجِ",
+				"englishName": "Al-Ma'aarij",
+				"englishNameTranslation": "The Ascending Stairways",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 44
+			},
+			"numberInSurah": 24,
+			"juz": 29,
+			"manzil": 7,
+			"page": 569,
+			"ruku": 502,
+			"hizbQuarter": 228,
+			"sajda": false
+		},
+		{
+			"number": 5400,
+			"text": "لِلسَّائِلِ وَالْمَحْرُومِ",
+			"surah": {
+				"number": 70,
+				"name": "سُورَةُ المَعَارِجِ",
+				"englishName": "Al-Ma'aarij",
+				"englishNameTranslation": "The Ascending Stairways",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 44
+			},
+			"numberInSurah": 25,
+			"juz": 29,
+			"manzil": 7,
+			"page": 569,
+			"ruku": 502,
+			"hizbQuarter": 228,
+			"sajda": false
+		},
+		{
+			"number": 5401,
+			"text": "وَالَّذِينَ يُصَدِّقُونَ بِيَوْمِ الدِّينِ",
+			"surah": {
+				"number": 70,
+				"name": "سُورَةُ المَعَارِجِ",
+				"englishName": "Al-Ma'aarij",
+				"englishNameTranslation": "The Ascending Stairways",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 44
+			},
+			"numberInSurah": 26,
+			"juz": 29,
+			"manzil": 7,
+			"page": 569,
+			"ruku": 502,
+			"hizbQuarter": 228,
+			"sajda": false
+		},
+		{
+			"number": 5402,
+			"text": "وَالَّذِينَ هُمْ مِنْ عَذَابِ رَبِّهِمْ مُشْفِقُونَ",
+			"surah": {
+				"number": 70,
+				"name": "سُورَةُ المَعَارِجِ",
+				"englishName": "Al-Ma'aarij",
+				"englishNameTranslation": "The Ascending Stairways",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 44
+			},
+			"numberInSurah": 27,
+			"juz": 29,
+			"manzil": 7,
+			"page": 569,
+			"ruku": 502,
+			"hizbQuarter": 228,
+			"sajda": false
+		},
+		{
+			"number": 5403,
+			"text": "إِنَّ عَذَابَ رَبِّهِمْ غَيْرُ مَأْمُونٍ",
+			"surah": {
+				"number": 70,
+				"name": "سُورَةُ المَعَارِجِ",
+				"englishName": "Al-Ma'aarij",
+				"englishNameTranslation": "The Ascending Stairways",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 44
+			},
+			"numberInSurah": 28,
+			"juz": 29,
+			"manzil": 7,
+			"page": 569,
+			"ruku": 502,
+			"hizbQuarter": 228,
+			"sajda": false
+		},
+		{
+			"number": 5404,
+			"text": "وَالَّذِينَ هُمْ لِفُرُوجِهِمْ حَافِظُونَ",
+			"surah": {
+				"number": 70,
+				"name": "سُورَةُ المَعَارِجِ",
+				"englishName": "Al-Ma'aarij",
+				"englishNameTranslation": "The Ascending Stairways",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 44
+			},
+			"numberInSurah": 29,
+			"juz": 29,
+			"manzil": 7,
+			"page": 569,
+			"ruku": 502,
+			"hizbQuarter": 228,
+			"sajda": false
+		},
+		{
+			"number": 5405,
+			"text": "إِلَّا عَلَىٰ أَزْوَاجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَانُهُمْ فَإِنَّهُمْ غَيْرُ مَلُومِينَ",
+			"surah": {
+				"number": 70,
+				"name": "سُورَةُ المَعَارِجِ",
+				"englishName": "Al-Ma'aarij",
+				"englishNameTranslation": "The Ascending Stairways",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 44
+			},
+			"numberInSurah": 30,
+			"juz": 29,
+			"manzil": 7,
+			"page": 569,
+			"ruku": 502,
+			"hizbQuarter": 228,
+			"sajda": false
+		},
+		{
+			"number": 5406,
+			"text": "فَمَنِ ابْتَغَىٰ وَرَاءَ ذَٰلِكَ فَأُولَٰئِكَ هُمُ الْعَادُونَ",
+			"surah": {
+				"number": 70,
+				"name": "سُورَةُ المَعَارِجِ",
+				"englishName": "Al-Ma'aarij",
+				"englishNameTranslation": "The Ascending Stairways",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 44
+			},
+			"numberInSurah": 31,
+			"juz": 29,
+			"manzil": 7,
+			"page": 569,
+			"ruku": 502,
+			"hizbQuarter": 228,
+			"sajda": false
+		},
+		{
+			"number": 5407,
+			"text": "وَالَّذِينَ هُمْ لِأَمَانَاتِهِمْ وَعَهْدِهِمْ رَاعُونَ",
+			"surah": {
+				"number": 70,
+				"name": "سُورَةُ المَعَارِجِ",
+				"englishName": "Al-Ma'aarij",
+				"englishNameTranslation": "The Ascending Stairways",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 44
+			},
+			"numberInSurah": 32,
+			"juz": 29,
+			"manzil": 7,
+			"page": 569,
+			"ruku": 502,
+			"hizbQuarter": 228,
+			"sajda": false
+		},
+		{
+			"number": 5408,
+			"text": "وَالَّذِينَ هُمْ بِشَهَادَاتِهِمْ قَائِمُونَ",
+			"surah": {
+				"number": 70,
+				"name": "سُورَةُ المَعَارِجِ",
+				"englishName": "Al-Ma'aarij",
+				"englishNameTranslation": "The Ascending Stairways",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 44
+			},
+			"numberInSurah": 33,
+			"juz": 29,
+			"manzil": 7,
+			"page": 569,
+			"ruku": 502,
+			"hizbQuarter": 228,
+			"sajda": false
+		},
+		{
+			"number": 5409,
+			"text": "وَالَّذِينَ هُمْ عَلَىٰ صَلَاتِهِمْ يُحَافِظُونَ",
+			"surah": {
+				"number": 70,
+				"name": "سُورَةُ المَعَارِجِ",
+				"englishName": "Al-Ma'aarij",
+				"englishNameTranslation": "The Ascending Stairways",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 44
+			},
+			"numberInSurah": 34,
+			"juz": 29,
+			"manzil": 7,
+			"page": 569,
+			"ruku": 502,
+			"hizbQuarter": 228,
+			"sajda": false
+		},
+		{
+			"number": 5410,
+			"text": "أُولَٰئِكَ فِي جَنَّاتٍ مُكْرَمُونَ",
+			"surah": {
+				"number": 70,
+				"name": "سُورَةُ المَعَارِجِ",
+				"englishName": "Al-Ma'aarij",
+				"englishNameTranslation": "The Ascending Stairways",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 44
+			},
+			"numberInSurah": 35,
+			"juz": 29,
+			"manzil": 7,
+			"page": 569,
+			"ruku": 502,
+			"hizbQuarter": 228,
+			"sajda": false
+		},
+		{
+			"number": 5411,
+			"text": "فَمَالِ الَّذِينَ كَفَرُوا قِبَلَكَ مُهْطِعِينَ",
+			"surah": {
+				"number": 70,
+				"name": "سُورَةُ المَعَارِجِ",
+				"englishName": "Al-Ma'aarij",
+				"englishNameTranslation": "The Ascending Stairways",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 44
+			},
+			"numberInSurah": 36,
+			"juz": 29,
+			"manzil": 7,
+			"page": 569,
+			"ruku": 503,
+			"hizbQuarter": 228,
+			"sajda": false
+		},
+		{
+			"number": 5412,
+			"text": "عَنِ الْيَمِينِ وَعَنِ الشِّمَالِ عِزِينَ",
+			"surah": {
+				"number": 70,
+				"name": "سُورَةُ المَعَارِجِ",
+				"englishName": "Al-Ma'aarij",
+				"englishNameTranslation": "The Ascending Stairways",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 44
+			},
+			"numberInSurah": 37,
+			"juz": 29,
+			"manzil": 7,
+			"page": 569,
+			"ruku": 503,
+			"hizbQuarter": 228,
+			"sajda": false
+		},
+		{
+			"number": 5413,
+			"text": "أَيَطْمَعُ كُلُّ امْرِئٍ مِنْهُمْ أَنْ يُدْخَلَ جَنَّةَ نَعِيمٍ",
+			"surah": {
+				"number": 70,
+				"name": "سُورَةُ المَعَارِجِ",
+				"englishName": "Al-Ma'aarij",
+				"englishNameTranslation": "The Ascending Stairways",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 44
+			},
+			"numberInSurah": 38,
+			"juz": 29,
+			"manzil": 7,
+			"page": 569,
+			"ruku": 503,
+			"hizbQuarter": 228,
+			"sajda": false
+		},
+		{
+			"number": 5414,
+			"text": "كَلَّا ۖ إِنَّا خَلَقْنَاهُمْ مِمَّا يَعْلَمُونَ",
+			"surah": {
+				"number": 70,
+				"name": "سُورَةُ المَعَارِجِ",
+				"englishName": "Al-Ma'aarij",
+				"englishNameTranslation": "The Ascending Stairways",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 44
+			},
+			"numberInSurah": 39,
+			"juz": 29,
+			"manzil": 7,
+			"page": 569,
+			"ruku": 503,
+			"hizbQuarter": 228,
+			"sajda": false
+		}
+	],
+	"surahs": {
+		"70": {
+			"number": 70,
+			"name": "سُورَةُ المَعَارِجِ",
+			"englishName": "Al-Ma'aarij",
+			"englishNameTranslation": "The Ascending Stairways",
+			"revelationType": "Meccan",
+			"numberOfAyahs": 44
+		}
+	},
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

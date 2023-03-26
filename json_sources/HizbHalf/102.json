@@ -1,0 +1,879 @@
+﻿{
+	"number": 51.5,
+	"ayahs": [
+		{
+			"number": 4555,
+			"text": "۞ أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنْظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِنْ قَبْلِهِمْ ۚ دَمَّرَ اللَّهُ عَلَيْهِمْ ۖ وَلِلْكَافِرِينَ أَمْثَالُهَا",
+			"surah": {
+				"number": 47,
+				"name": "سُورَةُ مُحَمَّدٍ",
+				"englishName": "Muhammad",
+				"englishNameTranslation": "Muhammad",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 38
+			},
+			"numberInSurah": 10,
+			"juz": 26,
+			"manzil": 6,
+			"page": 507,
+			"ruku": 442,
+			"hizbQuarter": 203,
+			"sajda": false
+		},
+		{
+			"number": 4556,
+			"text": "ذَٰلِكَ بِأَنَّ اللَّهَ مَوْلَى الَّذِينَ آمَنُوا وَأَنَّ الْكَافِرِينَ لَا مَوْلَىٰ لَهُمْ",
+			"surah": {
+				"number": 47,
+				"name": "سُورَةُ مُحَمَّدٍ",
+				"englishName": "Muhammad",
+				"englishNameTranslation": "Muhammad",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 38
+			},
+			"numberInSurah": 11,
+			"juz": 26,
+			"manzil": 6,
+			"page": 507,
+			"ruku": 442,
+			"hizbQuarter": 203,
+			"sajda": false
+		},
+		{
+			"number": 4557,
+			"text": "إِنَّ اللَّهَ يُدْخِلُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ ۖ وَالَّذِينَ كَفَرُوا يَتَمَتَّعُونَ وَيَأْكُلُونَ كَمَا تَأْكُلُ الْأَنْعَامُ وَالنَّارُ مَثْوًى لَهُمْ",
+			"surah": {
+				"number": 47,
+				"name": "سُورَةُ مُحَمَّدٍ",
+				"englishName": "Muhammad",
+				"englishNameTranslation": "Muhammad",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 38
+			},
+			"numberInSurah": 12,
+			"juz": 26,
+			"manzil": 6,
+			"page": 508,
+			"ruku": 443,
+			"hizbQuarter": 203,
+			"sajda": false
+		},
+		{
+			"number": 4558,
+			"text": "وَكَأَيِّنْ مِنْ قَرْيَةٍ هِيَ أَشَدُّ قُوَّةً مِنْ قَرْيَتِكَ الَّتِي أَخْرَجَتْكَ أَهْلَكْنَاهُمْ فَلَا نَاصِرَ لَهُمْ",
+			"surah": {
+				"number": 47,
+				"name": "سُورَةُ مُحَمَّدٍ",
+				"englishName": "Muhammad",
+				"englishNameTranslation": "Muhammad",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 38
+			},
+			"numberInSurah": 13,
+			"juz": 26,
+			"manzil": 6,
+			"page": 508,
+			"ruku": 443,
+			"hizbQuarter": 203,
+			"sajda": false
+		},
+		{
+			"number": 4559,
+			"text": "أَفَمَنْ كَانَ عَلَىٰ بَيِّنَةٍ مِنْ رَبِّهِ كَمَنْ زُيِّنَ لَهُ سُوءُ عَمَلِهِ وَاتَّبَعُوا أَهْوَاءَهُمْ",
+			"surah": {
+				"number": 47,
+				"name": "سُورَةُ مُحَمَّدٍ",
+				"englishName": "Muhammad",
+				"englishNameTranslation": "Muhammad",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 38
+			},
+			"numberInSurah": 14,
+			"juz": 26,
+			"manzil": 6,
+			"page": 508,
+			"ruku": 443,
+			"hizbQuarter": 203,
+			"sajda": false
+		},
+		{
+			"number": 4560,
+			"text": "مَثَلُ الْجَنَّةِ الَّتِي وُعِدَ الْمُتَّقُونَ ۖ فِيهَا أَنْهَارٌ مِنْ مَاءٍ غَيْرِ آسِنٍ وَأَنْهَارٌ مِنْ لَبَنٍ لَمْ يَتَغَيَّرْ طَعْمُهُ وَأَنْهَارٌ مِنْ خَمْرٍ لَذَّةٍ لِلشَّارِبِينَ وَأَنْهَارٌ مِنْ عَسَلٍ مُصَفًّى ۖ وَلَهُمْ فِيهَا مِنْ كُلِّ الثَّمَرَاتِ وَمَغْفِرَةٌ مِنْ رَبِّهِمْ ۖ كَمَنْ هُوَ خَالِدٌ فِي النَّارِ وَسُقُوا مَاءً حَمِيمًا فَقَطَّعَ أَمْعَاءَهُمْ",
+			"surah": {
+				"number": 47,
+				"name": "سُورَةُ مُحَمَّدٍ",
+				"englishName": "Muhammad",
+				"englishNameTranslation": "Muhammad",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 38
+			},
+			"numberInSurah": 15,
+			"juz": 26,
+			"manzil": 6,
+			"page": 508,
+			"ruku": 443,
+			"hizbQuarter": 203,
+			"sajda": false
+		},
+		{
+			"number": 4561,
+			"text": "وَمِنْهُمْ مَنْ يَسْتَمِعُ إِلَيْكَ حَتَّىٰ إِذَا خَرَجُوا مِنْ عِنْدِكَ قَالُوا لِلَّذِينَ أُوتُوا الْعِلْمَ مَاذَا قَالَ آنِفًا ۚ أُولَٰئِكَ الَّذِينَ طَبَعَ اللَّهُ عَلَىٰ قُلُوبِهِمْ وَاتَّبَعُوا أَهْوَاءَهُمْ",
+			"surah": {
+				"number": 47,
+				"name": "سُورَةُ مُحَمَّدٍ",
+				"englishName": "Muhammad",
+				"englishNameTranslation": "Muhammad",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 38
+			},
+			"numberInSurah": 16,
+			"juz": 26,
+			"manzil": 6,
+			"page": 508,
+			"ruku": 443,
+			"hizbQuarter": 203,
+			"sajda": false
+		},
+		{
+			"number": 4562,
+			"text": "وَالَّذِينَ اهْتَدَوْا زَادَهُمْ هُدًى وَآتَاهُمْ تَقْوَاهُمْ",
+			"surah": {
+				"number": 47,
+				"name": "سُورَةُ مُحَمَّدٍ",
+				"englishName": "Muhammad",
+				"englishNameTranslation": "Muhammad",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 38
+			},
+			"numberInSurah": 17,
+			"juz": 26,
+			"manzil": 6,
+			"page": 508,
+			"ruku": 443,
+			"hizbQuarter": 203,
+			"sajda": false
+		},
+		{
+			"number": 4563,
+			"text": "فَهَلْ يَنْظُرُونَ إِلَّا السَّاعَةَ أَنْ تَأْتِيَهُمْ بَغْتَةً ۖ فَقَدْ جَاءَ أَشْرَاطُهَا ۚ فَأَنَّىٰ لَهُمْ إِذَا جَاءَتْهُمْ ذِكْرَاهُمْ",
+			"surah": {
+				"number": 47,
+				"name": "سُورَةُ مُحَمَّدٍ",
+				"englishName": "Muhammad",
+				"englishNameTranslation": "Muhammad",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 38
+			},
+			"numberInSurah": 18,
+			"juz": 26,
+			"manzil": 6,
+			"page": 508,
+			"ruku": 443,
+			"hizbQuarter": 203,
+			"sajda": false
+		},
+		{
+			"number": 4564,
+			"text": "فَاعْلَمْ أَنَّهُ لَا إِلَٰهَ إِلَّا اللَّهُ وَاسْتَغْفِرْ لِذَنْبِكَ وَلِلْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ ۗ وَاللَّهُ يَعْلَمُ مُتَقَلَّبَكُمْ وَمَثْوَاكُمْ",
+			"surah": {
+				"number": 47,
+				"name": "سُورَةُ مُحَمَّدٍ",
+				"englishName": "Muhammad",
+				"englishNameTranslation": "Muhammad",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 38
+			},
+			"numberInSurah": 19,
+			"juz": 26,
+			"manzil": 6,
+			"page": 508,
+			"ruku": 443,
+			"hizbQuarter": 203,
+			"sajda": false
+		},
+		{
+			"number": 4565,
+			"text": "وَيَقُولُ الَّذِينَ آمَنُوا لَوْلَا نُزِّلَتْ سُورَةٌ ۖ فَإِذَا أُنْزِلَتْ سُورَةٌ مُحْكَمَةٌ وَذُكِرَ فِيهَا الْقِتَالُ ۙ رَأَيْتَ الَّذِينَ فِي قُلُوبِهِمْ مَرَضٌ يَنْظُرُونَ إِلَيْكَ نَظَرَ الْمَغْشِيِّ عَلَيْهِ مِنَ الْمَوْتِ ۖ فَأَوْلَىٰ لَهُمْ",
+			"surah": {
+				"number": 47,
+				"name": "سُورَةُ مُحَمَّدٍ",
+				"englishName": "Muhammad",
+				"englishNameTranslation": "Muhammad",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 38
+			},
+			"numberInSurah": 20,
+			"juz": 26,
+			"manzil": 6,
+			"page": 509,
+			"ruku": 444,
+			"hizbQuarter": 203,
+			"sajda": false
+		},
+		{
+			"number": 4566,
+			"text": "طَاعَةٌ وَقَوْلٌ مَعْرُوفٌ ۚ فَإِذَا عَزَمَ الْأَمْرُ فَلَوْ صَدَقُوا اللَّهَ لَكَانَ خَيْرًا لَهُمْ",
+			"surah": {
+				"number": 47,
+				"name": "سُورَةُ مُحَمَّدٍ",
+				"englishName": "Muhammad",
+				"englishNameTranslation": "Muhammad",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 38
+			},
+			"numberInSurah": 21,
+			"juz": 26,
+			"manzil": 6,
+			"page": 509,
+			"ruku": 444,
+			"hizbQuarter": 203,
+			"sajda": false
+		},
+		{
+			"number": 4567,
+			"text": "فَهَلْ عَسَيْتُمْ إِنْ تَوَلَّيْتُمْ أَنْ تُفْسِدُوا فِي الْأَرْضِ وَتُقَطِّعُوا أَرْحَامَكُمْ",
+			"surah": {
+				"number": 47,
+				"name": "سُورَةُ مُحَمَّدٍ",
+				"englishName": "Muhammad",
+				"englishNameTranslation": "Muhammad",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 38
+			},
+			"numberInSurah": 22,
+			"juz": 26,
+			"manzil": 6,
+			"page": 509,
+			"ruku": 444,
+			"hizbQuarter": 203,
+			"sajda": false
+		},
+		{
+			"number": 4568,
+			"text": "أُولَٰئِكَ الَّذِينَ لَعَنَهُمُ اللَّهُ فَأَصَمَّهُمْ وَأَعْمَىٰ أَبْصَارَهُمْ",
+			"surah": {
+				"number": 47,
+				"name": "سُورَةُ مُحَمَّدٍ",
+				"englishName": "Muhammad",
+				"englishNameTranslation": "Muhammad",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 38
+			},
+			"numberInSurah": 23,
+			"juz": 26,
+			"manzil": 6,
+			"page": 509,
+			"ruku": 444,
+			"hizbQuarter": 203,
+			"sajda": false
+		},
+		{
+			"number": 4569,
+			"text": "أَفَلَا يَتَدَبَّرُونَ الْقُرْآنَ أَمْ عَلَىٰ قُلُوبٍ أَقْفَالُهَا",
+			"surah": {
+				"number": 47,
+				"name": "سُورَةُ مُحَمَّدٍ",
+				"englishName": "Muhammad",
+				"englishNameTranslation": "Muhammad",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 38
+			},
+			"numberInSurah": 24,
+			"juz": 26,
+			"manzil": 6,
+			"page": 509,
+			"ruku": 444,
+			"hizbQuarter": 203,
+			"sajda": false
+		},
+		{
+			"number": 4570,
+			"text": "إِنَّ الَّذِينَ ارْتَدُّوا عَلَىٰ أَدْبَارِهِمْ مِنْ بَعْدِ مَا تَبَيَّنَ لَهُمُ الْهُدَى ۙ الشَّيْطَانُ سَوَّلَ لَهُمْ وَأَمْلَىٰ لَهُمْ",
+			"surah": {
+				"number": 47,
+				"name": "سُورَةُ مُحَمَّدٍ",
+				"englishName": "Muhammad",
+				"englishNameTranslation": "Muhammad",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 38
+			},
+			"numberInSurah": 25,
+			"juz": 26,
+			"manzil": 6,
+			"page": 509,
+			"ruku": 444,
+			"hizbQuarter": 203,
+			"sajda": false
+		},
+		{
+			"number": 4571,
+			"text": "ذَٰلِكَ بِأَنَّهُمْ قَالُوا لِلَّذِينَ كَرِهُوا مَا نَزَّلَ اللَّهُ سَنُطِيعُكُمْ فِي بَعْضِ الْأَمْرِ ۖ وَاللَّهُ يَعْلَمُ إِسْرَارَهُمْ",
+			"surah": {
+				"number": 47,
+				"name": "سُورَةُ مُحَمَّدٍ",
+				"englishName": "Muhammad",
+				"englishNameTranslation": "Muhammad",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 38
+			},
+			"numberInSurah": 26,
+			"juz": 26,
+			"manzil": 6,
+			"page": 509,
+			"ruku": 444,
+			"hizbQuarter": 203,
+			"sajda": false
+		},
+		{
+			"number": 4572,
+			"text": "فَكَيْفَ إِذَا تَوَفَّتْهُمُ الْمَلَائِكَةُ يَضْرِبُونَ وُجُوهَهُمْ وَأَدْبَارَهُمْ",
+			"surah": {
+				"number": 47,
+				"name": "سُورَةُ مُحَمَّدٍ",
+				"englishName": "Muhammad",
+				"englishNameTranslation": "Muhammad",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 38
+			},
+			"numberInSurah": 27,
+			"juz": 26,
+			"manzil": 6,
+			"page": 509,
+			"ruku": 444,
+			"hizbQuarter": 203,
+			"sajda": false
+		},
+		{
+			"number": 4573,
+			"text": "ذَٰلِكَ بِأَنَّهُمُ اتَّبَعُوا مَا أَسْخَطَ اللَّهَ وَكَرِهُوا رِضْوَانَهُ فَأَحْبَطَ أَعْمَالَهُمْ",
+			"surah": {
+				"number": 47,
+				"name": "سُورَةُ مُحَمَّدٍ",
+				"englishName": "Muhammad",
+				"englishNameTranslation": "Muhammad",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 38
+			},
+			"numberInSurah": 28,
+			"juz": 26,
+			"manzil": 6,
+			"page": 509,
+			"ruku": 444,
+			"hizbQuarter": 203,
+			"sajda": false
+		},
+		{
+			"number": 4574,
+			"text": "أَمْ حَسِبَ الَّذِينَ فِي قُلُوبِهِمْ مَرَضٌ أَنْ لَنْ يُخْرِجَ اللَّهُ أَضْغَانَهُمْ",
+			"surah": {
+				"number": 47,
+				"name": "سُورَةُ مُحَمَّدٍ",
+				"englishName": "Muhammad",
+				"englishNameTranslation": "Muhammad",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 38
+			},
+			"numberInSurah": 29,
+			"juz": 26,
+			"manzil": 6,
+			"page": 509,
+			"ruku": 445,
+			"hizbQuarter": 203,
+			"sajda": false
+		},
+		{
+			"number": 4575,
+			"text": "وَلَوْ نَشَاءُ لَأَرَيْنَاكَهُمْ فَلَعَرَفْتَهُمْ بِسِيمَاهُمْ ۚ وَلَتَعْرِفَنَّهُمْ فِي لَحْنِ الْقَوْلِ ۚ وَاللَّهُ يَعْلَمُ أَعْمَالَكُمْ",
+			"surah": {
+				"number": 47,
+				"name": "سُورَةُ مُحَمَّدٍ",
+				"englishName": "Muhammad",
+				"englishNameTranslation": "Muhammad",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 38
+			},
+			"numberInSurah": 30,
+			"juz": 26,
+			"manzil": 6,
+			"page": 510,
+			"ruku": 445,
+			"hizbQuarter": 203,
+			"sajda": false
+		},
+		{
+			"number": 4576,
+			"text": "وَلَنَبْلُوَنَّكُمْ حَتَّىٰ نَعْلَمَ الْمُجَاهِدِينَ مِنْكُمْ وَالصَّابِرِينَ وَنَبْلُوَ أَخْبَارَكُمْ",
+			"surah": {
+				"number": 47,
+				"name": "سُورَةُ مُحَمَّدٍ",
+				"englishName": "Muhammad",
+				"englishNameTranslation": "Muhammad",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 38
+			},
+			"numberInSurah": 31,
+			"juz": 26,
+			"manzil": 6,
+			"page": 510,
+			"ruku": 445,
+			"hizbQuarter": 203,
+			"sajda": false
+		},
+		{
+			"number": 4577,
+			"text": "إِنَّ الَّذِينَ كَفَرُوا وَصَدُّوا عَنْ سَبِيلِ اللَّهِ وَشَاقُّوا الرَّسُولَ مِنْ بَعْدِ مَا تَبَيَّنَ لَهُمُ الْهُدَىٰ لَنْ يَضُرُّوا اللَّهَ شَيْئًا وَسَيُحْبِطُ أَعْمَالَهُمْ",
+			"surah": {
+				"number": 47,
+				"name": "سُورَةُ مُحَمَّدٍ",
+				"englishName": "Muhammad",
+				"englishNameTranslation": "Muhammad",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 38
+			},
+			"numberInSurah": 32,
+			"juz": 26,
+			"manzil": 6,
+			"page": 510,
+			"ruku": 445,
+			"hizbQuarter": 203,
+			"sajda": false
+		},
+		{
+			"number": 4578,
+			"text": "۞ يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ وَلَا تُبْطِلُوا أَعْمَالَكُمْ",
+			"surah": {
+				"number": 47,
+				"name": "سُورَةُ مُحَمَّدٍ",
+				"englishName": "Muhammad",
+				"englishNameTranslation": "Muhammad",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 38
+			},
+			"numberInSurah": 33,
+			"juz": 26,
+			"manzil": 6,
+			"page": 510,
+			"ruku": 445,
+			"hizbQuarter": 204,
+			"sajda": false
+		},
+		{
+			"number": 4579,
+			"text": "إِنَّ الَّذِينَ كَفَرُوا وَصَدُّوا عَنْ سَبِيلِ اللَّهِ ثُمَّ مَاتُوا وَهُمْ كُفَّارٌ فَلَنْ يَغْفِرَ اللَّهُ لَهُمْ",
+			"surah": {
+				"number": 47,
+				"name": "سُورَةُ مُحَمَّدٍ",
+				"englishName": "Muhammad",
+				"englishNameTranslation": "Muhammad",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 38
+			},
+			"numberInSurah": 34,
+			"juz": 26,
+			"manzil": 6,
+			"page": 510,
+			"ruku": 445,
+			"hizbQuarter": 204,
+			"sajda": false
+		},
+		{
+			"number": 4580,
+			"text": "فَلَا تَهِنُوا وَتَدْعُوا إِلَى السَّلْمِ وَأَنْتُمُ الْأَعْلَوْنَ وَاللَّهُ مَعَكُمْ وَلَنْ يَتِرَكُمْ أَعْمَالَكُمْ",
+			"surah": {
+				"number": 47,
+				"name": "سُورَةُ مُحَمَّدٍ",
+				"englishName": "Muhammad",
+				"englishNameTranslation": "Muhammad",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 38
+			},
+			"numberInSurah": 35,
+			"juz": 26,
+			"manzil": 6,
+			"page": 510,
+			"ruku": 445,
+			"hizbQuarter": 204,
+			"sajda": false
+		},
+		{
+			"number": 4581,
+			"text": "إِنَّمَا الْحَيَاةُ الدُّنْيَا لَعِبٌ وَلَهْوٌ ۚ وَإِنْ تُؤْمِنُوا وَتَتَّقُوا يُؤْتِكُمْ أُجُورَكُمْ وَلَا يَسْأَلْكُمْ أَمْوَالَكُمْ",
+			"surah": {
+				"number": 47,
+				"name": "سُورَةُ مُحَمَّدٍ",
+				"englishName": "Muhammad",
+				"englishNameTranslation": "Muhammad",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 38
+			},
+			"numberInSurah": 36,
+			"juz": 26,
+			"manzil": 6,
+			"page": 510,
+			"ruku": 445,
+			"hizbQuarter": 204,
+			"sajda": false
+		},
+		{
+			"number": 4582,
+			"text": "إِنْ يَسْأَلْكُمُوهَا فَيُحْفِكُمْ تَبْخَلُوا وَيُخْرِجْ أَضْغَانَكُمْ",
+			"surah": {
+				"number": 47,
+				"name": "سُورَةُ مُحَمَّدٍ",
+				"englishName": "Muhammad",
+				"englishNameTranslation": "Muhammad",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 38
+			},
+			"numberInSurah": 37,
+			"juz": 26,
+			"manzil": 6,
+			"page": 510,
+			"ruku": 445,
+			"hizbQuarter": 204,
+			"sajda": false
+		},
+		{
+			"number": 4583,
+			"text": "هَا أَنْتُمْ هَٰؤُلَاءِ تُدْعَوْنَ لِتُنْفِقُوا فِي سَبِيلِ اللَّهِ فَمِنْكُمْ مَنْ يَبْخَلُ ۖ وَمَنْ يَبْخَلْ فَإِنَّمَا يَبْخَلُ عَنْ نَفْسِهِ ۚ وَاللَّهُ الْغَنِيُّ وَأَنْتُمُ الْفُقَرَاءُ ۚ وَإِنْ تَتَوَلَّوْا يَسْتَبْدِلْ قَوْمًا غَيْرَكُمْ ثُمَّ لَا يَكُونُوا أَمْثَالَكُمْ",
+			"surah": {
+				"number": 47,
+				"name": "سُورَةُ مُحَمَّدٍ",
+				"englishName": "Muhammad",
+				"englishNameTranslation": "Muhammad",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 38
+			},
+			"numberInSurah": 38,
+			"juz": 26,
+			"manzil": 6,
+			"page": 510,
+			"ruku": 445,
+			"hizbQuarter": 204,
+			"sajda": false
+		},
+		{
+			"number": 4584,
+			"text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ إِنَّا فَتَحْنَا لَكَ فَتْحًا مُبِينًا",
+			"surah": {
+				"number": 48,
+				"name": "سُورَةُ الفَتۡحِ",
+				"englishName": "Al-Fath",
+				"englishNameTranslation": "The Victory",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 29
+			},
+			"numberInSurah": 1,
+			"juz": 26,
+			"manzil": 6,
+			"page": 511,
+			"ruku": 446,
+			"hizbQuarter": 204,
+			"sajda": false
+		},
+		{
+			"number": 4585,
+			"text": "لِيَغْفِرَ لَكَ اللَّهُ مَا تَقَدَّمَ مِنْ ذَنْبِكَ وَمَا تَأَخَّرَ وَيُتِمَّ نِعْمَتَهُ عَلَيْكَ وَيَهْدِيَكَ صِرَاطًا مُسْتَقِيمًا",
+			"surah": {
+				"number": 48,
+				"name": "سُورَةُ الفَتۡحِ",
+				"englishName": "Al-Fath",
+				"englishNameTranslation": "The Victory",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 29
+			},
+			"numberInSurah": 2,
+			"juz": 26,
+			"manzil": 6,
+			"page": 511,
+			"ruku": 446,
+			"hizbQuarter": 204,
+			"sajda": false
+		},
+		{
+			"number": 4586,
+			"text": "وَيَنْصُرَكَ اللَّهُ نَصْرًا عَزِيزًا",
+			"surah": {
+				"number": 48,
+				"name": "سُورَةُ الفَتۡحِ",
+				"englishName": "Al-Fath",
+				"englishNameTranslation": "The Victory",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 29
+			},
+			"numberInSurah": 3,
+			"juz": 26,
+			"manzil": 6,
+			"page": 511,
+			"ruku": 446,
+			"hizbQuarter": 204,
+			"sajda": false
+		},
+		{
+			"number": 4587,
+			"text": "هُوَ الَّذِي أَنْزَلَ السَّكِينَةَ فِي قُلُوبِ الْمُؤْمِنِينَ لِيَزْدَادُوا إِيمَانًا مَعَ إِيمَانِهِمْ ۗ وَلِلَّهِ جُنُودُ السَّمَاوَاتِ وَالْأَرْضِ ۚ وَكَانَ اللَّهُ عَلِيمًا حَكِيمًا",
+			"surah": {
+				"number": 48,
+				"name": "سُورَةُ الفَتۡحِ",
+				"englishName": "Al-Fath",
+				"englishNameTranslation": "The Victory",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 29
+			},
+			"numberInSurah": 4,
+			"juz": 26,
+			"manzil": 6,
+			"page": 511,
+			"ruku": 446,
+			"hizbQuarter": 204,
+			"sajda": false
+		},
+		{
+			"number": 4588,
+			"text": "لِيُدْخِلَ الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا وَيُكَفِّرَ عَنْهُمْ سَيِّئَاتِهِمْ ۚ وَكَانَ ذَٰلِكَ عِنْدَ اللَّهِ فَوْزًا عَظِيمًا",
+			"surah": {
+				"number": 48,
+				"name": "سُورَةُ الفَتۡحِ",
+				"englishName": "Al-Fath",
+				"englishNameTranslation": "The Victory",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 29
+			},
+			"numberInSurah": 5,
+			"juz": 26,
+			"manzil": 6,
+			"page": 511,
+			"ruku": 446,
+			"hizbQuarter": 204,
+			"sajda": false
+		},
+		{
+			"number": 4589,
+			"text": "وَيُعَذِّبَ الْمُنَافِقِينَ وَالْمُنَافِقَاتِ وَالْمُشْرِكِينَ وَالْمُشْرِكَاتِ الظَّانِّينَ بِاللَّهِ ظَنَّ السَّوْءِ ۚ عَلَيْهِمْ دَائِرَةُ السَّوْءِ ۖ وَغَضِبَ اللَّهُ عَلَيْهِمْ وَلَعَنَهُمْ وَأَعَدَّ لَهُمْ جَهَنَّمَ ۖ وَسَاءَتْ مَصِيرًا",
+			"surah": {
+				"number": 48,
+				"name": "سُورَةُ الفَتۡحِ",
+				"englishName": "Al-Fath",
+				"englishNameTranslation": "The Victory",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 29
+			},
+			"numberInSurah": 6,
+			"juz": 26,
+			"manzil": 6,
+			"page": 511,
+			"ruku": 446,
+			"hizbQuarter": 204,
+			"sajda": false
+		},
+		{
+			"number": 4590,
+			"text": "وَلِلَّهِ جُنُودُ السَّمَاوَاتِ وَالْأَرْضِ ۚ وَكَانَ اللَّهُ عَزِيزًا حَكِيمًا",
+			"surah": {
+				"number": 48,
+				"name": "سُورَةُ الفَتۡحِ",
+				"englishName": "Al-Fath",
+				"englishNameTranslation": "The Victory",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 29
+			},
+			"numberInSurah": 7,
+			"juz": 26,
+			"manzil": 6,
+			"page": 511,
+			"ruku": 446,
+			"hizbQuarter": 204,
+			"sajda": false
+		},
+		{
+			"number": 4591,
+			"text": "إِنَّا أَرْسَلْنَاكَ شَاهِدًا وَمُبَشِّرًا وَنَذِيرًا",
+			"surah": {
+				"number": 48,
+				"name": "سُورَةُ الفَتۡحِ",
+				"englishName": "Al-Fath",
+				"englishNameTranslation": "The Victory",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 29
+			},
+			"numberInSurah": 8,
+			"juz": 26,
+			"manzil": 6,
+			"page": 511,
+			"ruku": 446,
+			"hizbQuarter": 204,
+			"sajda": false
+		},
+		{
+			"number": 4592,
+			"text": "لِتُؤْمِنُوا بِاللَّهِ وَرَسُولِهِ وَتُعَزِّرُوهُ وَتُوَقِّرُوهُ وَتُسَبِّحُوهُ بُكْرَةً وَأَصِيلًا",
+			"surah": {
+				"number": 48,
+				"name": "سُورَةُ الفَتۡحِ",
+				"englishName": "Al-Fath",
+				"englishNameTranslation": "The Victory",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 29
+			},
+			"numberInSurah": 9,
+			"juz": 26,
+			"manzil": 6,
+			"page": 511,
+			"ruku": 446,
+			"hizbQuarter": 204,
+			"sajda": false
+		},
+		{
+			"number": 4593,
+			"text": "إِنَّ الَّذِينَ يُبَايِعُونَكَ إِنَّمَا يُبَايِعُونَ اللَّهَ يَدُ اللَّهِ فَوْقَ أَيْدِيهِمْ ۚ فَمَنْ نَكَثَ فَإِنَّمَا يَنْكُثُ عَلَىٰ نَفْسِهِ ۖ وَمَنْ أَوْفَىٰ بِمَا عَاهَدَ عَلَيْهُ اللَّهَ فَسَيُؤْتِيهِ أَجْرًا عَظِيمًا",
+			"surah": {
+				"number": 48,
+				"name": "سُورَةُ الفَتۡحِ",
+				"englishName": "Al-Fath",
+				"englishNameTranslation": "The Victory",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 29
+			},
+			"numberInSurah": 10,
+			"juz": 26,
+			"manzil": 6,
+			"page": 512,
+			"ruku": 446,
+			"hizbQuarter": 204,
+			"sajda": false
+		},
+		{
+			"number": 4594,
+			"text": "سَيَقُولُ لَكَ الْمُخَلَّفُونَ مِنَ الْأَعْرَابِ شَغَلَتْنَا أَمْوَالُنَا وَأَهْلُونَا فَاسْتَغْفِرْ لَنَا ۚ يَقُولُونَ بِأَلْسِنَتِهِمْ مَا لَيْسَ فِي قُلُوبِهِمْ ۚ قُلْ فَمَنْ يَمْلِكُ لَكُمْ مِنَ اللَّهِ شَيْئًا إِنْ أَرَادَ بِكُمْ ضَرًّا أَوْ أَرَادَ بِكُمْ نَفْعًا ۚ بَلْ كَانَ اللَّهُ بِمَا تَعْمَلُونَ خَبِيرًا",
+			"surah": {
+				"number": 48,
+				"name": "سُورَةُ الفَتۡحِ",
+				"englishName": "Al-Fath",
+				"englishNameTranslation": "The Victory",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 29
+			},
+			"numberInSurah": 11,
+			"juz": 26,
+			"manzil": 6,
+			"page": 512,
+			"ruku": 447,
+			"hizbQuarter": 204,
+			"sajda": false
+		},
+		{
+			"number": 4595,
+			"text": "بَلْ ظَنَنْتُمْ أَنْ لَنْ يَنْقَلِبَ الرَّسُولُ وَالْمُؤْمِنُونَ إِلَىٰ أَهْلِيهِمْ أَبَدًا وَزُيِّنَ ذَٰلِكَ فِي قُلُوبِكُمْ وَظَنَنْتُمْ ظَنَّ السَّوْءِ وَكُنْتُمْ قَوْمًا بُورًا",
+			"surah": {
+				"number": 48,
+				"name": "سُورَةُ الفَتۡحِ",
+				"englishName": "Al-Fath",
+				"englishNameTranslation": "The Victory",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 29
+			},
+			"numberInSurah": 12,
+			"juz": 26,
+			"manzil": 6,
+			"page": 512,
+			"ruku": 447,
+			"hizbQuarter": 204,
+			"sajda": false
+		},
+		{
+			"number": 4596,
+			"text": "وَمَنْ لَمْ يُؤْمِنْ بِاللَّهِ وَرَسُولِهِ فَإِنَّا أَعْتَدْنَا لِلْكَافِرِينَ سَعِيرًا",
+			"surah": {
+				"number": 48,
+				"name": "سُورَةُ الفَتۡحِ",
+				"englishName": "Al-Fath",
+				"englishNameTranslation": "The Victory",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 29
+			},
+			"numberInSurah": 13,
+			"juz": 26,
+			"manzil": 6,
+			"page": 512,
+			"ruku": 447,
+			"hizbQuarter": 204,
+			"sajda": false
+		},
+		{
+			"number": 4597,
+			"text": "وَلِلَّهِ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ ۚ يَغْفِرُ لِمَنْ يَشَاءُ وَيُعَذِّبُ مَنْ يَشَاءُ ۚ وَكَانَ اللَّهُ غَفُورًا رَحِيمًا",
+			"surah": {
+				"number": 48,
+				"name": "سُورَةُ الفَتۡحِ",
+				"englishName": "Al-Fath",
+				"englishNameTranslation": "The Victory",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 29
+			},
+			"numberInSurah": 14,
+			"juz": 26,
+			"manzil": 6,
+			"page": 512,
+			"ruku": 447,
+			"hizbQuarter": 204,
+			"sajda": false
+		},
+		{
+			"number": 4598,
+			"text": "سَيَقُولُ الْمُخَلَّفُونَ إِذَا انْطَلَقْتُمْ إِلَىٰ مَغَانِمَ لِتَأْخُذُوهَا ذَرُونَا نَتَّبِعْكُمْ ۖ يُرِيدُونَ أَنْ يُبَدِّلُوا كَلَامَ اللَّهِ ۚ قُلْ لَنْ تَتَّبِعُونَا كَذَٰلِكُمْ قَالَ اللَّهُ مِنْ قَبْلُ ۖ فَسَيَقُولُونَ بَلْ تَحْسُدُونَنَا ۚ بَلْ كَانُوا لَا يَفْقَهُونَ إِلَّا قَلِيلًا",
+			"surah": {
+				"number": 48,
+				"name": "سُورَةُ الفَتۡحِ",
+				"englishName": "Al-Fath",
+				"englishNameTranslation": "The Victory",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 29
+			},
+			"numberInSurah": 15,
+			"juz": 26,
+			"manzil": 6,
+			"page": 512,
+			"ruku": 447,
+			"hizbQuarter": 204,
+			"sajda": false
+		},
+		{
+			"number": 4599,
+			"text": "قُلْ لِلْمُخَلَّفِينَ مِنَ الْأَعْرَابِ سَتُدْعَوْنَ إِلَىٰ قَوْمٍ أُولِي بَأْسٍ شَدِيدٍ تُقَاتِلُونَهُمْ أَوْ يُسْلِمُونَ ۖ فَإِنْ تُطِيعُوا يُؤْتِكُمُ اللَّهُ أَجْرًا حَسَنًا ۖ وَإِنْ تَتَوَلَّوْا كَمَا تَوَلَّيْتُمْ مِنْ قَبْلُ يُعَذِّبْكُمْ عَذَابًا أَلِيمًا",
+			"surah": {
+				"number": 48,
+				"name": "سُورَةُ الفَتۡحِ",
+				"englishName": "Al-Fath",
+				"englishNameTranslation": "The Victory",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 29
+			},
+			"numberInSurah": 16,
+			"juz": 26,
+			"manzil": 6,
+			"page": 513,
+			"ruku": 447,
+			"hizbQuarter": 204,
+			"sajda": false
+		},
+		{
+			"number": 4600,
+			"text": "لَيْسَ عَلَى الْأَعْمَىٰ حَرَجٌ وَلَا عَلَى الْأَعْرَجِ حَرَجٌ وَلَا عَلَى الْمَرِيضِ حَرَجٌ ۗ وَمَنْ يُطِعِ اللَّهَ وَرَسُولَهُ يُدْخِلْهُ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ ۖ وَمَنْ يَتَوَلَّ يُعَذِّبْهُ عَذَابًا أَلِيمًا",
+			"surah": {
+				"number": 48,
+				"name": "سُورَةُ الفَتۡحِ",
+				"englishName": "Al-Fath",
+				"englishNameTranslation": "The Victory",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 29
+			},
+			"numberInSurah": 17,
+			"juz": 26,
+			"manzil": 6,
+			"page": 513,
+			"ruku": 447,
+			"hizbQuarter": 204,
+			"sajda": false
+		}
+	]
+}

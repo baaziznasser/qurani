@@ -1,0 +1,613 @@
+﻿{
+	"number": 36,
+	"ayahs": [
+		{
+			"number": 2812,
+			"text": "۞ يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ ۚ وَمَنْ يَتَّبِعْ خُطُوَاتِ الشَّيْطَانِ فَإِنَّهُ يَأْمُرُ بِالْفَحْشَاءِ وَالْمُنْكَرِ ۚ وَلَوْلَا فَضْلُ اللَّهِ عَلَيْكُمْ وَرَحْمَتُهُ مَا زَكَىٰ مِنْكُمْ مِنْ أَحَدٍ أَبَدًا وَلَٰكِنَّ اللَّهَ يُزَكِّي مَنْ يَشَاءُ ۗ وَاللَّهُ سَمِيعٌ عَلِيمٌ",
+			"surah": {
+				"number": 24,
+				"name": "سُورَةُ النُّورِ",
+				"englishName": "An-Noor",
+				"englishNameTranslation": "The Light",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 64
+			},
+			"numberInSurah": 21,
+			"juz": 18,
+			"manzil": 4,
+			"page": 352,
+			"ruku": 303,
+			"hizbQuarter": 141,
+			"sajda": false
+		},
+		{
+			"number": 2813,
+			"text": "وَلَا يَأْتَلِ أُولُو الْفَضْلِ مِنْكُمْ وَالسَّعَةِ أَنْ يُؤْتُوا أُولِي الْقُرْبَىٰ وَالْمَسَاكِينَ وَالْمُهَاجِرِينَ فِي سَبِيلِ اللَّهِ ۖ وَلْيَعْفُوا وَلْيَصْفَحُوا ۗ أَلَا تُحِبُّونَ أَنْ يَغْفِرَ اللَّهُ لَكُمْ ۗ وَاللَّهُ غَفُورٌ رَحِيمٌ",
+			"surah": {
+				"number": 24,
+				"name": "سُورَةُ النُّورِ",
+				"englishName": "An-Noor",
+				"englishNameTranslation": "The Light",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 64
+			},
+			"numberInSurah": 22,
+			"juz": 18,
+			"manzil": 4,
+			"page": 352,
+			"ruku": 303,
+			"hizbQuarter": 141,
+			"sajda": false
+		},
+		{
+			"number": 2814,
+			"text": "إِنَّ الَّذِينَ يَرْمُونَ الْمُحْصَنَاتِ الْغَافِلَاتِ الْمُؤْمِنَاتِ لُعِنُوا فِي الدُّنْيَا وَالْآخِرَةِ وَلَهُمْ عَذَابٌ عَظِيمٌ",
+			"surah": {
+				"number": 24,
+				"name": "سُورَةُ النُّورِ",
+				"englishName": "An-Noor",
+				"englishNameTranslation": "The Light",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 64
+			},
+			"numberInSurah": 23,
+			"juz": 18,
+			"manzil": 4,
+			"page": 352,
+			"ruku": 303,
+			"hizbQuarter": 141,
+			"sajda": false
+		},
+		{
+			"number": 2815,
+			"text": "يَوْمَ تَشْهَدُ عَلَيْهِمْ أَلْسِنَتُهُمْ وَأَيْدِيهِمْ وَأَرْجُلُهُمْ بِمَا كَانُوا يَعْمَلُونَ",
+			"surah": {
+				"number": 24,
+				"name": "سُورَةُ النُّورِ",
+				"englishName": "An-Noor",
+				"englishNameTranslation": "The Light",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 64
+			},
+			"numberInSurah": 24,
+			"juz": 18,
+			"manzil": 4,
+			"page": 352,
+			"ruku": 303,
+			"hizbQuarter": 141,
+			"sajda": false
+		},
+		{
+			"number": 2816,
+			"text": "يَوْمَئِذٍ يُوَفِّيهِمُ اللَّهُ دِينَهُمُ الْحَقَّ وَيَعْلَمُونَ أَنَّ اللَّهَ هُوَ الْحَقُّ الْمُبِينُ",
+			"surah": {
+				"number": 24,
+				"name": "سُورَةُ النُّورِ",
+				"englishName": "An-Noor",
+				"englishNameTranslation": "The Light",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 64
+			},
+			"numberInSurah": 25,
+			"juz": 18,
+			"manzil": 4,
+			"page": 352,
+			"ruku": 303,
+			"hizbQuarter": 141,
+			"sajda": false
+		},
+		{
+			"number": 2817,
+			"text": "الْخَبِيثَاتُ لِلْخَبِيثِينَ وَالْخَبِيثُونَ لِلْخَبِيثَاتِ ۖ وَالطَّيِّبَاتُ لِلطَّيِّبِينَ وَالطَّيِّبُونَ لِلطَّيِّبَاتِ ۚ أُولَٰئِكَ مُبَرَّءُونَ مِمَّا يَقُولُونَ ۖ لَهُمْ مَغْفِرَةٌ وَرِزْقٌ كَرِيمٌ",
+			"surah": {
+				"number": 24,
+				"name": "سُورَةُ النُّورِ",
+				"englishName": "An-Noor",
+				"englishNameTranslation": "The Light",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 64
+			},
+			"numberInSurah": 26,
+			"juz": 18,
+			"manzil": 4,
+			"page": 352,
+			"ruku": 303,
+			"hizbQuarter": 141,
+			"sajda": false
+		},
+		{
+			"number": 2818,
+			"text": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَدْخُلُوا بُيُوتًا غَيْرَ بُيُوتِكُمْ حَتَّىٰ تَسْتَأْنِسُوا وَتُسَلِّمُوا عَلَىٰ أَهْلِهَا ۚ ذَٰلِكُمْ خَيْرٌ لَكُمْ لَعَلَّكُمْ تَذَكَّرُونَ",
+			"surah": {
+				"number": 24,
+				"name": "سُورَةُ النُّورِ",
+				"englishName": "An-Noor",
+				"englishNameTranslation": "The Light",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 64
+			},
+			"numberInSurah": 27,
+			"juz": 18,
+			"manzil": 4,
+			"page": 352,
+			"ruku": 304,
+			"hizbQuarter": 141,
+			"sajda": false
+		},
+		{
+			"number": 2819,
+			"text": "فَإِنْ لَمْ تَجِدُوا فِيهَا أَحَدًا فَلَا تَدْخُلُوهَا حَتَّىٰ يُؤْذَنَ لَكُمْ ۖ وَإِنْ قِيلَ لَكُمُ ارْجِعُوا فَارْجِعُوا ۖ هُوَ أَزْكَىٰ لَكُمْ ۚ وَاللَّهُ بِمَا تَعْمَلُونَ عَلِيمٌ",
+			"surah": {
+				"number": 24,
+				"name": "سُورَةُ النُّورِ",
+				"englishName": "An-Noor",
+				"englishNameTranslation": "The Light",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 64
+			},
+			"numberInSurah": 28,
+			"juz": 18,
+			"manzil": 4,
+			"page": 353,
+			"ruku": 304,
+			"hizbQuarter": 141,
+			"sajda": false
+		},
+		{
+			"number": 2820,
+			"text": "لَيْسَ عَلَيْكُمْ جُنَاحٌ أَنْ تَدْخُلُوا بُيُوتًا غَيْرَ مَسْكُونَةٍ فِيهَا مَتَاعٌ لَكُمْ ۚ وَاللَّهُ يَعْلَمُ مَا تُبْدُونَ وَمَا تَكْتُمُونَ",
+			"surah": {
+				"number": 24,
+				"name": "سُورَةُ النُّورِ",
+				"englishName": "An-Noor",
+				"englishNameTranslation": "The Light",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 64
+			},
+			"numberInSurah": 29,
+			"juz": 18,
+			"manzil": 4,
+			"page": 353,
+			"ruku": 304,
+			"hizbQuarter": 141,
+			"sajda": false
+		},
+		{
+			"number": 2821,
+			"text": "قُلْ لِلْمُؤْمِنِينَ يَغُضُّوا مِنْ أَبْصَارِهِمْ وَيَحْفَظُوا فُرُوجَهُمْ ۚ ذَٰلِكَ أَزْكَىٰ لَهُمْ ۗ إِنَّ اللَّهَ خَبِيرٌ بِمَا يَصْنَعُونَ",
+			"surah": {
+				"number": 24,
+				"name": "سُورَةُ النُّورِ",
+				"englishName": "An-Noor",
+				"englishNameTranslation": "The Light",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 64
+			},
+			"numberInSurah": 30,
+			"juz": 18,
+			"manzil": 4,
+			"page": 353,
+			"ruku": 304,
+			"hizbQuarter": 141,
+			"sajda": false
+		},
+		{
+			"number": 2822,
+			"text": "وَقُلْ لِلْمُؤْمِنَاتِ يَغْضُضْنَ مِنْ أَبْصَارِهِنَّ وَيَحْفَظْنَ فُرُوجَهُنَّ وَلَا يُبْدِينَ زِينَتَهُنَّ إِلَّا مَا ظَهَرَ مِنْهَا ۖ وَلْيَضْرِبْنَ بِخُمُرِهِنَّ عَلَىٰ جُيُوبِهِنَّ ۖ وَلَا يُبْدِينَ زِينَتَهُنَّ إِلَّا لِبُعُولَتِهِنَّ أَوْ آبَائِهِنَّ أَوْ آبَاءِ بُعُولَتِهِنَّ أَوْ أَبْنَائِهِنَّ أَوْ أَبْنَاءِ بُعُولَتِهِنَّ أَوْ إِخْوَانِهِنَّ أَوْ بَنِي إِخْوَانِهِنَّ أَوْ بَنِي أَخَوَاتِهِنَّ أَوْ نِسَائِهِنَّ أَوْ مَا مَلَكَتْ أَيْمَانُهُنَّ أَوِ التَّابِعِينَ غَيْرِ أُولِي الْإِرْبَةِ مِنَ الرِّجَالِ أَوِ الطِّفْلِ الَّذِينَ لَمْ يَظْهَرُوا عَلَىٰ عَوْرَاتِ النِّسَاءِ ۖ وَلَا يَضْرِبْنَ بِأَرْجُلِهِنَّ لِيُعْلَمَ مَا يُخْفِينَ مِنْ زِينَتِهِنَّ ۚ وَتُوبُوا إِلَى اللَّهِ جَمِيعًا أَيُّهَ الْمُؤْمِنُونَ لَعَلَّكُمْ تُفْلِحُونَ",
+			"surah": {
+				"number": 24,
+				"name": "سُورَةُ النُّورِ",
+				"englishName": "An-Noor",
+				"englishNameTranslation": "The Light",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 64
+			},
+			"numberInSurah": 31,
+			"juz": 18,
+			"manzil": 4,
+			"page": 353,
+			"ruku": 304,
+			"hizbQuarter": 141,
+			"sajda": false
+		},
+		{
+			"number": 2823,
+			"text": "وَأَنْكِحُوا الْأَيَامَىٰ مِنْكُمْ وَالصَّالِحِينَ مِنْ عِبَادِكُمْ وَإِمَائِكُمْ ۚ إِنْ يَكُونُوا فُقَرَاءَ يُغْنِهِمُ اللَّهُ مِنْ فَضْلِهِ ۗ وَاللَّهُ وَاسِعٌ عَلِيمٌ",
+			"surah": {
+				"number": 24,
+				"name": "سُورَةُ النُّورِ",
+				"englishName": "An-Noor",
+				"englishNameTranslation": "The Light",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 64
+			},
+			"numberInSurah": 32,
+			"juz": 18,
+			"manzil": 4,
+			"page": 354,
+			"ruku": 304,
+			"hizbQuarter": 141,
+			"sajda": false
+		},
+		{
+			"number": 2824,
+			"text": "وَلْيَسْتَعْفِفِ الَّذِينَ لَا يَجِدُونَ نِكَاحًا حَتَّىٰ يُغْنِيَهُمُ اللَّهُ مِنْ فَضْلِهِ ۗ وَالَّذِينَ يَبْتَغُونَ الْكِتَابَ مِمَّا مَلَكَتْ أَيْمَانُكُمْ فَكَاتِبُوهُمْ إِنْ عَلِمْتُمْ فِيهِمْ خَيْرًا ۖ وَآتُوهُمْ مِنْ مَالِ اللَّهِ الَّذِي آتَاكُمْ ۚ وَلَا تُكْرِهُوا فَتَيَاتِكُمْ عَلَى الْبِغَاءِ إِنْ أَرَدْنَ تَحَصُّنًا لِتَبْتَغُوا عَرَضَ الْحَيَاةِ الدُّنْيَا ۚ وَمَنْ يُكْرِهْهُنَّ فَإِنَّ اللَّهَ مِنْ بَعْدِ إِكْرَاهِهِنَّ غَفُورٌ رَحِيمٌ",
+			"surah": {
+				"number": 24,
+				"name": "سُورَةُ النُّورِ",
+				"englishName": "An-Noor",
+				"englishNameTranslation": "The Light",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 64
+			},
+			"numberInSurah": 33,
+			"juz": 18,
+			"manzil": 4,
+			"page": 354,
+			"ruku": 304,
+			"hizbQuarter": 141,
+			"sajda": false
+		},
+		{
+			"number": 2825,
+			"text": "وَلَقَدْ أَنْزَلْنَا إِلَيْكُمْ آيَاتٍ مُبَيِّنَاتٍ وَمَثَلًا مِنَ الَّذِينَ خَلَوْا مِنْ قَبْلِكُمْ وَمَوْعِظَةً لِلْمُتَّقِينَ",
+			"surah": {
+				"number": 24,
+				"name": "سُورَةُ النُّورِ",
+				"englishName": "An-Noor",
+				"englishNameTranslation": "The Light",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 64
+			},
+			"numberInSurah": 34,
+			"juz": 18,
+			"manzil": 4,
+			"page": 354,
+			"ruku": 304,
+			"hizbQuarter": 141,
+			"sajda": false
+		},
+		{
+			"number": 2826,
+			"text": "۞ اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ ۚ مَثَلُ نُورِهِ كَمِشْكَاةٍ فِيهَا مِصْبَاحٌ ۖ الْمِصْبَاحُ فِي زُجَاجَةٍ ۖ الزُّجَاجَةُ كَأَنَّهَا كَوْكَبٌ دُرِّيٌّ يُوقَدُ مِنْ شَجَرَةٍ مُبَارَكَةٍ زَيْتُونَةٍ لَا شَرْقِيَّةٍ وَلَا غَرْبِيَّةٍ يَكَادُ زَيْتُهَا يُضِيءُ وَلَوْ لَمْ تَمْسَسْهُ نَارٌ ۚ نُورٌ عَلَىٰ نُورٍ ۗ يَهْدِي اللَّهُ لِنُورِهِ مَنْ يَشَاءُ ۚ وَيَضْرِبُ اللَّهُ الْأَمْثَالَ لِلنَّاسِ ۗ وَاللَّهُ بِكُلِّ شَيْءٍ عَلِيمٌ",
+			"surah": {
+				"number": 24,
+				"name": "سُورَةُ النُّورِ",
+				"englishName": "An-Noor",
+				"englishNameTranslation": "The Light",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 64
+			},
+			"numberInSurah": 35,
+			"juz": 18,
+			"manzil": 4,
+			"page": 354,
+			"ruku": 305,
+			"hizbQuarter": 142,
+			"sajda": false
+		},
+		{
+			"number": 2827,
+			"text": "فِي بُيُوتٍ أَذِنَ اللَّهُ أَنْ تُرْفَعَ وَيُذْكَرَ فِيهَا اسْمُهُ يُسَبِّحُ لَهُ فِيهَا بِالْغُدُوِّ وَالْآصَالِ",
+			"surah": {
+				"number": 24,
+				"name": "سُورَةُ النُّورِ",
+				"englishName": "An-Noor",
+				"englishNameTranslation": "The Light",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 64
+			},
+			"numberInSurah": 36,
+			"juz": 18,
+			"manzil": 4,
+			"page": 354,
+			"ruku": 305,
+			"hizbQuarter": 142,
+			"sajda": false
+		},
+		{
+			"number": 2828,
+			"text": "رِجَالٌ لَا تُلْهِيهِمْ تِجَارَةٌ وَلَا بَيْعٌ عَنْ ذِكْرِ اللَّهِ وَإِقَامِ الصَّلَاةِ وَإِيتَاءِ الزَّكَاةِ ۙ يَخَافُونَ يَوْمًا تَتَقَلَّبُ فِيهِ الْقُلُوبُ وَالْأَبْصَارُ",
+			"surah": {
+				"number": 24,
+				"name": "سُورَةُ النُّورِ",
+				"englishName": "An-Noor",
+				"englishNameTranslation": "The Light",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 64
+			},
+			"numberInSurah": 37,
+			"juz": 18,
+			"manzil": 4,
+			"page": 355,
+			"ruku": 305,
+			"hizbQuarter": 142,
+			"sajda": false
+		},
+		{
+			"number": 2829,
+			"text": "لِيَجْزِيَهُمُ اللَّهُ أَحْسَنَ مَا عَمِلُوا وَيَزِيدَهُمْ مِنْ فَضْلِهِ ۗ وَاللَّهُ يَرْزُقُ مَنْ يَشَاءُ بِغَيْرِ حِسَابٍ",
+			"surah": {
+				"number": 24,
+				"name": "سُورَةُ النُّورِ",
+				"englishName": "An-Noor",
+				"englishNameTranslation": "The Light",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 64
+			},
+			"numberInSurah": 38,
+			"juz": 18,
+			"manzil": 4,
+			"page": 355,
+			"ruku": 305,
+			"hizbQuarter": 142,
+			"sajda": false
+		},
+		{
+			"number": 2830,
+			"text": "وَالَّذِينَ كَفَرُوا أَعْمَالُهُمْ كَسَرَابٍ بِقِيعَةٍ يَحْسَبُهُ الظَّمْآنُ مَاءً حَتَّىٰ إِذَا جَاءَهُ لَمْ يَجِدْهُ شَيْئًا وَوَجَدَ اللَّهَ عِنْدَهُ فَوَفَّاهُ حِسَابَهُ ۗ وَاللَّهُ سَرِيعُ الْحِسَابِ",
+			"surah": {
+				"number": 24,
+				"name": "سُورَةُ النُّورِ",
+				"englishName": "An-Noor",
+				"englishNameTranslation": "The Light",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 64
+			},
+			"numberInSurah": 39,
+			"juz": 18,
+			"manzil": 4,
+			"page": 355,
+			"ruku": 305,
+			"hizbQuarter": 142,
+			"sajda": false
+		},
+		{
+			"number": 2831,
+			"text": "أَوْ كَظُلُمَاتٍ فِي بَحْرٍ لُجِّيٍّ يَغْشَاهُ مَوْجٌ مِنْ فَوْقِهِ مَوْجٌ مِنْ فَوْقِهِ سَحَابٌ ۚ ظُلُمَاتٌ بَعْضُهَا فَوْقَ بَعْضٍ إِذَا أَخْرَجَ يَدَهُ لَمْ يَكَدْ يَرَاهَا ۗ وَمَنْ لَمْ يَجْعَلِ اللَّهُ لَهُ نُورًا فَمَا لَهُ مِنْ نُورٍ",
+			"surah": {
+				"number": 24,
+				"name": "سُورَةُ النُّورِ",
+				"englishName": "An-Noor",
+				"englishNameTranslation": "The Light",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 64
+			},
+			"numberInSurah": 40,
+			"juz": 18,
+			"manzil": 4,
+			"page": 355,
+			"ruku": 305,
+			"hizbQuarter": 142,
+			"sajda": false
+		},
+		{
+			"number": 2832,
+			"text": "أَلَمْ تَرَ أَنَّ اللَّهَ يُسَبِّحُ لَهُ مَنْ فِي السَّمَاوَاتِ وَالْأَرْضِ وَالطَّيْرُ صَافَّاتٍ ۖ كُلٌّ قَدْ عَلِمَ صَلَاتَهُ وَتَسْبِيحَهُ ۗ وَاللَّهُ عَلِيمٌ بِمَا يَفْعَلُونَ",
+			"surah": {
+				"number": 24,
+				"name": "سُورَةُ النُّورِ",
+				"englishName": "An-Noor",
+				"englishNameTranslation": "The Light",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 64
+			},
+			"numberInSurah": 41,
+			"juz": 18,
+			"manzil": 4,
+			"page": 355,
+			"ruku": 306,
+			"hizbQuarter": 142,
+			"sajda": false
+		},
+		{
+			"number": 2833,
+			"text": "وَلِلَّهِ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ ۖ وَإِلَى اللَّهِ الْمَصِيرُ",
+			"surah": {
+				"number": 24,
+				"name": "سُورَةُ النُّورِ",
+				"englishName": "An-Noor",
+				"englishNameTranslation": "The Light",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 64
+			},
+			"numberInSurah": 42,
+			"juz": 18,
+			"manzil": 4,
+			"page": 355,
+			"ruku": 306,
+			"hizbQuarter": 142,
+			"sajda": false
+		},
+		{
+			"number": 2834,
+			"text": "أَلَمْ تَرَ أَنَّ اللَّهَ يُزْجِي سَحَابًا ثُمَّ يُؤَلِّفُ بَيْنَهُ ثُمَّ يَجْعَلُهُ رُكَامًا فَتَرَى الْوَدْقَ يَخْرُجُ مِنْ خِلَالِهِ وَيُنَزِّلُ مِنَ السَّمَاءِ مِنْ جِبَالٍ فِيهَا مِنْ بَرَدٍ فَيُصِيبُ بِهِ مَنْ يَشَاءُ وَيَصْرِفُهُ عَنْ مَنْ يَشَاءُ ۖ يَكَادُ سَنَا بَرْقِهِ يَذْهَبُ بِالْأَبْصَارِ",
+			"surah": {
+				"number": 24,
+				"name": "سُورَةُ النُّورِ",
+				"englishName": "An-Noor",
+				"englishNameTranslation": "The Light",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 64
+			},
+			"numberInSurah": 43,
+			"juz": 18,
+			"manzil": 4,
+			"page": 355,
+			"ruku": 306,
+			"hizbQuarter": 142,
+			"sajda": false
+		},
+		{
+			"number": 2835,
+			"text": "يُقَلِّبُ اللَّهُ اللَّيْلَ وَالنَّهَارَ ۚ إِنَّ فِي ذَٰلِكَ لَعِبْرَةً لِأُولِي الْأَبْصَارِ",
+			"surah": {
+				"number": 24,
+				"name": "سُورَةُ النُّورِ",
+				"englishName": "An-Noor",
+				"englishNameTranslation": "The Light",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 64
+			},
+			"numberInSurah": 44,
+			"juz": 18,
+			"manzil": 4,
+			"page": 356,
+			"ruku": 306,
+			"hizbQuarter": 142,
+			"sajda": false
+		},
+		{
+			"number": 2836,
+			"text": "وَاللَّهُ خَلَقَ كُلَّ دَابَّةٍ مِنْ مَاءٍ ۖ فَمِنْهُمْ مَنْ يَمْشِي عَلَىٰ بَطْنِهِ وَمِنْهُمْ مَنْ يَمْشِي عَلَىٰ رِجْلَيْنِ وَمِنْهُمْ مَنْ يَمْشِي عَلَىٰ أَرْبَعٍ ۚ يَخْلُقُ اللَّهُ مَا يَشَاءُ ۚ إِنَّ اللَّهَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+			"surah": {
+				"number": 24,
+				"name": "سُورَةُ النُّورِ",
+				"englishName": "An-Noor",
+				"englishNameTranslation": "The Light",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 64
+			},
+			"numberInSurah": 45,
+			"juz": 18,
+			"manzil": 4,
+			"page": 356,
+			"ruku": 306,
+			"hizbQuarter": 142,
+			"sajda": false
+		},
+		{
+			"number": 2837,
+			"text": "لَقَدْ أَنْزَلْنَا آيَاتٍ مُبَيِّنَاتٍ ۚ وَاللَّهُ يَهْدِي مَنْ يَشَاءُ إِلَىٰ صِرَاطٍ مُسْتَقِيمٍ",
+			"surah": {
+				"number": 24,
+				"name": "سُورَةُ النُّورِ",
+				"englishName": "An-Noor",
+				"englishNameTranslation": "The Light",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 64
+			},
+			"numberInSurah": 46,
+			"juz": 18,
+			"manzil": 4,
+			"page": 356,
+			"ruku": 306,
+			"hizbQuarter": 142,
+			"sajda": false
+		},
+		{
+			"number": 2838,
+			"text": "وَيَقُولُونَ آمَنَّا بِاللَّهِ وَبِالرَّسُولِ وَأَطَعْنَا ثُمَّ يَتَوَلَّىٰ فَرِيقٌ مِنْهُمْ مِنْ بَعْدِ ذَٰلِكَ ۚ وَمَا أُولَٰئِكَ بِالْمُؤْمِنِينَ",
+			"surah": {
+				"number": 24,
+				"name": "سُورَةُ النُّورِ",
+				"englishName": "An-Noor",
+				"englishNameTranslation": "The Light",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 64
+			},
+			"numberInSurah": 47,
+			"juz": 18,
+			"manzil": 4,
+			"page": 356,
+			"ruku": 306,
+			"hizbQuarter": 142,
+			"sajda": false
+		},
+		{
+			"number": 2839,
+			"text": "وَإِذَا دُعُوا إِلَى اللَّهِ وَرَسُولِهِ لِيَحْكُمَ بَيْنَهُمْ إِذَا فَرِيقٌ مِنْهُمْ مُعْرِضُونَ",
+			"surah": {
+				"number": 24,
+				"name": "سُورَةُ النُّورِ",
+				"englishName": "An-Noor",
+				"englishNameTranslation": "The Light",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 64
+			},
+			"numberInSurah": 48,
+			"juz": 18,
+			"manzil": 4,
+			"page": 356,
+			"ruku": 306,
+			"hizbQuarter": 142,
+			"sajda": false
+		},
+		{
+			"number": 2840,
+			"text": "وَإِنْ يَكُنْ لَهُمُ الْحَقُّ يَأْتُوا إِلَيْهِ مُذْعِنِينَ",
+			"surah": {
+				"number": 24,
+				"name": "سُورَةُ النُّورِ",
+				"englishName": "An-Noor",
+				"englishNameTranslation": "The Light",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 64
+			},
+			"numberInSurah": 49,
+			"juz": 18,
+			"manzil": 4,
+			"page": 356,
+			"ruku": 306,
+			"hizbQuarter": 142,
+			"sajda": false
+		},
+		{
+			"number": 2841,
+			"text": "أَفِي قُلُوبِهِمْ مَرَضٌ أَمِ ارْتَابُوا أَمْ يَخَافُونَ أَنْ يَحِيفَ اللَّهُ عَلَيْهِمْ وَرَسُولُهُ ۚ بَلْ أُولَٰئِكَ هُمُ الظَّالِمُونَ",
+			"surah": {
+				"number": 24,
+				"name": "سُورَةُ النُّورِ",
+				"englishName": "An-Noor",
+				"englishNameTranslation": "The Light",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 64
+			},
+			"numberInSurah": 50,
+			"juz": 18,
+			"manzil": 4,
+			"page": 356,
+			"ruku": 306,
+			"hizbQuarter": 142,
+			"sajda": false
+		},
+		{
+			"number": 2842,
+			"text": "إِنَّمَا كَانَ قَوْلَ الْمُؤْمِنِينَ إِذَا دُعُوا إِلَى اللَّهِ وَرَسُولِهِ لِيَحْكُمَ بَيْنَهُمْ أَنْ يَقُولُوا سَمِعْنَا وَأَطَعْنَا ۚ وَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ",
+			"surah": {
+				"number": 24,
+				"name": "سُورَةُ النُّورِ",
+				"englishName": "An-Noor",
+				"englishNameTranslation": "The Light",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 64
+			},
+			"numberInSurah": 51,
+			"juz": 18,
+			"manzil": 4,
+			"page": 356,
+			"ruku": 307,
+			"hizbQuarter": 142,
+			"sajda": false
+		},
+		{
+			"number": 2843,
+			"text": "وَمَنْ يُطِعِ اللَّهَ وَرَسُولَهُ وَيَخْشَ اللَّهَ وَيَتَّقْهِ فَأُولَٰئِكَ هُمُ الْفَائِزُونَ",
+			"surah": {
+				"number": 24,
+				"name": "سُورَةُ النُّورِ",
+				"englishName": "An-Noor",
+				"englishNameTranslation": "The Light",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 64
+			},
+			"numberInSurah": 52,
+			"juz": 18,
+			"manzil": 4,
+			"page": 356,
+			"ruku": 307,
+			"hizbQuarter": 142,
+			"sajda": false
+		}
+	]
+}

@@ -1,0 +1,52 @@
+﻿{
+	"number": 110,
+	"name": "سُورَةُ النَّصۡرِ",
+	"englishName": "An-Nasr",
+	"englishNameTranslation": "Divine Support",
+	"revelationType": "Medinan",
+	"numberOfAyahs": 3,
+	"ayahs": [
+		{
+			"number": 6214,
+			"text": "«إذا جاء نصر الله» نبيَّه صلى الله عليه وسلم على أعدائه «والفتح» فتح مكة.",
+			"numberInSurah": 1,
+			"juz": 30,
+			"manzil": 7,
+			"page": 603,
+			"ruku": 552,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6215,
+			"text": "«ورأيت الناس يدخلون في دين الله» أي الإسلام «أفواجا» جماعات بعدما كان يدخل فيه واحد واحد، وذلك بعد فتح مكة جاءه العرب من أقطار الأرض طائعين.",
+			"numberInSurah": 2,
+			"juz": 30,
+			"manzil": 7,
+			"page": 603,
+			"ruku": 552,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6216,
+			"text": "«فسبح بحمد ربك» أي متلبسا بحمده «واستغفره إنه كان توابا» وكان صلى الله عليه وسلم بعد نزول هذه السورة يكثر من قول: سبحان الله وبحمده، أستغفر الله وأتوب إليه، وعلم بها أنه قد أقترب أجله وكان فتح مكة في رمضان سنة ثمان وتوفي صلى الله عليه وسلم في ربيع الأول سنة عشر.",
+			"numberInSurah": 3,
+			"juz": 30,
+			"manzil": 7,
+			"page": 603,
+			"ruku": 552,
+			"hizbQuarter": 240,
+			"sajda": false
+		}
+	],
+	"edition": {
+		"identifier": "ar.jalalayn",
+		"language": "ar",
+		"name": "تفسير الجلالين",
+		"englishName": "Jalal ad-Din al-Mahalli and Jalal ad-Din as-Suyuti",
+		"format": "text",
+		"type": "tafsir",
+		"direction": "rtl"
+	}
+}

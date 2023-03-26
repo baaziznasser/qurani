@@ -1,0 +1,184 @@
+﻿{
+	"number": 91,
+	"name": "سُورَةُ الشَّمۡسِ",
+	"englishName": "Ash-Shams",
+	"englishNameTranslation": "The Sun",
+	"revelationType": "Meccan",
+	"numberOfAyahs": 15,
+	"ayahs": [
+		{
+			"number": 6044,
+			"text": "«والشمس وضحاها» ضوؤها.",
+			"numberInSurah": 1,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 533,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6045,
+			"text": "«والقمر إذا تلاها» تبعها طالعا عند غروبها.",
+			"numberInSurah": 2,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 533,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6046,
+			"text": "«والنهار إذا جلاها» بارتفاعه.",
+			"numberInSurah": 3,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 533,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6047,
+			"text": "«والليل إذا يغشاها» يغطيها بظلمته وإذا في الثلاثة لمجرد الظرفية والعامل فيها فعل القسم.",
+			"numberInSurah": 4,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 533,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6048,
+			"text": "«والسماء وما بناها».",
+			"numberInSurah": 5,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 533,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6049,
+			"text": "«والأرض وما طحاها» بسطها.",
+			"numberInSurah": 6,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 533,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6050,
+			"text": "«ونفس» بمعنى نفوس «وما سوَّاها» في الخلقة وما في الثلاثة مصدرية أو بمعنى من.",
+			"numberInSurah": 7,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 533,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6051,
+			"text": "«فألهمها فجورها وتقواها» بيَّن لها طريق الخير والشر وأخر التقوى رعاية لرؤوس الآي وجواب القسم:",
+			"numberInSurah": 8,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 533,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6052,
+			"text": "«قد أفلح» حذفت منه اللام لطول الكلام «مَنْ زكَّاها» طهرها من الذنوب.",
+			"numberInSurah": 9,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 533,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6053,
+			"text": "«وقد خاب» خسر «مَنْ دسَّاها» أخفاها بالمعصية وأصله دسها أبدلت السين الثانية ألفا تخفيفا.",
+			"numberInSurah": 10,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 533,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6054,
+			"text": "«كذَّبت ثمود» رسولها صالحا «بطغواها» بسبب طغيانها.",
+			"numberInSurah": 11,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 533,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6055,
+			"text": "«إذ انبعث» أسرع «أشقاها» واسمه قدار إلى عقر الناقة برضاهم.",
+			"numberInSurah": 12,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 533,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6056,
+			"text": "«فقال لهم رسول الله» صالح «ناقة الله» أي ذروها «وسقياها» شربها في يومها وكان لها يوم ولهم يوم.",
+			"numberInSurah": 13,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 533,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6057,
+			"text": "«فكذبوه» في قوله ذلك عن الله المرتب عليه نزول العذاب بهم إن خالفوه «فعقروها» قتلوها ليسلم لهم ماء شربها «فدمدم» أطبق «عليهم ربهم» العذاب «بذنبهم فسواها» أي الدمدمة عليهم، أي عمهم بها فلم يفلت منهم أحد.",
+			"numberInSurah": 14,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 533,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6058,
+			"text": "«ولا» بالواو والفاء «يخاف عقباها» تبعتها.",
+			"numberInSurah": 15,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 533,
+			"hizbQuarter": 238,
+			"sajda": false
+		}
+	],
+	"edition": {
+		"identifier": "ar.jalalayn",
+		"language": "ar",
+		"name": "تفسير الجلالين",
+		"englishName": "Jalal ad-Din al-Mahalli and Jalal ad-Din as-Suyuti",
+		"format": "text",
+		"type": "tafsir",
+		"direction": "rtl"
+	}
+}

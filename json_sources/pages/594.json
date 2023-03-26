@@ -1,0 +1,545 @@
+﻿{
+	"number": 594,
+	"ayahs": [
+		{
+			"number": 6017,
+			"text": "يَقُولُ يَا لَيْتَنِي قَدَّمْتُ لِحَيَاتِي",
+			"surah": {
+				"number": 89,
+				"name": "سُورَةُ الفَجۡرِ",
+				"englishName": "Al-Fajr",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 30
+			},
+			"numberInSurah": 24,
+			"juz": 30,
+			"manzil": 7,
+			"page": 594,
+			"ruku": 531,
+			"hizbQuarter": 237,
+			"sajda": false
+		},
+		{
+			"number": 6018,
+			"text": "فَيَوْمَئِذٍ لَا يُعَذِّبُ عَذَابَهُ أَحَدٌ",
+			"surah": {
+				"number": 89,
+				"name": "سُورَةُ الفَجۡرِ",
+				"englishName": "Al-Fajr",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 30
+			},
+			"numberInSurah": 25,
+			"juz": 30,
+			"manzil": 7,
+			"page": 594,
+			"ruku": 531,
+			"hizbQuarter": 237,
+			"sajda": false
+		},
+		{
+			"number": 6019,
+			"text": "وَلَا يُوثِقُ وَثَاقَهُ أَحَدٌ",
+			"surah": {
+				"number": 89,
+				"name": "سُورَةُ الفَجۡرِ",
+				"englishName": "Al-Fajr",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 30
+			},
+			"numberInSurah": 26,
+			"juz": 30,
+			"manzil": 7,
+			"page": 594,
+			"ruku": 531,
+			"hizbQuarter": 237,
+			"sajda": false
+		},
+		{
+			"number": 6020,
+			"text": "يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ",
+			"surah": {
+				"number": 89,
+				"name": "سُورَةُ الفَجۡرِ",
+				"englishName": "Al-Fajr",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 30
+			},
+			"numberInSurah": 27,
+			"juz": 30,
+			"manzil": 7,
+			"page": 594,
+			"ruku": 531,
+			"hizbQuarter": 237,
+			"sajda": false
+		},
+		{
+			"number": 6021,
+			"text": "ارْجِعِي إِلَىٰ رَبِّكِ رَاضِيَةً مَرْضِيَّةً",
+			"surah": {
+				"number": 89,
+				"name": "سُورَةُ الفَجۡرِ",
+				"englishName": "Al-Fajr",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 30
+			},
+			"numberInSurah": 28,
+			"juz": 30,
+			"manzil": 7,
+			"page": 594,
+			"ruku": 531,
+			"hizbQuarter": 237,
+			"sajda": false
+		},
+		{
+			"number": 6022,
+			"text": "فَادْخُلِي فِي عِبَادِي",
+			"surah": {
+				"number": 89,
+				"name": "سُورَةُ الفَجۡرِ",
+				"englishName": "Al-Fajr",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 30
+			},
+			"numberInSurah": 29,
+			"juz": 30,
+			"manzil": 7,
+			"page": 594,
+			"ruku": 531,
+			"hizbQuarter": 237,
+			"sajda": false
+		},
+		{
+			"number": 6023,
+			"text": "وَادْخُلِي جَنَّتِي",
+			"surah": {
+				"number": 89,
+				"name": "سُورَةُ الفَجۡرِ",
+				"englishName": "Al-Fajr",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 30
+			},
+			"numberInSurah": 30,
+			"juz": 30,
+			"manzil": 7,
+			"page": 594,
+			"ruku": 531,
+			"hizbQuarter": 237,
+			"sajda": false
+		},
+		{
+			"number": 6024,
+			"text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ لَا أُقْسِمُ بِهَٰذَا الْبَلَدِ",
+			"surah": {
+				"number": 90,
+				"name": "سُورَةُ البَلَدِ",
+				"englishName": "Al-Balad",
+				"englishNameTranslation": "The City",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 20
+			},
+			"numberInSurah": 1,
+			"juz": 30,
+			"manzil": 7,
+			"page": 594,
+			"ruku": 532,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6025,
+			"text": "وَأَنْتَ حِلٌّ بِهَٰذَا الْبَلَدِ",
+			"surah": {
+				"number": 90,
+				"name": "سُورَةُ البَلَدِ",
+				"englishName": "Al-Balad",
+				"englishNameTranslation": "The City",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 20
+			},
+			"numberInSurah": 2,
+			"juz": 30,
+			"manzil": 7,
+			"page": 594,
+			"ruku": 532,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6026,
+			"text": "وَوَالِدٍ وَمَا وَلَدَ",
+			"surah": {
+				"number": 90,
+				"name": "سُورَةُ البَلَدِ",
+				"englishName": "Al-Balad",
+				"englishNameTranslation": "The City",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 20
+			},
+			"numberInSurah": 3,
+			"juz": 30,
+			"manzil": 7,
+			"page": 594,
+			"ruku": 532,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6027,
+			"text": "لَقَدْ خَلَقْنَا الْإِنْسَانَ فِي كَبَدٍ",
+			"surah": {
+				"number": 90,
+				"name": "سُورَةُ البَلَدِ",
+				"englishName": "Al-Balad",
+				"englishNameTranslation": "The City",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 20
+			},
+			"numberInSurah": 4,
+			"juz": 30,
+			"manzil": 7,
+			"page": 594,
+			"ruku": 532,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6028,
+			"text": "أَيَحْسَبُ أَنْ لَنْ يَقْدِرَ عَلَيْهِ أَحَدٌ",
+			"surah": {
+				"number": 90,
+				"name": "سُورَةُ البَلَدِ",
+				"englishName": "Al-Balad",
+				"englishNameTranslation": "The City",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 20
+			},
+			"numberInSurah": 5,
+			"juz": 30,
+			"manzil": 7,
+			"page": 594,
+			"ruku": 532,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6029,
+			"text": "يَقُولُ أَهْلَكْتُ مَالًا لُبَدًا",
+			"surah": {
+				"number": 90,
+				"name": "سُورَةُ البَلَدِ",
+				"englishName": "Al-Balad",
+				"englishNameTranslation": "The City",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 20
+			},
+			"numberInSurah": 6,
+			"juz": 30,
+			"manzil": 7,
+			"page": 594,
+			"ruku": 532,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6030,
+			"text": "أَيَحْسَبُ أَنْ لَمْ يَرَهُ أَحَدٌ",
+			"surah": {
+				"number": 90,
+				"name": "سُورَةُ البَلَدِ",
+				"englishName": "Al-Balad",
+				"englishNameTranslation": "The City",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 20
+			},
+			"numberInSurah": 7,
+			"juz": 30,
+			"manzil": 7,
+			"page": 594,
+			"ruku": 532,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6031,
+			"text": "أَلَمْ نَجْعَلْ لَهُ عَيْنَيْنِ",
+			"surah": {
+				"number": 90,
+				"name": "سُورَةُ البَلَدِ",
+				"englishName": "Al-Balad",
+				"englishNameTranslation": "The City",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 20
+			},
+			"numberInSurah": 8,
+			"juz": 30,
+			"manzil": 7,
+			"page": 594,
+			"ruku": 532,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6032,
+			"text": "وَلِسَانًا وَشَفَتَيْنِ",
+			"surah": {
+				"number": 90,
+				"name": "سُورَةُ البَلَدِ",
+				"englishName": "Al-Balad",
+				"englishNameTranslation": "The City",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 20
+			},
+			"numberInSurah": 9,
+			"juz": 30,
+			"manzil": 7,
+			"page": 594,
+			"ruku": 532,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6033,
+			"text": "وَهَدَيْنَاهُ النَّجْدَيْنِ",
+			"surah": {
+				"number": 90,
+				"name": "سُورَةُ البَلَدِ",
+				"englishName": "Al-Balad",
+				"englishNameTranslation": "The City",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 20
+			},
+			"numberInSurah": 10,
+			"juz": 30,
+			"manzil": 7,
+			"page": 594,
+			"ruku": 532,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6034,
+			"text": "فَلَا اقْتَحَمَ الْعَقَبَةَ",
+			"surah": {
+				"number": 90,
+				"name": "سُورَةُ البَلَدِ",
+				"englishName": "Al-Balad",
+				"englishNameTranslation": "The City",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 20
+			},
+			"numberInSurah": 11,
+			"juz": 30,
+			"manzil": 7,
+			"page": 594,
+			"ruku": 532,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6035,
+			"text": "وَمَا أَدْرَاكَ مَا الْعَقَبَةُ",
+			"surah": {
+				"number": 90,
+				"name": "سُورَةُ البَلَدِ",
+				"englishName": "Al-Balad",
+				"englishNameTranslation": "The City",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 20
+			},
+			"numberInSurah": 12,
+			"juz": 30,
+			"manzil": 7,
+			"page": 594,
+			"ruku": 532,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6036,
+			"text": "فَكُّ رَقَبَةٍ",
+			"surah": {
+				"number": 90,
+				"name": "سُورَةُ البَلَدِ",
+				"englishName": "Al-Balad",
+				"englishNameTranslation": "The City",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 20
+			},
+			"numberInSurah": 13,
+			"juz": 30,
+			"manzil": 7,
+			"page": 594,
+			"ruku": 532,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6037,
+			"text": "أَوْ إِطْعَامٌ فِي يَوْمٍ ذِي مَسْغَبَةٍ",
+			"surah": {
+				"number": 90,
+				"name": "سُورَةُ البَلَدِ",
+				"englishName": "Al-Balad",
+				"englishNameTranslation": "The City",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 20
+			},
+			"numberInSurah": 14,
+			"juz": 30,
+			"manzil": 7,
+			"page": 594,
+			"ruku": 532,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6038,
+			"text": "يَتِيمًا ذَا مَقْرَبَةٍ",
+			"surah": {
+				"number": 90,
+				"name": "سُورَةُ البَلَدِ",
+				"englishName": "Al-Balad",
+				"englishNameTranslation": "The City",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 20
+			},
+			"numberInSurah": 15,
+			"juz": 30,
+			"manzil": 7,
+			"page": 594,
+			"ruku": 532,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6039,
+			"text": "أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ",
+			"surah": {
+				"number": 90,
+				"name": "سُورَةُ البَلَدِ",
+				"englishName": "Al-Balad",
+				"englishNameTranslation": "The City",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 20
+			},
+			"numberInSurah": 16,
+			"juz": 30,
+			"manzil": 7,
+			"page": 594,
+			"ruku": 532,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6040,
+			"text": "ثُمَّ كَانَ مِنَ الَّذِينَ آمَنُوا وَتَوَاصَوْا بِالصَّبْرِ وَتَوَاصَوْا بِالْمَرْحَمَةِ",
+			"surah": {
+				"number": 90,
+				"name": "سُورَةُ البَلَدِ",
+				"englishName": "Al-Balad",
+				"englishNameTranslation": "The City",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 20
+			},
+			"numberInSurah": 17,
+			"juz": 30,
+			"manzil": 7,
+			"page": 594,
+			"ruku": 532,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6041,
+			"text": "أُولَٰئِكَ أَصْحَابُ الْمَيْمَنَةِ",
+			"surah": {
+				"number": 90,
+				"name": "سُورَةُ البَلَدِ",
+				"englishName": "Al-Balad",
+				"englishNameTranslation": "The City",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 20
+			},
+			"numberInSurah": 18,
+			"juz": 30,
+			"manzil": 7,
+			"page": 594,
+			"ruku": 532,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6042,
+			"text": "وَالَّذِينَ كَفَرُوا بِآيَاتِنَا هُمْ أَصْحَابُ الْمَشْأَمَةِ",
+			"surah": {
+				"number": 90,
+				"name": "سُورَةُ البَلَدِ",
+				"englishName": "Al-Balad",
+				"englishNameTranslation": "The City",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 20
+			},
+			"numberInSurah": 19,
+			"juz": 30,
+			"manzil": 7,
+			"page": 594,
+			"ruku": 532,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6043,
+			"text": "عَلَيْهِمْ نَارٌ مُؤْصَدَةٌ",
+			"surah": {
+				"number": 90,
+				"name": "سُورَةُ البَلَدِ",
+				"englishName": "Al-Balad",
+				"englishNameTranslation": "The City",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 20
+			},
+			"numberInSurah": 20,
+			"juz": 30,
+			"manzil": 7,
+			"page": 594,
+			"ruku": 532,
+			"hizbQuarter": 238,
+			"sajda": false
+		}
+	],
+	"surahs": {
+		"89": {
+			"number": 89,
+			"name": "سُورَةُ الفَجۡرِ",
+			"englishName": "Al-Fajr",
+			"englishNameTranslation": "The Dawn",
+			"revelationType": "Meccan",
+			"numberOfAyahs": 30
+		},
+		"90": {
+			"number": 90,
+			"name": "سُورَةُ البَلَدِ",
+			"englishName": "Al-Balad",
+			"englishNameTranslation": "The City",
+			"revelationType": "Meccan",
+			"numberOfAyahs": 20
+		}
+	},
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

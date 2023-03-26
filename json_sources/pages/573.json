@@ -1,0 +1,309 @@
+﻿{
+	"number": 573,
+	"ayahs": [
+		{
+			"number": 5461,
+			"text": "وَأَنَّا مِنَّا الْمُسْلِمُونَ وَمِنَّا الْقَاسِطُونَ ۖ فَمَنْ أَسْلَمَ فَأُولَٰئِكَ تَحَرَّوْا رَشَدًا",
+			"surah": {
+				"number": 72,
+				"name": "سُورَةُ الجِنِّ",
+				"englishName": "Al-Jinn",
+				"englishNameTranslation": "The Jinn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 28
+			},
+			"numberInSurah": 14,
+			"juz": 29,
+			"manzil": 7,
+			"page": 573,
+			"ruku": 506,
+			"hizbQuarter": 229,
+			"sajda": false
+		},
+		{
+			"number": 5462,
+			"text": "وَأَمَّا الْقَاسِطُونَ فَكَانُوا لِجَهَنَّمَ حَطَبًا",
+			"surah": {
+				"number": 72,
+				"name": "سُورَةُ الجِنِّ",
+				"englishName": "Al-Jinn",
+				"englishNameTranslation": "The Jinn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 28
+			},
+			"numberInSurah": 15,
+			"juz": 29,
+			"manzil": 7,
+			"page": 573,
+			"ruku": 506,
+			"hizbQuarter": 229,
+			"sajda": false
+		},
+		{
+			"number": 5463,
+			"text": "وَأَنْ لَوِ اسْتَقَامُوا عَلَى الطَّرِيقَةِ لَأَسْقَيْنَاهُمْ مَاءً غَدَقًا",
+			"surah": {
+				"number": 72,
+				"name": "سُورَةُ الجِنِّ",
+				"englishName": "Al-Jinn",
+				"englishNameTranslation": "The Jinn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 28
+			},
+			"numberInSurah": 16,
+			"juz": 29,
+			"manzil": 7,
+			"page": 573,
+			"ruku": 506,
+			"hizbQuarter": 229,
+			"sajda": false
+		},
+		{
+			"number": 5464,
+			"text": "لِنَفْتِنَهُمْ فِيهِ ۚ وَمَنْ يُعْرِضْ عَنْ ذِكْرِ رَبِّهِ يَسْلُكْهُ عَذَابًا صَعَدًا",
+			"surah": {
+				"number": 72,
+				"name": "سُورَةُ الجِنِّ",
+				"englishName": "Al-Jinn",
+				"englishNameTranslation": "The Jinn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 28
+			},
+			"numberInSurah": 17,
+			"juz": 29,
+			"manzil": 7,
+			"page": 573,
+			"ruku": 506,
+			"hizbQuarter": 229,
+			"sajda": false
+		},
+		{
+			"number": 5465,
+			"text": "وَأَنَّ الْمَسَاجِدَ لِلَّهِ فَلَا تَدْعُوا مَعَ اللَّهِ أَحَدًا",
+			"surah": {
+				"number": 72,
+				"name": "سُورَةُ الجِنِّ",
+				"englishName": "Al-Jinn",
+				"englishNameTranslation": "The Jinn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 28
+			},
+			"numberInSurah": 18,
+			"juz": 29,
+			"manzil": 7,
+			"page": 573,
+			"ruku": 506,
+			"hizbQuarter": 229,
+			"sajda": false
+		},
+		{
+			"number": 5466,
+			"text": "وَأَنَّهُ لَمَّا قَامَ عَبْدُ اللَّهِ يَدْعُوهُ كَادُوا يَكُونُونَ عَلَيْهِ لِبَدًا",
+			"surah": {
+				"number": 72,
+				"name": "سُورَةُ الجِنِّ",
+				"englishName": "Al-Jinn",
+				"englishNameTranslation": "The Jinn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 28
+			},
+			"numberInSurah": 19,
+			"juz": 29,
+			"manzil": 7,
+			"page": 573,
+			"ruku": 506,
+			"hizbQuarter": 229,
+			"sajda": false
+		},
+		{
+			"number": 5467,
+			"text": "قُلْ إِنَّمَا أَدْعُو رَبِّي وَلَا أُشْرِكُ بِهِ أَحَدًا",
+			"surah": {
+				"number": 72,
+				"name": "سُورَةُ الجِنِّ",
+				"englishName": "Al-Jinn",
+				"englishNameTranslation": "The Jinn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 28
+			},
+			"numberInSurah": 20,
+			"juz": 29,
+			"manzil": 7,
+			"page": 573,
+			"ruku": 507,
+			"hizbQuarter": 229,
+			"sajda": false
+		},
+		{
+			"number": 5468,
+			"text": "قُلْ إِنِّي لَا أَمْلِكُ لَكُمْ ضَرًّا وَلَا رَشَدًا",
+			"surah": {
+				"number": 72,
+				"name": "سُورَةُ الجِنِّ",
+				"englishName": "Al-Jinn",
+				"englishNameTranslation": "The Jinn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 28
+			},
+			"numberInSurah": 21,
+			"juz": 29,
+			"manzil": 7,
+			"page": 573,
+			"ruku": 507,
+			"hizbQuarter": 229,
+			"sajda": false
+		},
+		{
+			"number": 5469,
+			"text": "قُلْ إِنِّي لَنْ يُجِيرَنِي مِنَ اللَّهِ أَحَدٌ وَلَنْ أَجِدَ مِنْ دُونِهِ مُلْتَحَدًا",
+			"surah": {
+				"number": 72,
+				"name": "سُورَةُ الجِنِّ",
+				"englishName": "Al-Jinn",
+				"englishNameTranslation": "The Jinn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 28
+			},
+			"numberInSurah": 22,
+			"juz": 29,
+			"manzil": 7,
+			"page": 573,
+			"ruku": 507,
+			"hizbQuarter": 229,
+			"sajda": false
+		},
+		{
+			"number": 5470,
+			"text": "إِلَّا بَلَاغًا مِنَ اللَّهِ وَرِسَالَاتِهِ ۚ وَمَنْ يَعْصِ اللَّهَ وَرَسُولَهُ فَإِنَّ لَهُ نَارَ جَهَنَّمَ خَالِدِينَ فِيهَا أَبَدًا",
+			"surah": {
+				"number": 72,
+				"name": "سُورَةُ الجِنِّ",
+				"englishName": "Al-Jinn",
+				"englishNameTranslation": "The Jinn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 28
+			},
+			"numberInSurah": 23,
+			"juz": 29,
+			"manzil": 7,
+			"page": 573,
+			"ruku": 507,
+			"hizbQuarter": 229,
+			"sajda": false
+		},
+		{
+			"number": 5471,
+			"text": "حَتَّىٰ إِذَا رَأَوْا مَا يُوعَدُونَ فَسَيَعْلَمُونَ مَنْ أَضْعَفُ نَاصِرًا وَأَقَلُّ عَدَدًا",
+			"surah": {
+				"number": 72,
+				"name": "سُورَةُ الجِنِّ",
+				"englishName": "Al-Jinn",
+				"englishNameTranslation": "The Jinn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 28
+			},
+			"numberInSurah": 24,
+			"juz": 29,
+			"manzil": 7,
+			"page": 573,
+			"ruku": 507,
+			"hizbQuarter": 229,
+			"sajda": false
+		},
+		{
+			"number": 5472,
+			"text": "قُلْ إِنْ أَدْرِي أَقَرِيبٌ مَا تُوعَدُونَ أَمْ يَجْعَلُ لَهُ رَبِّي أَمَدًا",
+			"surah": {
+				"number": 72,
+				"name": "سُورَةُ الجِنِّ",
+				"englishName": "Al-Jinn",
+				"englishNameTranslation": "The Jinn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 28
+			},
+			"numberInSurah": 25,
+			"juz": 29,
+			"manzil": 7,
+			"page": 573,
+			"ruku": 507,
+			"hizbQuarter": 229,
+			"sajda": false
+		},
+		{
+			"number": 5473,
+			"text": "عَالِمُ الْغَيْبِ فَلَا يُظْهِرُ عَلَىٰ غَيْبِهِ أَحَدًا",
+			"surah": {
+				"number": 72,
+				"name": "سُورَةُ الجِنِّ",
+				"englishName": "Al-Jinn",
+				"englishNameTranslation": "The Jinn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 28
+			},
+			"numberInSurah": 26,
+			"juz": 29,
+			"manzil": 7,
+			"page": 573,
+			"ruku": 507,
+			"hizbQuarter": 229,
+			"sajda": false
+		},
+		{
+			"number": 5474,
+			"text": "إِلَّا مَنِ ارْتَضَىٰ مِنْ رَسُولٍ فَإِنَّهُ يَسْلُكُ مِنْ بَيْنِ يَدَيْهِ وَمِنْ خَلْفِهِ رَصَدًا",
+			"surah": {
+				"number": 72,
+				"name": "سُورَةُ الجِنِّ",
+				"englishName": "Al-Jinn",
+				"englishNameTranslation": "The Jinn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 28
+			},
+			"numberInSurah": 27,
+			"juz": 29,
+			"manzil": 7,
+			"page": 573,
+			"ruku": 507,
+			"hizbQuarter": 229,
+			"sajda": false
+		},
+		{
+			"number": 5475,
+			"text": "لِيَعْلَمَ أَنْ قَدْ أَبْلَغُوا رِسَالَاتِ رَبِّهِمْ وَأَحَاطَ بِمَا لَدَيْهِمْ وَأَحْصَىٰ كُلَّ شَيْءٍ عَدَدًا",
+			"surah": {
+				"number": 72,
+				"name": "سُورَةُ الجِنِّ",
+				"englishName": "Al-Jinn",
+				"englishNameTranslation": "The Jinn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 28
+			},
+			"numberInSurah": 28,
+			"juz": 29,
+			"manzil": 7,
+			"page": 573,
+			"ruku": 507,
+			"hizbQuarter": 229,
+			"sajda": false
+		}
+	],
+	"surahs": {
+		"72": {
+			"number": 72,
+			"name": "سُورَةُ الجِنِّ",
+			"englishName": "Al-Jinn",
+			"englishNameTranslation": "The Jinn",
+			"revelationType": "Meccan",
+			"numberOfAyahs": 28
+		}
+	},
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

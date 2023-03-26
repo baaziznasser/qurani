@@ -1,0 +1,317 @@
+﻿{
+	"number": 99,
+	"ayahs": [
+		{
+			"number": 1697,
+			"surah": {
+				"number": 12,
+				"name": "سُورَةُ يُوسُفَ",
+				"englishName": "Yusuf",
+				"englishNameTranslation": "Joseph",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 101,
+			"juz": 13,
+			"manzil": 3,
+			"page": 247,
+			"ruku": 203,
+			"hizbQuarter": 99,
+			"sajda": false,
+			"text": "رَبِّ قَدْ آتَيْتَنِي مِنَ الْمُلْكِ وَعَلَّمْتَنِي مِن تَأْوِيلِ الْأَحَادِيثِ ۚ فَاطِرَ السَّمَاوَاتِ وَالْأَرْضِ أَنتَ وَلِيِّي فِي الدُّنْيَا وَالْآخِرَةِ ۖ تَوَفَّنِي مُسْلِمًا وَأَلْحِقْنِي بِالصَّالِحِينَ"
+		},
+		{
+			"number": 1698,
+			"surah": {
+				"number": 12,
+				"name": "سُورَةُ يُوسُفَ",
+				"englishName": "Yusuf",
+				"englishNameTranslation": "Joseph",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 102,
+			"juz": 13,
+			"manzil": 3,
+			"page": 247,
+			"ruku": 203,
+			"hizbQuarter": 99,
+			"sajda": false,
+			"text": "ذَٰلِكَ مِنْ أَنبَاءِ الْغَيْبِ نُوحِيهِ إِلَيْكَ ۖ وَمَا كُنتَ لَدَيْهِمْ إِذْ أَجْمَعُوا أَمْرَهُمْ وَهُمْ يَمْكُرُونَ"
+		},
+		{
+			"number": 1699,
+			"surah": {
+				"number": 12,
+				"name": "سُورَةُ يُوسُفَ",
+				"englishName": "Yusuf",
+				"englishNameTranslation": "Joseph",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 103,
+			"juz": 13,
+			"manzil": 3,
+			"page": 247,
+			"ruku": 203,
+			"hizbQuarter": 99,
+			"sajda": false,
+			"text": "وَمَا أَكْثَرُ النَّاسِ وَلَوْ حَرَصْتَ بِمُؤْمِنِينَ"
+		},
+		{
+			"number": 1700,
+			"surah": {
+				"number": 12,
+				"name": "سُورَةُ يُوسُفَ",
+				"englishName": "Yusuf",
+				"englishNameTranslation": "Joseph",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 104,
+			"juz": 13,
+			"manzil": 3,
+			"page": 248,
+			"ruku": 203,
+			"hizbQuarter": 99,
+			"sajda": false,
+			"text": "وَمَا تَسْأَلُهُمْ عَلَيْهِ مِنْ أَجْرٍ ۚ إِنْ هُوَ إِلَّا ذِكْرٌ لِّلْعَالَمِينَ"
+		},
+		{
+			"number": 1701,
+			"surah": {
+				"number": 12,
+				"name": "سُورَةُ يُوسُفَ",
+				"englishName": "Yusuf",
+				"englishNameTranslation": "Joseph",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 105,
+			"juz": 13,
+			"manzil": 3,
+			"page": 248,
+			"ruku": 204,
+			"hizbQuarter": 99,
+			"sajda": false,
+			"text": "وَكَأَيِّن مِّنْ آيَةٍ فِي السَّمَاوَاتِ وَالْأَرْضِ يَمُرُّونَ عَلَيْهَا وَهُمْ عَنْهَا مُعْرِضُونَ"
+		},
+		{
+			"number": 1702,
+			"surah": {
+				"number": 12,
+				"name": "سُورَةُ يُوسُفَ",
+				"englishName": "Yusuf",
+				"englishNameTranslation": "Joseph",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 106,
+			"juz": 13,
+			"manzil": 3,
+			"page": 248,
+			"ruku": 204,
+			"hizbQuarter": 99,
+			"sajda": false,
+			"text": "وَمَا يُؤْمِنُ أَكْثَرُهُم بِاللَّهِ إِلَّا وَهُم مُّشْرِكُونَ"
+		},
+		{
+			"number": 1703,
+			"surah": {
+				"number": 12,
+				"name": "سُورَةُ يُوسُفَ",
+				"englishName": "Yusuf",
+				"englishNameTranslation": "Joseph",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 107,
+			"juz": 13,
+			"manzil": 3,
+			"page": 248,
+			"ruku": 204,
+			"hizbQuarter": 99,
+			"sajda": false,
+			"text": "أَفَأَمِنُوا أَن تَأْتِيَهُمْ غَاشِيَةٌ مِّنْ عَذَابِ اللَّهِ أَوْ تَأْتِيَهُمُ السَّاعَةُ بَغْتَةً وَهُمْ لَا يَشْعُرُونَ"
+		},
+		{
+			"number": 1704,
+			"surah": {
+				"number": 12,
+				"name": "سُورَةُ يُوسُفَ",
+				"englishName": "Yusuf",
+				"englishNameTranslation": "Joseph",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 108,
+			"juz": 13,
+			"manzil": 3,
+			"page": 248,
+			"ruku": 204,
+			"hizbQuarter": 99,
+			"sajda": false,
+			"text": "قُلْ هَٰذِهِ سَبِيلِي أَدْعُو إِلَى اللَّهِ ۚ عَلَىٰ بَصِيرَةٍ أَنَا وَمَنِ اتَّبَعَنِي ۖ وَسُبْحَانَ اللَّهِ وَمَا أَنَا مِنَ الْمُشْرِكِينَ"
+		},
+		{
+			"number": 1705,
+			"surah": {
+				"number": 12,
+				"name": "سُورَةُ يُوسُفَ",
+				"englishName": "Yusuf",
+				"englishNameTranslation": "Joseph",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 109,
+			"juz": 13,
+			"manzil": 3,
+			"page": 248,
+			"ruku": 204,
+			"hizbQuarter": 99,
+			"sajda": false,
+			"text": "وَمَا أَرْسَلْنَا مِن قَبْلِكَ إِلَّا رِجَالًا نُّوحِي إِلَيْهِم مِّنْ أَهْلِ الْقُرَىٰ ۗ أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِن قَبْلِهِمْ ۗ وَلَدَارُ الْآخِرَةِ خَيْرٌ لِّلَّذِينَ اتَّقَوْا ۗ أَفَلَا تَعْقِلُونَ"
+		},
+		{
+			"number": 1706,
+			"surah": {
+				"number": 12,
+				"name": "سُورَةُ يُوسُفَ",
+				"englishName": "Yusuf",
+				"englishNameTranslation": "Joseph",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 110,
+			"juz": 13,
+			"manzil": 3,
+			"page": 248,
+			"ruku": 204,
+			"hizbQuarter": 99,
+			"sajda": false,
+			"text": "حَتَّىٰ إِذَا اسْتَيْأَسَ الرُّسُلُ وَظَنُّوا أَنَّهُمْ قَدْ كُذِبُوا جَاءَهُمْ نَصْرُنَا فَنُجِّيَ مَن نَّشَاءُ ۖ وَلَا يُرَدُّ بَأْسُنَا عَنِ الْقَوْمِ الْمُجْرِمِينَ"
+		},
+		{
+			"number": 1707,
+			"surah": {
+				"number": 12,
+				"name": "سُورَةُ يُوسُفَ",
+				"englishName": "Yusuf",
+				"englishNameTranslation": "Joseph",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 111,
+			"juz": 13,
+			"manzil": 3,
+			"page": 248,
+			"ruku": 204,
+			"hizbQuarter": 99,
+			"sajda": false,
+			"text": "لَقَدْ كَانَ فِي قَصَصِهِمْ عِبْرَةٌ لِّأُولِي الْأَلْبَابِ ۗ مَا كَانَ حَدِيثًا يُفْتَرَىٰ وَلَٰكِن تَصْدِيقَ الَّذِي بَيْنَ يَدَيْهِ وَتَفْصِيلَ كُلِّ شَيْءٍ وَهُدًى وَرَحْمَةً لِّقَوْمٍ يُؤْمِنُونَ"
+		},
+		{
+			"number": 1708,
+			"surah": {
+				"number": 13,
+				"name": "سُورَةُ الرَّعۡدِ",
+				"englishName": "Ar-Ra'd",
+				"englishNameTranslation": "The Thunder",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 43
+			},
+			"numberInSurah": 1,
+			"juz": 13,
+			"manzil": 3,
+			"page": 249,
+			"ruku": 205,
+			"hizbQuarter": 99,
+			"sajda": false,
+			"text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ المر ۚ تِلْكَ آيَاتُ الْكِتَابِ ۗ وَالَّذِي أُنزِلَ إِلَيْكَ مِن رَّبِّكَ الْحَقُّ وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يُؤْمِنُونَ"
+		},
+		{
+			"number": 1709,
+			"surah": {
+				"number": 13,
+				"name": "سُورَةُ الرَّعۡدِ",
+				"englishName": "Ar-Ra'd",
+				"englishNameTranslation": "The Thunder",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 43
+			},
+			"numberInSurah": 2,
+			"juz": 13,
+			"manzil": 3,
+			"page": 249,
+			"ruku": 205,
+			"hizbQuarter": 99,
+			"sajda": false,
+			"text": "اللَّهُ الَّذِي رَفَعَ السَّمَاوَاتِ بِغَيْرِ عَمَدٍ تَرَوْنَهَا ۖ ثُمَّ اسْتَوَىٰ عَلَى الْعَرْشِ ۖ وَسَخَّرَ الشَّمْسَ وَالْقَمَرَ ۖ كُلٌّ يَجْرِي لِأَجَلٍ مُّسَمًّى ۚ يُدَبِّرُ الْأَمْرَ يُفَصِّلُ الْآيَاتِ لَعَلَّكُم بِلِقَاءِ رَبِّكُمْ تُوقِنُونَ"
+		},
+		{
+			"number": 1710,
+			"surah": {
+				"number": 13,
+				"name": "سُورَةُ الرَّعۡدِ",
+				"englishName": "Ar-Ra'd",
+				"englishNameTranslation": "The Thunder",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 43
+			},
+			"numberInSurah": 3,
+			"juz": 13,
+			"manzil": 3,
+			"page": 249,
+			"ruku": 205,
+			"hizbQuarter": 99,
+			"sajda": false,
+			"text": "وَهُوَ الَّذِي مَدَّ الْأَرْضَ وَجَعَلَ فِيهَا رَوَاسِيَ وَأَنْهَارًا ۖ وَمِن كُلِّ الثَّمَرَاتِ جَعَلَ فِيهَا زَوْجَيْنِ اثْنَيْنِ ۖ يُغْشِي اللَّيْلَ النَّهَارَ ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّقَوْمٍ يَتَفَكَّرُونَ"
+		},
+		{
+			"number": 1711,
+			"surah": {
+				"number": 13,
+				"name": "سُورَةُ الرَّعۡدِ",
+				"englishName": "Ar-Ra'd",
+				"englishNameTranslation": "The Thunder",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 43
+			},
+			"numberInSurah": 4,
+			"juz": 13,
+			"manzil": 3,
+			"page": 249,
+			"ruku": 205,
+			"hizbQuarter": 99,
+			"sajda": false,
+			"text": "وَفِي الْأَرْضِ قِطَعٌ مُّتَجَاوِرَاتٌ وَجَنَّاتٌ مِّنْ أَعْنَابٍ وَزَرْعٌ وَنَخِيلٌ صِنْوَانٌ وَغَيْرُ صِنْوَانٍ يُسْقَىٰ بِمَاءٍ وَاحِدٍ وَنُفَضِّلُ بَعْضَهَا عَلَىٰ بَعْضٍ فِي الْأُكُلِ ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّقَوْمٍ يَعْقِلُونَ"
+		}
+	],
+	"surahs": {
+		"12": {
+			"number": 12,
+			"name": "سُورَةُ يُوسُفَ",
+			"englishName": "Yusuf",
+			"englishNameTranslation": "Joseph",
+			"revelationType": "Meccan",
+			"numberOfAyahs": 111
+		},
+		"13": {
+			"number": 13,
+			"name": "سُورَةُ الرَّعۡدِ",
+			"englishName": "Ar-Ra'd",
+			"englishNameTranslation": "The Thunder",
+			"revelationType": "Medinan",
+			"numberOfAyahs": 43
+		}
+	},
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

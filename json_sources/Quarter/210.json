@@ -1,0 +1,1001 @@
+﻿{
+	"number": 210,
+	"ayahs": [
+		{
+			"number": 4759,
+			"surah": {
+				"number": 52,
+				"name": "سُورَةُ الطُّورِ",
+				"englishName": "At-Tur",
+				"englishNameTranslation": "The Mount",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 49
+			},
+			"numberInSurah": 24,
+			"juz": 27,
+			"manzil": 7,
+			"page": 524,
+			"ruku": 458,
+			"hizbQuarter": 210,
+			"sajda": false,
+			"text": "وَيَطُوفُ عَلَيْهِمْ غِلْمَانٌ لَّهُمْ كَأَنَّهُمْ لُؤْلُؤٌ مَّكْنُونٌ"
+		},
+		{
+			"number": 4760,
+			"surah": {
+				"number": 52,
+				"name": "سُورَةُ الطُّورِ",
+				"englishName": "At-Tur",
+				"englishNameTranslation": "The Mount",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 49
+			},
+			"numberInSurah": 25,
+			"juz": 27,
+			"manzil": 7,
+			"page": 524,
+			"ruku": 458,
+			"hizbQuarter": 210,
+			"sajda": false,
+			"text": "وَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَسَاءَلُونَ"
+		},
+		{
+			"number": 4761,
+			"surah": {
+				"number": 52,
+				"name": "سُورَةُ الطُّورِ",
+				"englishName": "At-Tur",
+				"englishNameTranslation": "The Mount",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 49
+			},
+			"numberInSurah": 26,
+			"juz": 27,
+			"manzil": 7,
+			"page": 524,
+			"ruku": 458,
+			"hizbQuarter": 210,
+			"sajda": false,
+			"text": "قَالُوا إِنَّا كُنَّا قَبْلُ فِي أَهْلِنَا مُشْفِقِينَ"
+		},
+		{
+			"number": 4762,
+			"surah": {
+				"number": 52,
+				"name": "سُورَةُ الطُّورِ",
+				"englishName": "At-Tur",
+				"englishNameTranslation": "The Mount",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 49
+			},
+			"numberInSurah": 27,
+			"juz": 27,
+			"manzil": 7,
+			"page": 524,
+			"ruku": 458,
+			"hizbQuarter": 210,
+			"sajda": false,
+			"text": "فَمَنَّ اللَّهُ عَلَيْنَا وَوَقَانَا عَذَابَ السَّمُومِ"
+		},
+		{
+			"number": 4763,
+			"surah": {
+				"number": 52,
+				"name": "سُورَةُ الطُّورِ",
+				"englishName": "At-Tur",
+				"englishNameTranslation": "The Mount",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 49
+			},
+			"numberInSurah": 28,
+			"juz": 27,
+			"manzil": 7,
+			"page": 524,
+			"ruku": 458,
+			"hizbQuarter": 210,
+			"sajda": false,
+			"text": "إِنَّا كُنَّا مِن قَبْلُ نَدْعُوهُ ۖ إِنَّهُ هُوَ الْبَرُّ الرَّحِيمُ"
+		},
+		{
+			"number": 4764,
+			"surah": {
+				"number": 52,
+				"name": "سُورَةُ الطُّورِ",
+				"englishName": "At-Tur",
+				"englishNameTranslation": "The Mount",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 49
+			},
+			"numberInSurah": 29,
+			"juz": 27,
+			"manzil": 7,
+			"page": 524,
+			"ruku": 459,
+			"hizbQuarter": 210,
+			"sajda": false,
+			"text": "فَذَكِّرْ فَمَا أَنتَ بِنِعْمَتِ رَبِّكَ بِكَاهِنٍ وَلَا مَجْنُونٍ"
+		},
+		{
+			"number": 4765,
+			"surah": {
+				"number": 52,
+				"name": "سُورَةُ الطُّورِ",
+				"englishName": "At-Tur",
+				"englishNameTranslation": "The Mount",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 49
+			},
+			"numberInSurah": 30,
+			"juz": 27,
+			"manzil": 7,
+			"page": 524,
+			"ruku": 459,
+			"hizbQuarter": 210,
+			"sajda": false,
+			"text": "أَمْ يَقُولُونَ شَاعِرٌ نَّتَرَبَّصُ بِهِ رَيْبَ الْمَنُونِ"
+		},
+		{
+			"number": 4766,
+			"surah": {
+				"number": 52,
+				"name": "سُورَةُ الطُّورِ",
+				"englishName": "At-Tur",
+				"englishNameTranslation": "The Mount",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 49
+			},
+			"numberInSurah": 31,
+			"juz": 27,
+			"manzil": 7,
+			"page": 524,
+			"ruku": 459,
+			"hizbQuarter": 210,
+			"sajda": false,
+			"text": "قُلْ تَرَبَّصُوا فَإِنِّي مَعَكُم مِّنَ الْمُتَرَبِّصِينَ"
+		},
+		{
+			"number": 4767,
+			"surah": {
+				"number": 52,
+				"name": "سُورَةُ الطُّورِ",
+				"englishName": "At-Tur",
+				"englishNameTranslation": "The Mount",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 49
+			},
+			"numberInSurah": 32,
+			"juz": 27,
+			"manzil": 7,
+			"page": 525,
+			"ruku": 459,
+			"hizbQuarter": 210,
+			"sajda": false,
+			"text": "أَمْ تَأْمُرُهُمْ أَحْلَامُهُم بِهَٰذَا ۚ أَمْ هُمْ قَوْمٌ طَاغُونَ"
+		},
+		{
+			"number": 4768,
+			"surah": {
+				"number": 52,
+				"name": "سُورَةُ الطُّورِ",
+				"englishName": "At-Tur",
+				"englishNameTranslation": "The Mount",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 49
+			},
+			"numberInSurah": 33,
+			"juz": 27,
+			"manzil": 7,
+			"page": 525,
+			"ruku": 459,
+			"hizbQuarter": 210,
+			"sajda": false,
+			"text": "أَمْ يَقُولُونَ تَقَوَّلَهُ ۚ بَل لَّا يُؤْمِنُونَ"
+		},
+		{
+			"number": 4769,
+			"surah": {
+				"number": 52,
+				"name": "سُورَةُ الطُّورِ",
+				"englishName": "At-Tur",
+				"englishNameTranslation": "The Mount",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 49
+			},
+			"numberInSurah": 34,
+			"juz": 27,
+			"manzil": 7,
+			"page": 525,
+			"ruku": 459,
+			"hizbQuarter": 210,
+			"sajda": false,
+			"text": "فَلْيَأْتُوا بِحَدِيثٍ مِّثْلِهِ إِن كَانُوا صَادِقِينَ"
+		},
+		{
+			"number": 4770,
+			"surah": {
+				"number": 52,
+				"name": "سُورَةُ الطُّورِ",
+				"englishName": "At-Tur",
+				"englishNameTranslation": "The Mount",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 49
+			},
+			"numberInSurah": 35,
+			"juz": 27,
+			"manzil": 7,
+			"page": 525,
+			"ruku": 459,
+			"hizbQuarter": 210,
+			"sajda": false,
+			"text": "أَمْ خُلِقُوا مِنْ غَيْرِ شَيْءٍ أَمْ هُمُ الْخَالِقُونَ"
+		},
+		{
+			"number": 4771,
+			"surah": {
+				"number": 52,
+				"name": "سُورَةُ الطُّورِ",
+				"englishName": "At-Tur",
+				"englishNameTranslation": "The Mount",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 49
+			},
+			"numberInSurah": 36,
+			"juz": 27,
+			"manzil": 7,
+			"page": 525,
+			"ruku": 459,
+			"hizbQuarter": 210,
+			"sajda": false,
+			"text": "أَمْ خَلَقُوا السَّمَاوَاتِ وَالْأَرْضَ ۚ بَل لَّا يُوقِنُونَ"
+		},
+		{
+			"number": 4772,
+			"surah": {
+				"number": 52,
+				"name": "سُورَةُ الطُّورِ",
+				"englishName": "At-Tur",
+				"englishNameTranslation": "The Mount",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 49
+			},
+			"numberInSurah": 37,
+			"juz": 27,
+			"manzil": 7,
+			"page": 525,
+			"ruku": 459,
+			"hizbQuarter": 210,
+			"sajda": false,
+			"text": "أَمْ عِندَهُمْ خَزَائِنُ رَبِّكَ أَمْ هُمُ الْمُصَيْطِرُونَ"
+		},
+		{
+			"number": 4773,
+			"surah": {
+				"number": 52,
+				"name": "سُورَةُ الطُّورِ",
+				"englishName": "At-Tur",
+				"englishNameTranslation": "The Mount",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 49
+			},
+			"numberInSurah": 38,
+			"juz": 27,
+			"manzil": 7,
+			"page": 525,
+			"ruku": 459,
+			"hizbQuarter": 210,
+			"sajda": false,
+			"text": "أَمْ لَهُمْ سُلَّمٌ يَسْتَمِعُونَ فِيهِ ۖ فَلْيَأْتِ مُسْتَمِعُهُم بِسُلْطَانٍ مُّبِينٍ"
+		},
+		{
+			"number": 4774,
+			"surah": {
+				"number": 52,
+				"name": "سُورَةُ الطُّورِ",
+				"englishName": "At-Tur",
+				"englishNameTranslation": "The Mount",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 49
+			},
+			"numberInSurah": 39,
+			"juz": 27,
+			"manzil": 7,
+			"page": 525,
+			"ruku": 459,
+			"hizbQuarter": 210,
+			"sajda": false,
+			"text": "أَمْ لَهُ الْبَنَاتُ وَلَكُمُ الْبَنُونَ"
+		},
+		{
+			"number": 4775,
+			"surah": {
+				"number": 52,
+				"name": "سُورَةُ الطُّورِ",
+				"englishName": "At-Tur",
+				"englishNameTranslation": "The Mount",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 49
+			},
+			"numberInSurah": 40,
+			"juz": 27,
+			"manzil": 7,
+			"page": 525,
+			"ruku": 459,
+			"hizbQuarter": 210,
+			"sajda": false,
+			"text": "أَمْ تَسْأَلُهُمْ أَجْرًا فَهُم مِّن مَّغْرَمٍ مُّثْقَلُونَ"
+		},
+		{
+			"number": 4776,
+			"surah": {
+				"number": 52,
+				"name": "سُورَةُ الطُّورِ",
+				"englishName": "At-Tur",
+				"englishNameTranslation": "The Mount",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 49
+			},
+			"numberInSurah": 41,
+			"juz": 27,
+			"manzil": 7,
+			"page": 525,
+			"ruku": 459,
+			"hizbQuarter": 210,
+			"sajda": false,
+			"text": "أَمْ عِندَهُمُ الْغَيْبُ فَهُمْ يَكْتُبُونَ"
+		},
+		{
+			"number": 4777,
+			"surah": {
+				"number": 52,
+				"name": "سُورَةُ الطُّورِ",
+				"englishName": "At-Tur",
+				"englishNameTranslation": "The Mount",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 49
+			},
+			"numberInSurah": 42,
+			"juz": 27,
+			"manzil": 7,
+			"page": 525,
+			"ruku": 459,
+			"hizbQuarter": 210,
+			"sajda": false,
+			"text": "أَمْ يُرِيدُونَ كَيْدًا ۖ فَالَّذِينَ كَفَرُوا هُمُ الْمَكِيدُونَ"
+		},
+		{
+			"number": 4778,
+			"surah": {
+				"number": 52,
+				"name": "سُورَةُ الطُّورِ",
+				"englishName": "At-Tur",
+				"englishNameTranslation": "The Mount",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 49
+			},
+			"numberInSurah": 43,
+			"juz": 27,
+			"manzil": 7,
+			"page": 525,
+			"ruku": 459,
+			"hizbQuarter": 210,
+			"sajda": false,
+			"text": "أَمْ لَهُمْ إِلَٰهٌ غَيْرُ اللَّهِ ۚ سُبْحَانَ اللَّهِ عَمَّا يُشْرِكُونَ"
+		},
+		{
+			"number": 4779,
+			"surah": {
+				"number": 52,
+				"name": "سُورَةُ الطُّورِ",
+				"englishName": "At-Tur",
+				"englishNameTranslation": "The Mount",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 49
+			},
+			"numberInSurah": 44,
+			"juz": 27,
+			"manzil": 7,
+			"page": 525,
+			"ruku": 459,
+			"hizbQuarter": 210,
+			"sajda": false,
+			"text": "وَإِن يَرَوْا كِسْفًا مِّنَ السَّمَاءِ سَاقِطًا يَقُولُوا سَحَابٌ مَّرْكُومٌ"
+		},
+		{
+			"number": 4780,
+			"surah": {
+				"number": 52,
+				"name": "سُورَةُ الطُّورِ",
+				"englishName": "At-Tur",
+				"englishNameTranslation": "The Mount",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 49
+			},
+			"numberInSurah": 45,
+			"juz": 27,
+			"manzil": 7,
+			"page": 525,
+			"ruku": 459,
+			"hizbQuarter": 210,
+			"sajda": false,
+			"text": "فَذَرْهُمْ حَتَّىٰ يُلَاقُوا يَوْمَهُمُ الَّذِي فِيهِ يُصْعَقُونَ"
+		},
+		{
+			"number": 4781,
+			"surah": {
+				"number": 52,
+				"name": "سُورَةُ الطُّورِ",
+				"englishName": "At-Tur",
+				"englishNameTranslation": "The Mount",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 49
+			},
+			"numberInSurah": 46,
+			"juz": 27,
+			"manzil": 7,
+			"page": 525,
+			"ruku": 459,
+			"hizbQuarter": 210,
+			"sajda": false,
+			"text": "يَوْمَ لَا يُغْنِي عَنْهُمْ كَيْدُهُمْ شَيْئًا وَلَا هُمْ يُنصَرُونَ"
+		},
+		{
+			"number": 4782,
+			"surah": {
+				"number": 52,
+				"name": "سُورَةُ الطُّورِ",
+				"englishName": "At-Tur",
+				"englishNameTranslation": "The Mount",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 49
+			},
+			"numberInSurah": 47,
+			"juz": 27,
+			"manzil": 7,
+			"page": 525,
+			"ruku": 459,
+			"hizbQuarter": 210,
+			"sajda": false,
+			"text": "وَإِنَّ لِلَّذِينَ ظَلَمُوا عَذَابًا دُونَ ذَٰلِكَ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ"
+		},
+		{
+			"number": 4783,
+			"surah": {
+				"number": 52,
+				"name": "سُورَةُ الطُّورِ",
+				"englishName": "At-Tur",
+				"englishNameTranslation": "The Mount",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 49
+			},
+			"numberInSurah": 48,
+			"juz": 27,
+			"manzil": 7,
+			"page": 525,
+			"ruku": 459,
+			"hizbQuarter": 210,
+			"sajda": false,
+			"text": "وَاصْبِرْ لِحُكْمِ رَبِّكَ فَإِنَّكَ بِأَعْيُنِنَا ۖ وَسَبِّحْ بِحَمْدِ رَبِّكَ حِينَ تَقُومُ"
+		},
+		{
+			"number": 4784,
+			"surah": {
+				"number": 52,
+				"name": "سُورَةُ الطُّورِ",
+				"englishName": "At-Tur",
+				"englishNameTranslation": "The Mount",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 49
+			},
+			"numberInSurah": 49,
+			"juz": 27,
+			"manzil": 7,
+			"page": 525,
+			"ruku": 459,
+			"hizbQuarter": 210,
+			"sajda": false,
+			"text": "وَمِنَ اللَّيْلِ فَسَبِّحْهُ وَإِدْبَارَ النُّجُومِ"
+		},
+		{
+			"number": 4785,
+			"surah": {
+				"number": 53,
+				"name": "سُورَةُ النَّجۡمِ",
+				"englishName": "An-Najm",
+				"englishNameTranslation": "The Star",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 62
+			},
+			"numberInSurah": 1,
+			"juz": 27,
+			"manzil": 7,
+			"page": 526,
+			"ruku": 460,
+			"hizbQuarter": 210,
+			"sajda": false,
+			"text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ وَالنَّجْمِ إِذَا هَوَىٰ"
+		},
+		{
+			"number": 4786,
+			"surah": {
+				"number": 53,
+				"name": "سُورَةُ النَّجۡمِ",
+				"englishName": "An-Najm",
+				"englishNameTranslation": "The Star",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 62
+			},
+			"numberInSurah": 2,
+			"juz": 27,
+			"manzil": 7,
+			"page": 526,
+			"ruku": 460,
+			"hizbQuarter": 210,
+			"sajda": false,
+			"text": "مَا ضَلَّ صَاحِبُكُمْ وَمَا غَوَىٰ"
+		},
+		{
+			"number": 4787,
+			"surah": {
+				"number": 53,
+				"name": "سُورَةُ النَّجۡمِ",
+				"englishName": "An-Najm",
+				"englishNameTranslation": "The Star",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 62
+			},
+			"numberInSurah": 3,
+			"juz": 27,
+			"manzil": 7,
+			"page": 526,
+			"ruku": 460,
+			"hizbQuarter": 210,
+			"sajda": false,
+			"text": "وَمَا يَنطِقُ عَنِ الْهَوَىٰ"
+		},
+		{
+			"number": 4788,
+			"surah": {
+				"number": 53,
+				"name": "سُورَةُ النَّجۡمِ",
+				"englishName": "An-Najm",
+				"englishNameTranslation": "The Star",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 62
+			},
+			"numberInSurah": 4,
+			"juz": 27,
+			"manzil": 7,
+			"page": 526,
+			"ruku": 460,
+			"hizbQuarter": 210,
+			"sajda": false,
+			"text": "إِنْ هُوَ إِلَّا وَحْيٌ يُوحَىٰ"
+		},
+		{
+			"number": 4789,
+			"surah": {
+				"number": 53,
+				"name": "سُورَةُ النَّجۡمِ",
+				"englishName": "An-Najm",
+				"englishNameTranslation": "The Star",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 62
+			},
+			"numberInSurah": 5,
+			"juz": 27,
+			"manzil": 7,
+			"page": 526,
+			"ruku": 460,
+			"hizbQuarter": 210,
+			"sajda": false,
+			"text": "عَلَّمَهُ شَدِيدُ الْقُوَىٰ"
+		},
+		{
+			"number": 4790,
+			"surah": {
+				"number": 53,
+				"name": "سُورَةُ النَّجۡمِ",
+				"englishName": "An-Najm",
+				"englishNameTranslation": "The Star",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 62
+			},
+			"numberInSurah": 6,
+			"juz": 27,
+			"manzil": 7,
+			"page": 526,
+			"ruku": 460,
+			"hizbQuarter": 210,
+			"sajda": false,
+			"text": "ذُو مِرَّةٍ فَاسْتَوَىٰ"
+		},
+		{
+			"number": 4791,
+			"surah": {
+				"number": 53,
+				"name": "سُورَةُ النَّجۡمِ",
+				"englishName": "An-Najm",
+				"englishNameTranslation": "The Star",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 62
+			},
+			"numberInSurah": 7,
+			"juz": 27,
+			"manzil": 7,
+			"page": 526,
+			"ruku": 460,
+			"hizbQuarter": 210,
+			"sajda": false,
+			"text": "وَهُوَ بِالْأُفُقِ الْأَعْلَىٰ"
+		},
+		{
+			"number": 4792,
+			"surah": {
+				"number": 53,
+				"name": "سُورَةُ النَّجۡمِ",
+				"englishName": "An-Najm",
+				"englishNameTranslation": "The Star",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 62
+			},
+			"numberInSurah": 8,
+			"juz": 27,
+			"manzil": 7,
+			"page": 526,
+			"ruku": 460,
+			"hizbQuarter": 210,
+			"sajda": false,
+			"text": "ثُمَّ دَنَا فَتَدَلَّىٰ"
+		},
+		{
+			"number": 4793,
+			"surah": {
+				"number": 53,
+				"name": "سُورَةُ النَّجۡمِ",
+				"englishName": "An-Najm",
+				"englishNameTranslation": "The Star",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 62
+			},
+			"numberInSurah": 9,
+			"juz": 27,
+			"manzil": 7,
+			"page": 526,
+			"ruku": 460,
+			"hizbQuarter": 210,
+			"sajda": false,
+			"text": "فَكَانَ قَابَ قَوْسَيْنِ أَوْ أَدْنَىٰ"
+		},
+		{
+			"number": 4794,
+			"surah": {
+				"number": 53,
+				"name": "سُورَةُ النَّجۡمِ",
+				"englishName": "An-Najm",
+				"englishNameTranslation": "The Star",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 62
+			},
+			"numberInSurah": 10,
+			"juz": 27,
+			"manzil": 7,
+			"page": 526,
+			"ruku": 460,
+			"hizbQuarter": 210,
+			"sajda": false,
+			"text": "فَأَوْحَىٰ إِلَىٰ عَبْدِهِ مَا أَوْحَىٰ"
+		},
+		{
+			"number": 4795,
+			"surah": {
+				"number": 53,
+				"name": "سُورَةُ النَّجۡمِ",
+				"englishName": "An-Najm",
+				"englishNameTranslation": "The Star",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 62
+			},
+			"numberInSurah": 11,
+			"juz": 27,
+			"manzil": 7,
+			"page": 526,
+			"ruku": 460,
+			"hizbQuarter": 210,
+			"sajda": false,
+			"text": "مَا كَذَبَ الْفُؤَادُ مَا رَأَىٰ"
+		},
+		{
+			"number": 4796,
+			"surah": {
+				"number": 53,
+				"name": "سُورَةُ النَّجۡمِ",
+				"englishName": "An-Najm",
+				"englishNameTranslation": "The Star",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 62
+			},
+			"numberInSurah": 12,
+			"juz": 27,
+			"manzil": 7,
+			"page": 526,
+			"ruku": 460,
+			"hizbQuarter": 210,
+			"sajda": false,
+			"text": "أَفَتُمَارُونَهُ عَلَىٰ مَا يَرَىٰ"
+		},
+		{
+			"number": 4797,
+			"surah": {
+				"number": 53,
+				"name": "سُورَةُ النَّجۡمِ",
+				"englishName": "An-Najm",
+				"englishNameTranslation": "The Star",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 62
+			},
+			"numberInSurah": 13,
+			"juz": 27,
+			"manzil": 7,
+			"page": 526,
+			"ruku": 460,
+			"hizbQuarter": 210,
+			"sajda": false,
+			"text": "وَلَقَدْ رَآهُ نَزْلَةً أُخْرَىٰ"
+		},
+		{
+			"number": 4798,
+			"surah": {
+				"number": 53,
+				"name": "سُورَةُ النَّجۡمِ",
+				"englishName": "An-Najm",
+				"englishNameTranslation": "The Star",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 62
+			},
+			"numberInSurah": 14,
+			"juz": 27,
+			"manzil": 7,
+			"page": 526,
+			"ruku": 460,
+			"hizbQuarter": 210,
+			"sajda": false,
+			"text": "عِندَ سِدْرَةِ الْمُنتَهَىٰ"
+		},
+		{
+			"number": 4799,
+			"surah": {
+				"number": 53,
+				"name": "سُورَةُ النَّجۡمِ",
+				"englishName": "An-Najm",
+				"englishNameTranslation": "The Star",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 62
+			},
+			"numberInSurah": 15,
+			"juz": 27,
+			"manzil": 7,
+			"page": 526,
+			"ruku": 460,
+			"hizbQuarter": 210,
+			"sajda": false,
+			"text": "عِندَهَا جَنَّةُ الْمَأْوَىٰ"
+		},
+		{
+			"number": 4800,
+			"surah": {
+				"number": 53,
+				"name": "سُورَةُ النَّجۡمِ",
+				"englishName": "An-Najm",
+				"englishNameTranslation": "The Star",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 62
+			},
+			"numberInSurah": 16,
+			"juz": 27,
+			"manzil": 7,
+			"page": 526,
+			"ruku": 460,
+			"hizbQuarter": 210,
+			"sajda": false,
+			"text": "إِذْ يَغْشَى السِّدْرَةَ مَا يَغْشَىٰ"
+		},
+		{
+			"number": 4801,
+			"surah": {
+				"number": 53,
+				"name": "سُورَةُ النَّجۡمِ",
+				"englishName": "An-Najm",
+				"englishNameTranslation": "The Star",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 62
+			},
+			"numberInSurah": 17,
+			"juz": 27,
+			"manzil": 7,
+			"page": 526,
+			"ruku": 460,
+			"hizbQuarter": 210,
+			"sajda": false,
+			"text": "مَا زَاغَ الْبَصَرُ وَمَا طَغَىٰ"
+		},
+		{
+			"number": 4802,
+			"surah": {
+				"number": 53,
+				"name": "سُورَةُ النَّجۡمِ",
+				"englishName": "An-Najm",
+				"englishNameTranslation": "The Star",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 62
+			},
+			"numberInSurah": 18,
+			"juz": 27,
+			"manzil": 7,
+			"page": 526,
+			"ruku": 460,
+			"hizbQuarter": 210,
+			"sajda": false,
+			"text": "لَقَدْ رَأَىٰ مِنْ آيَاتِ رَبِّهِ الْكُبْرَىٰ"
+		},
+		{
+			"number": 4803,
+			"surah": {
+				"number": 53,
+				"name": "سُورَةُ النَّجۡمِ",
+				"englishName": "An-Najm",
+				"englishNameTranslation": "The Star",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 62
+			},
+			"numberInSurah": 19,
+			"juz": 27,
+			"manzil": 7,
+			"page": 526,
+			"ruku": 460,
+			"hizbQuarter": 210,
+			"sajda": false,
+			"text": "أَفَرَأَيْتُمُ اللَّاتَ وَالْعُزَّىٰ"
+		},
+		{
+			"number": 4804,
+			"surah": {
+				"number": 53,
+				"name": "سُورَةُ النَّجۡمِ",
+				"englishName": "An-Najm",
+				"englishNameTranslation": "The Star",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 62
+			},
+			"numberInSurah": 20,
+			"juz": 27,
+			"manzil": 7,
+			"page": 526,
+			"ruku": 460,
+			"hizbQuarter": 210,
+			"sajda": false,
+			"text": "وَمَنَاةَ الثَّالِثَةَ الْأُخْرَىٰ"
+		},
+		{
+			"number": 4805,
+			"surah": {
+				"number": 53,
+				"name": "سُورَةُ النَّجۡمِ",
+				"englishName": "An-Najm",
+				"englishNameTranslation": "The Star",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 62
+			},
+			"numberInSurah": 21,
+			"juz": 27,
+			"manzil": 7,
+			"page": 526,
+			"ruku": 460,
+			"hizbQuarter": 210,
+			"sajda": false,
+			"text": "أَلَكُمُ الذَّكَرُ وَلَهُ الْأُنثَىٰ"
+		},
+		{
+			"number": 4806,
+			"surah": {
+				"number": 53,
+				"name": "سُورَةُ النَّجۡمِ",
+				"englishName": "An-Najm",
+				"englishNameTranslation": "The Star",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 62
+			},
+			"numberInSurah": 22,
+			"juz": 27,
+			"manzil": 7,
+			"page": 526,
+			"ruku": 460,
+			"hizbQuarter": 210,
+			"sajda": false,
+			"text": "تِلْكَ إِذًا قِسْمَةٌ ضِيزَىٰ"
+		},
+		{
+			"number": 4807,
+			"surah": {
+				"number": 53,
+				"name": "سُورَةُ النَّجۡمِ",
+				"englishName": "An-Najm",
+				"englishNameTranslation": "The Star",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 62
+			},
+			"numberInSurah": 23,
+			"juz": 27,
+			"manzil": 7,
+			"page": 526,
+			"ruku": 460,
+			"hizbQuarter": 210,
+			"sajda": false,
+			"text": "إِنْ هِيَ إِلَّا أَسْمَاءٌ سَمَّيْتُمُوهَا أَنتُمْ وَآبَاؤُكُم مَّا أَنزَلَ اللَّهُ بِهَا مِن سُلْطَانٍ ۚ إِن يَتَّبِعُونَ إِلَّا الظَّنَّ وَمَا تَهْوَى الْأَنفُسُ ۖ وَلَقَدْ جَاءَهُم مِّن رَّبِّهِمُ الْهُدَىٰ"
+		},
+		{
+			"number": 4808,
+			"surah": {
+				"number": 53,
+				"name": "سُورَةُ النَّجۡمِ",
+				"englishName": "An-Najm",
+				"englishNameTranslation": "The Star",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 62
+			},
+			"numberInSurah": 24,
+			"juz": 27,
+			"manzil": 7,
+			"page": 526,
+			"ruku": 460,
+			"hizbQuarter": 210,
+			"sajda": false,
+			"text": "أَمْ لِلْإِنسَانِ مَا تَمَنَّىٰ"
+		},
+		{
+			"number": 4809,
+			"surah": {
+				"number": 53,
+				"name": "سُورَةُ النَّجۡمِ",
+				"englishName": "An-Najm",
+				"englishNameTranslation": "The Star",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 62
+			},
+			"numberInSurah": 25,
+			"juz": 27,
+			"manzil": 7,
+			"page": 526,
+			"ruku": 460,
+			"hizbQuarter": 210,
+			"sajda": false,
+			"text": "فَلِلَّهِ الْآخِرَةُ وَالْأُولَىٰ"
+		}
+	],
+	"surahs": {
+		"52": {
+			"number": 52,
+			"name": "سُورَةُ الطُّورِ",
+			"englishName": "At-Tur",
+			"englishNameTranslation": "The Mount",
+			"revelationType": "Meccan",
+			"numberOfAyahs": 49
+		},
+		"53": {
+			"number": 53,
+			"name": "سُورَةُ النَّجۡمِ",
+			"englishName": "An-Najm",
+			"englishNameTranslation": "The Star",
+			"revelationType": "Meccan",
+			"numberOfAyahs": 62
+		}
+	},
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

@@ -1,0 +1,85 @@
+﻿{
+	"number": 114,
+	"name": "سُورَةُ النَّاسِ",
+	"englishName": "An-Naas",
+	"englishNameTranslation": "Mankind",
+	"revelationType": "Meccan",
+	"numberOfAyahs": 6,
+	"ayahs": [
+		{
+			"number": 6231,
+			"text": "قل -أيها الرسول-: أعوذ وأعتصم برب الناس، القادر وحده على ردِّ شر الوسواس.",
+			"numberInSurah": 1,
+			"juz": 30,
+			"manzil": 7,
+			"page": 604,
+			"ruku": 556,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6232,
+			"text": "ملك الناس المتصرف في كل شؤونهم، الغنيِّ عنهم.",
+			"numberInSurah": 2,
+			"juz": 30,
+			"manzil": 7,
+			"page": 604,
+			"ruku": 556,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6233,
+			"text": "إله الناس الذي لا معبود بحق سواه.",
+			"numberInSurah": 3,
+			"juz": 30,
+			"manzil": 7,
+			"page": 604,
+			"ruku": 556,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6234,
+			"text": "من أذى الشيطان الذي يوسوس عند الغفلة، ويختفي عند ذكر الله.",
+			"numberInSurah": 4,
+			"juz": 30,
+			"manzil": 7,
+			"page": 604,
+			"ruku": 556,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6235,
+			"text": "الذي يبثُّ الشر والشكوك في صدور الناس.",
+			"numberInSurah": 5,
+			"juz": 30,
+			"manzil": 7,
+			"page": 604,
+			"ruku": 556,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6236,
+			"text": "من شياطين الجن والإنس.",
+			"numberInSurah": 6,
+			"juz": 30,
+			"manzil": 7,
+			"page": 604,
+			"ruku": 556,
+			"hizbQuarter": 240,
+			"sajda": false
+		}
+	],
+	"edition": {
+		"identifier": "ar.muyassar",
+		"language": "ar",
+		"name": "تفسير المیسر",
+		"englishName": "King Fahad Quran Complex",
+		"format": "text",
+		"type": "tafsir",
+		"direction": "rtl"
+	}
+}

@@ -1,0 +1,1666 @@
+﻿{
+	"number": 233,
+	"ayahs": [
+		{
+			"number": 5673,
+			"text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ عَمَّ يَتَسَاءَلُونَ",
+			"surah": {
+				"number": 78,
+				"name": "سُورَةُ النَّبَإِ",
+				"englishName": "An-Naba",
+				"englishNameTranslation": "The Announcement",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 1,
+			"juz": 30,
+			"manzil": 7,
+			"page": 582,
+			"ruku": 518,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5674,
+			"text": "عَنِ النَّبَإِ الْعَظِيمِ",
+			"surah": {
+				"number": 78,
+				"name": "سُورَةُ النَّبَإِ",
+				"englishName": "An-Naba",
+				"englishNameTranslation": "The Announcement",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 2,
+			"juz": 30,
+			"manzil": 7,
+			"page": 582,
+			"ruku": 518,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5675,
+			"text": "الَّذِي هُمْ فِيهِ مُخْتَلِفُونَ",
+			"surah": {
+				"number": 78,
+				"name": "سُورَةُ النَّبَإِ",
+				"englishName": "An-Naba",
+				"englishNameTranslation": "The Announcement",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 3,
+			"juz": 30,
+			"manzil": 7,
+			"page": 582,
+			"ruku": 518,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5676,
+			"text": "كَلَّا سَيَعْلَمُونَ",
+			"surah": {
+				"number": 78,
+				"name": "سُورَةُ النَّبَإِ",
+				"englishName": "An-Naba",
+				"englishNameTranslation": "The Announcement",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 4,
+			"juz": 30,
+			"manzil": 7,
+			"page": 582,
+			"ruku": 518,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5677,
+			"text": "ثُمَّ كَلَّا سَيَعْلَمُونَ",
+			"surah": {
+				"number": 78,
+				"name": "سُورَةُ النَّبَإِ",
+				"englishName": "An-Naba",
+				"englishNameTranslation": "The Announcement",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 5,
+			"juz": 30,
+			"manzil": 7,
+			"page": 582,
+			"ruku": 518,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5678,
+			"text": "أَلَمْ نَجْعَلِ الْأَرْضَ مِهَادًا",
+			"surah": {
+				"number": 78,
+				"name": "سُورَةُ النَّبَإِ",
+				"englishName": "An-Naba",
+				"englishNameTranslation": "The Announcement",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 6,
+			"juz": 30,
+			"manzil": 7,
+			"page": 582,
+			"ruku": 518,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5679,
+			"text": "وَالْجِبَالَ أَوْتَادًا",
+			"surah": {
+				"number": 78,
+				"name": "سُورَةُ النَّبَإِ",
+				"englishName": "An-Naba",
+				"englishNameTranslation": "The Announcement",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 7,
+			"juz": 30,
+			"manzil": 7,
+			"page": 582,
+			"ruku": 518,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5680,
+			"text": "وَخَلَقْنَاكُمْ أَزْوَاجًا",
+			"surah": {
+				"number": 78,
+				"name": "سُورَةُ النَّبَإِ",
+				"englishName": "An-Naba",
+				"englishNameTranslation": "The Announcement",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 8,
+			"juz": 30,
+			"manzil": 7,
+			"page": 582,
+			"ruku": 518,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5681,
+			"text": "وَجَعَلْنَا نَوْمَكُمْ سُبَاتًا",
+			"surah": {
+				"number": 78,
+				"name": "سُورَةُ النَّبَإِ",
+				"englishName": "An-Naba",
+				"englishNameTranslation": "The Announcement",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 9,
+			"juz": 30,
+			"manzil": 7,
+			"page": 582,
+			"ruku": 518,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5682,
+			"text": "وَجَعَلْنَا اللَّيْلَ لِبَاسًا",
+			"surah": {
+				"number": 78,
+				"name": "سُورَةُ النَّبَإِ",
+				"englishName": "An-Naba",
+				"englishNameTranslation": "The Announcement",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 10,
+			"juz": 30,
+			"manzil": 7,
+			"page": 582,
+			"ruku": 518,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5683,
+			"text": "وَجَعَلْنَا النَّهَارَ مَعَاشًا",
+			"surah": {
+				"number": 78,
+				"name": "سُورَةُ النَّبَإِ",
+				"englishName": "An-Naba",
+				"englishNameTranslation": "The Announcement",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 11,
+			"juz": 30,
+			"manzil": 7,
+			"page": 582,
+			"ruku": 518,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5684,
+			"text": "وَبَنَيْنَا فَوْقَكُمْ سَبْعًا شِدَادًا",
+			"surah": {
+				"number": 78,
+				"name": "سُورَةُ النَّبَإِ",
+				"englishName": "An-Naba",
+				"englishNameTranslation": "The Announcement",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 12,
+			"juz": 30,
+			"manzil": 7,
+			"page": 582,
+			"ruku": 518,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5685,
+			"text": "وَجَعَلْنَا سِرَاجًا وَهَّاجًا",
+			"surah": {
+				"number": 78,
+				"name": "سُورَةُ النَّبَإِ",
+				"englishName": "An-Naba",
+				"englishNameTranslation": "The Announcement",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 13,
+			"juz": 30,
+			"manzil": 7,
+			"page": 582,
+			"ruku": 518,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5686,
+			"text": "وَأَنْزَلْنَا مِنَ الْمُعْصِرَاتِ مَاءً ثَجَّاجًا",
+			"surah": {
+				"number": 78,
+				"name": "سُورَةُ النَّبَإِ",
+				"englishName": "An-Naba",
+				"englishNameTranslation": "The Announcement",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 14,
+			"juz": 30,
+			"manzil": 7,
+			"page": 582,
+			"ruku": 518,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5687,
+			"text": "لِنُخْرِجَ بِهِ حَبًّا وَنَبَاتًا",
+			"surah": {
+				"number": 78,
+				"name": "سُورَةُ النَّبَإِ",
+				"englishName": "An-Naba",
+				"englishNameTranslation": "The Announcement",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 15,
+			"juz": 30,
+			"manzil": 7,
+			"page": 582,
+			"ruku": 518,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5688,
+			"text": "وَجَنَّاتٍ أَلْفَافًا",
+			"surah": {
+				"number": 78,
+				"name": "سُورَةُ النَّبَإِ",
+				"englishName": "An-Naba",
+				"englishNameTranslation": "The Announcement",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 16,
+			"juz": 30,
+			"manzil": 7,
+			"page": 582,
+			"ruku": 518,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5689,
+			"text": "إِنَّ يَوْمَ الْفَصْلِ كَانَ مِيقَاتًا",
+			"surah": {
+				"number": 78,
+				"name": "سُورَةُ النَّبَإِ",
+				"englishName": "An-Naba",
+				"englishNameTranslation": "The Announcement",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 17,
+			"juz": 30,
+			"manzil": 7,
+			"page": 582,
+			"ruku": 518,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5690,
+			"text": "يَوْمَ يُنْفَخُ فِي الصُّورِ فَتَأْتُونَ أَفْوَاجًا",
+			"surah": {
+				"number": 78,
+				"name": "سُورَةُ النَّبَإِ",
+				"englishName": "An-Naba",
+				"englishNameTranslation": "The Announcement",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 18,
+			"juz": 30,
+			"manzil": 7,
+			"page": 582,
+			"ruku": 518,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5691,
+			"text": "وَفُتِحَتِ السَّمَاءُ فَكَانَتْ أَبْوَابًا",
+			"surah": {
+				"number": 78,
+				"name": "سُورَةُ النَّبَإِ",
+				"englishName": "An-Naba",
+				"englishNameTranslation": "The Announcement",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 19,
+			"juz": 30,
+			"manzil": 7,
+			"page": 582,
+			"ruku": 518,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5692,
+			"text": "وَسُيِّرَتِ الْجِبَالُ فَكَانَتْ سَرَابًا",
+			"surah": {
+				"number": 78,
+				"name": "سُورَةُ النَّبَإِ",
+				"englishName": "An-Naba",
+				"englishNameTranslation": "The Announcement",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 20,
+			"juz": 30,
+			"manzil": 7,
+			"page": 582,
+			"ruku": 518,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5693,
+			"text": "إِنَّ جَهَنَّمَ كَانَتْ مِرْصَادًا",
+			"surah": {
+				"number": 78,
+				"name": "سُورَةُ النَّبَإِ",
+				"englishName": "An-Naba",
+				"englishNameTranslation": "The Announcement",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 21,
+			"juz": 30,
+			"manzil": 7,
+			"page": 582,
+			"ruku": 518,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5694,
+			"text": "لِلطَّاغِينَ مَآبًا",
+			"surah": {
+				"number": 78,
+				"name": "سُورَةُ النَّبَإِ",
+				"englishName": "An-Naba",
+				"englishNameTranslation": "The Announcement",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 22,
+			"juz": 30,
+			"manzil": 7,
+			"page": 582,
+			"ruku": 518,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5695,
+			"text": "لَابِثِينَ فِيهَا أَحْقَابًا",
+			"surah": {
+				"number": 78,
+				"name": "سُورَةُ النَّبَإِ",
+				"englishName": "An-Naba",
+				"englishNameTranslation": "The Announcement",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 23,
+			"juz": 30,
+			"manzil": 7,
+			"page": 582,
+			"ruku": 518,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5696,
+			"text": "لَا يَذُوقُونَ فِيهَا بَرْدًا وَلَا شَرَابًا",
+			"surah": {
+				"number": 78,
+				"name": "سُورَةُ النَّبَإِ",
+				"englishName": "An-Naba",
+				"englishNameTranslation": "The Announcement",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 24,
+			"juz": 30,
+			"manzil": 7,
+			"page": 582,
+			"ruku": 518,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5697,
+			"text": "إِلَّا حَمِيمًا وَغَسَّاقًا",
+			"surah": {
+				"number": 78,
+				"name": "سُورَةُ النَّبَإِ",
+				"englishName": "An-Naba",
+				"englishNameTranslation": "The Announcement",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 25,
+			"juz": 30,
+			"manzil": 7,
+			"page": 582,
+			"ruku": 518,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5698,
+			"text": "جَزَاءً وِفَاقًا",
+			"surah": {
+				"number": 78,
+				"name": "سُورَةُ النَّبَإِ",
+				"englishName": "An-Naba",
+				"englishNameTranslation": "The Announcement",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 26,
+			"juz": 30,
+			"manzil": 7,
+			"page": 582,
+			"ruku": 518,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5699,
+			"text": "إِنَّهُمْ كَانُوا لَا يَرْجُونَ حِسَابًا",
+			"surah": {
+				"number": 78,
+				"name": "سُورَةُ النَّبَإِ",
+				"englishName": "An-Naba",
+				"englishNameTranslation": "The Announcement",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 27,
+			"juz": 30,
+			"manzil": 7,
+			"page": 582,
+			"ruku": 518,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5700,
+			"text": "وَكَذَّبُوا بِآيَاتِنَا كِذَّابًا",
+			"surah": {
+				"number": 78,
+				"name": "سُورَةُ النَّبَإِ",
+				"englishName": "An-Naba",
+				"englishNameTranslation": "The Announcement",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 28,
+			"juz": 30,
+			"manzil": 7,
+			"page": 582,
+			"ruku": 518,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5701,
+			"text": "وَكُلَّ شَيْءٍ أَحْصَيْنَاهُ كِتَابًا",
+			"surah": {
+				"number": 78,
+				"name": "سُورَةُ النَّبَإِ",
+				"englishName": "An-Naba",
+				"englishNameTranslation": "The Announcement",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 29,
+			"juz": 30,
+			"manzil": 7,
+			"page": 582,
+			"ruku": 518,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5702,
+			"text": "فَذُوقُوا فَلَنْ نَزِيدَكُمْ إِلَّا عَذَابًا",
+			"surah": {
+				"number": 78,
+				"name": "سُورَةُ النَّبَإِ",
+				"englishName": "An-Naba",
+				"englishNameTranslation": "The Announcement",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 30,
+			"juz": 30,
+			"manzil": 7,
+			"page": 582,
+			"ruku": 518,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5703,
+			"text": "إِنَّ لِلْمُتَّقِينَ مَفَازًا",
+			"surah": {
+				"number": 78,
+				"name": "سُورَةُ النَّبَإِ",
+				"englishName": "An-Naba",
+				"englishNameTranslation": "The Announcement",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 31,
+			"juz": 30,
+			"manzil": 7,
+			"page": 583,
+			"ruku": 519,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5704,
+			"text": "حَدَائِقَ وَأَعْنَابًا",
+			"surah": {
+				"number": 78,
+				"name": "سُورَةُ النَّبَإِ",
+				"englishName": "An-Naba",
+				"englishNameTranslation": "The Announcement",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 32,
+			"juz": 30,
+			"manzil": 7,
+			"page": 583,
+			"ruku": 519,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5705,
+			"text": "وَكَوَاعِبَ أَتْرَابًا",
+			"surah": {
+				"number": 78,
+				"name": "سُورَةُ النَّبَإِ",
+				"englishName": "An-Naba",
+				"englishNameTranslation": "The Announcement",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 33,
+			"juz": 30,
+			"manzil": 7,
+			"page": 583,
+			"ruku": 519,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5706,
+			"text": "وَكَأْسًا دِهَاقًا",
+			"surah": {
+				"number": 78,
+				"name": "سُورَةُ النَّبَإِ",
+				"englishName": "An-Naba",
+				"englishNameTranslation": "The Announcement",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 34,
+			"juz": 30,
+			"manzil": 7,
+			"page": 583,
+			"ruku": 519,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5707,
+			"text": "لَا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا كِذَّابًا",
+			"surah": {
+				"number": 78,
+				"name": "سُورَةُ النَّبَإِ",
+				"englishName": "An-Naba",
+				"englishNameTranslation": "The Announcement",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 35,
+			"juz": 30,
+			"manzil": 7,
+			"page": 583,
+			"ruku": 519,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5708,
+			"text": "جَزَاءً مِنْ رَبِّكَ عَطَاءً حِسَابًا",
+			"surah": {
+				"number": 78,
+				"name": "سُورَةُ النَّبَإِ",
+				"englishName": "An-Naba",
+				"englishNameTranslation": "The Announcement",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 36,
+			"juz": 30,
+			"manzil": 7,
+			"page": 583,
+			"ruku": 519,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5709,
+			"text": "رَبِّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا الرَّحْمَٰنِ ۖ لَا يَمْلِكُونَ مِنْهُ خِطَابًا",
+			"surah": {
+				"number": 78,
+				"name": "سُورَةُ النَّبَإِ",
+				"englishName": "An-Naba",
+				"englishNameTranslation": "The Announcement",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 37,
+			"juz": 30,
+			"manzil": 7,
+			"page": 583,
+			"ruku": 519,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5710,
+			"text": "يَوْمَ يَقُومُ الرُّوحُ وَالْمَلَائِكَةُ صَفًّا ۖ لَا يَتَكَلَّمُونَ إِلَّا مَنْ أَذِنَ لَهُ الرَّحْمَٰنُ وَقَالَ صَوَابًا",
+			"surah": {
+				"number": 78,
+				"name": "سُورَةُ النَّبَإِ",
+				"englishName": "An-Naba",
+				"englishNameTranslation": "The Announcement",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 38,
+			"juz": 30,
+			"manzil": 7,
+			"page": 583,
+			"ruku": 519,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5711,
+			"text": "ذَٰلِكَ الْيَوْمُ الْحَقُّ ۖ فَمَنْ شَاءَ اتَّخَذَ إِلَىٰ رَبِّهِ مَآبًا",
+			"surah": {
+				"number": 78,
+				"name": "سُورَةُ النَّبَإِ",
+				"englishName": "An-Naba",
+				"englishNameTranslation": "The Announcement",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 39,
+			"juz": 30,
+			"manzil": 7,
+			"page": 583,
+			"ruku": 519,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5712,
+			"text": "إِنَّا أَنْذَرْنَاكُمْ عَذَابًا قَرِيبًا يَوْمَ يَنْظُرُ الْمَرْءُ مَا قَدَّمَتْ يَدَاهُ وَيَقُولُ الْكَافِرُ يَا لَيْتَنِي كُنْتُ تُرَابًا",
+			"surah": {
+				"number": 78,
+				"name": "سُورَةُ النَّبَإِ",
+				"englishName": "An-Naba",
+				"englishNameTranslation": "The Announcement",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 40
+			},
+			"numberInSurah": 40,
+			"juz": 30,
+			"manzil": 7,
+			"page": 583,
+			"ruku": 519,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5713,
+			"text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ وَالنَّازِعَاتِ غَرْقًا",
+			"surah": {
+				"number": 79,
+				"name": "سُورَةُ النَّازِعَاتِ",
+				"englishName": "An-Naazi'aat",
+				"englishNameTranslation": "Those who drag forth",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 46
+			},
+			"numberInSurah": 1,
+			"juz": 30,
+			"manzil": 7,
+			"page": 583,
+			"ruku": 520,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5714,
+			"text": "وَالنَّاشِطَاتِ نَشْطًا",
+			"surah": {
+				"number": 79,
+				"name": "سُورَةُ النَّازِعَاتِ",
+				"englishName": "An-Naazi'aat",
+				"englishNameTranslation": "Those who drag forth",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 46
+			},
+			"numberInSurah": 2,
+			"juz": 30,
+			"manzil": 7,
+			"page": 583,
+			"ruku": 520,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5715,
+			"text": "وَالسَّابِحَاتِ سَبْحًا",
+			"surah": {
+				"number": 79,
+				"name": "سُورَةُ النَّازِعَاتِ",
+				"englishName": "An-Naazi'aat",
+				"englishNameTranslation": "Those who drag forth",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 46
+			},
+			"numberInSurah": 3,
+			"juz": 30,
+			"manzil": 7,
+			"page": 583,
+			"ruku": 520,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5716,
+			"text": "فَالسَّابِقَاتِ سَبْقًا",
+			"surah": {
+				"number": 79,
+				"name": "سُورَةُ النَّازِعَاتِ",
+				"englishName": "An-Naazi'aat",
+				"englishNameTranslation": "Those who drag forth",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 46
+			},
+			"numberInSurah": 4,
+			"juz": 30,
+			"manzil": 7,
+			"page": 583,
+			"ruku": 520,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5717,
+			"text": "فَالْمُدَبِّرَاتِ أَمْرًا",
+			"surah": {
+				"number": 79,
+				"name": "سُورَةُ النَّازِعَاتِ",
+				"englishName": "An-Naazi'aat",
+				"englishNameTranslation": "Those who drag forth",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 46
+			},
+			"numberInSurah": 5,
+			"juz": 30,
+			"manzil": 7,
+			"page": 583,
+			"ruku": 520,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5718,
+			"text": "يَوْمَ تَرْجُفُ الرَّاجِفَةُ",
+			"surah": {
+				"number": 79,
+				"name": "سُورَةُ النَّازِعَاتِ",
+				"englishName": "An-Naazi'aat",
+				"englishNameTranslation": "Those who drag forth",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 46
+			},
+			"numberInSurah": 6,
+			"juz": 30,
+			"manzil": 7,
+			"page": 583,
+			"ruku": 520,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5719,
+			"text": "تَتْبَعُهَا الرَّادِفَةُ",
+			"surah": {
+				"number": 79,
+				"name": "سُورَةُ النَّازِعَاتِ",
+				"englishName": "An-Naazi'aat",
+				"englishNameTranslation": "Those who drag forth",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 46
+			},
+			"numberInSurah": 7,
+			"juz": 30,
+			"manzil": 7,
+			"page": 583,
+			"ruku": 520,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5720,
+			"text": "قُلُوبٌ يَوْمَئِذٍ وَاجِفَةٌ",
+			"surah": {
+				"number": 79,
+				"name": "سُورَةُ النَّازِعَاتِ",
+				"englishName": "An-Naazi'aat",
+				"englishNameTranslation": "Those who drag forth",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 46
+			},
+			"numberInSurah": 8,
+			"juz": 30,
+			"manzil": 7,
+			"page": 583,
+			"ruku": 520,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5721,
+			"text": "أَبْصَارُهَا خَاشِعَةٌ",
+			"surah": {
+				"number": 79,
+				"name": "سُورَةُ النَّازِعَاتِ",
+				"englishName": "An-Naazi'aat",
+				"englishNameTranslation": "Those who drag forth",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 46
+			},
+			"numberInSurah": 9,
+			"juz": 30,
+			"manzil": 7,
+			"page": 583,
+			"ruku": 520,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5722,
+			"text": "يَقُولُونَ أَإِنَّا لَمَرْدُودُونَ فِي الْحَافِرَةِ",
+			"surah": {
+				"number": 79,
+				"name": "سُورَةُ النَّازِعَاتِ",
+				"englishName": "An-Naazi'aat",
+				"englishNameTranslation": "Those who drag forth",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 46
+			},
+			"numberInSurah": 10,
+			"juz": 30,
+			"manzil": 7,
+			"page": 583,
+			"ruku": 520,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5723,
+			"text": "أَإِذَا كُنَّا عِظَامًا نَخِرَةً",
+			"surah": {
+				"number": 79,
+				"name": "سُورَةُ النَّازِعَاتِ",
+				"englishName": "An-Naazi'aat",
+				"englishNameTranslation": "Those who drag forth",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 46
+			},
+			"numberInSurah": 11,
+			"juz": 30,
+			"manzil": 7,
+			"page": 583,
+			"ruku": 520,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5724,
+			"text": "قَالُوا تِلْكَ إِذًا كَرَّةٌ خَاسِرَةٌ",
+			"surah": {
+				"number": 79,
+				"name": "سُورَةُ النَّازِعَاتِ",
+				"englishName": "An-Naazi'aat",
+				"englishNameTranslation": "Those who drag forth",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 46
+			},
+			"numberInSurah": 12,
+			"juz": 30,
+			"manzil": 7,
+			"page": 583,
+			"ruku": 520,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5725,
+			"text": "فَإِنَّمَا هِيَ زَجْرَةٌ وَاحِدَةٌ",
+			"surah": {
+				"number": 79,
+				"name": "سُورَةُ النَّازِعَاتِ",
+				"englishName": "An-Naazi'aat",
+				"englishNameTranslation": "Those who drag forth",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 46
+			},
+			"numberInSurah": 13,
+			"juz": 30,
+			"manzil": 7,
+			"page": 583,
+			"ruku": 520,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5726,
+			"text": "فَإِذَا هُمْ بِالسَّاهِرَةِ",
+			"surah": {
+				"number": 79,
+				"name": "سُورَةُ النَّازِعَاتِ",
+				"englishName": "An-Naazi'aat",
+				"englishNameTranslation": "Those who drag forth",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 46
+			},
+			"numberInSurah": 14,
+			"juz": 30,
+			"manzil": 7,
+			"page": 583,
+			"ruku": 520,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5727,
+			"text": "هَلْ أَتَاكَ حَدِيثُ مُوسَىٰ",
+			"surah": {
+				"number": 79,
+				"name": "سُورَةُ النَّازِعَاتِ",
+				"englishName": "An-Naazi'aat",
+				"englishNameTranslation": "Those who drag forth",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 46
+			},
+			"numberInSurah": 15,
+			"juz": 30,
+			"manzil": 7,
+			"page": 583,
+			"ruku": 520,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5728,
+			"text": "إِذْ نَادَاهُ رَبُّهُ بِالْوَادِ الْمُقَدَّسِ طُوًى",
+			"surah": {
+				"number": 79,
+				"name": "سُورَةُ النَّازِعَاتِ",
+				"englishName": "An-Naazi'aat",
+				"englishNameTranslation": "Those who drag forth",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 46
+			},
+			"numberInSurah": 16,
+			"juz": 30,
+			"manzil": 7,
+			"page": 584,
+			"ruku": 520,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5729,
+			"text": "اذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُ طَغَىٰ",
+			"surah": {
+				"number": 79,
+				"name": "سُورَةُ النَّازِعَاتِ",
+				"englishName": "An-Naazi'aat",
+				"englishNameTranslation": "Those who drag forth",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 46
+			},
+			"numberInSurah": 17,
+			"juz": 30,
+			"manzil": 7,
+			"page": 584,
+			"ruku": 520,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5730,
+			"text": "فَقُلْ هَلْ لَكَ إِلَىٰ أَنْ تَزَكَّىٰ",
+			"surah": {
+				"number": 79,
+				"name": "سُورَةُ النَّازِعَاتِ",
+				"englishName": "An-Naazi'aat",
+				"englishNameTranslation": "Those who drag forth",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 46
+			},
+			"numberInSurah": 18,
+			"juz": 30,
+			"manzil": 7,
+			"page": 584,
+			"ruku": 520,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5731,
+			"text": "وَأَهْدِيَكَ إِلَىٰ رَبِّكَ فَتَخْشَىٰ",
+			"surah": {
+				"number": 79,
+				"name": "سُورَةُ النَّازِعَاتِ",
+				"englishName": "An-Naazi'aat",
+				"englishNameTranslation": "Those who drag forth",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 46
+			},
+			"numberInSurah": 19,
+			"juz": 30,
+			"manzil": 7,
+			"page": 584,
+			"ruku": 520,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5732,
+			"text": "فَأَرَاهُ الْآيَةَ الْكُبْرَىٰ",
+			"surah": {
+				"number": 79,
+				"name": "سُورَةُ النَّازِعَاتِ",
+				"englishName": "An-Naazi'aat",
+				"englishNameTranslation": "Those who drag forth",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 46
+			},
+			"numberInSurah": 20,
+			"juz": 30,
+			"manzil": 7,
+			"page": 584,
+			"ruku": 520,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5733,
+			"text": "فَكَذَّبَ وَعَصَىٰ",
+			"surah": {
+				"number": 79,
+				"name": "سُورَةُ النَّازِعَاتِ",
+				"englishName": "An-Naazi'aat",
+				"englishNameTranslation": "Those who drag forth",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 46
+			},
+			"numberInSurah": 21,
+			"juz": 30,
+			"manzil": 7,
+			"page": 584,
+			"ruku": 520,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5734,
+			"text": "ثُمَّ أَدْبَرَ يَسْعَىٰ",
+			"surah": {
+				"number": 79,
+				"name": "سُورَةُ النَّازِعَاتِ",
+				"englishName": "An-Naazi'aat",
+				"englishNameTranslation": "Those who drag forth",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 46
+			},
+			"numberInSurah": 22,
+			"juz": 30,
+			"manzil": 7,
+			"page": 584,
+			"ruku": 520,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5735,
+			"text": "فَحَشَرَ فَنَادَىٰ",
+			"surah": {
+				"number": 79,
+				"name": "سُورَةُ النَّازِعَاتِ",
+				"englishName": "An-Naazi'aat",
+				"englishNameTranslation": "Those who drag forth",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 46
+			},
+			"numberInSurah": 23,
+			"juz": 30,
+			"manzil": 7,
+			"page": 584,
+			"ruku": 520,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5736,
+			"text": "فَقَالَ أَنَا رَبُّكُمُ الْأَعْلَىٰ",
+			"surah": {
+				"number": 79,
+				"name": "سُورَةُ النَّازِعَاتِ",
+				"englishName": "An-Naazi'aat",
+				"englishNameTranslation": "Those who drag forth",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 46
+			},
+			"numberInSurah": 24,
+			"juz": 30,
+			"manzil": 7,
+			"page": 584,
+			"ruku": 520,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5737,
+			"text": "فَأَخَذَهُ اللَّهُ نَكَالَ الْآخِرَةِ وَالْأُولَىٰ",
+			"surah": {
+				"number": 79,
+				"name": "سُورَةُ النَّازِعَاتِ",
+				"englishName": "An-Naazi'aat",
+				"englishNameTranslation": "Those who drag forth",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 46
+			},
+			"numberInSurah": 25,
+			"juz": 30,
+			"manzil": 7,
+			"page": 584,
+			"ruku": 520,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5738,
+			"text": "إِنَّ فِي ذَٰلِكَ لَعِبْرَةً لِمَنْ يَخْشَىٰ",
+			"surah": {
+				"number": 79,
+				"name": "سُورَةُ النَّازِعَاتِ",
+				"englishName": "An-Naazi'aat",
+				"englishNameTranslation": "Those who drag forth",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 46
+			},
+			"numberInSurah": 26,
+			"juz": 30,
+			"manzil": 7,
+			"page": 584,
+			"ruku": 520,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5739,
+			"text": "أَأَنْتُمْ أَشَدُّ خَلْقًا أَمِ السَّمَاءُ ۚ بَنَاهَا",
+			"surah": {
+				"number": 79,
+				"name": "سُورَةُ النَّازِعَاتِ",
+				"englishName": "An-Naazi'aat",
+				"englishNameTranslation": "Those who drag forth",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 46
+			},
+			"numberInSurah": 27,
+			"juz": 30,
+			"manzil": 7,
+			"page": 584,
+			"ruku": 521,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5740,
+			"text": "رَفَعَ سَمْكَهَا فَسَوَّاهَا",
+			"surah": {
+				"number": 79,
+				"name": "سُورَةُ النَّازِعَاتِ",
+				"englishName": "An-Naazi'aat",
+				"englishNameTranslation": "Those who drag forth",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 46
+			},
+			"numberInSurah": 28,
+			"juz": 30,
+			"manzil": 7,
+			"page": 584,
+			"ruku": 521,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5741,
+			"text": "وَأَغْطَشَ لَيْلَهَا وَأَخْرَجَ ضُحَاهَا",
+			"surah": {
+				"number": 79,
+				"name": "سُورَةُ النَّازِعَاتِ",
+				"englishName": "An-Naazi'aat",
+				"englishNameTranslation": "Those who drag forth",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 46
+			},
+			"numberInSurah": 29,
+			"juz": 30,
+			"manzil": 7,
+			"page": 584,
+			"ruku": 521,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5742,
+			"text": "وَالْأَرْضَ بَعْدَ ذَٰلِكَ دَحَاهَا",
+			"surah": {
+				"number": 79,
+				"name": "سُورَةُ النَّازِعَاتِ",
+				"englishName": "An-Naazi'aat",
+				"englishNameTranslation": "Those who drag forth",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 46
+			},
+			"numberInSurah": 30,
+			"juz": 30,
+			"manzil": 7,
+			"page": 584,
+			"ruku": 521,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5743,
+			"text": "أَخْرَجَ مِنْهَا مَاءَهَا وَمَرْعَاهَا",
+			"surah": {
+				"number": 79,
+				"name": "سُورَةُ النَّازِعَاتِ",
+				"englishName": "An-Naazi'aat",
+				"englishNameTranslation": "Those who drag forth",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 46
+			},
+			"numberInSurah": 31,
+			"juz": 30,
+			"manzil": 7,
+			"page": 584,
+			"ruku": 521,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5744,
+			"text": "وَالْجِبَالَ أَرْسَاهَا",
+			"surah": {
+				"number": 79,
+				"name": "سُورَةُ النَّازِعَاتِ",
+				"englishName": "An-Naazi'aat",
+				"englishNameTranslation": "Those who drag forth",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 46
+			},
+			"numberInSurah": 32,
+			"juz": 30,
+			"manzil": 7,
+			"page": 584,
+			"ruku": 521,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5745,
+			"text": "مَتَاعًا لَكُمْ وَلِأَنْعَامِكُمْ",
+			"surah": {
+				"number": 79,
+				"name": "سُورَةُ النَّازِعَاتِ",
+				"englishName": "An-Naazi'aat",
+				"englishNameTranslation": "Those who drag forth",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 46
+			},
+			"numberInSurah": 33,
+			"juz": 30,
+			"manzil": 7,
+			"page": 584,
+			"ruku": 521,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5746,
+			"text": "فَإِذَا جَاءَتِ الطَّامَّةُ الْكُبْرَىٰ",
+			"surah": {
+				"number": 79,
+				"name": "سُورَةُ النَّازِعَاتِ",
+				"englishName": "An-Naazi'aat",
+				"englishNameTranslation": "Those who drag forth",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 46
+			},
+			"numberInSurah": 34,
+			"juz": 30,
+			"manzil": 7,
+			"page": 584,
+			"ruku": 521,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5747,
+			"text": "يَوْمَ يَتَذَكَّرُ الْإِنْسَانُ مَا سَعَىٰ",
+			"surah": {
+				"number": 79,
+				"name": "سُورَةُ النَّازِعَاتِ",
+				"englishName": "An-Naazi'aat",
+				"englishNameTranslation": "Those who drag forth",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 46
+			},
+			"numberInSurah": 35,
+			"juz": 30,
+			"manzil": 7,
+			"page": 584,
+			"ruku": 521,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5748,
+			"text": "وَبُرِّزَتِ الْجَحِيمُ لِمَنْ يَرَىٰ",
+			"surah": {
+				"number": 79,
+				"name": "سُورَةُ النَّازِعَاتِ",
+				"englishName": "An-Naazi'aat",
+				"englishNameTranslation": "Those who drag forth",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 46
+			},
+			"numberInSurah": 36,
+			"juz": 30,
+			"manzil": 7,
+			"page": 584,
+			"ruku": 521,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5749,
+			"text": "فَأَمَّا مَنْ طَغَىٰ",
+			"surah": {
+				"number": 79,
+				"name": "سُورَةُ النَّازِعَاتِ",
+				"englishName": "An-Naazi'aat",
+				"englishNameTranslation": "Those who drag forth",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 46
+			},
+			"numberInSurah": 37,
+			"juz": 30,
+			"manzil": 7,
+			"page": 584,
+			"ruku": 521,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5750,
+			"text": "وَآثَرَ الْحَيَاةَ الدُّنْيَا",
+			"surah": {
+				"number": 79,
+				"name": "سُورَةُ النَّازِعَاتِ",
+				"englishName": "An-Naazi'aat",
+				"englishNameTranslation": "Those who drag forth",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 46
+			},
+			"numberInSurah": 38,
+			"juz": 30,
+			"manzil": 7,
+			"page": 584,
+			"ruku": 521,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5751,
+			"text": "فَإِنَّ الْجَحِيمَ هِيَ الْمَأْوَىٰ",
+			"surah": {
+				"number": 79,
+				"name": "سُورَةُ النَّازِعَاتِ",
+				"englishName": "An-Naazi'aat",
+				"englishNameTranslation": "Those who drag forth",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 46
+			},
+			"numberInSurah": 39,
+			"juz": 30,
+			"manzil": 7,
+			"page": 584,
+			"ruku": 521,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5752,
+			"text": "وَأَمَّا مَنْ خَافَ مَقَامَ رَبِّهِ وَنَهَى النَّفْسَ عَنِ الْهَوَىٰ",
+			"surah": {
+				"number": 79,
+				"name": "سُورَةُ النَّازِعَاتِ",
+				"englishName": "An-Naazi'aat",
+				"englishNameTranslation": "Those who drag forth",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 46
+			},
+			"numberInSurah": 40,
+			"juz": 30,
+			"manzil": 7,
+			"page": 584,
+			"ruku": 521,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5753,
+			"text": "فَإِنَّ الْجَنَّةَ هِيَ الْمَأْوَىٰ",
+			"surah": {
+				"number": 79,
+				"name": "سُورَةُ النَّازِعَاتِ",
+				"englishName": "An-Naazi'aat",
+				"englishNameTranslation": "Those who drag forth",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 46
+			},
+			"numberInSurah": 41,
+			"juz": 30,
+			"manzil": 7,
+			"page": 584,
+			"ruku": 521,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5754,
+			"text": "يَسْأَلُونَكَ عَنِ السَّاعَةِ أَيَّانَ مُرْسَاهَا",
+			"surah": {
+				"number": 79,
+				"name": "سُورَةُ النَّازِعَاتِ",
+				"englishName": "An-Naazi'aat",
+				"englishNameTranslation": "Those who drag forth",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 46
+			},
+			"numberInSurah": 42,
+			"juz": 30,
+			"manzil": 7,
+			"page": 584,
+			"ruku": 521,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5755,
+			"text": "فِيمَ أَنْتَ مِنْ ذِكْرَاهَا",
+			"surah": {
+				"number": 79,
+				"name": "سُورَةُ النَّازِعَاتِ",
+				"englishName": "An-Naazi'aat",
+				"englishNameTranslation": "Those who drag forth",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 46
+			},
+			"numberInSurah": 43,
+			"juz": 30,
+			"manzil": 7,
+			"page": 584,
+			"ruku": 521,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5756,
+			"text": "إِلَىٰ رَبِّكَ مُنْتَهَاهَا",
+			"surah": {
+				"number": 79,
+				"name": "سُورَةُ النَّازِعَاتِ",
+				"englishName": "An-Naazi'aat",
+				"englishNameTranslation": "Those who drag forth",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 46
+			},
+			"numberInSurah": 44,
+			"juz": 30,
+			"manzil": 7,
+			"page": 584,
+			"ruku": 521,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5757,
+			"text": "إِنَّمَا أَنْتَ مُنْذِرُ مَنْ يَخْشَاهَا",
+			"surah": {
+				"number": 79,
+				"name": "سُورَةُ النَّازِعَاتِ",
+				"englishName": "An-Naazi'aat",
+				"englishNameTranslation": "Those who drag forth",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 46
+			},
+			"numberInSurah": 45,
+			"juz": 30,
+			"manzil": 7,
+			"page": 584,
+			"ruku": 521,
+			"hizbQuarter": 233,
+			"sajda": false
+		},
+		{
+			"number": 5758,
+			"text": "كَأَنَّهُمْ يَوْمَ يَرَوْنَهَا لَمْ يَلْبَثُوا إِلَّا عَشِيَّةً أَوْ ضُحَاهَا",
+			"surah": {
+				"number": 79,
+				"name": "سُورَةُ النَّازِعَاتِ",
+				"englishName": "An-Naazi'aat",
+				"englishNameTranslation": "Those who drag forth",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 46
+			},
+			"numberInSurah": 46,
+			"juz": 30,
+			"manzil": 7,
+			"page": 584,
+			"ruku": 521,
+			"hizbQuarter": 233,
+			"sajda": false
+		}
+	],
+	"surahs": {
+		"78": {
+			"number": 78,
+			"name": "سُورَةُ النَّبَإِ",
+			"englishName": "An-Naba",
+			"englishNameTranslation": "The Announcement",
+			"revelationType": "Meccan",
+			"numberOfAyahs": 40
+		},
+		"79": {
+			"number": 79,
+			"name": "سُورَةُ النَّازِعَاتِ",
+			"englishName": "An-Naazi'aat",
+			"englishNameTranslation": "Those who drag forth",
+			"revelationType": "Meccan",
+			"numberOfAyahs": 46
+		}
+	},
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

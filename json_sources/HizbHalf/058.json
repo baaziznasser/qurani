@@ -1,0 +1,936 @@
+﻿{
+	"number": 29.5,
+	"ayahs": [
+		{
+			"number": 2079,
+			"text": "۞ قُلْ كُونُوا حِجَارَةً أَوْ حَدِيدًا",
+			"surah": {
+				"number": 17,
+				"name": "سُورَةُ الإِسۡرَاءِ",
+				"englishName": "Al-Israa",
+				"englishNameTranslation": "The Night Journey",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 50,
+			"juz": 15,
+			"manzil": 4,
+			"page": 287,
+			"ruku": 244,
+			"hizbQuarter": 115,
+			"sajda": false
+		},
+		{
+			"number": 2080,
+			"text": "أَوْ خَلْقًا مِمَّا يَكْبُرُ فِي صُدُورِكُمْ ۚ فَسَيَقُولُونَ مَنْ يُعِيدُنَا ۖ قُلِ الَّذِي فَطَرَكُمْ أَوَّلَ مَرَّةٍ ۚ فَسَيُنْغِضُونَ إِلَيْكَ رُءُوسَهُمْ وَيَقُولُونَ مَتَىٰ هُوَ ۖ قُلْ عَسَىٰ أَنْ يَكُونَ قَرِيبًا",
+			"surah": {
+				"number": 17,
+				"name": "سُورَةُ الإِسۡرَاءِ",
+				"englishName": "Al-Israa",
+				"englishNameTranslation": "The Night Journey",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 51,
+			"juz": 15,
+			"manzil": 4,
+			"page": 287,
+			"ruku": 244,
+			"hizbQuarter": 115,
+			"sajda": false
+		},
+		{
+			"number": 2081,
+			"text": "يَوْمَ يَدْعُوكُمْ فَتَسْتَجِيبُونَ بِحَمْدِهِ وَتَظُنُّونَ إِنْ لَبِثْتُمْ إِلَّا قَلِيلًا",
+			"surah": {
+				"number": 17,
+				"name": "سُورَةُ الإِسۡرَاءِ",
+				"englishName": "Al-Israa",
+				"englishNameTranslation": "The Night Journey",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 52,
+			"juz": 15,
+			"manzil": 4,
+			"page": 287,
+			"ruku": 244,
+			"hizbQuarter": 115,
+			"sajda": false
+		},
+		{
+			"number": 2082,
+			"text": "وَقُلْ لِعِبَادِي يَقُولُوا الَّتِي هِيَ أَحْسَنُ ۚ إِنَّ الشَّيْطَانَ يَنْزَغُ بَيْنَهُمْ ۚ إِنَّ الشَّيْطَانَ كَانَ لِلْإِنْسَانِ عَدُوًّا مُبِينًا",
+			"surah": {
+				"number": 17,
+				"name": "سُورَةُ الإِسۡرَاءِ",
+				"englishName": "Al-Israa",
+				"englishNameTranslation": "The Night Journey",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 53,
+			"juz": 15,
+			"manzil": 4,
+			"page": 287,
+			"ruku": 245,
+			"hizbQuarter": 115,
+			"sajda": false
+		},
+		{
+			"number": 2083,
+			"text": "رَبُّكُمْ أَعْلَمُ بِكُمْ ۖ إِنْ يَشَأْ يَرْحَمْكُمْ أَوْ إِنْ يَشَأْ يُعَذِّبْكُمْ ۚ وَمَا أَرْسَلْنَاكَ عَلَيْهِمْ وَكِيلًا",
+			"surah": {
+				"number": 17,
+				"name": "سُورَةُ الإِسۡرَاءِ",
+				"englishName": "Al-Israa",
+				"englishNameTranslation": "The Night Journey",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 54,
+			"juz": 15,
+			"manzil": 4,
+			"page": 287,
+			"ruku": 245,
+			"hizbQuarter": 115,
+			"sajda": false
+		},
+		{
+			"number": 2084,
+			"text": "وَرَبُّكَ أَعْلَمُ بِمَنْ فِي السَّمَاوَاتِ وَالْأَرْضِ ۗ وَلَقَدْ فَضَّلْنَا بَعْضَ النَّبِيِّينَ عَلَىٰ بَعْضٍ ۖ وَآتَيْنَا دَاوُودَ زَبُورًا",
+			"surah": {
+				"number": 17,
+				"name": "سُورَةُ الإِسۡرَاءِ",
+				"englishName": "Al-Israa",
+				"englishNameTranslation": "The Night Journey",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 55,
+			"juz": 15,
+			"manzil": 4,
+			"page": 287,
+			"ruku": 245,
+			"hizbQuarter": 115,
+			"sajda": false
+		},
+		{
+			"number": 2085,
+			"text": "قُلِ ادْعُوا الَّذِينَ زَعَمْتُمْ مِنْ دُونِهِ فَلَا يَمْلِكُونَ كَشْفَ الضُّرِّ عَنْكُمْ وَلَا تَحْوِيلًا",
+			"surah": {
+				"number": 17,
+				"name": "سُورَةُ الإِسۡرَاءِ",
+				"englishName": "Al-Israa",
+				"englishNameTranslation": "The Night Journey",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 56,
+			"juz": 15,
+			"manzil": 4,
+			"page": 287,
+			"ruku": 245,
+			"hizbQuarter": 115,
+			"sajda": false
+		},
+		{
+			"number": 2086,
+			"text": "أُولَٰئِكَ الَّذِينَ يَدْعُونَ يَبْتَغُونَ إِلَىٰ رَبِّهِمُ الْوَسِيلَةَ أَيُّهُمْ أَقْرَبُ وَيَرْجُونَ رَحْمَتَهُ وَيَخَافُونَ عَذَابَهُ ۚ إِنَّ عَذَابَ رَبِّكَ كَانَ مَحْذُورًا",
+			"surah": {
+				"number": 17,
+				"name": "سُورَةُ الإِسۡرَاءِ",
+				"englishName": "Al-Israa",
+				"englishNameTranslation": "The Night Journey",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 57,
+			"juz": 15,
+			"manzil": 4,
+			"page": 287,
+			"ruku": 245,
+			"hizbQuarter": 115,
+			"sajda": false
+		},
+		{
+			"number": 2087,
+			"text": "وَإِنْ مِنْ قَرْيَةٍ إِلَّا نَحْنُ مُهْلِكُوهَا قَبْلَ يَوْمِ الْقِيَامَةِ أَوْ مُعَذِّبُوهَا عَذَابًا شَدِيدًا ۚ كَانَ ذَٰلِكَ فِي الْكِتَابِ مَسْطُورًا",
+			"surah": {
+				"number": 17,
+				"name": "سُورَةُ الإِسۡرَاءِ",
+				"englishName": "Al-Israa",
+				"englishNameTranslation": "The Night Journey",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 58,
+			"juz": 15,
+			"manzil": 4,
+			"page": 287,
+			"ruku": 245,
+			"hizbQuarter": 115,
+			"sajda": false
+		},
+		{
+			"number": 2088,
+			"text": "وَمَا مَنَعَنَا أَنْ نُرْسِلَ بِالْآيَاتِ إِلَّا أَنْ كَذَّبَ بِهَا الْأَوَّلُونَ ۚ وَآتَيْنَا ثَمُودَ النَّاقَةَ مُبْصِرَةً فَظَلَمُوا بِهَا ۚ وَمَا نُرْسِلُ بِالْآيَاتِ إِلَّا تَخْوِيفًا",
+			"surah": {
+				"number": 17,
+				"name": "سُورَةُ الإِسۡرَاءِ",
+				"englishName": "Al-Israa",
+				"englishNameTranslation": "The Night Journey",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 59,
+			"juz": 15,
+			"manzil": 4,
+			"page": 288,
+			"ruku": 245,
+			"hizbQuarter": 115,
+			"sajda": false
+		},
+		{
+			"number": 2089,
+			"text": "وَإِذْ قُلْنَا لَكَ إِنَّ رَبَّكَ أَحَاطَ بِالنَّاسِ ۚ وَمَا جَعَلْنَا الرُّؤْيَا الَّتِي أَرَيْنَاكَ إِلَّا فِتْنَةً لِلنَّاسِ وَالشَّجَرَةَ الْمَلْعُونَةَ فِي الْقُرْآنِ ۚ وَنُخَوِّفُهُمْ فَمَا يَزِيدُهُمْ إِلَّا طُغْيَانًا كَبِيرًا",
+			"surah": {
+				"number": 17,
+				"name": "سُورَةُ الإِسۡرَاءِ",
+				"englishName": "Al-Israa",
+				"englishNameTranslation": "The Night Journey",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 60,
+			"juz": 15,
+			"manzil": 4,
+			"page": 288,
+			"ruku": 245,
+			"hizbQuarter": 115,
+			"sajda": false
+		},
+		{
+			"number": 2090,
+			"text": "وَإِذْ قُلْنَا لِلْمَلَائِكَةِ اسْجُدُوا لِآدَمَ فَسَجَدُوا إِلَّا إِبْلِيسَ قَالَ أَأَسْجُدُ لِمَنْ خَلَقْتَ طِينًا",
+			"surah": {
+				"number": 17,
+				"name": "سُورَةُ الإِسۡرَاءِ",
+				"englishName": "Al-Israa",
+				"englishNameTranslation": "The Night Journey",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 61,
+			"juz": 15,
+			"manzil": 4,
+			"page": 288,
+			"ruku": 246,
+			"hizbQuarter": 115,
+			"sajda": false
+		},
+		{
+			"number": 2091,
+			"text": "قَالَ أَرَأَيْتَكَ هَٰذَا الَّذِي كَرَّمْتَ عَلَيَّ لَئِنْ أَخَّرْتَنِ إِلَىٰ يَوْمِ الْقِيَامَةِ لَأَحْتَنِكَنَّ ذُرِّيَّتَهُ إِلَّا قَلِيلًا",
+			"surah": {
+				"number": 17,
+				"name": "سُورَةُ الإِسۡرَاءِ",
+				"englishName": "Al-Israa",
+				"englishNameTranslation": "The Night Journey",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 62,
+			"juz": 15,
+			"manzil": 4,
+			"page": 288,
+			"ruku": 246,
+			"hizbQuarter": 115,
+			"sajda": false
+		},
+		{
+			"number": 2092,
+			"text": "قَالَ اذْهَبْ فَمَنْ تَبِعَكَ مِنْهُمْ فَإِنَّ جَهَنَّمَ جَزَاؤُكُمْ جَزَاءً مَوْفُورًا",
+			"surah": {
+				"number": 17,
+				"name": "سُورَةُ الإِسۡرَاءِ",
+				"englishName": "Al-Israa",
+				"englishNameTranslation": "The Night Journey",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 63,
+			"juz": 15,
+			"manzil": 4,
+			"page": 288,
+			"ruku": 246,
+			"hizbQuarter": 115,
+			"sajda": false
+		},
+		{
+			"number": 2093,
+			"text": "وَاسْتَفْزِزْ مَنِ اسْتَطَعْتَ مِنْهُمْ بِصَوْتِكَ وَأَجْلِبْ عَلَيْهِمْ بِخَيْلِكَ وَرَجِلِكَ وَشَارِكْهُمْ فِي الْأَمْوَالِ وَالْأَوْلَادِ وَعِدْهُمْ ۚ وَمَا يَعِدُهُمُ الشَّيْطَانُ إِلَّا غُرُورًا",
+			"surah": {
+				"number": 17,
+				"name": "سُورَةُ الإِسۡرَاءِ",
+				"englishName": "Al-Israa",
+				"englishNameTranslation": "The Night Journey",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 64,
+			"juz": 15,
+			"manzil": 4,
+			"page": 288,
+			"ruku": 246,
+			"hizbQuarter": 115,
+			"sajda": false
+		},
+		{
+			"number": 2094,
+			"text": "إِنَّ عِبَادِي لَيْسَ لَكَ عَلَيْهِمْ سُلْطَانٌ ۚ وَكَفَىٰ بِرَبِّكَ وَكِيلًا",
+			"surah": {
+				"number": 17,
+				"name": "سُورَةُ الإِسۡرَاءِ",
+				"englishName": "Al-Israa",
+				"englishNameTranslation": "The Night Journey",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 65,
+			"juz": 15,
+			"manzil": 4,
+			"page": 288,
+			"ruku": 246,
+			"hizbQuarter": 115,
+			"sajda": false
+		},
+		{
+			"number": 2095,
+			"text": "رَبُّكُمُ الَّذِي يُزْجِي لَكُمُ الْفُلْكَ فِي الْبَحْرِ لِتَبْتَغُوا مِنْ فَضْلِهِ ۚ إِنَّهُ كَانَ بِكُمْ رَحِيمًا",
+			"surah": {
+				"number": 17,
+				"name": "سُورَةُ الإِسۡرَاءِ",
+				"englishName": "Al-Israa",
+				"englishNameTranslation": "The Night Journey",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 66,
+			"juz": 15,
+			"manzil": 4,
+			"page": 288,
+			"ruku": 246,
+			"hizbQuarter": 115,
+			"sajda": false
+		},
+		{
+			"number": 2096,
+			"text": "وَإِذَا مَسَّكُمُ الضُّرُّ فِي الْبَحْرِ ضَلَّ مَنْ تَدْعُونَ إِلَّا إِيَّاهُ ۖ فَلَمَّا نَجَّاكُمْ إِلَى الْبَرِّ أَعْرَضْتُمْ ۚ وَكَانَ الْإِنْسَانُ كَفُورًا",
+			"surah": {
+				"number": 17,
+				"name": "سُورَةُ الإِسۡرَاءِ",
+				"englishName": "Al-Israa",
+				"englishNameTranslation": "The Night Journey",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 67,
+			"juz": 15,
+			"manzil": 4,
+			"page": 289,
+			"ruku": 246,
+			"hizbQuarter": 115,
+			"sajda": false
+		},
+		{
+			"number": 2097,
+			"text": "أَفَأَمِنْتُمْ أَنْ يَخْسِفَ بِكُمْ جَانِبَ الْبَرِّ أَوْ يُرْسِلَ عَلَيْكُمْ حَاصِبًا ثُمَّ لَا تَجِدُوا لَكُمْ وَكِيلًا",
+			"surah": {
+				"number": 17,
+				"name": "سُورَةُ الإِسۡرَاءِ",
+				"englishName": "Al-Israa",
+				"englishNameTranslation": "The Night Journey",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 68,
+			"juz": 15,
+			"manzil": 4,
+			"page": 289,
+			"ruku": 246,
+			"hizbQuarter": 115,
+			"sajda": false
+		},
+		{
+			"number": 2098,
+			"text": "أَمْ أَمِنْتُمْ أَنْ يُعِيدَكُمْ فِيهِ تَارَةً أُخْرَىٰ فَيُرْسِلَ عَلَيْكُمْ قَاصِفًا مِنَ الرِّيحِ فَيُغْرِقَكُمْ بِمَا كَفَرْتُمْ ۙ ثُمَّ لَا تَجِدُوا لَكُمْ عَلَيْنَا بِهِ تَبِيعًا",
+			"surah": {
+				"number": 17,
+				"name": "سُورَةُ الإِسۡرَاءِ",
+				"englishName": "Al-Israa",
+				"englishNameTranslation": "The Night Journey",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 69,
+			"juz": 15,
+			"manzil": 4,
+			"page": 289,
+			"ruku": 246,
+			"hizbQuarter": 115,
+			"sajda": false
+		},
+		{
+			"number": 2099,
+			"text": "۞ وَلَقَدْ كَرَّمْنَا بَنِي آدَمَ وَحَمَلْنَاهُمْ فِي الْبَرِّ وَالْبَحْرِ وَرَزَقْنَاهُمْ مِنَ الطَّيِّبَاتِ وَفَضَّلْنَاهُمْ عَلَىٰ كَثِيرٍ مِمَّنْ خَلَقْنَا تَفْضِيلًا",
+			"surah": {
+				"number": 17,
+				"name": "سُورَةُ الإِسۡرَاءِ",
+				"englishName": "Al-Israa",
+				"englishNameTranslation": "The Night Journey",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 70,
+			"juz": 15,
+			"manzil": 4,
+			"page": 289,
+			"ruku": 246,
+			"hizbQuarter": 116,
+			"sajda": false
+		},
+		{
+			"number": 2100,
+			"text": "يَوْمَ نَدْعُو كُلَّ أُنَاسٍ بِإِمَامِهِمْ ۖ فَمَنْ أُوتِيَ كِتَابَهُ بِيَمِينِهِ فَأُولَٰئِكَ يَقْرَءُونَ كِتَابَهُمْ وَلَا يُظْلَمُونَ فَتِيلًا",
+			"surah": {
+				"number": 17,
+				"name": "سُورَةُ الإِسۡرَاءِ",
+				"englishName": "Al-Israa",
+				"englishNameTranslation": "The Night Journey",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 71,
+			"juz": 15,
+			"manzil": 4,
+			"page": 289,
+			"ruku": 247,
+			"hizbQuarter": 116,
+			"sajda": false
+		},
+		{
+			"number": 2101,
+			"text": "وَمَنْ كَانَ فِي هَٰذِهِ أَعْمَىٰ فَهُوَ فِي الْآخِرَةِ أَعْمَىٰ وَأَضَلُّ سَبِيلًا",
+			"surah": {
+				"number": 17,
+				"name": "سُورَةُ الإِسۡرَاءِ",
+				"englishName": "Al-Israa",
+				"englishNameTranslation": "The Night Journey",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 72,
+			"juz": 15,
+			"manzil": 4,
+			"page": 289,
+			"ruku": 247,
+			"hizbQuarter": 116,
+			"sajda": false
+		},
+		{
+			"number": 2102,
+			"text": "وَإِنْ كَادُوا لَيَفْتِنُونَكَ عَنِ الَّذِي أَوْحَيْنَا إِلَيْكَ لِتَفْتَرِيَ عَلَيْنَا غَيْرَهُ ۖ وَإِذًا لَاتَّخَذُوكَ خَلِيلًا",
+			"surah": {
+				"number": 17,
+				"name": "سُورَةُ الإِسۡرَاءِ",
+				"englishName": "Al-Israa",
+				"englishNameTranslation": "The Night Journey",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 73,
+			"juz": 15,
+			"manzil": 4,
+			"page": 289,
+			"ruku": 247,
+			"hizbQuarter": 116,
+			"sajda": false
+		},
+		{
+			"number": 2103,
+			"text": "وَلَوْلَا أَنْ ثَبَّتْنَاكَ لَقَدْ كِدْتَ تَرْكَنُ إِلَيْهِمْ شَيْئًا قَلِيلًا",
+			"surah": {
+				"number": 17,
+				"name": "سُورَةُ الإِسۡرَاءِ",
+				"englishName": "Al-Israa",
+				"englishNameTranslation": "The Night Journey",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 74,
+			"juz": 15,
+			"manzil": 4,
+			"page": 289,
+			"ruku": 247,
+			"hizbQuarter": 116,
+			"sajda": false
+		},
+		{
+			"number": 2104,
+			"text": "إِذًا لَأَذَقْنَاكَ ضِعْفَ الْحَيَاةِ وَضِعْفَ الْمَمَاتِ ثُمَّ لَا تَجِدُ لَكَ عَلَيْنَا نَصِيرًا",
+			"surah": {
+				"number": 17,
+				"name": "سُورَةُ الإِسۡرَاءِ",
+				"englishName": "Al-Israa",
+				"englishNameTranslation": "The Night Journey",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 75,
+			"juz": 15,
+			"manzil": 4,
+			"page": 289,
+			"ruku": 247,
+			"hizbQuarter": 116,
+			"sajda": false
+		},
+		{
+			"number": 2105,
+			"text": "وَإِنْ كَادُوا لَيَسْتَفِزُّونَكَ مِنَ الْأَرْضِ لِيُخْرِجُوكَ مِنْهَا ۖ وَإِذًا لَا يَلْبَثُونَ خِلَافَكَ إِلَّا قَلِيلًا",
+			"surah": {
+				"number": 17,
+				"name": "سُورَةُ الإِسۡرَاءِ",
+				"englishName": "Al-Israa",
+				"englishNameTranslation": "The Night Journey",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 76,
+			"juz": 15,
+			"manzil": 4,
+			"page": 290,
+			"ruku": 247,
+			"hizbQuarter": 116,
+			"sajda": false
+		},
+		{
+			"number": 2106,
+			"text": "سُنَّةَ مَنْ قَدْ أَرْسَلْنَا قَبْلَكَ مِنْ رُسُلِنَا ۖ وَلَا تَجِدُ لِسُنَّتِنَا تَحْوِيلًا",
+			"surah": {
+				"number": 17,
+				"name": "سُورَةُ الإِسۡرَاءِ",
+				"englishName": "Al-Israa",
+				"englishNameTranslation": "The Night Journey",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 77,
+			"juz": 15,
+			"manzil": 4,
+			"page": 290,
+			"ruku": 247,
+			"hizbQuarter": 116,
+			"sajda": false
+		},
+		{
+			"number": 2107,
+			"text": "أَقِمِ الصَّلَاةَ لِدُلُوكِ الشَّمْسِ إِلَىٰ غَسَقِ اللَّيْلِ وَقُرْآنَ الْفَجْرِ ۖ إِنَّ قُرْآنَ الْفَجْرِ كَانَ مَشْهُودًا",
+			"surah": {
+				"number": 17,
+				"name": "سُورَةُ الإِسۡرَاءِ",
+				"englishName": "Al-Israa",
+				"englishNameTranslation": "The Night Journey",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 78,
+			"juz": 15,
+			"manzil": 4,
+			"page": 290,
+			"ruku": 248,
+			"hizbQuarter": 116,
+			"sajda": false
+		},
+		{
+			"number": 2108,
+			"text": "وَمِنَ اللَّيْلِ فَتَهَجَّدْ بِهِ نَافِلَةً لَكَ عَسَىٰ أَنْ يَبْعَثَكَ رَبُّكَ مَقَامًا مَحْمُودًا",
+			"surah": {
+				"number": 17,
+				"name": "سُورَةُ الإِسۡرَاءِ",
+				"englishName": "Al-Israa",
+				"englishNameTranslation": "The Night Journey",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 79,
+			"juz": 15,
+			"manzil": 4,
+			"page": 290,
+			"ruku": 248,
+			"hizbQuarter": 116,
+			"sajda": false
+		},
+		{
+			"number": 2109,
+			"text": "وَقُلْ رَبِّ أَدْخِلْنِي مُدْخَلَ صِدْقٍ وَأَخْرِجْنِي مُخْرَجَ صِدْقٍ وَاجْعَلْ لِي مِنْ لَدُنْكَ سُلْطَانًا نَصِيرًا",
+			"surah": {
+				"number": 17,
+				"name": "سُورَةُ الإِسۡرَاءِ",
+				"englishName": "Al-Israa",
+				"englishNameTranslation": "The Night Journey",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 80,
+			"juz": 15,
+			"manzil": 4,
+			"page": 290,
+			"ruku": 248,
+			"hizbQuarter": 116,
+			"sajda": false
+		},
+		{
+			"number": 2110,
+			"text": "وَقُلْ جَاءَ الْحَقُّ وَزَهَقَ الْبَاطِلُ ۚ إِنَّ الْبَاطِلَ كَانَ زَهُوقًا",
+			"surah": {
+				"number": 17,
+				"name": "سُورَةُ الإِسۡرَاءِ",
+				"englishName": "Al-Israa",
+				"englishNameTranslation": "The Night Journey",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 81,
+			"juz": 15,
+			"manzil": 4,
+			"page": 290,
+			"ruku": 248,
+			"hizbQuarter": 116,
+			"sajda": false
+		},
+		{
+			"number": 2111,
+			"text": "وَنُنَزِّلُ مِنَ الْقُرْآنِ مَا هُوَ شِفَاءٌ وَرَحْمَةٌ لِلْمُؤْمِنِينَ ۙ وَلَا يَزِيدُ الظَّالِمِينَ إِلَّا خَسَارًا",
+			"surah": {
+				"number": 17,
+				"name": "سُورَةُ الإِسۡرَاءِ",
+				"englishName": "Al-Israa",
+				"englishNameTranslation": "The Night Journey",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 82,
+			"juz": 15,
+			"manzil": 4,
+			"page": 290,
+			"ruku": 248,
+			"hizbQuarter": 116,
+			"sajda": false
+		},
+		{
+			"number": 2112,
+			"text": "وَإِذَا أَنْعَمْنَا عَلَى الْإِنْسَانِ أَعْرَضَ وَنَأَىٰ بِجَانِبِهِ ۖ وَإِذَا مَسَّهُ الشَّرُّ كَانَ يَئُوسًا",
+			"surah": {
+				"number": 17,
+				"name": "سُورَةُ الإِسۡرَاءِ",
+				"englishName": "Al-Israa",
+				"englishNameTranslation": "The Night Journey",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 83,
+			"juz": 15,
+			"manzil": 4,
+			"page": 290,
+			"ruku": 248,
+			"hizbQuarter": 116,
+			"sajda": false
+		},
+		{
+			"number": 2113,
+			"text": "قُلْ كُلٌّ يَعْمَلُ عَلَىٰ شَاكِلَتِهِ فَرَبُّكُمْ أَعْلَمُ بِمَنْ هُوَ أَهْدَىٰ سَبِيلًا",
+			"surah": {
+				"number": 17,
+				"name": "سُورَةُ الإِسۡرَاءِ",
+				"englishName": "Al-Israa",
+				"englishNameTranslation": "The Night Journey",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 84,
+			"juz": 15,
+			"manzil": 4,
+			"page": 290,
+			"ruku": 248,
+			"hizbQuarter": 116,
+			"sajda": false
+		},
+		{
+			"number": 2114,
+			"text": "وَيَسْأَلُونَكَ عَنِ الرُّوحِ ۖ قُلِ الرُّوحُ مِنْ أَمْرِ رَبِّي وَمَا أُوتِيتُمْ مِنَ الْعِلْمِ إِلَّا قَلِيلًا",
+			"surah": {
+				"number": 17,
+				"name": "سُورَةُ الإِسۡرَاءِ",
+				"englishName": "Al-Israa",
+				"englishNameTranslation": "The Night Journey",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 85,
+			"juz": 15,
+			"manzil": 4,
+			"page": 290,
+			"ruku": 249,
+			"hizbQuarter": 116,
+			"sajda": false
+		},
+		{
+			"number": 2115,
+			"text": "وَلَئِنْ شِئْنَا لَنَذْهَبَنَّ بِالَّذِي أَوْحَيْنَا إِلَيْكَ ثُمَّ لَا تَجِدُ لَكَ بِهِ عَلَيْنَا وَكِيلًا",
+			"surah": {
+				"number": 17,
+				"name": "سُورَةُ الإِسۡرَاءِ",
+				"englishName": "Al-Israa",
+				"englishNameTranslation": "The Night Journey",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 86,
+			"juz": 15,
+			"manzil": 4,
+			"page": 290,
+			"ruku": 249,
+			"hizbQuarter": 116,
+			"sajda": false
+		},
+		{
+			"number": 2116,
+			"text": "إِلَّا رَحْمَةً مِنْ رَبِّكَ ۚ إِنَّ فَضْلَهُ كَانَ عَلَيْكَ كَبِيرًا",
+			"surah": {
+				"number": 17,
+				"name": "سُورَةُ الإِسۡرَاءِ",
+				"englishName": "Al-Israa",
+				"englishNameTranslation": "The Night Journey",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 87,
+			"juz": 15,
+			"manzil": 4,
+			"page": 291,
+			"ruku": 249,
+			"hizbQuarter": 116,
+			"sajda": false
+		},
+		{
+			"number": 2117,
+			"text": "قُلْ لَئِنِ اجْتَمَعَتِ الْإِنْسُ وَالْجِنُّ عَلَىٰ أَنْ يَأْتُوا بِمِثْلِ هَٰذَا الْقُرْآنِ لَا يَأْتُونَ بِمِثْلِهِ وَلَوْ كَانَ بَعْضُهُمْ لِبَعْضٍ ظَهِيرًا",
+			"surah": {
+				"number": 17,
+				"name": "سُورَةُ الإِسۡرَاءِ",
+				"englishName": "Al-Israa",
+				"englishNameTranslation": "The Night Journey",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 88,
+			"juz": 15,
+			"manzil": 4,
+			"page": 291,
+			"ruku": 249,
+			"hizbQuarter": 116,
+			"sajda": false
+		},
+		{
+			"number": 2118,
+			"text": "وَلَقَدْ صَرَّفْنَا لِلنَّاسِ فِي هَٰذَا الْقُرْآنِ مِنْ كُلِّ مَثَلٍ فَأَبَىٰ أَكْثَرُ النَّاسِ إِلَّا كُفُورًا",
+			"surah": {
+				"number": 17,
+				"name": "سُورَةُ الإِسۡرَاءِ",
+				"englishName": "Al-Israa",
+				"englishNameTranslation": "The Night Journey",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 89,
+			"juz": 15,
+			"manzil": 4,
+			"page": 291,
+			"ruku": 249,
+			"hizbQuarter": 116,
+			"sajda": false
+		},
+		{
+			"number": 2119,
+			"text": "وَقَالُوا لَنْ نُؤْمِنَ لَكَ حَتَّىٰ تَفْجُرَ لَنَا مِنَ الْأَرْضِ يَنْبُوعًا",
+			"surah": {
+				"number": 17,
+				"name": "سُورَةُ الإِسۡرَاءِ",
+				"englishName": "Al-Israa",
+				"englishNameTranslation": "The Night Journey",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 90,
+			"juz": 15,
+			"manzil": 4,
+			"page": 291,
+			"ruku": 249,
+			"hizbQuarter": 116,
+			"sajda": false
+		},
+		{
+			"number": 2120,
+			"text": "أَوْ تَكُونَ لَكَ جَنَّةٌ مِنْ نَخِيلٍ وَعِنَبٍ فَتُفَجِّرَ الْأَنْهَارَ خِلَالَهَا تَفْجِيرًا",
+			"surah": {
+				"number": 17,
+				"name": "سُورَةُ الإِسۡرَاءِ",
+				"englishName": "Al-Israa",
+				"englishNameTranslation": "The Night Journey",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 91,
+			"juz": 15,
+			"manzil": 4,
+			"page": 291,
+			"ruku": 249,
+			"hizbQuarter": 116,
+			"sajda": false
+		},
+		{
+			"number": 2121,
+			"text": "أَوْ تُسْقِطَ السَّمَاءَ كَمَا زَعَمْتَ عَلَيْنَا كِسَفًا أَوْ تَأْتِيَ بِاللَّهِ وَالْمَلَائِكَةِ قَبِيلًا",
+			"surah": {
+				"number": 17,
+				"name": "سُورَةُ الإِسۡرَاءِ",
+				"englishName": "Al-Israa",
+				"englishNameTranslation": "The Night Journey",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 92,
+			"juz": 15,
+			"manzil": 4,
+			"page": 291,
+			"ruku": 249,
+			"hizbQuarter": 116,
+			"sajda": false
+		},
+		{
+			"number": 2122,
+			"text": "أَوْ يَكُونَ لَكَ بَيْتٌ مِنْ زُخْرُفٍ أَوْ تَرْقَىٰ فِي السَّمَاءِ وَلَنْ نُؤْمِنَ لِرُقِيِّكَ حَتَّىٰ تُنَزِّلَ عَلَيْنَا كِتَابًا نَقْرَؤُهُ ۗ قُلْ سُبْحَانَ رَبِّي هَلْ كُنْتُ إِلَّا بَشَرًا رَسُولًا",
+			"surah": {
+				"number": 17,
+				"name": "سُورَةُ الإِسۡرَاءِ",
+				"englishName": "Al-Israa",
+				"englishNameTranslation": "The Night Journey",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 93,
+			"juz": 15,
+			"manzil": 4,
+			"page": 291,
+			"ruku": 249,
+			"hizbQuarter": 116,
+			"sajda": false
+		},
+		{
+			"number": 2123,
+			"text": "وَمَا مَنَعَ النَّاسَ أَنْ يُؤْمِنُوا إِذْ جَاءَهُمُ الْهُدَىٰ إِلَّا أَنْ قَالُوا أَبَعَثَ اللَّهُ بَشَرًا رَسُولًا",
+			"surah": {
+				"number": 17,
+				"name": "سُورَةُ الإِسۡرَاءِ",
+				"englishName": "Al-Israa",
+				"englishNameTranslation": "The Night Journey",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 94,
+			"juz": 15,
+			"manzil": 4,
+			"page": 291,
+			"ruku": 250,
+			"hizbQuarter": 116,
+			"sajda": false
+		},
+		{
+			"number": 2124,
+			"text": "قُلْ لَوْ كَانَ فِي الْأَرْضِ مَلَائِكَةٌ يَمْشُونَ مُطْمَئِنِّينَ لَنَزَّلْنَا عَلَيْهِمْ مِنَ السَّمَاءِ مَلَكًا رَسُولًا",
+			"surah": {
+				"number": 17,
+				"name": "سُورَةُ الإِسۡرَاءِ",
+				"englishName": "Al-Israa",
+				"englishNameTranslation": "The Night Journey",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 95,
+			"juz": 15,
+			"manzil": 4,
+			"page": 291,
+			"ruku": 250,
+			"hizbQuarter": 116,
+			"sajda": false
+		},
+		{
+			"number": 2125,
+			"text": "قُلْ كَفَىٰ بِاللَّهِ شَهِيدًا بَيْنِي وَبَيْنَكُمْ ۚ إِنَّهُ كَانَ بِعِبَادِهِ خَبِيرًا بَصِيرًا",
+			"surah": {
+				"number": 17,
+				"name": "سُورَةُ الإِسۡرَاءِ",
+				"englishName": "Al-Israa",
+				"englishNameTranslation": "The Night Journey",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 96,
+			"juz": 15,
+			"manzil": 4,
+			"page": 291,
+			"ruku": 250,
+			"hizbQuarter": 116,
+			"sajda": false
+		},
+		{
+			"number": 2126,
+			"text": "وَمَنْ يَهْدِ اللَّهُ فَهُوَ الْمُهْتَدِ ۖ وَمَنْ يُضْلِلْ فَلَنْ تَجِدَ لَهُمْ أَوْلِيَاءَ مِنْ دُونِهِ ۖ وَنَحْشُرُهُمْ يَوْمَ الْقِيَامَةِ عَلَىٰ وُجُوهِهِمْ عُمْيًا وَبُكْمًا وَصُمًّا ۖ مَأْوَاهُمْ جَهَنَّمُ ۖ كُلَّمَا خَبَتْ زِدْنَاهُمْ سَعِيرًا",
+			"surah": {
+				"number": 17,
+				"name": "سُورَةُ الإِسۡرَاءِ",
+				"englishName": "Al-Israa",
+				"englishNameTranslation": "The Night Journey",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 97,
+			"juz": 15,
+			"manzil": 4,
+			"page": 292,
+			"ruku": 250,
+			"hizbQuarter": 116,
+			"sajda": false
+		},
+		{
+			"number": 2127,
+			"text": "ذَٰلِكَ جَزَاؤُهُمْ بِأَنَّهُمْ كَفَرُوا بِآيَاتِنَا وَقَالُوا أَإِذَا كُنَّا عِظَامًا وَرُفَاتًا أَإِنَّا لَمَبْعُوثُونَ خَلْقًا جَدِيدًا",
+			"surah": {
+				"number": 17,
+				"name": "سُورَةُ الإِسۡرَاءِ",
+				"englishName": "Al-Israa",
+				"englishNameTranslation": "The Night Journey",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 98,
+			"juz": 15,
+			"manzil": 4,
+			"page": 292,
+			"ruku": 250,
+			"hizbQuarter": 116,
+			"sajda": false
+		}
+	]
+}

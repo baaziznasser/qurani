@@ -1,0 +1,52 @@
+﻿{
+	"number": 103,
+	"name": "سُورَةُ العَصۡرِ",
+	"englishName": "Al-Asr",
+	"englishNameTranslation": "The Declining Day, Epoch",
+	"revelationType": "Meccan",
+	"numberOfAyahs": 3,
+	"ayahs": [
+		{
+			"number": 6177,
+			"text": "«والعصر» الدهر أو ما بعد الزوال إلى الغروب أو صلاة العصر.",
+			"numberInSurah": 1,
+			"juz": 30,
+			"manzil": 7,
+			"page": 601,
+			"ruku": 545,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6178,
+			"text": "«إنَّ الإنسان» الجنس «لفي خُسر» في تجارته.",
+			"numberInSurah": 2,
+			"juz": 30,
+			"manzil": 7,
+			"page": 601,
+			"ruku": 545,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6179,
+			"text": "«إلا الذين آمنوا وعملوا الصالحات» فليسوا في خسران «وتواصوا» أوصى بعضهم بعضاً «بالحق» الإيمان «وتواصوا بالصبر» على الطاعة وعن المعصية.",
+			"numberInSurah": 3,
+			"juz": 30,
+			"manzil": 7,
+			"page": 601,
+			"ruku": 545,
+			"hizbQuarter": 240,
+			"sajda": false
+		}
+	],
+	"edition": {
+		"identifier": "ar.jalalayn",
+		"language": "ar",
+		"name": "تفسير الجلالين",
+		"englishName": "Jalal ad-Din al-Mahalli and Jalal ad-Din as-Suyuti",
+		"format": "text",
+		"type": "tafsir",
+		"direction": "rtl"
+	}
+}

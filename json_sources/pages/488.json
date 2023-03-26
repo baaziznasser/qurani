@@ -1,0 +1,157 @@
+﻿{
+	"number": 488,
+	"ayahs": [
+		{
+			"number": 4317,
+			"text": "وَتَرَاهُمْ يُعْرَضُونَ عَلَيْهَا خَاشِعِينَ مِنَ الذُّلِّ يَنْظُرُونَ مِنْ طَرْفٍ خَفِيٍّ ۗ وَقَالَ الَّذِينَ آمَنُوا إِنَّ الْخَاسِرِينَ الَّذِينَ خَسِرُوا أَنْفُسَهُمْ وَأَهْلِيهِمْ يَوْمَ الْقِيَامَةِ ۗ أَلَا إِنَّ الظَّالِمِينَ فِي عَذَابٍ مُقِيمٍ",
+			"surah": {
+				"number": 42,
+				"name": "سُورَةُ الشُّورَىٰ",
+				"englishName": "Ash-Shura",
+				"englishNameTranslation": "Consultation",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 53
+			},
+			"numberInSurah": 45,
+			"juz": 25,
+			"manzil": 6,
+			"page": 488,
+			"ruku": 423,
+			"hizbQuarter": 195,
+			"sajda": false
+		},
+		{
+			"number": 4318,
+			"text": "وَمَا كَانَ لَهُمْ مِنْ أَوْلِيَاءَ يَنْصُرُونَهُمْ مِنْ دُونِ اللَّهِ ۗ وَمَنْ يُضْلِلِ اللَّهُ فَمَا لَهُ مِنْ سَبِيلٍ",
+			"surah": {
+				"number": 42,
+				"name": "سُورَةُ الشُّورَىٰ",
+				"englishName": "Ash-Shura",
+				"englishNameTranslation": "Consultation",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 53
+			},
+			"numberInSurah": 46,
+			"juz": 25,
+			"manzil": 6,
+			"page": 488,
+			"ruku": 423,
+			"hizbQuarter": 195,
+			"sajda": false
+		},
+		{
+			"number": 4319,
+			"text": "اسْتَجِيبُوا لِرَبِّكُمْ مِنْ قَبْلِ أَنْ يَأْتِيَ يَوْمٌ لَا مَرَدَّ لَهُ مِنَ اللَّهِ ۚ مَا لَكُمْ مِنْ مَلْجَإٍ يَوْمَئِذٍ وَمَا لَكُمْ مِنْ نَكِيرٍ",
+			"surah": {
+				"number": 42,
+				"name": "سُورَةُ الشُّورَىٰ",
+				"englishName": "Ash-Shura",
+				"englishNameTranslation": "Consultation",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 53
+			},
+			"numberInSurah": 47,
+			"juz": 25,
+			"manzil": 6,
+			"page": 488,
+			"ruku": 423,
+			"hizbQuarter": 195,
+			"sajda": false
+		},
+		{
+			"number": 4320,
+			"text": "فَإِنْ أَعْرَضُوا فَمَا أَرْسَلْنَاكَ عَلَيْهِمْ حَفِيظًا ۖ إِنْ عَلَيْكَ إِلَّا الْبَلَاغُ ۗ وَإِنَّا إِذَا أَذَقْنَا الْإِنْسَانَ مِنَّا رَحْمَةً فَرِحَ بِهَا ۖ وَإِنْ تُصِبْهُمْ سَيِّئَةٌ بِمَا قَدَّمَتْ أَيْدِيهِمْ فَإِنَّ الْإِنْسَانَ كَفُورٌ",
+			"surah": {
+				"number": 42,
+				"name": "سُورَةُ الشُّورَىٰ",
+				"englishName": "Ash-Shura",
+				"englishNameTranslation": "Consultation",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 53
+			},
+			"numberInSurah": 48,
+			"juz": 25,
+			"manzil": 6,
+			"page": 488,
+			"ruku": 423,
+			"hizbQuarter": 195,
+			"sajda": false
+		},
+		{
+			"number": 4321,
+			"text": "لِلَّهِ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ ۚ يَخْلُقُ مَا يَشَاءُ ۚ يَهَبُ لِمَنْ يَشَاءُ إِنَاثًا وَيَهَبُ لِمَنْ يَشَاءُ الذُّكُورَ",
+			"surah": {
+				"number": 42,
+				"name": "سُورَةُ الشُّورَىٰ",
+				"englishName": "Ash-Shura",
+				"englishNameTranslation": "Consultation",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 53
+			},
+			"numberInSurah": 49,
+			"juz": 25,
+			"manzil": 6,
+			"page": 488,
+			"ruku": 423,
+			"hizbQuarter": 195,
+			"sajda": false
+		},
+		{
+			"number": 4322,
+			"text": "أَوْ يُزَوِّجُهُمْ ذُكْرَانًا وَإِنَاثًا ۖ وَيَجْعَلُ مَنْ يَشَاءُ عَقِيمًا ۚ إِنَّهُ عَلِيمٌ قَدِيرٌ",
+			"surah": {
+				"number": 42,
+				"name": "سُورَةُ الشُّورَىٰ",
+				"englishName": "Ash-Shura",
+				"englishNameTranslation": "Consultation",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 53
+			},
+			"numberInSurah": 50,
+			"juz": 25,
+			"manzil": 6,
+			"page": 488,
+			"ruku": 423,
+			"hizbQuarter": 195,
+			"sajda": false
+		},
+		{
+			"number": 4323,
+			"text": "۞ وَمَا كَانَ لِبَشَرٍ أَنْ يُكَلِّمَهُ اللَّهُ إِلَّا وَحْيًا أَوْ مِنْ وَرَاءِ حِجَابٍ أَوْ يُرْسِلَ رَسُولًا فَيُوحِيَ بِإِذْنِهِ مَا يَشَاءُ ۚ إِنَّهُ عَلِيٌّ حَكِيمٌ",
+			"surah": {
+				"number": 42,
+				"name": "سُورَةُ الشُّورَىٰ",
+				"englishName": "Ash-Shura",
+				"englishNameTranslation": "Consultation",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 53
+			},
+			"numberInSurah": 51,
+			"juz": 25,
+			"manzil": 6,
+			"page": 488,
+			"ruku": 423,
+			"hizbQuarter": 196,
+			"sajda": false
+		}
+	],
+	"surahs": {
+		"42": {
+			"number": 42,
+			"name": "سُورَةُ الشُّورَىٰ",
+			"englishName": "Ash-Shura",
+			"englishNameTranslation": "Consultation",
+			"revelationType": "Meccan",
+			"numberOfAyahs": 53
+		}
+	},
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

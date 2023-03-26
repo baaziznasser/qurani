@@ -1,0 +1,85 @@
+﻿{
+	"number": 109,
+	"name": "سُورَةُ الكَافِرُونَ",
+	"englishName": "Al-Kaafiroon",
+	"englishNameTranslation": "The Disbelievers",
+	"revelationType": "Meccan",
+	"numberOfAyahs": 6,
+	"ayahs": [
+		{
+			"number": 6208,
+			"text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ قُلْ يَا أَيُّهَا الْكَافِرُونَ",
+			"numberInSurah": 1,
+			"juz": 30,
+			"manzil": 7,
+			"page": 603,
+			"ruku": 551,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6209,
+			"text": "لَا أَعْبُدُ مَا تَعْبُدُونَ",
+			"numberInSurah": 2,
+			"juz": 30,
+			"manzil": 7,
+			"page": 603,
+			"ruku": 551,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6210,
+			"text": "وَلَا أَنْتُمْ عَابِدُونَ مَا أَعْبُدُ",
+			"numberInSurah": 3,
+			"juz": 30,
+			"manzil": 7,
+			"page": 603,
+			"ruku": 551,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6211,
+			"text": "وَلَا أَنَا عَابِدٌ مَا عَبَدْتُمْ",
+			"numberInSurah": 4,
+			"juz": 30,
+			"manzil": 7,
+			"page": 603,
+			"ruku": 551,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6212,
+			"text": "وَلَا أَنْتُمْ عَابِدُونَ مَا أَعْبُدُ",
+			"numberInSurah": 5,
+			"juz": 30,
+			"manzil": 7,
+			"page": 603,
+			"ruku": 551,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6213,
+			"text": "لَكُمْ دِينُكُمْ وَلِيَ دِينِ",
+			"numberInSurah": 6,
+			"juz": 30,
+			"manzil": 7,
+			"page": 603,
+			"ruku": 551,
+			"hizbQuarter": 240,
+			"sajda": false
+		}
+	],
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

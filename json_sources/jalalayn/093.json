@@ -1,0 +1,140 @@
+﻿{
+	"number": 93,
+	"name": "سُورَةُ الضُّحَىٰ",
+	"englishName": "Ad-Dhuhaa",
+	"englishNameTranslation": "The Morning Hours",
+	"revelationType": "Meccan",
+	"numberOfAyahs": 11,
+	"ayahs": [
+		{
+			"number": 6080,
+			"text": "«والضحى» أي أول النهار أو كله.",
+			"numberInSurah": 1,
+			"juz": 30,
+			"manzil": 7,
+			"page": 596,
+			"ruku": 535,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6081,
+			"text": "«والليل إذا سجى» غطى بظلامه أو سكن.",
+			"numberInSurah": 2,
+			"juz": 30,
+			"manzil": 7,
+			"page": 596,
+			"ruku": 535,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6082,
+			"text": "«ما ودَّعك» تركك يا محمد «ربك وما قلى» أبغضك نزل هذا لما قال الكفار عند تأخر الوحي عنه خمسة عشر يوما: إن ربه ودَّعه وقلاهُ.",
+			"numberInSurah": 3,
+			"juz": 30,
+			"manzil": 7,
+			"page": 596,
+			"ruku": 535,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6083,
+			"text": "«وللآخرة خير لك» لما فيها من الكرامات لك «من الأولى» الدنيا.",
+			"numberInSurah": 4,
+			"juz": 30,
+			"manzil": 7,
+			"page": 596,
+			"ruku": 535,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6084,
+			"text": "(ولسوف يعطيك ربك) في الآخرة من الخيرات عطاء جزيلا (فترضى) به فقال صلى الله عليه وسلم: \"\" إذن لا أرضى وواحد من أمتي في النار \"\" إلى هنا تم جواب القسم بمثبتين بعد منفيين.",
+			"numberInSurah": 5,
+			"juz": 30,
+			"manzil": 7,
+			"page": 596,
+			"ruku": 535,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6085,
+			"text": "«ألم يجدك» استفهام تقرير أي وجدك «يتيما» بفقد أبيك قبل ولادتك أو بعدها «فآوى» بأن ضمك إلى عمك أبي طالب.",
+			"numberInSurah": 6,
+			"juz": 30,
+			"manzil": 7,
+			"page": 596,
+			"ruku": 535,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6086,
+			"text": "«ووجدك ضالا» عما أنت عليه من الشريعة «فهدى» أي هداك إليها.",
+			"numberInSurah": 7,
+			"juz": 30,
+			"manzil": 7,
+			"page": 596,
+			"ruku": 535,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6087,
+			"text": "(ووجدك عائلا) فقيرا (فأغنى) أغناك بما قنعك به من الغنيمة وغيرها وفي الحديث: \"\" ليس الغني عن كثرة العرض ولكن الغني غني النفس \"\".",
+			"numberInSurah": 8,
+			"juz": 30,
+			"manzil": 7,
+			"page": 596,
+			"ruku": 535,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6088,
+			"text": "«فأما اليتيم فلا تقهر» بأخذ ماله أو غير ذلك.",
+			"numberInSurah": 9,
+			"juz": 30,
+			"manzil": 7,
+			"page": 596,
+			"ruku": 535,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6089,
+			"text": "«وأما السائل فلا تنهر» تزجره لفقره.",
+			"numberInSurah": 10,
+			"juz": 30,
+			"manzil": 7,
+			"page": 596,
+			"ruku": 535,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6090,
+			"text": "«وأما بنعمة ربك» عليك بالنبوة وغيرها «فحدّث» أخبر، وحذف ضميره في بعض الأفعال رعاية للفواصل.",
+			"numberInSurah": 11,
+			"juz": 30,
+			"manzil": 7,
+			"page": 596,
+			"ruku": 535,
+			"hizbQuarter": 238,
+			"sajda": false
+		}
+	],
+	"edition": {
+		"identifier": "ar.jalalayn",
+		"language": "ar",
+		"name": "تفسير الجلالين",
+		"englishName": "Jalal ad-Din al-Mahalli and Jalal ad-Din as-Suyuti",
+		"format": "text",
+		"type": "tafsir",
+		"direction": "rtl"
+	}
+}

@@ -1,0 +1,31 @@
+﻿<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<OBJECT type="text/site properties">
+	<param name="Window Styles" value="0x800025">
+param name = "ExWindow Styles" value = "0x2200"
+<param name="Font" value="Times New Roman,12,178">
+</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="qurani help file">
+		<param name="Local" value="index.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="qurani what's new">
+		<param name="Local" value="what's_new.txt">
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="qurani license file">
+		<param name="Local" value="license.txt">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="qurani Read me file">
+		<param name="Local" value="Readme.txt">
+		</OBJECT>
+
+</UL>
+</BODY></HTML>

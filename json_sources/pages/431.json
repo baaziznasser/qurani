@@ -1,0 +1,195 @@
+﻿{
+	"number": 431,
+	"ayahs": [
+		{
+			"number": 3629,
+			"text": "وَلَا تَنْفَعُ الشَّفَاعَةُ عِنْدَهُ إِلَّا لِمَنْ أَذِنَ لَهُ ۚ حَتَّىٰ إِذَا فُزِّعَ عَنْ قُلُوبِهِمْ قَالُوا مَاذَا قَالَ رَبُّكُمْ ۖ قَالُوا الْحَقَّ ۖ وَهُوَ الْعَلِيُّ الْكَبِيرُ",
+			"surah": {
+				"number": 34,
+				"name": "سُورَةُ سَبَإٍ",
+				"englishName": "Saba",
+				"englishNameTranslation": "Sheba",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 54
+			},
+			"numberInSurah": 23,
+			"juz": 22,
+			"manzil": 5,
+			"page": 431,
+			"ruku": 372,
+			"hizbQuarter": 172,
+			"sajda": false
+		},
+		{
+			"number": 3630,
+			"text": "۞ قُلْ مَنْ يَرْزُقُكُمْ مِنَ السَّمَاوَاتِ وَالْأَرْضِ ۖ قُلِ اللَّهُ ۖ وَإِنَّا أَوْ إِيَّاكُمْ لَعَلَىٰ هُدًى أَوْ فِي ضَلَالٍ مُبِينٍ",
+			"surah": {
+				"number": 34,
+				"name": "سُورَةُ سَبَإٍ",
+				"englishName": "Saba",
+				"englishNameTranslation": "Sheba",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 54
+			},
+			"numberInSurah": 24,
+			"juz": 22,
+			"manzil": 5,
+			"page": 431,
+			"ruku": 372,
+			"hizbQuarter": 173,
+			"sajda": false
+		},
+		{
+			"number": 3631,
+			"text": "قُلْ لَا تُسْأَلُونَ عَمَّا أَجْرَمْنَا وَلَا نُسْأَلُ عَمَّا تَعْمَلُونَ",
+			"surah": {
+				"number": 34,
+				"name": "سُورَةُ سَبَإٍ",
+				"englishName": "Saba",
+				"englishNameTranslation": "Sheba",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 54
+			},
+			"numberInSurah": 25,
+			"juz": 22,
+			"manzil": 5,
+			"page": 431,
+			"ruku": 372,
+			"hizbQuarter": 173,
+			"sajda": false
+		},
+		{
+			"number": 3632,
+			"text": "قُلْ يَجْمَعُ بَيْنَنَا رَبُّنَا ثُمَّ يَفْتَحُ بَيْنَنَا بِالْحَقِّ وَهُوَ الْفَتَّاحُ الْعَلِيمُ",
+			"surah": {
+				"number": 34,
+				"name": "سُورَةُ سَبَإٍ",
+				"englishName": "Saba",
+				"englishNameTranslation": "Sheba",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 54
+			},
+			"numberInSurah": 26,
+			"juz": 22,
+			"manzil": 5,
+			"page": 431,
+			"ruku": 372,
+			"hizbQuarter": 173,
+			"sajda": false
+		},
+		{
+			"number": 3633,
+			"text": "قُلْ أَرُونِيَ الَّذِينَ أَلْحَقْتُمْ بِهِ شُرَكَاءَ ۖ كَلَّا ۚ بَلْ هُوَ اللَّهُ الْعَزِيزُ الْحَكِيمُ",
+			"surah": {
+				"number": 34,
+				"name": "سُورَةُ سَبَإٍ",
+				"englishName": "Saba",
+				"englishNameTranslation": "Sheba",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 54
+			},
+			"numberInSurah": 27,
+			"juz": 22,
+			"manzil": 5,
+			"page": 431,
+			"ruku": 372,
+			"hizbQuarter": 173,
+			"sajda": false
+		},
+		{
+			"number": 3634,
+			"text": "وَمَا أَرْسَلْنَاكَ إِلَّا كَافَّةً لِلنَّاسِ بَشِيرًا وَنَذِيرًا وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ",
+			"surah": {
+				"number": 34,
+				"name": "سُورَةُ سَبَإٍ",
+				"englishName": "Saba",
+				"englishNameTranslation": "Sheba",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 54
+			},
+			"numberInSurah": 28,
+			"juz": 22,
+			"manzil": 5,
+			"page": 431,
+			"ruku": 372,
+			"hizbQuarter": 173,
+			"sajda": false
+		},
+		{
+			"number": 3635,
+			"text": "وَيَقُولُونَ مَتَىٰ هَٰذَا الْوَعْدُ إِنْ كُنْتُمْ صَادِقِينَ",
+			"surah": {
+				"number": 34,
+				"name": "سُورَةُ سَبَإٍ",
+				"englishName": "Saba",
+				"englishNameTranslation": "Sheba",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 54
+			},
+			"numberInSurah": 29,
+			"juz": 22,
+			"manzil": 5,
+			"page": 431,
+			"ruku": 372,
+			"hizbQuarter": 173,
+			"sajda": false
+		},
+		{
+			"number": 3636,
+			"text": "قُلْ لَكُمْ مِيعَادُ يَوْمٍ لَا تَسْتَأْخِرُونَ عَنْهُ سَاعَةً وَلَا تَسْتَقْدِمُونَ",
+			"surah": {
+				"number": 34,
+				"name": "سُورَةُ سَبَإٍ",
+				"englishName": "Saba",
+				"englishNameTranslation": "Sheba",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 54
+			},
+			"numberInSurah": 30,
+			"juz": 22,
+			"manzil": 5,
+			"page": 431,
+			"ruku": 372,
+			"hizbQuarter": 173,
+			"sajda": false
+		},
+		{
+			"number": 3637,
+			"text": "وَقَالَ الَّذِينَ كَفَرُوا لَنْ نُؤْمِنَ بِهَٰذَا الْقُرْآنِ وَلَا بِالَّذِي بَيْنَ يَدَيْهِ ۗ وَلَوْ تَرَىٰ إِذِ الظَّالِمُونَ مَوْقُوفُونَ عِنْدَ رَبِّهِمْ يَرْجِعُ بَعْضُهُمْ إِلَىٰ بَعْضٍ الْقَوْلَ يَقُولُ الَّذِينَ اسْتُضْعِفُوا لِلَّذِينَ اسْتَكْبَرُوا لَوْلَا أَنْتُمْ لَكُنَّا مُؤْمِنِينَ",
+			"surah": {
+				"number": 34,
+				"name": "سُورَةُ سَبَإٍ",
+				"englishName": "Saba",
+				"englishNameTranslation": "Sheba",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 54
+			},
+			"numberInSurah": 31,
+			"juz": 22,
+			"manzil": 5,
+			"page": 431,
+			"ruku": 373,
+			"hizbQuarter": 173,
+			"sajda": false
+		}
+	],
+	"surahs": {
+		"34": {
+			"number": 34,
+			"name": "سُورَةُ سَبَإٍ",
+			"englishName": "Saba",
+			"englishNameTranslation": "Sheba",
+			"revelationType": "Meccan",
+			"numberOfAyahs": 54
+		}
+	},
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

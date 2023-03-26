@@ -1,0 +1,1381 @@
+﻿{
+	"number": 234,
+	"ayahs": [
+		{
+			"number": 5759,
+			"surah": {
+				"number": 80,
+				"name": "سُورَةُ عَبَسَ",
+				"englishName": "Abasa",
+				"englishNameTranslation": "He frowned",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 42
+			},
+			"numberInSurah": 1,
+			"juz": 30,
+			"manzil": 7,
+			"page": 585,
+			"ruku": 522,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ عَبَسَ وَتَوَلَّىٰ"
+		},
+		{
+			"number": 5760,
+			"surah": {
+				"number": 80,
+				"name": "سُورَةُ عَبَسَ",
+				"englishName": "Abasa",
+				"englishNameTranslation": "He frowned",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 42
+			},
+			"numberInSurah": 2,
+			"juz": 30,
+			"manzil": 7,
+			"page": 585,
+			"ruku": 522,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "أَن جَاءَهُ الْأَعْمَىٰ"
+		},
+		{
+			"number": 5761,
+			"surah": {
+				"number": 80,
+				"name": "سُورَةُ عَبَسَ",
+				"englishName": "Abasa",
+				"englishNameTranslation": "He frowned",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 42
+			},
+			"numberInSurah": 3,
+			"juz": 30,
+			"manzil": 7,
+			"page": 585,
+			"ruku": 522,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "وَمَا يُدْرِيكَ لَعَلَّهُ يَزَّكَّىٰ"
+		},
+		{
+			"number": 5762,
+			"surah": {
+				"number": 80,
+				"name": "سُورَةُ عَبَسَ",
+				"englishName": "Abasa",
+				"englishNameTranslation": "He frowned",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 42
+			},
+			"numberInSurah": 4,
+			"juz": 30,
+			"manzil": 7,
+			"page": 585,
+			"ruku": 522,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "أَوْ يَذَّكَّرُ فَتَنفَعَهُ الذِّكْرَىٰ"
+		},
+		{
+			"number": 5763,
+			"surah": {
+				"number": 80,
+				"name": "سُورَةُ عَبَسَ",
+				"englishName": "Abasa",
+				"englishNameTranslation": "He frowned",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 42
+			},
+			"numberInSurah": 5,
+			"juz": 30,
+			"manzil": 7,
+			"page": 585,
+			"ruku": 522,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "أَمَّا مَنِ اسْتَغْنَىٰ"
+		},
+		{
+			"number": 5764,
+			"surah": {
+				"number": 80,
+				"name": "سُورَةُ عَبَسَ",
+				"englishName": "Abasa",
+				"englishNameTranslation": "He frowned",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 42
+			},
+			"numberInSurah": 6,
+			"juz": 30,
+			"manzil": 7,
+			"page": 585,
+			"ruku": 522,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "فَأَنتَ لَهُ تَصَدَّىٰ"
+		},
+		{
+			"number": 5765,
+			"surah": {
+				"number": 80,
+				"name": "سُورَةُ عَبَسَ",
+				"englishName": "Abasa",
+				"englishNameTranslation": "He frowned",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 42
+			},
+			"numberInSurah": 7,
+			"juz": 30,
+			"manzil": 7,
+			"page": 585,
+			"ruku": 522,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "وَمَا عَلَيْكَ أَلَّا يَزَّكَّىٰ"
+		},
+		{
+			"number": 5766,
+			"surah": {
+				"number": 80,
+				"name": "سُورَةُ عَبَسَ",
+				"englishName": "Abasa",
+				"englishNameTranslation": "He frowned",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 42
+			},
+			"numberInSurah": 8,
+			"juz": 30,
+			"manzil": 7,
+			"page": 585,
+			"ruku": 522,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "وَأَمَّا مَن جَاءَكَ يَسْعَىٰ"
+		},
+		{
+			"number": 5767,
+			"surah": {
+				"number": 80,
+				"name": "سُورَةُ عَبَسَ",
+				"englishName": "Abasa",
+				"englishNameTranslation": "He frowned",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 42
+			},
+			"numberInSurah": 9,
+			"juz": 30,
+			"manzil": 7,
+			"page": 585,
+			"ruku": 522,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "وَهُوَ يَخْشَىٰ"
+		},
+		{
+			"number": 5768,
+			"surah": {
+				"number": 80,
+				"name": "سُورَةُ عَبَسَ",
+				"englishName": "Abasa",
+				"englishNameTranslation": "He frowned",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 42
+			},
+			"numberInSurah": 10,
+			"juz": 30,
+			"manzil": 7,
+			"page": 585,
+			"ruku": 522,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "فَأَنتَ عَنْهُ تَلَهَّىٰ"
+		},
+		{
+			"number": 5769,
+			"surah": {
+				"number": 80,
+				"name": "سُورَةُ عَبَسَ",
+				"englishName": "Abasa",
+				"englishNameTranslation": "He frowned",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 42
+			},
+			"numberInSurah": 11,
+			"juz": 30,
+			"manzil": 7,
+			"page": 585,
+			"ruku": 522,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "كَلَّا إِنَّهَا تَذْكِرَةٌ"
+		},
+		{
+			"number": 5770,
+			"surah": {
+				"number": 80,
+				"name": "سُورَةُ عَبَسَ",
+				"englishName": "Abasa",
+				"englishNameTranslation": "He frowned",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 42
+			},
+			"numberInSurah": 12,
+			"juz": 30,
+			"manzil": 7,
+			"page": 585,
+			"ruku": 522,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "فَمَن شَاءَ ذَكَرَهُ"
+		},
+		{
+			"number": 5771,
+			"surah": {
+				"number": 80,
+				"name": "سُورَةُ عَبَسَ",
+				"englishName": "Abasa",
+				"englishNameTranslation": "He frowned",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 42
+			},
+			"numberInSurah": 13,
+			"juz": 30,
+			"manzil": 7,
+			"page": 585,
+			"ruku": 522,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "فِي صُحُفٍ مُّكَرَّمَةٍ"
+		},
+		{
+			"number": 5772,
+			"surah": {
+				"number": 80,
+				"name": "سُورَةُ عَبَسَ",
+				"englishName": "Abasa",
+				"englishNameTranslation": "He frowned",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 42
+			},
+			"numberInSurah": 14,
+			"juz": 30,
+			"manzil": 7,
+			"page": 585,
+			"ruku": 522,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "مَّرْفُوعَةٍ مُّطَهَّرَةٍ"
+		},
+		{
+			"number": 5773,
+			"surah": {
+				"number": 80,
+				"name": "سُورَةُ عَبَسَ",
+				"englishName": "Abasa",
+				"englishNameTranslation": "He frowned",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 42
+			},
+			"numberInSurah": 15,
+			"juz": 30,
+			"manzil": 7,
+			"page": 585,
+			"ruku": 522,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "بِأَيْدِي سَفَرَةٍ"
+		},
+		{
+			"number": 5774,
+			"surah": {
+				"number": 80,
+				"name": "سُورَةُ عَبَسَ",
+				"englishName": "Abasa",
+				"englishNameTranslation": "He frowned",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 42
+			},
+			"numberInSurah": 16,
+			"juz": 30,
+			"manzil": 7,
+			"page": 585,
+			"ruku": 522,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "كِرَامٍ بَرَرَةٍ"
+		},
+		{
+			"number": 5775,
+			"surah": {
+				"number": 80,
+				"name": "سُورَةُ عَبَسَ",
+				"englishName": "Abasa",
+				"englishNameTranslation": "He frowned",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 42
+			},
+			"numberInSurah": 17,
+			"juz": 30,
+			"manzil": 7,
+			"page": 585,
+			"ruku": 522,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "قُتِلَ الْإِنسَانُ مَا أَكْفَرَهُ"
+		},
+		{
+			"number": 5776,
+			"surah": {
+				"number": 80,
+				"name": "سُورَةُ عَبَسَ",
+				"englishName": "Abasa",
+				"englishNameTranslation": "He frowned",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 42
+			},
+			"numberInSurah": 18,
+			"juz": 30,
+			"manzil": 7,
+			"page": 585,
+			"ruku": 522,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "مِنْ أَيِّ شَيْءٍ خَلَقَهُ"
+		},
+		{
+			"number": 5777,
+			"surah": {
+				"number": 80,
+				"name": "سُورَةُ عَبَسَ",
+				"englishName": "Abasa",
+				"englishNameTranslation": "He frowned",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 42
+			},
+			"numberInSurah": 19,
+			"juz": 30,
+			"manzil": 7,
+			"page": 585,
+			"ruku": 522,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "مِن نُّطْفَةٍ خَلَقَهُ فَقَدَّرَهُ"
+		},
+		{
+			"number": 5778,
+			"surah": {
+				"number": 80,
+				"name": "سُورَةُ عَبَسَ",
+				"englishName": "Abasa",
+				"englishNameTranslation": "He frowned",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 42
+			},
+			"numberInSurah": 20,
+			"juz": 30,
+			"manzil": 7,
+			"page": 585,
+			"ruku": 522,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "ثُمَّ السَّبِيلَ يَسَّرَهُ"
+		},
+		{
+			"number": 5779,
+			"surah": {
+				"number": 80,
+				"name": "سُورَةُ عَبَسَ",
+				"englishName": "Abasa",
+				"englishNameTranslation": "He frowned",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 42
+			},
+			"numberInSurah": 21,
+			"juz": 30,
+			"manzil": 7,
+			"page": 585,
+			"ruku": 522,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "ثُمَّ أَمَاتَهُ فَأَقْبَرَهُ"
+		},
+		{
+			"number": 5780,
+			"surah": {
+				"number": 80,
+				"name": "سُورَةُ عَبَسَ",
+				"englishName": "Abasa",
+				"englishNameTranslation": "He frowned",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 42
+			},
+			"numberInSurah": 22,
+			"juz": 30,
+			"manzil": 7,
+			"page": 585,
+			"ruku": 522,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "ثُمَّ إِذَا شَاءَ أَنشَرَهُ"
+		},
+		{
+			"number": 5781,
+			"surah": {
+				"number": 80,
+				"name": "سُورَةُ عَبَسَ",
+				"englishName": "Abasa",
+				"englishNameTranslation": "He frowned",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 42
+			},
+			"numberInSurah": 23,
+			"juz": 30,
+			"manzil": 7,
+			"page": 585,
+			"ruku": 522,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "كَلَّا لَمَّا يَقْضِ مَا أَمَرَهُ"
+		},
+		{
+			"number": 5782,
+			"surah": {
+				"number": 80,
+				"name": "سُورَةُ عَبَسَ",
+				"englishName": "Abasa",
+				"englishNameTranslation": "He frowned",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 42
+			},
+			"numberInSurah": 24,
+			"juz": 30,
+			"manzil": 7,
+			"page": 585,
+			"ruku": 522,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "فَلْيَنظُرِ الْإِنسَانُ إِلَىٰ طَعَامِهِ"
+		},
+		{
+			"number": 5783,
+			"surah": {
+				"number": 80,
+				"name": "سُورَةُ عَبَسَ",
+				"englishName": "Abasa",
+				"englishNameTranslation": "He frowned",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 42
+			},
+			"numberInSurah": 25,
+			"juz": 30,
+			"manzil": 7,
+			"page": 585,
+			"ruku": 522,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "أَنَّا صَبَبْنَا الْمَاءَ صَبًّا"
+		},
+		{
+			"number": 5784,
+			"surah": {
+				"number": 80,
+				"name": "سُورَةُ عَبَسَ",
+				"englishName": "Abasa",
+				"englishNameTranslation": "He frowned",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 42
+			},
+			"numberInSurah": 26,
+			"juz": 30,
+			"manzil": 7,
+			"page": 585,
+			"ruku": 522,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "ثُمَّ شَقَقْنَا الْأَرْضَ شَقًّا"
+		},
+		{
+			"number": 5785,
+			"surah": {
+				"number": 80,
+				"name": "سُورَةُ عَبَسَ",
+				"englishName": "Abasa",
+				"englishNameTranslation": "He frowned",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 42
+			},
+			"numberInSurah": 27,
+			"juz": 30,
+			"manzil": 7,
+			"page": 585,
+			"ruku": 522,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "فَأَنبَتْنَا فِيهَا حَبًّا"
+		},
+		{
+			"number": 5786,
+			"surah": {
+				"number": 80,
+				"name": "سُورَةُ عَبَسَ",
+				"englishName": "Abasa",
+				"englishNameTranslation": "He frowned",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 42
+			},
+			"numberInSurah": 28,
+			"juz": 30,
+			"manzil": 7,
+			"page": 585,
+			"ruku": 522,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "وَعِنَبًا وَقَضْبًا"
+		},
+		{
+			"number": 5787,
+			"surah": {
+				"number": 80,
+				"name": "سُورَةُ عَبَسَ",
+				"englishName": "Abasa",
+				"englishNameTranslation": "He frowned",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 42
+			},
+			"numberInSurah": 29,
+			"juz": 30,
+			"manzil": 7,
+			"page": 585,
+			"ruku": 522,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "وَزَيْتُونًا وَنَخْلًا"
+		},
+		{
+			"number": 5788,
+			"surah": {
+				"number": 80,
+				"name": "سُورَةُ عَبَسَ",
+				"englishName": "Abasa",
+				"englishNameTranslation": "He frowned",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 42
+			},
+			"numberInSurah": 30,
+			"juz": 30,
+			"manzil": 7,
+			"page": 585,
+			"ruku": 522,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "وَحَدَائِقَ غُلْبًا"
+		},
+		{
+			"number": 5789,
+			"surah": {
+				"number": 80,
+				"name": "سُورَةُ عَبَسَ",
+				"englishName": "Abasa",
+				"englishNameTranslation": "He frowned",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 42
+			},
+			"numberInSurah": 31,
+			"juz": 30,
+			"manzil": 7,
+			"page": 585,
+			"ruku": 522,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "وَفَاكِهَةً وَأَبًّا"
+		},
+		{
+			"number": 5790,
+			"surah": {
+				"number": 80,
+				"name": "سُورَةُ عَبَسَ",
+				"englishName": "Abasa",
+				"englishNameTranslation": "He frowned",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 42
+			},
+			"numberInSurah": 32,
+			"juz": 30,
+			"manzil": 7,
+			"page": 585,
+			"ruku": 522,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "مَّتَاعًا لَّكُمْ وَلِأَنْعَامِكُمْ"
+		},
+		{
+			"number": 5791,
+			"surah": {
+				"number": 80,
+				"name": "سُورَةُ عَبَسَ",
+				"englishName": "Abasa",
+				"englishNameTranslation": "He frowned",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 42
+			},
+			"numberInSurah": 33,
+			"juz": 30,
+			"manzil": 7,
+			"page": 585,
+			"ruku": 522,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "فَإِذَا جَاءَتِ الصَّاخَّةُ"
+		},
+		{
+			"number": 5792,
+			"surah": {
+				"number": 80,
+				"name": "سُورَةُ عَبَسَ",
+				"englishName": "Abasa",
+				"englishNameTranslation": "He frowned",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 42
+			},
+			"numberInSurah": 34,
+			"juz": 30,
+			"manzil": 7,
+			"page": 585,
+			"ruku": 522,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "يَوْمَ يَفِرُّ الْمَرْءُ مِنْ أَخِيهِ"
+		},
+		{
+			"number": 5793,
+			"surah": {
+				"number": 80,
+				"name": "سُورَةُ عَبَسَ",
+				"englishName": "Abasa",
+				"englishNameTranslation": "He frowned",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 42
+			},
+			"numberInSurah": 35,
+			"juz": 30,
+			"manzil": 7,
+			"page": 585,
+			"ruku": 522,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "وَأُمِّهِ وَأَبِيهِ"
+		},
+		{
+			"number": 5794,
+			"surah": {
+				"number": 80,
+				"name": "سُورَةُ عَبَسَ",
+				"englishName": "Abasa",
+				"englishNameTranslation": "He frowned",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 42
+			},
+			"numberInSurah": 36,
+			"juz": 30,
+			"manzil": 7,
+			"page": 585,
+			"ruku": 522,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "وَصَاحِبَتِهِ وَبَنِيهِ"
+		},
+		{
+			"number": 5795,
+			"surah": {
+				"number": 80,
+				"name": "سُورَةُ عَبَسَ",
+				"englishName": "Abasa",
+				"englishNameTranslation": "He frowned",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 42
+			},
+			"numberInSurah": 37,
+			"juz": 30,
+			"manzil": 7,
+			"page": 585,
+			"ruku": 522,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "لِكُلِّ امْرِئٍ مِّنْهُمْ يَوْمَئِذٍ شَأْنٌ يُغْنِيهِ"
+		},
+		{
+			"number": 5796,
+			"surah": {
+				"number": 80,
+				"name": "سُورَةُ عَبَسَ",
+				"englishName": "Abasa",
+				"englishNameTranslation": "He frowned",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 42
+			},
+			"numberInSurah": 38,
+			"juz": 30,
+			"manzil": 7,
+			"page": 585,
+			"ruku": 522,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "وُجُوهٌ يَوْمَئِذٍ مُّسْفِرَةٌ"
+		},
+		{
+			"number": 5797,
+			"surah": {
+				"number": 80,
+				"name": "سُورَةُ عَبَسَ",
+				"englishName": "Abasa",
+				"englishNameTranslation": "He frowned",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 42
+			},
+			"numberInSurah": 39,
+			"juz": 30,
+			"manzil": 7,
+			"page": 585,
+			"ruku": 522,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "ضَاحِكَةٌ مُّسْتَبْشِرَةٌ"
+		},
+		{
+			"number": 5798,
+			"surah": {
+				"number": 80,
+				"name": "سُورَةُ عَبَسَ",
+				"englishName": "Abasa",
+				"englishNameTranslation": "He frowned",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 42
+			},
+			"numberInSurah": 40,
+			"juz": 30,
+			"manzil": 7,
+			"page": 585,
+			"ruku": 522,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "وَوُجُوهٌ يَوْمَئِذٍ عَلَيْهَا غَبَرَةٌ"
+		},
+		{
+			"number": 5799,
+			"surah": {
+				"number": 80,
+				"name": "سُورَةُ عَبَسَ",
+				"englishName": "Abasa",
+				"englishNameTranslation": "He frowned",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 42
+			},
+			"numberInSurah": 41,
+			"juz": 30,
+			"manzil": 7,
+			"page": 585,
+			"ruku": 522,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "تَرْهَقُهَا قَتَرَةٌ"
+		},
+		{
+			"number": 5800,
+			"surah": {
+				"number": 80,
+				"name": "سُورَةُ عَبَسَ",
+				"englishName": "Abasa",
+				"englishNameTranslation": "He frowned",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 42
+			},
+			"numberInSurah": 42,
+			"juz": 30,
+			"manzil": 7,
+			"page": 585,
+			"ruku": 522,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "أُولَٰئِكَ هُمُ الْكَفَرَةُ الْفَجَرَةُ"
+		},
+		{
+			"number": 5801,
+			"surah": {
+				"number": 81,
+				"name": "سُورَةُ التَّكۡوِيرِ",
+				"englishName": "At-Takwir",
+				"englishNameTranslation": "The Overthrowing",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 29
+			},
+			"numberInSurah": 1,
+			"juz": 30,
+			"manzil": 7,
+			"page": 586,
+			"ruku": 523,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ إِذَا الشَّمْسُ كُوِّرَتْ"
+		},
+		{
+			"number": 5802,
+			"surah": {
+				"number": 81,
+				"name": "سُورَةُ التَّكۡوِيرِ",
+				"englishName": "At-Takwir",
+				"englishNameTranslation": "The Overthrowing",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 29
+			},
+			"numberInSurah": 2,
+			"juz": 30,
+			"manzil": 7,
+			"page": 586,
+			"ruku": 523,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "وَإِذَا النُّجُومُ انكَدَرَتْ"
+		},
+		{
+			"number": 5803,
+			"surah": {
+				"number": 81,
+				"name": "سُورَةُ التَّكۡوِيرِ",
+				"englishName": "At-Takwir",
+				"englishNameTranslation": "The Overthrowing",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 29
+			},
+			"numberInSurah": 3,
+			"juz": 30,
+			"manzil": 7,
+			"page": 586,
+			"ruku": 523,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "وَإِذَا الْجِبَالُ سُيِّرَتْ"
+		},
+		{
+			"number": 5804,
+			"surah": {
+				"number": 81,
+				"name": "سُورَةُ التَّكۡوِيرِ",
+				"englishName": "At-Takwir",
+				"englishNameTranslation": "The Overthrowing",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 29
+			},
+			"numberInSurah": 4,
+			"juz": 30,
+			"manzil": 7,
+			"page": 586,
+			"ruku": 523,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "وَإِذَا الْعِشَارُ عُطِّلَتْ"
+		},
+		{
+			"number": 5805,
+			"surah": {
+				"number": 81,
+				"name": "سُورَةُ التَّكۡوِيرِ",
+				"englishName": "At-Takwir",
+				"englishNameTranslation": "The Overthrowing",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 29
+			},
+			"numberInSurah": 5,
+			"juz": 30,
+			"manzil": 7,
+			"page": 586,
+			"ruku": 523,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "وَإِذَا الْوُحُوشُ حُشِرَتْ"
+		},
+		{
+			"number": 5806,
+			"surah": {
+				"number": 81,
+				"name": "سُورَةُ التَّكۡوِيرِ",
+				"englishName": "At-Takwir",
+				"englishNameTranslation": "The Overthrowing",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 29
+			},
+			"numberInSurah": 6,
+			"juz": 30,
+			"manzil": 7,
+			"page": 586,
+			"ruku": 523,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "وَإِذَا الْبِحَارُ سُجِّرَتْ"
+		},
+		{
+			"number": 5807,
+			"surah": {
+				"number": 81,
+				"name": "سُورَةُ التَّكۡوِيرِ",
+				"englishName": "At-Takwir",
+				"englishNameTranslation": "The Overthrowing",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 29
+			},
+			"numberInSurah": 7,
+			"juz": 30,
+			"manzil": 7,
+			"page": 586,
+			"ruku": 523,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "وَإِذَا النُّفُوسُ زُوِّجَتْ"
+		},
+		{
+			"number": 5808,
+			"surah": {
+				"number": 81,
+				"name": "سُورَةُ التَّكۡوِيرِ",
+				"englishName": "At-Takwir",
+				"englishNameTranslation": "The Overthrowing",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 29
+			},
+			"numberInSurah": 8,
+			"juz": 30,
+			"manzil": 7,
+			"page": 586,
+			"ruku": 523,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "وَإِذَا الْمَوْءُودَةُ سُئِلَتْ"
+		},
+		{
+			"number": 5809,
+			"surah": {
+				"number": 81,
+				"name": "سُورَةُ التَّكۡوِيرِ",
+				"englishName": "At-Takwir",
+				"englishNameTranslation": "The Overthrowing",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 29
+			},
+			"numberInSurah": 9,
+			"juz": 30,
+			"manzil": 7,
+			"page": 586,
+			"ruku": 523,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "بِأَيِّ ذَنبٍ قُتِلَتْ"
+		},
+		{
+			"number": 5810,
+			"surah": {
+				"number": 81,
+				"name": "سُورَةُ التَّكۡوِيرِ",
+				"englishName": "At-Takwir",
+				"englishNameTranslation": "The Overthrowing",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 29
+			},
+			"numberInSurah": 10,
+			"juz": 30,
+			"manzil": 7,
+			"page": 586,
+			"ruku": 523,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "وَإِذَا الصُّحُفُ نُشِرَتْ"
+		},
+		{
+			"number": 5811,
+			"surah": {
+				"number": 81,
+				"name": "سُورَةُ التَّكۡوِيرِ",
+				"englishName": "At-Takwir",
+				"englishNameTranslation": "The Overthrowing",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 29
+			},
+			"numberInSurah": 11,
+			"juz": 30,
+			"manzil": 7,
+			"page": 586,
+			"ruku": 523,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "وَإِذَا السَّمَاءُ كُشِطَتْ"
+		},
+		{
+			"number": 5812,
+			"surah": {
+				"number": 81,
+				"name": "سُورَةُ التَّكۡوِيرِ",
+				"englishName": "At-Takwir",
+				"englishNameTranslation": "The Overthrowing",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 29
+			},
+			"numberInSurah": 12,
+			"juz": 30,
+			"manzil": 7,
+			"page": 586,
+			"ruku": 523,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "وَإِذَا الْجَحِيمُ سُعِّرَتْ"
+		},
+		{
+			"number": 5813,
+			"surah": {
+				"number": 81,
+				"name": "سُورَةُ التَّكۡوِيرِ",
+				"englishName": "At-Takwir",
+				"englishNameTranslation": "The Overthrowing",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 29
+			},
+			"numberInSurah": 13,
+			"juz": 30,
+			"manzil": 7,
+			"page": 586,
+			"ruku": 523,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "وَإِذَا الْجَنَّةُ أُزْلِفَتْ"
+		},
+		{
+			"number": 5814,
+			"surah": {
+				"number": 81,
+				"name": "سُورَةُ التَّكۡوِيرِ",
+				"englishName": "At-Takwir",
+				"englishNameTranslation": "The Overthrowing",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 29
+			},
+			"numberInSurah": 14,
+			"juz": 30,
+			"manzil": 7,
+			"page": 586,
+			"ruku": 523,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "عَلِمَتْ نَفْسٌ مَّا أَحْضَرَتْ"
+		},
+		{
+			"number": 5815,
+			"surah": {
+				"number": 81,
+				"name": "سُورَةُ التَّكۡوِيرِ",
+				"englishName": "At-Takwir",
+				"englishNameTranslation": "The Overthrowing",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 29
+			},
+			"numberInSurah": 15,
+			"juz": 30,
+			"manzil": 7,
+			"page": 586,
+			"ruku": 523,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "فَلَا أُقْسِمُ بِالْخُنَّسِ"
+		},
+		{
+			"number": 5816,
+			"surah": {
+				"number": 81,
+				"name": "سُورَةُ التَّكۡوِيرِ",
+				"englishName": "At-Takwir",
+				"englishNameTranslation": "The Overthrowing",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 29
+			},
+			"numberInSurah": 16,
+			"juz": 30,
+			"manzil": 7,
+			"page": 586,
+			"ruku": 523,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "الْجَوَارِ الْكُنَّسِ"
+		},
+		{
+			"number": 5817,
+			"surah": {
+				"number": 81,
+				"name": "سُورَةُ التَّكۡوِيرِ",
+				"englishName": "At-Takwir",
+				"englishNameTranslation": "The Overthrowing",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 29
+			},
+			"numberInSurah": 17,
+			"juz": 30,
+			"manzil": 7,
+			"page": 586,
+			"ruku": 523,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "وَاللَّيْلِ إِذَا عَسْعَسَ"
+		},
+		{
+			"number": 5818,
+			"surah": {
+				"number": 81,
+				"name": "سُورَةُ التَّكۡوِيرِ",
+				"englishName": "At-Takwir",
+				"englishNameTranslation": "The Overthrowing",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 29
+			},
+			"numberInSurah": 18,
+			"juz": 30,
+			"manzil": 7,
+			"page": 586,
+			"ruku": 523,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "وَالصُّبْحِ إِذَا تَنَفَّسَ"
+		},
+		{
+			"number": 5819,
+			"surah": {
+				"number": 81,
+				"name": "سُورَةُ التَّكۡوِيرِ",
+				"englishName": "At-Takwir",
+				"englishNameTranslation": "The Overthrowing",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 29
+			},
+			"numberInSurah": 19,
+			"juz": 30,
+			"manzil": 7,
+			"page": 586,
+			"ruku": 523,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "إِنَّهُ لَقَوْلُ رَسُولٍ كَرِيمٍ"
+		},
+		{
+			"number": 5820,
+			"surah": {
+				"number": 81,
+				"name": "سُورَةُ التَّكۡوِيرِ",
+				"englishName": "At-Takwir",
+				"englishNameTranslation": "The Overthrowing",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 29
+			},
+			"numberInSurah": 20,
+			"juz": 30,
+			"manzil": 7,
+			"page": 586,
+			"ruku": 523,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "ذِي قُوَّةٍ عِندَ ذِي الْعَرْشِ مَكِينٍ"
+		},
+		{
+			"number": 5821,
+			"surah": {
+				"number": 81,
+				"name": "سُورَةُ التَّكۡوِيرِ",
+				"englishName": "At-Takwir",
+				"englishNameTranslation": "The Overthrowing",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 29
+			},
+			"numberInSurah": 21,
+			"juz": 30,
+			"manzil": 7,
+			"page": 586,
+			"ruku": 523,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "مُّطَاعٍ ثَمَّ أَمِينٍ"
+		},
+		{
+			"number": 5822,
+			"surah": {
+				"number": 81,
+				"name": "سُورَةُ التَّكۡوِيرِ",
+				"englishName": "At-Takwir",
+				"englishNameTranslation": "The Overthrowing",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 29
+			},
+			"numberInSurah": 22,
+			"juz": 30,
+			"manzil": 7,
+			"page": 586,
+			"ruku": 523,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "وَمَا صَاحِبُكُم بِمَجْنُونٍ"
+		},
+		{
+			"number": 5823,
+			"surah": {
+				"number": 81,
+				"name": "سُورَةُ التَّكۡوِيرِ",
+				"englishName": "At-Takwir",
+				"englishNameTranslation": "The Overthrowing",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 29
+			},
+			"numberInSurah": 23,
+			"juz": 30,
+			"manzil": 7,
+			"page": 586,
+			"ruku": 523,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "وَلَقَدْ رَآهُ بِالْأُفُقِ الْمُبِينِ"
+		},
+		{
+			"number": 5824,
+			"surah": {
+				"number": 81,
+				"name": "سُورَةُ التَّكۡوِيرِ",
+				"englishName": "At-Takwir",
+				"englishNameTranslation": "The Overthrowing",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 29
+			},
+			"numberInSurah": 24,
+			"juz": 30,
+			"manzil": 7,
+			"page": 586,
+			"ruku": 523,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "وَمَا هُوَ عَلَى الْغَيْبِ بِضَنِينٍ"
+		},
+		{
+			"number": 5825,
+			"surah": {
+				"number": 81,
+				"name": "سُورَةُ التَّكۡوِيرِ",
+				"englishName": "At-Takwir",
+				"englishNameTranslation": "The Overthrowing",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 29
+			},
+			"numberInSurah": 25,
+			"juz": 30,
+			"manzil": 7,
+			"page": 586,
+			"ruku": 523,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "وَمَا هُوَ بِقَوْلِ شَيْطَانٍ رَّجِيمٍ"
+		},
+		{
+			"number": 5826,
+			"surah": {
+				"number": 81,
+				"name": "سُورَةُ التَّكۡوِيرِ",
+				"englishName": "At-Takwir",
+				"englishNameTranslation": "The Overthrowing",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 29
+			},
+			"numberInSurah": 26,
+			"juz": 30,
+			"manzil": 7,
+			"page": 586,
+			"ruku": 523,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "فَأَيْنَ تَذْهَبُونَ"
+		},
+		{
+			"number": 5827,
+			"surah": {
+				"number": 81,
+				"name": "سُورَةُ التَّكۡوِيرِ",
+				"englishName": "At-Takwir",
+				"englishNameTranslation": "The Overthrowing",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 29
+			},
+			"numberInSurah": 27,
+			"juz": 30,
+			"manzil": 7,
+			"page": 586,
+			"ruku": 523,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "إِنْ هُوَ إِلَّا ذِكْرٌ لِّلْعَالَمِينَ"
+		},
+		{
+			"number": 5828,
+			"surah": {
+				"number": 81,
+				"name": "سُورَةُ التَّكۡوِيرِ",
+				"englishName": "At-Takwir",
+				"englishNameTranslation": "The Overthrowing",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 29
+			},
+			"numberInSurah": 28,
+			"juz": 30,
+			"manzil": 7,
+			"page": 586,
+			"ruku": 523,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "لِمَن شَاءَ مِنكُمْ أَن يَسْتَقِيمَ"
+		},
+		{
+			"number": 5829,
+			"surah": {
+				"number": 81,
+				"name": "سُورَةُ التَّكۡوِيرِ",
+				"englishName": "At-Takwir",
+				"englishNameTranslation": "The Overthrowing",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 29
+			},
+			"numberInSurah": 29,
+			"juz": 30,
+			"manzil": 7,
+			"page": 586,
+			"ruku": 523,
+			"hizbQuarter": 234,
+			"sajda": false,
+			"text": "وَمَا تَشَاءُونَ إِلَّا أَن يَشَاءَ اللَّهُ رَبُّ الْعَالَمِينَ"
+		}
+	],
+	"surahs": {
+		"80": {
+			"number": 80,
+			"name": "سُورَةُ عَبَسَ",
+			"englishName": "Abasa",
+			"englishNameTranslation": "He frowned",
+			"revelationType": "Meccan",
+			"numberOfAyahs": 42
+		},
+		"81": {
+			"number": 81,
+			"name": "سُورَةُ التَّكۡوِيرِ",
+			"englishName": "At-Takwir",
+			"englishNameTranslation": "The Overthrowing",
+			"revelationType": "Meccan",
+			"numberOfAyahs": 29
+		}
+	},
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

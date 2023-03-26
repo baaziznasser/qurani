@@ -1,0 +1,52 @@
+﻿{
+	"number": 103,
+	"name": "سُورَةُ العَصۡرِ",
+	"englishName": "Al-Asr",
+	"englishNameTranslation": "The Declining Day, Epoch",
+	"revelationType": "Meccan",
+	"numberOfAyahs": 3,
+	"ayahs": [
+		{
+			"number": 6177,
+			"text": "أقسم الله بالدهر على أن بني آدم لفي هلكة ونقصان. ولا يجوز للعبد أن يقسم إلا بالله، فإن القسم بغير الله شرك.",
+			"numberInSurah": 1,
+			"juz": 30,
+			"manzil": 7,
+			"page": 601,
+			"ruku": 545,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6178,
+			"text": "أقسم الله بالدهر على أن بني آدم لفي هلكة ونقصان. ولا يجوز للعبد أن يقسم إلا بالله، فإن القسم بغير الله شرك.",
+			"numberInSurah": 2,
+			"juz": 30,
+			"manzil": 7,
+			"page": 601,
+			"ruku": 545,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6179,
+			"text": "إلا الذين آمنوا بالله وعملوا عملا صالحًا، وأوصى بعضهم بعضًا بالاستمساك بالحق، والعمل بطاعة الله، والصبر على ذلك.",
+			"numberInSurah": 3,
+			"juz": 30,
+			"manzil": 7,
+			"page": 601,
+			"ruku": 545,
+			"hizbQuarter": 240,
+			"sajda": false
+		}
+	],
+	"edition": {
+		"identifier": "ar.muyassar",
+		"language": "ar",
+		"name": "تفسير المیسر",
+		"englishName": "King Fahad Quran Complex",
+		"format": "text",
+		"type": "tafsir",
+		"direction": "rtl"
+	}
+}

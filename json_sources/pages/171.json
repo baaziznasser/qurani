@@ -1,0 +1,100 @@
+﻿{
+	"number": 171,
+	"ayahs": [
+		{
+			"number": 1114,
+			"text": "وَقَطَّعْنَاهُمُ اثْنَتَيْ عَشْرَةَ أَسْبَاطًا أُمَمًا ۚ وَأَوْحَيْنَا إِلَىٰ مُوسَىٰ إِذِ اسْتَسْقَاهُ قَوْمُهُ أَنِ اضْرِبْ بِعَصَاكَ الْحَجَرَ ۖ فَانْبَجَسَتْ مِنْهُ اثْنَتَا عَشْرَةَ عَيْنًا ۖ قَدْ عَلِمَ كُلُّ أُنَاسٍ مَشْرَبَهُمْ ۚ وَظَلَّلْنَا عَلَيْهِمُ الْغَمَامَ وَأَنْزَلْنَا عَلَيْهِمُ الْمَنَّ وَالسَّلْوَىٰ ۖ كُلُوا مِنْ طَيِّبَاتِ مَا رَزَقْنَاكُمْ ۚ وَمَا ظَلَمُونَا وَلَٰكِنْ كَانُوا أَنْفُسَهُمْ يَظْلِمُونَ",
+			"surah": {
+				"number": 7,
+				"name": "سُورَةُ الأَعۡرَافِ",
+				"englishName": "Al-A'raaf",
+				"englishNameTranslation": "The Heights",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 206
+			},
+			"numberInSurah": 160,
+			"juz": 9,
+			"manzil": 2,
+			"page": 171,
+			"ruku": 141,
+			"hizbQuarter": 68,
+			"sajda": false
+		},
+		{
+			"number": 1115,
+			"text": "وَإِذْ قِيلَ لَهُمُ اسْكُنُوا هَٰذِهِ الْقَرْيَةَ وَكُلُوا مِنْهَا حَيْثُ شِئْتُمْ وَقُولُوا حِطَّةٌ وَادْخُلُوا الْبَابَ سُجَّدًا نَغْفِرْ لَكُمْ خَطِيئَاتِكُمْ ۚ سَنَزِيدُ الْمُحْسِنِينَ",
+			"surah": {
+				"number": 7,
+				"name": "سُورَةُ الأَعۡرَافِ",
+				"englishName": "Al-A'raaf",
+				"englishNameTranslation": "The Heights",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 206
+			},
+			"numberInSurah": 161,
+			"juz": 9,
+			"manzil": 2,
+			"page": 171,
+			"ruku": 141,
+			"hizbQuarter": 68,
+			"sajda": false
+		},
+		{
+			"number": 1116,
+			"text": "فَبَدَّلَ الَّذِينَ ظَلَمُوا مِنْهُمْ قَوْلًا غَيْرَ الَّذِي قِيلَ لَهُمْ فَأَرْسَلْنَا عَلَيْهِمْ رِجْزًا مِنَ السَّمَاءِ بِمَا كَانُوا يَظْلِمُونَ",
+			"surah": {
+				"number": 7,
+				"name": "سُورَةُ الأَعۡرَافِ",
+				"englishName": "Al-A'raaf",
+				"englishNameTranslation": "The Heights",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 206
+			},
+			"numberInSurah": 162,
+			"juz": 9,
+			"manzil": 2,
+			"page": 171,
+			"ruku": 141,
+			"hizbQuarter": 68,
+			"sajda": false
+		},
+		{
+			"number": 1117,
+			"text": "وَاسْأَلْهُمْ عَنِ الْقَرْيَةِ الَّتِي كَانَتْ حَاضِرَةَ الْبَحْرِ إِذْ يَعْدُونَ فِي السَّبْتِ إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًا وَيَوْمَ لَا يَسْبِتُونَ ۙ لَا تَأْتِيهِمْ ۚ كَذَٰلِكَ نَبْلُوهُمْ بِمَا كَانُوا يَفْسُقُونَ",
+			"surah": {
+				"number": 7,
+				"name": "سُورَةُ الأَعۡرَافِ",
+				"englishName": "Al-A'raaf",
+				"englishNameTranslation": "The Heights",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 206
+			},
+			"numberInSurah": 163,
+			"juz": 9,
+			"manzil": 2,
+			"page": 171,
+			"ruku": 142,
+			"hizbQuarter": 68,
+			"sajda": false
+		}
+	],
+	"surahs": {
+		"7": {
+			"number": 7,
+			"name": "سُورَةُ الأَعۡرَافِ",
+			"englishName": "Al-A'raaf",
+			"englishNameTranslation": "The Heights",
+			"revelationType": "Meccan",
+			"numberOfAyahs": 206
+		}
+	},
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

@@ -1,0 +1,252 @@
+﻿{
+	"number": 437,
+	"ayahs": [
+		{
+			"number": 3679,
+			"text": "وَمَا يَسْتَوِي الْأَعْمَىٰ وَالْبَصِيرُ",
+			"surah": {
+				"number": 35,
+				"name": "سُورَةُ فَاطِرٍ",
+				"englishName": "Faatir",
+				"englishNameTranslation": "The Originator",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 45
+			},
+			"numberInSurah": 19,
+			"juz": 22,
+			"manzil": 5,
+			"page": 437,
+			"ruku": 378,
+			"hizbQuarter": 175,
+			"sajda": false
+		},
+		{
+			"number": 3680,
+			"text": "وَلَا الظُّلُمَاتُ وَلَا النُّورُ",
+			"surah": {
+				"number": 35,
+				"name": "سُورَةُ فَاطِرٍ",
+				"englishName": "Faatir",
+				"englishNameTranslation": "The Originator",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 45
+			},
+			"numberInSurah": 20,
+			"juz": 22,
+			"manzil": 5,
+			"page": 437,
+			"ruku": 378,
+			"hizbQuarter": 175,
+			"sajda": false
+		},
+		{
+			"number": 3681,
+			"text": "وَلَا الظِّلُّ وَلَا الْحَرُورُ",
+			"surah": {
+				"number": 35,
+				"name": "سُورَةُ فَاطِرٍ",
+				"englishName": "Faatir",
+				"englishNameTranslation": "The Originator",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 45
+			},
+			"numberInSurah": 21,
+			"juz": 22,
+			"manzil": 5,
+			"page": 437,
+			"ruku": 378,
+			"hizbQuarter": 175,
+			"sajda": false
+		},
+		{
+			"number": 3682,
+			"text": "وَمَا يَسْتَوِي الْأَحْيَاءُ وَلَا الْأَمْوَاتُ ۚ إِنَّ اللَّهَ يُسْمِعُ مَنْ يَشَاءُ ۖ وَمَا أَنْتَ بِمُسْمِعٍ مَنْ فِي الْقُبُورِ",
+			"surah": {
+				"number": 35,
+				"name": "سُورَةُ فَاطِرٍ",
+				"englishName": "Faatir",
+				"englishNameTranslation": "The Originator",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 45
+			},
+			"numberInSurah": 22,
+			"juz": 22,
+			"manzil": 5,
+			"page": 437,
+			"ruku": 378,
+			"hizbQuarter": 175,
+			"sajda": false
+		},
+		{
+			"number": 3683,
+			"text": "إِنْ أَنْتَ إِلَّا نَذِيرٌ",
+			"surah": {
+				"number": 35,
+				"name": "سُورَةُ فَاطِرٍ",
+				"englishName": "Faatir",
+				"englishNameTranslation": "The Originator",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 45
+			},
+			"numberInSurah": 23,
+			"juz": 22,
+			"manzil": 5,
+			"page": 437,
+			"ruku": 378,
+			"hizbQuarter": 175,
+			"sajda": false
+		},
+		{
+			"number": 3684,
+			"text": "إِنَّا أَرْسَلْنَاكَ بِالْحَقِّ بَشِيرًا وَنَذِيرًا ۚ وَإِنْ مِنْ أُمَّةٍ إِلَّا خَلَا فِيهَا نَذِيرٌ",
+			"surah": {
+				"number": 35,
+				"name": "سُورَةُ فَاطِرٍ",
+				"englishName": "Faatir",
+				"englishNameTranslation": "The Originator",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 45
+			},
+			"numberInSurah": 24,
+			"juz": 22,
+			"manzil": 5,
+			"page": 437,
+			"ruku": 378,
+			"hizbQuarter": 175,
+			"sajda": false
+		},
+		{
+			"number": 3685,
+			"text": "وَإِنْ يُكَذِّبُوكَ فَقَدْ كَذَّبَ الَّذِينَ مِنْ قَبْلِهِمْ جَاءَتْهُمْ رُسُلُهُمْ بِالْبَيِّنَاتِ وَبِالزُّبُرِ وَبِالْكِتَابِ الْمُنِيرِ",
+			"surah": {
+				"number": 35,
+				"name": "سُورَةُ فَاطِرٍ",
+				"englishName": "Faatir",
+				"englishNameTranslation": "The Originator",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 45
+			},
+			"numberInSurah": 25,
+			"juz": 22,
+			"manzil": 5,
+			"page": 437,
+			"ruku": 378,
+			"hizbQuarter": 175,
+			"sajda": false
+		},
+		{
+			"number": 3686,
+			"text": "ثُمَّ أَخَذْتُ الَّذِينَ كَفَرُوا ۖ فَكَيْفَ كَانَ نَكِيرِ",
+			"surah": {
+				"number": 35,
+				"name": "سُورَةُ فَاطِرٍ",
+				"englishName": "Faatir",
+				"englishNameTranslation": "The Originator",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 45
+			},
+			"numberInSurah": 26,
+			"juz": 22,
+			"manzil": 5,
+			"page": 437,
+			"ruku": 378,
+			"hizbQuarter": 175,
+			"sajda": false
+		},
+		{
+			"number": 3687,
+			"text": "أَلَمْ تَرَ أَنَّ اللَّهَ أَنْزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجْنَا بِهِ ثَمَرَاتٍ مُخْتَلِفًا أَلْوَانُهَا ۚ وَمِنَ الْجِبَالِ جُدَدٌ بِيضٌ وَحُمْرٌ مُخْتَلِفٌ أَلْوَانُهَا وَغَرَابِيبُ سُودٌ",
+			"surah": {
+				"number": 35,
+				"name": "سُورَةُ فَاطِرٍ",
+				"englishName": "Faatir",
+				"englishNameTranslation": "The Originator",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 45
+			},
+			"numberInSurah": 27,
+			"juz": 22,
+			"manzil": 5,
+			"page": 437,
+			"ruku": 379,
+			"hizbQuarter": 175,
+			"sajda": false
+		},
+		{
+			"number": 3688,
+			"text": "وَمِنَ النَّاسِ وَالدَّوَابِّ وَالْأَنْعَامِ مُخْتَلِفٌ أَلْوَانُهُ كَذَٰلِكَ ۗ إِنَّمَا يَخْشَى اللَّهَ مِنْ عِبَادِهِ الْعُلَمَاءُ ۗ إِنَّ اللَّهَ عَزِيزٌ غَفُورٌ",
+			"surah": {
+				"number": 35,
+				"name": "سُورَةُ فَاطِرٍ",
+				"englishName": "Faatir",
+				"englishNameTranslation": "The Originator",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 45
+			},
+			"numberInSurah": 28,
+			"juz": 22,
+			"manzil": 5,
+			"page": 437,
+			"ruku": 379,
+			"hizbQuarter": 175,
+			"sajda": false
+		},
+		{
+			"number": 3689,
+			"text": "إِنَّ الَّذِينَ يَتْلُونَ كِتَابَ اللَّهِ وَأَقَامُوا الصَّلَاةَ وَأَنْفَقُوا مِمَّا رَزَقْنَاهُمْ سِرًّا وَعَلَانِيَةً يَرْجُونَ تِجَارَةً لَنْ تَبُورَ",
+			"surah": {
+				"number": 35,
+				"name": "سُورَةُ فَاطِرٍ",
+				"englishName": "Faatir",
+				"englishNameTranslation": "The Originator",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 45
+			},
+			"numberInSurah": 29,
+			"juz": 22,
+			"manzil": 5,
+			"page": 437,
+			"ruku": 379,
+			"hizbQuarter": 175,
+			"sajda": false
+		},
+		{
+			"number": 3690,
+			"text": "لِيُوَفِّيَهُمْ أُجُورَهُمْ وَيَزِيدَهُمْ مِنْ فَضْلِهِ ۚ إِنَّهُ غَفُورٌ شَكُورٌ",
+			"surah": {
+				"number": 35,
+				"name": "سُورَةُ فَاطِرٍ",
+				"englishName": "Faatir",
+				"englishNameTranslation": "The Originator",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 45
+			},
+			"numberInSurah": 30,
+			"juz": 22,
+			"manzil": 5,
+			"page": 437,
+			"ruku": 379,
+			"hizbQuarter": 175,
+			"sajda": false
+		}
+	],
+	"surahs": {
+		"35": {
+			"number": 35,
+			"name": "سُورَةُ فَاطِرٍ",
+			"englishName": "Faatir",
+			"englishNameTranslation": "The Originator",
+			"revelationType": "Meccan",
+			"numberOfAyahs": 45
+		}
+	},
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

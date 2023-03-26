@@ -1,0 +1,245 @@
+﻿{
+	"number": 293,
+	"ayahs": [
+		{
+			"number": 2134,
+			"text": "وَبِالْحَقِّ أَنْزَلْنَاهُ وَبِالْحَقِّ نَزَلَ ۗ وَمَا أَرْسَلْنَاكَ إِلَّا مُبَشِّرًا وَنَذِيرًا",
+			"surah": {
+				"number": 17,
+				"name": "سُورَةُ الإِسۡرَاءِ",
+				"englishName": "Al-Israa",
+				"englishNameTranslation": "The Night Journey",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 105,
+			"juz": 15,
+			"manzil": 4,
+			"page": 293,
+			"ruku": 251,
+			"hizbQuarter": 117,
+			"sajda": false
+		},
+		{
+			"number": 2135,
+			"text": "وَقُرْآنًا فَرَقْنَاهُ لِتَقْرَأَهُ عَلَى النَّاسِ عَلَىٰ مُكْثٍ وَنَزَّلْنَاهُ تَنْزِيلًا",
+			"surah": {
+				"number": 17,
+				"name": "سُورَةُ الإِسۡرَاءِ",
+				"englishName": "Al-Israa",
+				"englishNameTranslation": "The Night Journey",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 106,
+			"juz": 15,
+			"manzil": 4,
+			"page": 293,
+			"ruku": 251,
+			"hizbQuarter": 117,
+			"sajda": false
+		},
+		{
+			"number": 2136,
+			"text": "قُلْ آمِنُوا بِهِ أَوْ لَا تُؤْمِنُوا ۚ إِنَّ الَّذِينَ أُوتُوا الْعِلْمَ مِنْ قَبْلِهِ إِذَا يُتْلَىٰ عَلَيْهِمْ يَخِرُّونَ لِلْأَذْقَانِ سُجَّدًا",
+			"surah": {
+				"number": 17,
+				"name": "سُورَةُ الإِسۡرَاءِ",
+				"englishName": "Al-Israa",
+				"englishNameTranslation": "The Night Journey",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 107,
+			"juz": 15,
+			"manzil": 4,
+			"page": 293,
+			"ruku": 251,
+			"hizbQuarter": 117,
+			"sajda": false
+		},
+		{
+			"number": 2137,
+			"text": "وَيَقُولُونَ سُبْحَانَ رَبِّنَا إِنْ كَانَ وَعْدُ رَبِّنَا لَمَفْعُولًا",
+			"surah": {
+				"number": 17,
+				"name": "سُورَةُ الإِسۡرَاءِ",
+				"englishName": "Al-Israa",
+				"englishNameTranslation": "The Night Journey",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 108,
+			"juz": 15,
+			"manzil": 4,
+			"page": 293,
+			"ruku": 251,
+			"hizbQuarter": 117,
+			"sajda": false
+		},
+		{
+			"number": 2138,
+			"text": "وَيَخِرُّونَ لِلْأَذْقَانِ يَبْكُونَ وَيَزِيدُهُمْ خُشُوعًا ۩",
+			"surah": {
+				"number": 17,
+				"name": "سُورَةُ الإِسۡرَاءِ",
+				"englishName": "Al-Israa",
+				"englishNameTranslation": "The Night Journey",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 109,
+			"juz": 15,
+			"manzil": 4,
+			"page": 293,
+			"ruku": 251,
+			"hizbQuarter": 117,
+			"sajda": {
+				"id": 4,
+				"recommended": true,
+				"obligatory": false
+			}
+		},
+		{
+			"number": 2139,
+			"text": "قُلِ ادْعُوا اللَّهَ أَوِ ادْعُوا الرَّحْمَٰنَ ۖ أَيًّا مَا تَدْعُوا فَلَهُ الْأَسْمَاءُ الْحُسْنَىٰ ۚ وَلَا تَجْهَرْ بِصَلَاتِكَ وَلَا تُخَافِتْ بِهَا وَابْتَغِ بَيْنَ ذَٰلِكَ سَبِيلًا",
+			"surah": {
+				"number": 17,
+				"name": "سُورَةُ الإِسۡرَاءِ",
+				"englishName": "Al-Israa",
+				"englishNameTranslation": "The Night Journey",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 110,
+			"juz": 15,
+			"manzil": 4,
+			"page": 293,
+			"ruku": 251,
+			"hizbQuarter": 117,
+			"sajda": false
+		},
+		{
+			"number": 2140,
+			"text": "وَقُلِ الْحَمْدُ لِلَّهِ الَّذِي لَمْ يَتَّخِذْ وَلَدًا وَلَمْ يَكُنْ لَهُ شَرِيكٌ فِي الْمُلْكِ وَلَمْ يَكُنْ لَهُ وَلِيٌّ مِنَ الذُّلِّ ۖ وَكَبِّرْهُ تَكْبِيرًا",
+			"surah": {
+				"number": 17,
+				"name": "سُورَةُ الإِسۡرَاءِ",
+				"englishName": "Al-Israa",
+				"englishNameTranslation": "The Night Journey",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 111,
+			"juz": 15,
+			"manzil": 4,
+			"page": 293,
+			"ruku": 251,
+			"hizbQuarter": 117,
+			"sajda": false
+		},
+		{
+			"number": 2141,
+			"text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ الْحَمْدُ لِلَّهِ الَّذِي أَنْزَلَ عَلَىٰ عَبْدِهِ الْكِتَابَ وَلَمْ يَجْعَلْ لَهُ عِوَجًا ۜ",
+			"surah": {
+				"number": 18,
+				"name": "سُورَةُ الكَهۡفِ",
+				"englishName": "Al-Kahf",
+				"englishNameTranslation": "The Cave",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 110
+			},
+			"numberInSurah": 1,
+			"juz": 15,
+			"manzil": 4,
+			"page": 293,
+			"ruku": 252,
+			"hizbQuarter": 117,
+			"sajda": false
+		},
+		{
+			"number": 2142,
+			"text": "قَيِّمًا لِيُنْذِرَ بَأْسًا شَدِيدًا مِنْ لَدُنْهُ وَيُبَشِّرَ الْمُؤْمِنِينَ الَّذِينَ يَعْمَلُونَ الصَّالِحَاتِ أَنَّ لَهُمْ أَجْرًا حَسَنًا",
+			"surah": {
+				"number": 18,
+				"name": "سُورَةُ الكَهۡفِ",
+				"englishName": "Al-Kahf",
+				"englishNameTranslation": "The Cave",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 110
+			},
+			"numberInSurah": 2,
+			"juz": 15,
+			"manzil": 4,
+			"page": 293,
+			"ruku": 252,
+			"hizbQuarter": 117,
+			"sajda": false
+		},
+		{
+			"number": 2143,
+			"text": "مَاكِثِينَ فِيهِ أَبَدًا",
+			"surah": {
+				"number": 18,
+				"name": "سُورَةُ الكَهۡفِ",
+				"englishName": "Al-Kahf",
+				"englishNameTranslation": "The Cave",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 110
+			},
+			"numberInSurah": 3,
+			"juz": 15,
+			"manzil": 4,
+			"page": 293,
+			"ruku": 252,
+			"hizbQuarter": 117,
+			"sajda": false
+		},
+		{
+			"number": 2144,
+			"text": "وَيُنْذِرَ الَّذِينَ قَالُوا اتَّخَذَ اللَّهُ وَلَدًا",
+			"surah": {
+				"number": 18,
+				"name": "سُورَةُ الكَهۡفِ",
+				"englishName": "Al-Kahf",
+				"englishNameTranslation": "The Cave",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 110
+			},
+			"numberInSurah": 4,
+			"juz": 15,
+			"manzil": 4,
+			"page": 293,
+			"ruku": 252,
+			"hizbQuarter": 117,
+			"sajda": false
+		}
+	],
+	"surahs": {
+		"17": {
+			"number": 17,
+			"name": "سُورَةُ الإِسۡرَاءِ",
+			"englishName": "Al-Israa",
+			"englishNameTranslation": "The Night Journey",
+			"revelationType": "Meccan",
+			"numberOfAyahs": 111
+		},
+		"18": {
+			"number": 18,
+			"name": "سُورَةُ الكَهۡفِ",
+			"englishName": "Al-Kahf",
+			"englishNameTranslation": "The Cave",
+			"revelationType": "Meccan",
+			"numberOfAyahs": 110
+		}
+	},
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

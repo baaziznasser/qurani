@@ -1,0 +1,298 @@
+﻿{
+	"number": 84,
+	"name": "سُورَةُ الانشِقَاقِ",
+	"englishName": "Al-Inshiqaaq",
+	"englishNameTranslation": "The Splitting Open",
+	"revelationType": "Meccan",
+	"numberOfAyahs": 25,
+	"ayahs": [
+		{
+			"number": 5885,
+			"text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ إِذَا السَّمَاءُ انْشَقَّتْ",
+			"numberInSurah": 1,
+			"juz": 30,
+			"manzil": 7,
+			"page": 589,
+			"ruku": 526,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5886,
+			"text": "وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ",
+			"numberInSurah": 2,
+			"juz": 30,
+			"manzil": 7,
+			"page": 589,
+			"ruku": 526,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5887,
+			"text": "وَإِذَا الْأَرْضُ مُدَّتْ",
+			"numberInSurah": 3,
+			"juz": 30,
+			"manzil": 7,
+			"page": 589,
+			"ruku": 526,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5888,
+			"text": "وَأَلْقَتْ مَا فِيهَا وَتَخَلَّتْ",
+			"numberInSurah": 4,
+			"juz": 30,
+			"manzil": 7,
+			"page": 589,
+			"ruku": 526,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5889,
+			"text": "وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ",
+			"numberInSurah": 5,
+			"juz": 30,
+			"manzil": 7,
+			"page": 589,
+			"ruku": 526,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5890,
+			"text": "يَا أَيُّهَا الْإِنْسَانُ إِنَّكَ كَادِحٌ إِلَىٰ رَبِّكَ كَدْحًا فَمُلَاقِيهِ",
+			"numberInSurah": 6,
+			"juz": 30,
+			"manzil": 7,
+			"page": 589,
+			"ruku": 526,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5891,
+			"text": "فَأَمَّا مَنْ أُوتِيَ كِتَابَهُ بِيَمِينِهِ",
+			"numberInSurah": 7,
+			"juz": 30,
+			"manzil": 7,
+			"page": 589,
+			"ruku": 526,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5892,
+			"text": "فَسَوْفَ يُحَاسَبُ حِسَابًا يَسِيرًا",
+			"numberInSurah": 8,
+			"juz": 30,
+			"manzil": 7,
+			"page": 589,
+			"ruku": 526,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5893,
+			"text": "وَيَنْقَلِبُ إِلَىٰ أَهْلِهِ مَسْرُورًا",
+			"numberInSurah": 9,
+			"juz": 30,
+			"manzil": 7,
+			"page": 589,
+			"ruku": 526,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5894,
+			"text": "وَأَمَّا مَنْ أُوتِيَ كِتَابَهُ وَرَاءَ ظَهْرِهِ",
+			"numberInSurah": 10,
+			"juz": 30,
+			"manzil": 7,
+			"page": 589,
+			"ruku": 526,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5895,
+			"text": "فَسَوْفَ يَدْعُو ثُبُورًا",
+			"numberInSurah": 11,
+			"juz": 30,
+			"manzil": 7,
+			"page": 589,
+			"ruku": 526,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5896,
+			"text": "وَيَصْلَىٰ سَعِيرًا",
+			"numberInSurah": 12,
+			"juz": 30,
+			"manzil": 7,
+			"page": 589,
+			"ruku": 526,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5897,
+			"text": "إِنَّهُ كَانَ فِي أَهْلِهِ مَسْرُورًا",
+			"numberInSurah": 13,
+			"juz": 30,
+			"manzil": 7,
+			"page": 589,
+			"ruku": 526,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5898,
+			"text": "إِنَّهُ ظَنَّ أَنْ لَنْ يَحُورَ",
+			"numberInSurah": 14,
+			"juz": 30,
+			"manzil": 7,
+			"page": 589,
+			"ruku": 526,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5899,
+			"text": "بَلَىٰ إِنَّ رَبَّهُ كَانَ بِهِ بَصِيرًا",
+			"numberInSurah": 15,
+			"juz": 30,
+			"manzil": 7,
+			"page": 589,
+			"ruku": 526,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5900,
+			"text": "فَلَا أُقْسِمُ بِالشَّفَقِ",
+			"numberInSurah": 16,
+			"juz": 30,
+			"manzil": 7,
+			"page": 589,
+			"ruku": 526,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5901,
+			"text": "وَاللَّيْلِ وَمَا وَسَقَ",
+			"numberInSurah": 17,
+			"juz": 30,
+			"manzil": 7,
+			"page": 589,
+			"ruku": 526,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5902,
+			"text": "وَالْقَمَرِ إِذَا اتَّسَقَ",
+			"numberInSurah": 18,
+			"juz": 30,
+			"manzil": 7,
+			"page": 589,
+			"ruku": 526,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5903,
+			"text": "لَتَرْكَبُنَّ طَبَقًا عَنْ طَبَقٍ",
+			"numberInSurah": 19,
+			"juz": 30,
+			"manzil": 7,
+			"page": 589,
+			"ruku": 526,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5904,
+			"text": "فَمَا لَهُمْ لَا يُؤْمِنُونَ",
+			"numberInSurah": 20,
+			"juz": 30,
+			"manzil": 7,
+			"page": 589,
+			"ruku": 526,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5905,
+			"text": "وَإِذَا قُرِئَ عَلَيْهِمُ الْقُرْآنُ لَا يَسْجُدُونَ ۩",
+			"numberInSurah": 21,
+			"juz": 30,
+			"manzil": 7,
+			"page": 589,
+			"ruku": 526,
+			"hizbQuarter": 236,
+			"sajda": {
+				"id": 14,
+				"recommended": true,
+				"obligatory": false
+			}
+		},
+		{
+			"number": 5906,
+			"text": "بَلِ الَّذِينَ كَفَرُوا يُكَذِّبُونَ",
+			"numberInSurah": 22,
+			"juz": 30,
+			"manzil": 7,
+			"page": 589,
+			"ruku": 526,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5907,
+			"text": "وَاللَّهُ أَعْلَمُ بِمَا يُوعُونَ",
+			"numberInSurah": 23,
+			"juz": 30,
+			"manzil": 7,
+			"page": 589,
+			"ruku": 526,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5908,
+			"text": "فَبَشِّرْهُمْ بِعَذَابٍ أَلِيمٍ",
+			"numberInSurah": 24,
+			"juz": 30,
+			"manzil": 7,
+			"page": 589,
+			"ruku": 526,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5909,
+			"text": "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ",
+			"numberInSurah": 25,
+			"juz": 30,
+			"manzil": 7,
+			"page": 589,
+			"ruku": 526,
+			"hizbQuarter": 236,
+			"sajda": false
+		}
+	],
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

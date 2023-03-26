@@ -1,0 +1,879 @@
+﻿{
+	"number": 16,
+	"ayahs": [
+		{
+			"number": 955,
+			"text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ المص",
+			"surah": {
+				"number": 7,
+				"name": "سُورَةُ الأَعۡرَافِ",
+				"englishName": "Al-A'raaf",
+				"englishNameTranslation": "The Heights",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 206
+			},
+			"numberInSurah": 1,
+			"juz": 8,
+			"manzil": 2,
+			"page": 151,
+			"ruku": 122,
+			"hizbQuarter": 61,
+			"sajda": false
+		},
+		{
+			"number": 956,
+			"text": "كِتَابٌ أُنْزِلَ إِلَيْكَ فَلَا يَكُنْ فِي صَدْرِكَ حَرَجٌ مِنْهُ لِتُنْذِرَ بِهِ وَذِكْرَىٰ لِلْمُؤْمِنِينَ",
+			"surah": {
+				"number": 7,
+				"name": "سُورَةُ الأَعۡرَافِ",
+				"englishName": "Al-A'raaf",
+				"englishNameTranslation": "The Heights",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 206
+			},
+			"numberInSurah": 2,
+			"juz": 8,
+			"manzil": 2,
+			"page": 151,
+			"ruku": 122,
+			"hizbQuarter": 61,
+			"sajda": false
+		},
+		{
+			"number": 957,
+			"text": "اتَّبِعُوا مَا أُنْزِلَ إِلَيْكُمْ مِنْ رَبِّكُمْ وَلَا تَتَّبِعُوا مِنْ دُونِهِ أَوْلِيَاءَ ۗ قَلِيلًا مَا تَذَكَّرُونَ",
+			"surah": {
+				"number": 7,
+				"name": "سُورَةُ الأَعۡرَافِ",
+				"englishName": "Al-A'raaf",
+				"englishNameTranslation": "The Heights",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 206
+			},
+			"numberInSurah": 3,
+			"juz": 8,
+			"manzil": 2,
+			"page": 151,
+			"ruku": 122,
+			"hizbQuarter": 61,
+			"sajda": false
+		},
+		{
+			"number": 958,
+			"text": "وَكَمْ مِنْ قَرْيَةٍ أَهْلَكْنَاهَا فَجَاءَهَا بَأْسُنَا بَيَاتًا أَوْ هُمْ قَائِلُونَ",
+			"surah": {
+				"number": 7,
+				"name": "سُورَةُ الأَعۡرَافِ",
+				"englishName": "Al-A'raaf",
+				"englishNameTranslation": "The Heights",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 206
+			},
+			"numberInSurah": 4,
+			"juz": 8,
+			"manzil": 2,
+			"page": 151,
+			"ruku": 122,
+			"hizbQuarter": 61,
+			"sajda": false
+		},
+		{
+			"number": 959,
+			"text": "فَمَا كَانَ دَعْوَاهُمْ إِذْ جَاءَهُمْ بَأْسُنَا إِلَّا أَنْ قَالُوا إِنَّا كُنَّا ظَالِمِينَ",
+			"surah": {
+				"number": 7,
+				"name": "سُورَةُ الأَعۡرَافِ",
+				"englishName": "Al-A'raaf",
+				"englishNameTranslation": "The Heights",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 206
+			},
+			"numberInSurah": 5,
+			"juz": 8,
+			"manzil": 2,
+			"page": 151,
+			"ruku": 122,
+			"hizbQuarter": 61,
+			"sajda": false
+		},
+		{
+			"number": 960,
+			"text": "فَلَنَسْأَلَنَّ الَّذِينَ أُرْسِلَ إِلَيْهِمْ وَلَنَسْأَلَنَّ الْمُرْسَلِينَ",
+			"surah": {
+				"number": 7,
+				"name": "سُورَةُ الأَعۡرَافِ",
+				"englishName": "Al-A'raaf",
+				"englishNameTranslation": "The Heights",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 206
+			},
+			"numberInSurah": 6,
+			"juz": 8,
+			"manzil": 2,
+			"page": 151,
+			"ruku": 122,
+			"hizbQuarter": 61,
+			"sajda": false
+		},
+		{
+			"number": 961,
+			"text": "فَلَنَقُصَّنَّ عَلَيْهِمْ بِعِلْمٍ ۖ وَمَا كُنَّا غَائِبِينَ",
+			"surah": {
+				"number": 7,
+				"name": "سُورَةُ الأَعۡرَافِ",
+				"englishName": "Al-A'raaf",
+				"englishNameTranslation": "The Heights",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 206
+			},
+			"numberInSurah": 7,
+			"juz": 8,
+			"manzil": 2,
+			"page": 151,
+			"ruku": 122,
+			"hizbQuarter": 61,
+			"sajda": false
+		},
+		{
+			"number": 962,
+			"text": "وَالْوَزْنُ يَوْمَئِذٍ الْحَقُّ ۚ فَمَنْ ثَقُلَتْ مَوَازِينُهُ فَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ",
+			"surah": {
+				"number": 7,
+				"name": "سُورَةُ الأَعۡرَافِ",
+				"englishName": "Al-A'raaf",
+				"englishNameTranslation": "The Heights",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 206
+			},
+			"numberInSurah": 8,
+			"juz": 8,
+			"manzil": 2,
+			"page": 151,
+			"ruku": 122,
+			"hizbQuarter": 61,
+			"sajda": false
+		},
+		{
+			"number": 963,
+			"text": "وَمَنْ خَفَّتْ مَوَازِينُهُ فَأُولَٰئِكَ الَّذِينَ خَسِرُوا أَنْفُسَهُمْ بِمَا كَانُوا بِآيَاتِنَا يَظْلِمُونَ",
+			"surah": {
+				"number": 7,
+				"name": "سُورَةُ الأَعۡرَافِ",
+				"englishName": "Al-A'raaf",
+				"englishNameTranslation": "The Heights",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 206
+			},
+			"numberInSurah": 9,
+			"juz": 8,
+			"manzil": 2,
+			"page": 151,
+			"ruku": 122,
+			"hizbQuarter": 61,
+			"sajda": false
+		},
+		{
+			"number": 964,
+			"text": "وَلَقَدْ مَكَّنَّاكُمْ فِي الْأَرْضِ وَجَعَلْنَا لَكُمْ فِيهَا مَعَايِشَ ۗ قَلِيلًا مَا تَشْكُرُونَ",
+			"surah": {
+				"number": 7,
+				"name": "سُورَةُ الأَعۡرَافِ",
+				"englishName": "Al-A'raaf",
+				"englishNameTranslation": "The Heights",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 206
+			},
+			"numberInSurah": 10,
+			"juz": 8,
+			"manzil": 2,
+			"page": 151,
+			"ruku": 122,
+			"hizbQuarter": 61,
+			"sajda": false
+		},
+		{
+			"number": 965,
+			"text": "وَلَقَدْ خَلَقْنَاكُمْ ثُمَّ صَوَّرْنَاكُمْ ثُمَّ قُلْنَا لِلْمَلَائِكَةِ اسْجُدُوا لِآدَمَ فَسَجَدُوا إِلَّا إِبْلِيسَ لَمْ يَكُنْ مِنَ السَّاجِدِينَ",
+			"surah": {
+				"number": 7,
+				"name": "سُورَةُ الأَعۡرَافِ",
+				"englishName": "Al-A'raaf",
+				"englishNameTranslation": "The Heights",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 206
+			},
+			"numberInSurah": 11,
+			"juz": 8,
+			"manzil": 2,
+			"page": 151,
+			"ruku": 123,
+			"hizbQuarter": 61,
+			"sajda": false
+		},
+		{
+			"number": 966,
+			"text": "قَالَ مَا مَنَعَكَ أَلَّا تَسْجُدَ إِذْ أَمَرْتُكَ ۖ قَالَ أَنَا خَيْرٌ مِنْهُ خَلَقْتَنِي مِنْ نَارٍ وَخَلَقْتَهُ مِنْ طِينٍ",
+			"surah": {
+				"number": 7,
+				"name": "سُورَةُ الأَعۡرَافِ",
+				"englishName": "Al-A'raaf",
+				"englishNameTranslation": "The Heights",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 206
+			},
+			"numberInSurah": 12,
+			"juz": 8,
+			"manzil": 2,
+			"page": 152,
+			"ruku": 123,
+			"hizbQuarter": 61,
+			"sajda": false
+		},
+		{
+			"number": 967,
+			"text": "قَالَ فَاهْبِطْ مِنْهَا فَمَا يَكُونُ لَكَ أَنْ تَتَكَبَّرَ فِيهَا فَاخْرُجْ إِنَّكَ مِنَ الصَّاغِرِينَ",
+			"surah": {
+				"number": 7,
+				"name": "سُورَةُ الأَعۡرَافِ",
+				"englishName": "Al-A'raaf",
+				"englishNameTranslation": "The Heights",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 206
+			},
+			"numberInSurah": 13,
+			"juz": 8,
+			"manzil": 2,
+			"page": 152,
+			"ruku": 123,
+			"hizbQuarter": 61,
+			"sajda": false
+		},
+		{
+			"number": 968,
+			"text": "قَالَ أَنْظِرْنِي إِلَىٰ يَوْمِ يُبْعَثُونَ",
+			"surah": {
+				"number": 7,
+				"name": "سُورَةُ الأَعۡرَافِ",
+				"englishName": "Al-A'raaf",
+				"englishNameTranslation": "The Heights",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 206
+			},
+			"numberInSurah": 14,
+			"juz": 8,
+			"manzil": 2,
+			"page": 152,
+			"ruku": 123,
+			"hizbQuarter": 61,
+			"sajda": false
+		},
+		{
+			"number": 969,
+			"text": "قَالَ إِنَّكَ مِنَ الْمُنْظَرِينَ",
+			"surah": {
+				"number": 7,
+				"name": "سُورَةُ الأَعۡرَافِ",
+				"englishName": "Al-A'raaf",
+				"englishNameTranslation": "The Heights",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 206
+			},
+			"numberInSurah": 15,
+			"juz": 8,
+			"manzil": 2,
+			"page": 152,
+			"ruku": 123,
+			"hizbQuarter": 61,
+			"sajda": false
+		},
+		{
+			"number": 970,
+			"text": "قَالَ فَبِمَا أَغْوَيْتَنِي لَأَقْعُدَنَّ لَهُمْ صِرَاطَكَ الْمُسْتَقِيمَ",
+			"surah": {
+				"number": 7,
+				"name": "سُورَةُ الأَعۡرَافِ",
+				"englishName": "Al-A'raaf",
+				"englishNameTranslation": "The Heights",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 206
+			},
+			"numberInSurah": 16,
+			"juz": 8,
+			"manzil": 2,
+			"page": 152,
+			"ruku": 123,
+			"hizbQuarter": 61,
+			"sajda": false
+		},
+		{
+			"number": 971,
+			"text": "ثُمَّ لَآتِيَنَّهُمْ مِنْ بَيْنِ أَيْدِيهِمْ وَمِنْ خَلْفِهِمْ وَعَنْ أَيْمَانِهِمْ وَعَنْ شَمَائِلِهِمْ ۖ وَلَا تَجِدُ أَكْثَرَهُمْ شَاكِرِينَ",
+			"surah": {
+				"number": 7,
+				"name": "سُورَةُ الأَعۡرَافِ",
+				"englishName": "Al-A'raaf",
+				"englishNameTranslation": "The Heights",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 206
+			},
+			"numberInSurah": 17,
+			"juz": 8,
+			"manzil": 2,
+			"page": 152,
+			"ruku": 123,
+			"hizbQuarter": 61,
+			"sajda": false
+		},
+		{
+			"number": 972,
+			"text": "قَالَ اخْرُجْ مِنْهَا مَذْءُومًا مَدْحُورًا ۖ لَمَنْ تَبِعَكَ مِنْهُمْ لَأَمْلَأَنَّ جَهَنَّمَ مِنْكُمْ أَجْمَعِينَ",
+			"surah": {
+				"number": 7,
+				"name": "سُورَةُ الأَعۡرَافِ",
+				"englishName": "Al-A'raaf",
+				"englishNameTranslation": "The Heights",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 206
+			},
+			"numberInSurah": 18,
+			"juz": 8,
+			"manzil": 2,
+			"page": 152,
+			"ruku": 123,
+			"hizbQuarter": 61,
+			"sajda": false
+		},
+		{
+			"number": 973,
+			"text": "وَيَا آدَمُ اسْكُنْ أَنْتَ وَزَوْجُكَ الْجَنَّةَ فَكُلَا مِنْ حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا هَٰذِهِ الشَّجَرَةَ فَتَكُونَا مِنَ الظَّالِمِينَ",
+			"surah": {
+				"number": 7,
+				"name": "سُورَةُ الأَعۡرَافِ",
+				"englishName": "Al-A'raaf",
+				"englishNameTranslation": "The Heights",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 206
+			},
+			"numberInSurah": 19,
+			"juz": 8,
+			"manzil": 2,
+			"page": 152,
+			"ruku": 123,
+			"hizbQuarter": 61,
+			"sajda": false
+		},
+		{
+			"number": 974,
+			"text": "فَوَسْوَسَ لَهُمَا الشَّيْطَانُ لِيُبْدِيَ لَهُمَا مَا وُورِيَ عَنْهُمَا مِنْ سَوْآتِهِمَا وَقَالَ مَا نَهَاكُمَا رَبُّكُمَا عَنْ هَٰذِهِ الشَّجَرَةِ إِلَّا أَنْ تَكُونَا مَلَكَيْنِ أَوْ تَكُونَا مِنَ الْخَالِدِينَ",
+			"surah": {
+				"number": 7,
+				"name": "سُورَةُ الأَعۡرَافِ",
+				"englishName": "Al-A'raaf",
+				"englishNameTranslation": "The Heights",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 206
+			},
+			"numberInSurah": 20,
+			"juz": 8,
+			"manzil": 2,
+			"page": 152,
+			"ruku": 123,
+			"hizbQuarter": 61,
+			"sajda": false
+		},
+		{
+			"number": 975,
+			"text": "وَقَاسَمَهُمَا إِنِّي لَكُمَا لَمِنَ النَّاصِحِينَ",
+			"surah": {
+				"number": 7,
+				"name": "سُورَةُ الأَعۡرَافِ",
+				"englishName": "Al-A'raaf",
+				"englishNameTranslation": "The Heights",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 206
+			},
+			"numberInSurah": 21,
+			"juz": 8,
+			"manzil": 2,
+			"page": 152,
+			"ruku": 123,
+			"hizbQuarter": 61,
+			"sajda": false
+		},
+		{
+			"number": 976,
+			"text": "فَدَلَّاهُمَا بِغُرُورٍ ۚ فَلَمَّا ذَاقَا الشَّجَرَةَ بَدَتْ لَهُمَا سَوْآتُهُمَا وَطَفِقَا يَخْصِفَانِ عَلَيْهِمَا مِنْ وَرَقِ الْجَنَّةِ ۖ وَنَادَاهُمَا رَبُّهُمَا أَلَمْ أَنْهَكُمَا عَنْ تِلْكُمَا الشَّجَرَةِ وَأَقُلْ لَكُمَا إِنَّ الشَّيْطَانَ لَكُمَا عَدُوٌّ مُبِينٌ",
+			"surah": {
+				"number": 7,
+				"name": "سُورَةُ الأَعۡرَافِ",
+				"englishName": "Al-A'raaf",
+				"englishNameTranslation": "The Heights",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 206
+			},
+			"numberInSurah": 22,
+			"juz": 8,
+			"manzil": 2,
+			"page": 152,
+			"ruku": 123,
+			"hizbQuarter": 61,
+			"sajda": false
+		},
+		{
+			"number": 977,
+			"text": "قَالَا رَبَّنَا ظَلَمْنَا أَنْفُسَنَا وَإِنْ لَمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ الْخَاسِرِينَ",
+			"surah": {
+				"number": 7,
+				"name": "سُورَةُ الأَعۡرَافِ",
+				"englishName": "Al-A'raaf",
+				"englishNameTranslation": "The Heights",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 206
+			},
+			"numberInSurah": 23,
+			"juz": 8,
+			"manzil": 2,
+			"page": 153,
+			"ruku": 123,
+			"hizbQuarter": 61,
+			"sajda": false
+		},
+		{
+			"number": 978,
+			"text": "قَالَ اهْبِطُوا بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ ۖ وَلَكُمْ فِي الْأَرْضِ مُسْتَقَرٌّ وَمَتَاعٌ إِلَىٰ حِينٍ",
+			"surah": {
+				"number": 7,
+				"name": "سُورَةُ الأَعۡرَافِ",
+				"englishName": "Al-A'raaf",
+				"englishNameTranslation": "The Heights",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 206
+			},
+			"numberInSurah": 24,
+			"juz": 8,
+			"manzil": 2,
+			"page": 153,
+			"ruku": 123,
+			"hizbQuarter": 61,
+			"sajda": false
+		},
+		{
+			"number": 979,
+			"text": "قَالَ فِيهَا تَحْيَوْنَ وَفِيهَا تَمُوتُونَ وَمِنْهَا تُخْرَجُونَ",
+			"surah": {
+				"number": 7,
+				"name": "سُورَةُ الأَعۡرَافِ",
+				"englishName": "Al-A'raaf",
+				"englishNameTranslation": "The Heights",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 206
+			},
+			"numberInSurah": 25,
+			"juz": 8,
+			"manzil": 2,
+			"page": 153,
+			"ruku": 123,
+			"hizbQuarter": 61,
+			"sajda": false
+		},
+		{
+			"number": 980,
+			"text": "يَا بَنِي آدَمَ قَدْ أَنْزَلْنَا عَلَيْكُمْ لِبَاسًا يُوَارِي سَوْآتِكُمْ وَرِيشًا ۖ وَلِبَاسُ التَّقْوَىٰ ذَٰلِكَ خَيْرٌ ۚ ذَٰلِكَ مِنْ آيَاتِ اللَّهِ لَعَلَّهُمْ يَذَّكَّرُونَ",
+			"surah": {
+				"number": 7,
+				"name": "سُورَةُ الأَعۡرَافِ",
+				"englishName": "Al-A'raaf",
+				"englishNameTranslation": "The Heights",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 206
+			},
+			"numberInSurah": 26,
+			"juz": 8,
+			"manzil": 2,
+			"page": 153,
+			"ruku": 124,
+			"hizbQuarter": 61,
+			"sajda": false
+		},
+		{
+			"number": 981,
+			"text": "يَا بَنِي آدَمَ لَا يَفْتِنَنَّكُمُ الشَّيْطَانُ كَمَا أَخْرَجَ أَبَوَيْكُمْ مِنَ الْجَنَّةِ يَنْزِعُ عَنْهُمَا لِبَاسَهُمَا لِيُرِيَهُمَا سَوْآتِهِمَا ۗ إِنَّهُ يَرَاكُمْ هُوَ وَقَبِيلُهُ مِنْ حَيْثُ لَا تَرَوْنَهُمْ ۗ إِنَّا جَعَلْنَا الشَّيَاطِينَ أَوْلِيَاءَ لِلَّذِينَ لَا يُؤْمِنُونَ",
+			"surah": {
+				"number": 7,
+				"name": "سُورَةُ الأَعۡرَافِ",
+				"englishName": "Al-A'raaf",
+				"englishNameTranslation": "The Heights",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 206
+			},
+			"numberInSurah": 27,
+			"juz": 8,
+			"manzil": 2,
+			"page": 153,
+			"ruku": 124,
+			"hizbQuarter": 61,
+			"sajda": false
+		},
+		{
+			"number": 982,
+			"text": "وَإِذَا فَعَلُوا فَاحِشَةً قَالُوا وَجَدْنَا عَلَيْهَا آبَاءَنَا وَاللَّهُ أَمَرَنَا بِهَا ۗ قُلْ إِنَّ اللَّهَ لَا يَأْمُرُ بِالْفَحْشَاءِ ۖ أَتَقُولُونَ عَلَى اللَّهِ مَا لَا تَعْلَمُونَ",
+			"surah": {
+				"number": 7,
+				"name": "سُورَةُ الأَعۡرَافِ",
+				"englishName": "Al-A'raaf",
+				"englishNameTranslation": "The Heights",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 206
+			},
+			"numberInSurah": 28,
+			"juz": 8,
+			"manzil": 2,
+			"page": 153,
+			"ruku": 124,
+			"hizbQuarter": 61,
+			"sajda": false
+		},
+		{
+			"number": 983,
+			"text": "قُلْ أَمَرَ رَبِّي بِالْقِسْطِ ۖ وَأَقِيمُوا وُجُوهَكُمْ عِنْدَ كُلِّ مَسْجِدٍ وَادْعُوهُ مُخْلِصِينَ لَهُ الدِّينَ ۚ كَمَا بَدَأَكُمْ تَعُودُونَ",
+			"surah": {
+				"number": 7,
+				"name": "سُورَةُ الأَعۡرَافِ",
+				"englishName": "Al-A'raaf",
+				"englishNameTranslation": "The Heights",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 206
+			},
+			"numberInSurah": 29,
+			"juz": 8,
+			"manzil": 2,
+			"page": 153,
+			"ruku": 124,
+			"hizbQuarter": 61,
+			"sajda": false
+		},
+		{
+			"number": 984,
+			"text": "فَرِيقًا هَدَىٰ وَفَرِيقًا حَقَّ عَلَيْهِمُ الضَّلَالَةُ ۗ إِنَّهُمُ اتَّخَذُوا الشَّيَاطِينَ أَوْلِيَاءَ مِنْ دُونِ اللَّهِ وَيَحْسَبُونَ أَنَّهُمْ مُهْتَدُونَ",
+			"surah": {
+				"number": 7,
+				"name": "سُورَةُ الأَعۡرَافِ",
+				"englishName": "Al-A'raaf",
+				"englishNameTranslation": "The Heights",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 206
+			},
+			"numberInSurah": 30,
+			"juz": 8,
+			"manzil": 2,
+			"page": 153,
+			"ruku": 124,
+			"hizbQuarter": 61,
+			"sajda": false
+		},
+		{
+			"number": 985,
+			"text": "۞ يَا بَنِي آدَمَ خُذُوا زِينَتَكُمْ عِنْدَ كُلِّ مَسْجِدٍ وَكُلُوا وَاشْرَبُوا وَلَا تُسْرِفُوا ۚ إِنَّهُ لَا يُحِبُّ الْمُسْرِفِينَ",
+			"surah": {
+				"number": 7,
+				"name": "سُورَةُ الأَعۡرَافِ",
+				"englishName": "Al-A'raaf",
+				"englishNameTranslation": "The Heights",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 206
+			},
+			"numberInSurah": 31,
+			"juz": 8,
+			"manzil": 2,
+			"page": 154,
+			"ruku": 124,
+			"hizbQuarter": 62,
+			"sajda": false
+		},
+		{
+			"number": 986,
+			"text": "قُلْ مَنْ حَرَّمَ زِينَةَ اللَّهِ الَّتِي أَخْرَجَ لِعِبَادِهِ وَالطَّيِّبَاتِ مِنَ الرِّزْقِ ۚ قُلْ هِيَ لِلَّذِينَ آمَنُوا فِي الْحَيَاةِ الدُّنْيَا خَالِصَةً يَوْمَ الْقِيَامَةِ ۗ كَذَٰلِكَ نُفَصِّلُ الْآيَاتِ لِقَوْمٍ يَعْلَمُونَ",
+			"surah": {
+				"number": 7,
+				"name": "سُورَةُ الأَعۡرَافِ",
+				"englishName": "Al-A'raaf",
+				"englishNameTranslation": "The Heights",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 206
+			},
+			"numberInSurah": 32,
+			"juz": 8,
+			"manzil": 2,
+			"page": 154,
+			"ruku": 125,
+			"hizbQuarter": 62,
+			"sajda": false
+		},
+		{
+			"number": 987,
+			"text": "قُلْ إِنَّمَا حَرَّمَ رَبِّيَ الْفَوَاحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ وَالْإِثْمَ وَالْبَغْيَ بِغَيْرِ الْحَقِّ وَأَنْ تُشْرِكُوا بِاللَّهِ مَا لَمْ يُنَزِّلْ بِهِ سُلْطَانًا وَأَنْ تَقُولُوا عَلَى اللَّهِ مَا لَا تَعْلَمُونَ",
+			"surah": {
+				"number": 7,
+				"name": "سُورَةُ الأَعۡرَافِ",
+				"englishName": "Al-A'raaf",
+				"englishNameTranslation": "The Heights",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 206
+			},
+			"numberInSurah": 33,
+			"juz": 8,
+			"manzil": 2,
+			"page": 154,
+			"ruku": 125,
+			"hizbQuarter": 62,
+			"sajda": false
+		},
+		{
+			"number": 988,
+			"text": "وَلِكُلِّ أُمَّةٍ أَجَلٌ ۖ فَإِذَا جَاءَ أَجَلُهُمْ لَا يَسْتَأْخِرُونَ سَاعَةً ۖ وَلَا يَسْتَقْدِمُونَ",
+			"surah": {
+				"number": 7,
+				"name": "سُورَةُ الأَعۡرَافِ",
+				"englishName": "Al-A'raaf",
+				"englishNameTranslation": "The Heights",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 206
+			},
+			"numberInSurah": 34,
+			"juz": 8,
+			"manzil": 2,
+			"page": 154,
+			"ruku": 125,
+			"hizbQuarter": 62,
+			"sajda": false
+		},
+		{
+			"number": 989,
+			"text": "يَا بَنِي آدَمَ إِمَّا يَأْتِيَنَّكُمْ رُسُلٌ مِنْكُمْ يَقُصُّونَ عَلَيْكُمْ آيَاتِي ۙ فَمَنِ اتَّقَىٰ وَأَصْلَحَ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+			"surah": {
+				"number": 7,
+				"name": "سُورَةُ الأَعۡرَافِ",
+				"englishName": "Al-A'raaf",
+				"englishNameTranslation": "The Heights",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 206
+			},
+			"numberInSurah": 35,
+			"juz": 8,
+			"manzil": 2,
+			"page": 154,
+			"ruku": 125,
+			"hizbQuarter": 62,
+			"sajda": false
+		},
+		{
+			"number": 990,
+			"text": "وَالَّذِينَ كَذَّبُوا بِآيَاتِنَا وَاسْتَكْبَرُوا عَنْهَا أُولَٰئِكَ أَصْحَابُ النَّارِ ۖ هُمْ فِيهَا خَالِدُونَ",
+			"surah": {
+				"number": 7,
+				"name": "سُورَةُ الأَعۡرَافِ",
+				"englishName": "Al-A'raaf",
+				"englishNameTranslation": "The Heights",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 206
+			},
+			"numberInSurah": 36,
+			"juz": 8,
+			"manzil": 2,
+			"page": 154,
+			"ruku": 125,
+			"hizbQuarter": 62,
+			"sajda": false
+		},
+		{
+			"number": 991,
+			"text": "فَمَنْ أَظْلَمُ مِمَّنِ افْتَرَىٰ عَلَى اللَّهِ كَذِبًا أَوْ كَذَّبَ بِآيَاتِهِ ۚ أُولَٰئِكَ يَنَالُهُمْ نَصِيبُهُمْ مِنَ الْكِتَابِ ۖ حَتَّىٰ إِذَا جَاءَتْهُمْ رُسُلُنَا يَتَوَفَّوْنَهُمْ قَالُوا أَيْنَ مَا كُنْتُمْ تَدْعُونَ مِنْ دُونِ اللَّهِ ۖ قَالُوا ضَلُّوا عَنَّا وَشَهِدُوا عَلَىٰ أَنْفُسِهِمْ أَنَّهُمْ كَانُوا كَافِرِينَ",
+			"surah": {
+				"number": 7,
+				"name": "سُورَةُ الأَعۡرَافِ",
+				"englishName": "Al-A'raaf",
+				"englishNameTranslation": "The Heights",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 206
+			},
+			"numberInSurah": 37,
+			"juz": 8,
+			"manzil": 2,
+			"page": 154,
+			"ruku": 125,
+			"hizbQuarter": 62,
+			"sajda": false
+		},
+		{
+			"number": 992,
+			"text": "قَالَ ادْخُلُوا فِي أُمَمٍ قَدْ خَلَتْ مِنْ قَبْلِكُمْ مِنَ الْجِنِّ وَالْإِنْسِ فِي النَّارِ ۖ كُلَّمَا دَخَلَتْ أُمَّةٌ لَعَنَتْ أُخْتَهَا ۖ حَتَّىٰ إِذَا ادَّارَكُوا فِيهَا جَمِيعًا قَالَتْ أُخْرَاهُمْ لِأُولَاهُمْ رَبَّنَا هَٰؤُلَاءِ أَضَلُّونَا فَآتِهِمْ عَذَابًا ضِعْفًا مِنَ النَّارِ ۖ قَالَ لِكُلٍّ ضِعْفٌ وَلَٰكِنْ لَا تَعْلَمُونَ",
+			"surah": {
+				"number": 7,
+				"name": "سُورَةُ الأَعۡرَافِ",
+				"englishName": "Al-A'raaf",
+				"englishNameTranslation": "The Heights",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 206
+			},
+			"numberInSurah": 38,
+			"juz": 8,
+			"manzil": 2,
+			"page": 155,
+			"ruku": 125,
+			"hizbQuarter": 62,
+			"sajda": false
+		},
+		{
+			"number": 993,
+			"text": "وَقَالَتْ أُولَاهُمْ لِأُخْرَاهُمْ فَمَا كَانَ لَكُمْ عَلَيْنَا مِنْ فَضْلٍ فَذُوقُوا الْعَذَابَ بِمَا كُنْتُمْ تَكْسِبُونَ",
+			"surah": {
+				"number": 7,
+				"name": "سُورَةُ الأَعۡرَافِ",
+				"englishName": "Al-A'raaf",
+				"englishNameTranslation": "The Heights",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 206
+			},
+			"numberInSurah": 39,
+			"juz": 8,
+			"manzil": 2,
+			"page": 155,
+			"ruku": 125,
+			"hizbQuarter": 62,
+			"sajda": false
+		},
+		{
+			"number": 994,
+			"text": "إِنَّ الَّذِينَ كَذَّبُوا بِآيَاتِنَا وَاسْتَكْبَرُوا عَنْهَا لَا تُفَتَّحُ لَهُمْ أَبْوَابُ السَّمَاءِ وَلَا يَدْخُلُونَ الْجَنَّةَ حَتَّىٰ يَلِجَ الْجَمَلُ فِي سَمِّ الْخِيَاطِ ۚ وَكَذَٰلِكَ نَجْزِي الْمُجْرِمِينَ",
+			"surah": {
+				"number": 7,
+				"name": "سُورَةُ الأَعۡرَافِ",
+				"englishName": "Al-A'raaf",
+				"englishNameTranslation": "The Heights",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 206
+			},
+			"numberInSurah": 40,
+			"juz": 8,
+			"manzil": 2,
+			"page": 155,
+			"ruku": 126,
+			"hizbQuarter": 62,
+			"sajda": false
+		},
+		{
+			"number": 995,
+			"text": "لَهُمْ مِنْ جَهَنَّمَ مِهَادٌ وَمِنْ فَوْقِهِمْ غَوَاشٍ ۚ وَكَذَٰلِكَ نَجْزِي الظَّالِمِينَ",
+			"surah": {
+				"number": 7,
+				"name": "سُورَةُ الأَعۡرَافِ",
+				"englishName": "Al-A'raaf",
+				"englishNameTranslation": "The Heights",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 206
+			},
+			"numberInSurah": 41,
+			"juz": 8,
+			"manzil": 2,
+			"page": 155,
+			"ruku": 126,
+			"hizbQuarter": 62,
+			"sajda": false
+		},
+		{
+			"number": 996,
+			"text": "وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَا نُكَلِّفُ نَفْسًا إِلَّا وُسْعَهَا أُولَٰئِكَ أَصْحَابُ الْجَنَّةِ ۖ هُمْ فِيهَا خَالِدُونَ",
+			"surah": {
+				"number": 7,
+				"name": "سُورَةُ الأَعۡرَافِ",
+				"englishName": "Al-A'raaf",
+				"englishNameTranslation": "The Heights",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 206
+			},
+			"numberInSurah": 42,
+			"juz": 8,
+			"manzil": 2,
+			"page": 155,
+			"ruku": 126,
+			"hizbQuarter": 62,
+			"sajda": false
+		},
+		{
+			"number": 997,
+			"text": "وَنَزَعْنَا مَا فِي صُدُورِهِمْ مِنْ غِلٍّ تَجْرِي مِنْ تَحْتِهِمُ الْأَنْهَارُ ۖ وَقَالُوا الْحَمْدُ لِلَّهِ الَّذِي هَدَانَا لِهَٰذَا وَمَا كُنَّا لِنَهْتَدِيَ لَوْلَا أَنْ هَدَانَا اللَّهُ ۖ لَقَدْ جَاءَتْ رُسُلُ رَبِّنَا بِالْحَقِّ ۖ وَنُودُوا أَنْ تِلْكُمُ الْجَنَّةُ أُورِثْتُمُوهَا بِمَا كُنْتُمْ تَعْمَلُونَ",
+			"surah": {
+				"number": 7,
+				"name": "سُورَةُ الأَعۡرَافِ",
+				"englishName": "Al-A'raaf",
+				"englishNameTranslation": "The Heights",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 206
+			},
+			"numberInSurah": 43,
+			"juz": 8,
+			"manzil": 2,
+			"page": 155,
+			"ruku": 126,
+			"hizbQuarter": 62,
+			"sajda": false
+		},
+		{
+			"number": 998,
+			"text": "وَنَادَىٰ أَصْحَابُ الْجَنَّةِ أَصْحَابَ النَّارِ أَنْ قَدْ وَجَدْنَا مَا وَعَدَنَا رَبُّنَا حَقًّا فَهَلْ وَجَدْتُمْ مَا وَعَدَ رَبُّكُمْ حَقًّا ۖ قَالُوا نَعَمْ ۚ فَأَذَّنَ مُؤَذِّنٌ بَيْنَهُمْ أَنْ لَعْنَةُ اللَّهِ عَلَى الظَّالِمِينَ",
+			"surah": {
+				"number": 7,
+				"name": "سُورَةُ الأَعۡرَافِ",
+				"englishName": "Al-A'raaf",
+				"englishNameTranslation": "The Heights",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 206
+			},
+			"numberInSurah": 44,
+			"juz": 8,
+			"manzil": 2,
+			"page": 156,
+			"ruku": 126,
+			"hizbQuarter": 62,
+			"sajda": false
+		},
+		{
+			"number": 999,
+			"text": "الَّذِينَ يَصُدُّونَ عَنْ سَبِيلِ اللَّهِ وَيَبْغُونَهَا عِوَجًا وَهُمْ بِالْآخِرَةِ كَافِرُونَ",
+			"surah": {
+				"number": 7,
+				"name": "سُورَةُ الأَعۡرَافِ",
+				"englishName": "Al-A'raaf",
+				"englishNameTranslation": "The Heights",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 206
+			},
+			"numberInSurah": 45,
+			"juz": 8,
+			"manzil": 2,
+			"page": 156,
+			"ruku": 126,
+			"hizbQuarter": 62,
+			"sajda": false
+		},
+		{
+			"number": 1000,
+			"text": "وَبَيْنَهُمَا حِجَابٌ ۚ وَعَلَى الْأَعْرَافِ رِجَالٌ يَعْرِفُونَ كُلًّا بِسِيمَاهُمْ ۚ وَنَادَوْا أَصْحَابَ الْجَنَّةِ أَنْ سَلَامٌ عَلَيْكُمْ ۚ لَمْ يَدْخُلُوهَا وَهُمْ يَطْمَعُونَ",
+			"surah": {
+				"number": 7,
+				"name": "سُورَةُ الأَعۡرَافِ",
+				"englishName": "Al-A'raaf",
+				"englishNameTranslation": "The Heights",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 206
+			},
+			"numberInSurah": 46,
+			"juz": 8,
+			"manzil": 2,
+			"page": 156,
+			"ruku": 126,
+			"hizbQuarter": 62,
+			"sajda": false
+		}
+	]
+}

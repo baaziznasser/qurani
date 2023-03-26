@@ -1,0 +1,404 @@
+﻿{
+	"number": 519,
+	"ayahs": [
+		{
+			"number": 4646,
+			"text": "وَلَقَدْ خَلَقْنَا الْإِنْسَانَ وَنَعْلَمُ مَا تُوَسْوِسُ بِهِ نَفْسُهُ ۖ وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ الْوَرِيدِ",
+			"surah": {
+				"number": 50,
+				"name": "سُورَةُ قٓ",
+				"englishName": "Qaaf",
+				"englishNameTranslation": "The letter Qaaf",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 45
+			},
+			"numberInSurah": 16,
+			"juz": 26,
+			"manzil": 7,
+			"page": 519,
+			"ruku": 453,
+			"hizbQuarter": 207,
+			"sajda": false
+		},
+		{
+			"number": 4647,
+			"text": "إِذْ يَتَلَقَّى الْمُتَلَقِّيَانِ عَنِ الْيَمِينِ وَعَنِ الشِّمَالِ قَعِيدٌ",
+			"surah": {
+				"number": 50,
+				"name": "سُورَةُ قٓ",
+				"englishName": "Qaaf",
+				"englishNameTranslation": "The letter Qaaf",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 45
+			},
+			"numberInSurah": 17,
+			"juz": 26,
+			"manzil": 7,
+			"page": 519,
+			"ruku": 453,
+			"hizbQuarter": 207,
+			"sajda": false
+		},
+		{
+			"number": 4648,
+			"text": "مَا يَلْفِظُ مِنْ قَوْلٍ إِلَّا لَدَيْهِ رَقِيبٌ عَتِيدٌ",
+			"surah": {
+				"number": 50,
+				"name": "سُورَةُ قٓ",
+				"englishName": "Qaaf",
+				"englishNameTranslation": "The letter Qaaf",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 45
+			},
+			"numberInSurah": 18,
+			"juz": 26,
+			"manzil": 7,
+			"page": 519,
+			"ruku": 453,
+			"hizbQuarter": 207,
+			"sajda": false
+		},
+		{
+			"number": 4649,
+			"text": "وَجَاءَتْ سَكْرَةُ الْمَوْتِ بِالْحَقِّ ۖ ذَٰلِكَ مَا كُنْتَ مِنْهُ تَحِيدُ",
+			"surah": {
+				"number": 50,
+				"name": "سُورَةُ قٓ",
+				"englishName": "Qaaf",
+				"englishNameTranslation": "The letter Qaaf",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 45
+			},
+			"numberInSurah": 19,
+			"juz": 26,
+			"manzil": 7,
+			"page": 519,
+			"ruku": 453,
+			"hizbQuarter": 207,
+			"sajda": false
+		},
+		{
+			"number": 4650,
+			"text": "وَنُفِخَ فِي الصُّورِ ۚ ذَٰلِكَ يَوْمُ الْوَعِيدِ",
+			"surah": {
+				"number": 50,
+				"name": "سُورَةُ قٓ",
+				"englishName": "Qaaf",
+				"englishNameTranslation": "The letter Qaaf",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 45
+			},
+			"numberInSurah": 20,
+			"juz": 26,
+			"manzil": 7,
+			"page": 519,
+			"ruku": 453,
+			"hizbQuarter": 207,
+			"sajda": false
+		},
+		{
+			"number": 4651,
+			"text": "وَجَاءَتْ كُلُّ نَفْسٍ مَعَهَا سَائِقٌ وَشَهِيدٌ",
+			"surah": {
+				"number": 50,
+				"name": "سُورَةُ قٓ",
+				"englishName": "Qaaf",
+				"englishNameTranslation": "The letter Qaaf",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 45
+			},
+			"numberInSurah": 21,
+			"juz": 26,
+			"manzil": 7,
+			"page": 519,
+			"ruku": 453,
+			"hizbQuarter": 207,
+			"sajda": false
+		},
+		{
+			"number": 4652,
+			"text": "لَقَدْ كُنْتَ فِي غَفْلَةٍ مِنْ هَٰذَا فَكَشَفْنَا عَنْكَ غِطَاءَكَ فَبَصَرُكَ الْيَوْمَ حَدِيدٌ",
+			"surah": {
+				"number": 50,
+				"name": "سُورَةُ قٓ",
+				"englishName": "Qaaf",
+				"englishNameTranslation": "The letter Qaaf",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 45
+			},
+			"numberInSurah": 22,
+			"juz": 26,
+			"manzil": 7,
+			"page": 519,
+			"ruku": 453,
+			"hizbQuarter": 207,
+			"sajda": false
+		},
+		{
+			"number": 4653,
+			"text": "وَقَالَ قَرِينُهُ هَٰذَا مَا لَدَيَّ عَتِيدٌ",
+			"surah": {
+				"number": 50,
+				"name": "سُورَةُ قٓ",
+				"englishName": "Qaaf",
+				"englishNameTranslation": "The letter Qaaf",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 45
+			},
+			"numberInSurah": 23,
+			"juz": 26,
+			"manzil": 7,
+			"page": 519,
+			"ruku": 453,
+			"hizbQuarter": 207,
+			"sajda": false
+		},
+		{
+			"number": 4654,
+			"text": "أَلْقِيَا فِي جَهَنَّمَ كُلَّ كَفَّارٍ عَنِيدٍ",
+			"surah": {
+				"number": 50,
+				"name": "سُورَةُ قٓ",
+				"englishName": "Qaaf",
+				"englishNameTranslation": "The letter Qaaf",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 45
+			},
+			"numberInSurah": 24,
+			"juz": 26,
+			"manzil": 7,
+			"page": 519,
+			"ruku": 453,
+			"hizbQuarter": 207,
+			"sajda": false
+		},
+		{
+			"number": 4655,
+			"text": "مَنَّاعٍ لِلْخَيْرِ مُعْتَدٍ مُرِيبٍ",
+			"surah": {
+				"number": 50,
+				"name": "سُورَةُ قٓ",
+				"englishName": "Qaaf",
+				"englishNameTranslation": "The letter Qaaf",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 45
+			},
+			"numberInSurah": 25,
+			"juz": 26,
+			"manzil": 7,
+			"page": 519,
+			"ruku": 453,
+			"hizbQuarter": 207,
+			"sajda": false
+		},
+		{
+			"number": 4656,
+			"text": "الَّذِي جَعَلَ مَعَ اللَّهِ إِلَٰهًا آخَرَ فَأَلْقِيَاهُ فِي الْعَذَابِ الشَّدِيدِ",
+			"surah": {
+				"number": 50,
+				"name": "سُورَةُ قٓ",
+				"englishName": "Qaaf",
+				"englishNameTranslation": "The letter Qaaf",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 45
+			},
+			"numberInSurah": 26,
+			"juz": 26,
+			"manzil": 7,
+			"page": 519,
+			"ruku": 453,
+			"hizbQuarter": 207,
+			"sajda": false
+		},
+		{
+			"number": 4657,
+			"text": "۞ قَالَ قَرِينُهُ رَبَّنَا مَا أَطْغَيْتُهُ وَلَٰكِنْ كَانَ فِي ضَلَالٍ بَعِيدٍ",
+			"surah": {
+				"number": 50,
+				"name": "سُورَةُ قٓ",
+				"englishName": "Qaaf",
+				"englishNameTranslation": "The letter Qaaf",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 45
+			},
+			"numberInSurah": 27,
+			"juz": 26,
+			"manzil": 7,
+			"page": 519,
+			"ruku": 453,
+			"hizbQuarter": 208,
+			"sajda": false
+		},
+		{
+			"number": 4658,
+			"text": "قَالَ لَا تَخْتَصِمُوا لَدَيَّ وَقَدْ قَدَّمْتُ إِلَيْكُمْ بِالْوَعِيدِ",
+			"surah": {
+				"number": 50,
+				"name": "سُورَةُ قٓ",
+				"englishName": "Qaaf",
+				"englishNameTranslation": "The letter Qaaf",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 45
+			},
+			"numberInSurah": 28,
+			"juz": 26,
+			"manzil": 7,
+			"page": 519,
+			"ruku": 453,
+			"hizbQuarter": 208,
+			"sajda": false
+		},
+		{
+			"number": 4659,
+			"text": "مَا يُبَدَّلُ الْقَوْلُ لَدَيَّ وَمَا أَنَا بِظَلَّامٍ لِلْعَبِيدِ",
+			"surah": {
+				"number": 50,
+				"name": "سُورَةُ قٓ",
+				"englishName": "Qaaf",
+				"englishNameTranslation": "The letter Qaaf",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 45
+			},
+			"numberInSurah": 29,
+			"juz": 26,
+			"manzil": 7,
+			"page": 519,
+			"ruku": 453,
+			"hizbQuarter": 208,
+			"sajda": false
+		},
+		{
+			"number": 4660,
+			"text": "يَوْمَ نَقُولُ لِجَهَنَّمَ هَلِ امْتَلَأْتِ وَتَقُولُ هَلْ مِنْ مَزِيدٍ",
+			"surah": {
+				"number": 50,
+				"name": "سُورَةُ قٓ",
+				"englishName": "Qaaf",
+				"englishNameTranslation": "The letter Qaaf",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 45
+			},
+			"numberInSurah": 30,
+			"juz": 26,
+			"manzil": 7,
+			"page": 519,
+			"ruku": 454,
+			"hizbQuarter": 208,
+			"sajda": false
+		},
+		{
+			"number": 4661,
+			"text": "وَأُزْلِفَتِ الْجَنَّةُ لِلْمُتَّقِينَ غَيْرَ بَعِيدٍ",
+			"surah": {
+				"number": 50,
+				"name": "سُورَةُ قٓ",
+				"englishName": "Qaaf",
+				"englishNameTranslation": "The letter Qaaf",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 45
+			},
+			"numberInSurah": 31,
+			"juz": 26,
+			"manzil": 7,
+			"page": 519,
+			"ruku": 454,
+			"hizbQuarter": 208,
+			"sajda": false
+		},
+		{
+			"number": 4662,
+			"text": "هَٰذَا مَا تُوعَدُونَ لِكُلِّ أَوَّابٍ حَفِيظٍ",
+			"surah": {
+				"number": 50,
+				"name": "سُورَةُ قٓ",
+				"englishName": "Qaaf",
+				"englishNameTranslation": "The letter Qaaf",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 45
+			},
+			"numberInSurah": 32,
+			"juz": 26,
+			"manzil": 7,
+			"page": 519,
+			"ruku": 454,
+			"hizbQuarter": 208,
+			"sajda": false
+		},
+		{
+			"number": 4663,
+			"text": "مَنْ خَشِيَ الرَّحْمَٰنَ بِالْغَيْبِ وَجَاءَ بِقَلْبٍ مُنِيبٍ",
+			"surah": {
+				"number": 50,
+				"name": "سُورَةُ قٓ",
+				"englishName": "Qaaf",
+				"englishNameTranslation": "The letter Qaaf",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 45
+			},
+			"numberInSurah": 33,
+			"juz": 26,
+			"manzil": 7,
+			"page": 519,
+			"ruku": 454,
+			"hizbQuarter": 208,
+			"sajda": false
+		},
+		{
+			"number": 4664,
+			"text": "ادْخُلُوهَا بِسَلَامٍ ۖ ذَٰلِكَ يَوْمُ الْخُلُودِ",
+			"surah": {
+				"number": 50,
+				"name": "سُورَةُ قٓ",
+				"englishName": "Qaaf",
+				"englishNameTranslation": "The letter Qaaf",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 45
+			},
+			"numberInSurah": 34,
+			"juz": 26,
+			"manzil": 7,
+			"page": 519,
+			"ruku": 454,
+			"hizbQuarter": 208,
+			"sajda": false
+		},
+		{
+			"number": 4665,
+			"text": "لَهُمْ مَا يَشَاءُونَ فِيهَا وَلَدَيْنَا مَزِيدٌ",
+			"surah": {
+				"number": 50,
+				"name": "سُورَةُ قٓ",
+				"englishName": "Qaaf",
+				"englishNameTranslation": "The letter Qaaf",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 45
+			},
+			"numberInSurah": 35,
+			"juz": 26,
+			"manzil": 7,
+			"page": 519,
+			"ruku": 454,
+			"hizbQuarter": 208,
+			"sajda": false
+		}
+	],
+	"surahs": {
+		"50": {
+			"number": 50,
+			"name": "سُورَةُ قٓ",
+			"englishName": "Qaaf",
+			"englishNameTranslation": "The letter Qaaf",
+			"revelationType": "Meccan",
+			"numberOfAyahs": 45
+		}
+	},
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

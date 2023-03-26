@@ -1,0 +1,63 @@
+﻿{
+	"number": 106,
+	"name": "سُورَةُ قُرَيۡشٍ",
+	"englishName": "Quraish",
+	"englishNameTranslation": "Quraysh",
+	"revelationType": "Meccan",
+	"numberOfAyahs": 4,
+	"ayahs": [
+		{
+			"number": 6194,
+			"text": "«لإيلاف قريش».",
+			"numberInSurah": 1,
+			"juz": 30,
+			"manzil": 7,
+			"page": 602,
+			"ruku": 548,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6195,
+			"text": "«إيلافهم» تأكيد وهو مصدر آلف بالمد «رحلة الشتاء» إلى اليمن «و» رحلة «الصيف» إلى الشام في كل عام، يستعينون بالرحلتين للتجارة على المقام بمكة لخدمة البيت الذي هو فخرهم، وهم ولد النضر بن كنانة.",
+			"numberInSurah": 2,
+			"juz": 30,
+			"manzil": 7,
+			"page": 602,
+			"ruku": 548,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6196,
+			"text": "«فليعبدوا» تعلق به لإيلاف والفاء زائدة «رب هذا البيت».",
+			"numberInSurah": 3,
+			"juz": 30,
+			"manzil": 7,
+			"page": 602,
+			"ruku": 548,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6197,
+			"text": "«الذي أطعمهم من جوع» أي من أجله «وآمنهم من خوف» أي من أجله وكان يصيبهم الجوع لعدم الزرع بمكة وخافوا جيش الفيل.",
+			"numberInSurah": 4,
+			"juz": 30,
+			"manzil": 7,
+			"page": 602,
+			"ruku": 548,
+			"hizbQuarter": 240,
+			"sajda": false
+		}
+	],
+	"edition": {
+		"identifier": "ar.jalalayn",
+		"language": "ar",
+		"name": "تفسير الجلالين",
+		"englishName": "Jalal ad-Din al-Mahalli and Jalal ad-Din as-Suyuti",
+		"format": "text",
+		"type": "tafsir",
+		"direction": "rtl"
+	}
+}

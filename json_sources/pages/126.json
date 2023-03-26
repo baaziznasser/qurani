@@ -1,0 +1,119 @@
+﻿{
+	"number": 126,
+	"ayahs": [
+		{
+			"number": 778,
+			"text": "۞ يَوْمَ يَجْمَعُ اللَّهُ الرُّسُلَ فَيَقُولُ مَاذَا أُجِبْتُمْ ۖ قَالُوا لَا عِلْمَ لَنَا ۖ إِنَّكَ أَنْتَ عَلَّامُ الْغُيُوبِ",
+			"surah": {
+				"number": 5,
+				"name": "سُورَةُ المَائـِدَةِ",
+				"englishName": "Al-Maaida",
+				"englishNameTranslation": "The Table",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 120
+			},
+			"numberInSurah": 109,
+			"juz": 7,
+			"manzil": 2,
+			"page": 126,
+			"ruku": 100,
+			"hizbQuarter": 51,
+			"sajda": false
+		},
+		{
+			"number": 779,
+			"text": "إِذْ قَالَ اللَّهُ يَا عِيسَى ابْنَ مَرْيَمَ اذْكُرْ نِعْمَتِي عَلَيْكَ وَعَلَىٰ وَالِدَتِكَ إِذْ أَيَّدْتُكَ بِرُوحِ الْقُدُسِ تُكَلِّمُ النَّاسَ فِي الْمَهْدِ وَكَهْلًا ۖ وَإِذْ عَلَّمْتُكَ الْكِتَابَ وَالْحِكْمَةَ وَالتَّوْرَاةَ وَالْإِنْجِيلَ ۖ وَإِذْ تَخْلُقُ مِنَ الطِّينِ كَهَيْئَةِ الطَّيْرِ بِإِذْنِي فَتَنْفُخُ فِيهَا فَتَكُونُ طَيْرًا بِإِذْنِي ۖ وَتُبْرِئُ الْأَكْمَهَ وَالْأَبْرَصَ بِإِذْنِي ۖ وَإِذْ تُخْرِجُ الْمَوْتَىٰ بِإِذْنِي ۖ وَإِذْ كَفَفْتُ بَنِي إِسْرَائِيلَ عَنْكَ إِذْ جِئْتَهُمْ بِالْبَيِّنَاتِ فَقَالَ الَّذِينَ كَفَرُوا مِنْهُمْ إِنْ هَٰذَا إِلَّا سِحْرٌ مُبِينٌ",
+			"surah": {
+				"number": 5,
+				"name": "سُورَةُ المَائـِدَةِ",
+				"englishName": "Al-Maaida",
+				"englishNameTranslation": "The Table",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 120
+			},
+			"numberInSurah": 110,
+			"juz": 7,
+			"manzil": 2,
+			"page": 126,
+			"ruku": 100,
+			"hizbQuarter": 51,
+			"sajda": false
+		},
+		{
+			"number": 780,
+			"text": "وَإِذْ أَوْحَيْتُ إِلَى الْحَوَارِيِّينَ أَنْ آمِنُوا بِي وَبِرَسُولِي قَالُوا آمَنَّا وَاشْهَدْ بِأَنَّنَا مُسْلِمُونَ",
+			"surah": {
+				"number": 5,
+				"name": "سُورَةُ المَائـِدَةِ",
+				"englishName": "Al-Maaida",
+				"englishNameTranslation": "The Table",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 120
+			},
+			"numberInSurah": 111,
+			"juz": 7,
+			"manzil": 2,
+			"page": 126,
+			"ruku": 100,
+			"hizbQuarter": 51,
+			"sajda": false
+		},
+		{
+			"number": 781,
+			"text": "إِذْ قَالَ الْحَوَارِيُّونَ يَا عِيسَى ابْنَ مَرْيَمَ هَلْ يَسْتَطِيعُ رَبُّكَ أَنْ يُنَزِّلَ عَلَيْنَا مَائِدَةً مِنَ السَّمَاءِ ۖ قَالَ اتَّقُوا اللَّهَ إِنْ كُنْتُمْ مُؤْمِنِينَ",
+			"surah": {
+				"number": 5,
+				"name": "سُورَةُ المَائـِدَةِ",
+				"englishName": "Al-Maaida",
+				"englishNameTranslation": "The Table",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 120
+			},
+			"numberInSurah": 112,
+			"juz": 7,
+			"manzil": 2,
+			"page": 126,
+			"ruku": 100,
+			"hizbQuarter": 51,
+			"sajda": false
+		},
+		{
+			"number": 782,
+			"text": "قَالُوا نُرِيدُ أَنْ نَأْكُلَ مِنْهَا وَتَطْمَئِنَّ قُلُوبُنَا وَنَعْلَمَ أَنْ قَدْ صَدَقْتَنَا وَنَكُونَ عَلَيْهَا مِنَ الشَّاهِدِينَ",
+			"surah": {
+				"number": 5,
+				"name": "سُورَةُ المَائـِدَةِ",
+				"englishName": "Al-Maaida",
+				"englishNameTranslation": "The Table",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 120
+			},
+			"numberInSurah": 113,
+			"juz": 7,
+			"manzil": 2,
+			"page": 126,
+			"ruku": 100,
+			"hizbQuarter": 51,
+			"sajda": false
+		}
+	],
+	"surahs": {
+		"5": {
+			"number": 5,
+			"name": "سُورَةُ المَائـِدَةِ",
+			"englishName": "Al-Maaida",
+			"englishNameTranslation": "The Table",
+			"revelationType": "Medinan",
+			"numberOfAyahs": 120
+		}
+	},
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

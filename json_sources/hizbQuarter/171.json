@@ -1,0 +1,469 @@
+﻿{
+	"number": 171,
+	"ayahs": [
+		{
+			"number": 3593,
+			"text": "۞ لَئِنْ لَمْ يَنْتَهِ الْمُنَافِقُونَ وَالَّذِينَ فِي قُلُوبِهِمْ مَرَضٌ وَالْمُرْجِفُونَ فِي الْمَدِينَةِ لَنُغْرِيَنَّكَ بِهِمْ ثُمَّ لَا يُجَاوِرُونَكَ فِيهَا إِلَّا قَلِيلًا",
+			"surah": {
+				"number": 33,
+				"name": "سُورَةُ الأَحۡزَابِ",
+				"englishName": "Al-Ahzaab",
+				"englishNameTranslation": "The Clans",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 73
+			},
+			"numberInSurah": 60,
+			"juz": 22,
+			"manzil": 5,
+			"page": 426,
+			"ruku": 368,
+			"hizbQuarter": 171,
+			"sajda": false
+		},
+		{
+			"number": 3594,
+			"text": "مَلْعُونِينَ ۖ أَيْنَمَا ثُقِفُوا أُخِذُوا وَقُتِّلُوا تَقْتِيلًا",
+			"surah": {
+				"number": 33,
+				"name": "سُورَةُ الأَحۡزَابِ",
+				"englishName": "Al-Ahzaab",
+				"englishNameTranslation": "The Clans",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 73
+			},
+			"numberInSurah": 61,
+			"juz": 22,
+			"manzil": 5,
+			"page": 426,
+			"ruku": 368,
+			"hizbQuarter": 171,
+			"sajda": false
+		},
+		{
+			"number": 3595,
+			"text": "سُنَّةَ اللَّهِ فِي الَّذِينَ خَلَوْا مِنْ قَبْلُ ۖ وَلَنْ تَجِدَ لِسُنَّةِ اللَّهِ تَبْدِيلًا",
+			"surah": {
+				"number": 33,
+				"name": "سُورَةُ الأَحۡزَابِ",
+				"englishName": "Al-Ahzaab",
+				"englishNameTranslation": "The Clans",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 73
+			},
+			"numberInSurah": 62,
+			"juz": 22,
+			"manzil": 5,
+			"page": 426,
+			"ruku": 368,
+			"hizbQuarter": 171,
+			"sajda": false
+		},
+		{
+			"number": 3596,
+			"text": "يَسْأَلُكَ النَّاسُ عَنِ السَّاعَةِ ۖ قُلْ إِنَّمَا عِلْمُهَا عِنْدَ اللَّهِ ۚ وَمَا يُدْرِيكَ لَعَلَّ السَّاعَةَ تَكُونُ قَرِيبًا",
+			"surah": {
+				"number": 33,
+				"name": "سُورَةُ الأَحۡزَابِ",
+				"englishName": "Al-Ahzaab",
+				"englishNameTranslation": "The Clans",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 73
+			},
+			"numberInSurah": 63,
+			"juz": 22,
+			"manzil": 5,
+			"page": 427,
+			"ruku": 368,
+			"hizbQuarter": 171,
+			"sajda": false
+		},
+		{
+			"number": 3597,
+			"text": "إِنَّ اللَّهَ لَعَنَ الْكَافِرِينَ وَأَعَدَّ لَهُمْ سَعِيرًا",
+			"surah": {
+				"number": 33,
+				"name": "سُورَةُ الأَحۡزَابِ",
+				"englishName": "Al-Ahzaab",
+				"englishNameTranslation": "The Clans",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 73
+			},
+			"numberInSurah": 64,
+			"juz": 22,
+			"manzil": 5,
+			"page": 427,
+			"ruku": 368,
+			"hizbQuarter": 171,
+			"sajda": false
+		},
+		{
+			"number": 3598,
+			"text": "خَالِدِينَ فِيهَا أَبَدًا ۖ لَا يَجِدُونَ وَلِيًّا وَلَا نَصِيرًا",
+			"surah": {
+				"number": 33,
+				"name": "سُورَةُ الأَحۡزَابِ",
+				"englishName": "Al-Ahzaab",
+				"englishNameTranslation": "The Clans",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 73
+			},
+			"numberInSurah": 65,
+			"juz": 22,
+			"manzil": 5,
+			"page": 427,
+			"ruku": 368,
+			"hizbQuarter": 171,
+			"sajda": false
+		},
+		{
+			"number": 3599,
+			"text": "يَوْمَ تُقَلَّبُ وُجُوهُهُمْ فِي النَّارِ يَقُولُونَ يَا لَيْتَنَا أَطَعْنَا اللَّهَ وَأَطَعْنَا الرَّسُولَا",
+			"surah": {
+				"number": 33,
+				"name": "سُورَةُ الأَحۡزَابِ",
+				"englishName": "Al-Ahzaab",
+				"englishNameTranslation": "The Clans",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 73
+			},
+			"numberInSurah": 66,
+			"juz": 22,
+			"manzil": 5,
+			"page": 427,
+			"ruku": 368,
+			"hizbQuarter": 171,
+			"sajda": false
+		},
+		{
+			"number": 3600,
+			"text": "وَقَالُوا رَبَّنَا إِنَّا أَطَعْنَا سَادَتَنَا وَكُبَرَاءَنَا فَأَضَلُّونَا السَّبِيلَا",
+			"surah": {
+				"number": 33,
+				"name": "سُورَةُ الأَحۡزَابِ",
+				"englishName": "Al-Ahzaab",
+				"englishNameTranslation": "The Clans",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 73
+			},
+			"numberInSurah": 67,
+			"juz": 22,
+			"manzil": 5,
+			"page": 427,
+			"ruku": 368,
+			"hizbQuarter": 171,
+			"sajda": false
+		},
+		{
+			"number": 3601,
+			"text": "رَبَّنَا آتِهِمْ ضِعْفَيْنِ مِنَ الْعَذَابِ وَالْعَنْهُمْ لَعْنًا كَبِيرًا",
+			"surah": {
+				"number": 33,
+				"name": "سُورَةُ الأَحۡزَابِ",
+				"englishName": "Al-Ahzaab",
+				"englishNameTranslation": "The Clans",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 73
+			},
+			"numberInSurah": 68,
+			"juz": 22,
+			"manzil": 5,
+			"page": 427,
+			"ruku": 368,
+			"hizbQuarter": 171,
+			"sajda": false
+		},
+		{
+			"number": 3602,
+			"text": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَكُونُوا كَالَّذِينَ آذَوْا مُوسَىٰ فَبَرَّأَهُ اللَّهُ مِمَّا قَالُوا ۚ وَكَانَ عِنْدَ اللَّهِ وَجِيهًا",
+			"surah": {
+				"number": 33,
+				"name": "سُورَةُ الأَحۡزَابِ",
+				"englishName": "Al-Ahzaab",
+				"englishNameTranslation": "The Clans",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 73
+			},
+			"numberInSurah": 69,
+			"juz": 22,
+			"manzil": 5,
+			"page": 427,
+			"ruku": 369,
+			"hizbQuarter": 171,
+			"sajda": false
+		},
+		{
+			"number": 3603,
+			"text": "يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَقُولُوا قَوْلًا سَدِيدًا",
+			"surah": {
+				"number": 33,
+				"name": "سُورَةُ الأَحۡزَابِ",
+				"englishName": "Al-Ahzaab",
+				"englishNameTranslation": "The Clans",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 73
+			},
+			"numberInSurah": 70,
+			"juz": 22,
+			"manzil": 5,
+			"page": 427,
+			"ruku": 369,
+			"hizbQuarter": 171,
+			"sajda": false
+		},
+		{
+			"number": 3604,
+			"text": "يُصْلِحْ لَكُمْ أَعْمَالَكُمْ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ ۗ وَمَنْ يُطِعِ اللَّهَ وَرَسُولَهُ فَقَدْ فَازَ فَوْزًا عَظِيمًا",
+			"surah": {
+				"number": 33,
+				"name": "سُورَةُ الأَحۡزَابِ",
+				"englishName": "Al-Ahzaab",
+				"englishNameTranslation": "The Clans",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 73
+			},
+			"numberInSurah": 71,
+			"juz": 22,
+			"manzil": 5,
+			"page": 427,
+			"ruku": 369,
+			"hizbQuarter": 171,
+			"sajda": false
+		},
+		{
+			"number": 3605,
+			"text": "إِنَّا عَرَضْنَا الْأَمَانَةَ عَلَى السَّمَاوَاتِ وَالْأَرْضِ وَالْجِبَالِ فَأَبَيْنَ أَنْ يَحْمِلْنَهَا وَأَشْفَقْنَ مِنْهَا وَحَمَلَهَا الْإِنْسَانُ ۖ إِنَّهُ كَانَ ظَلُومًا جَهُولًا",
+			"surah": {
+				"number": 33,
+				"name": "سُورَةُ الأَحۡزَابِ",
+				"englishName": "Al-Ahzaab",
+				"englishNameTranslation": "The Clans",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 73
+			},
+			"numberInSurah": 72,
+			"juz": 22,
+			"manzil": 5,
+			"page": 427,
+			"ruku": 369,
+			"hizbQuarter": 171,
+			"sajda": false
+		},
+		{
+			"number": 3606,
+			"text": "لِيُعَذِّبَ اللَّهُ الْمُنَافِقِينَ وَالْمُنَافِقَاتِ وَالْمُشْرِكِينَ وَالْمُشْرِكَاتِ وَيَتُوبَ اللَّهُ عَلَى الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ ۗ وَكَانَ اللَّهُ غَفُورًا رَحِيمًا",
+			"surah": {
+				"number": 33,
+				"name": "سُورَةُ الأَحۡزَابِ",
+				"englishName": "Al-Ahzaab",
+				"englishNameTranslation": "The Clans",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 73
+			},
+			"numberInSurah": 73,
+			"juz": 22,
+			"manzil": 5,
+			"page": 427,
+			"ruku": 369,
+			"hizbQuarter": 171,
+			"sajda": false
+		},
+		{
+			"number": 3607,
+			"text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ الْحَمْدُ لِلَّهِ الَّذِي لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَلَهُ الْحَمْدُ فِي الْآخِرَةِ ۚ وَهُوَ الْحَكِيمُ الْخَبِيرُ",
+			"surah": {
+				"number": 34,
+				"name": "سُورَةُ سَبَإٍ",
+				"englishName": "Saba",
+				"englishNameTranslation": "Sheba",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 54
+			},
+			"numberInSurah": 1,
+			"juz": 22,
+			"manzil": 5,
+			"page": 428,
+			"ruku": 370,
+			"hizbQuarter": 171,
+			"sajda": false
+		},
+		{
+			"number": 3608,
+			"text": "يَعْلَمُ مَا يَلِجُ فِي الْأَرْضِ وَمَا يَخْرُجُ مِنْهَا وَمَا يَنْزِلُ مِنَ السَّمَاءِ وَمَا يَعْرُجُ فِيهَا ۚ وَهُوَ الرَّحِيمُ الْغَفُورُ",
+			"surah": {
+				"number": 34,
+				"name": "سُورَةُ سَبَإٍ",
+				"englishName": "Saba",
+				"englishNameTranslation": "Sheba",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 54
+			},
+			"numberInSurah": 2,
+			"juz": 22,
+			"manzil": 5,
+			"page": 428,
+			"ruku": 370,
+			"hizbQuarter": 171,
+			"sajda": false
+		},
+		{
+			"number": 3609,
+			"text": "وَقَالَ الَّذِينَ كَفَرُوا لَا تَأْتِينَا السَّاعَةُ ۖ قُلْ بَلَىٰ وَرَبِّي لَتَأْتِيَنَّكُمْ عَالِمِ الْغَيْبِ ۖ لَا يَعْزُبُ عَنْهُ مِثْقَالُ ذَرَّةٍ فِي السَّمَاوَاتِ وَلَا فِي الْأَرْضِ وَلَا أَصْغَرُ مِنْ ذَٰلِكَ وَلَا أَكْبَرُ إِلَّا فِي كِتَابٍ مُبِينٍ",
+			"surah": {
+				"number": 34,
+				"name": "سُورَةُ سَبَإٍ",
+				"englishName": "Saba",
+				"englishNameTranslation": "Sheba",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 54
+			},
+			"numberInSurah": 3,
+			"juz": 22,
+			"manzil": 5,
+			"page": 428,
+			"ruku": 370,
+			"hizbQuarter": 171,
+			"sajda": false
+		},
+		{
+			"number": 3610,
+			"text": "لِيَجْزِيَ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ ۚ أُولَٰئِكَ لَهُمْ مَغْفِرَةٌ وَرِزْقٌ كَرِيمٌ",
+			"surah": {
+				"number": 34,
+				"name": "سُورَةُ سَبَإٍ",
+				"englishName": "Saba",
+				"englishNameTranslation": "Sheba",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 54
+			},
+			"numberInSurah": 4,
+			"juz": 22,
+			"manzil": 5,
+			"page": 428,
+			"ruku": 370,
+			"hizbQuarter": 171,
+			"sajda": false
+		},
+		{
+			"number": 3611,
+			"text": "وَالَّذِينَ سَعَوْا فِي آيَاتِنَا مُعَاجِزِينَ أُولَٰئِكَ لَهُمْ عَذَابٌ مِنْ رِجْزٍ أَلِيمٌ",
+			"surah": {
+				"number": 34,
+				"name": "سُورَةُ سَبَإٍ",
+				"englishName": "Saba",
+				"englishNameTranslation": "Sheba",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 54
+			},
+			"numberInSurah": 5,
+			"juz": 22,
+			"manzil": 5,
+			"page": 428,
+			"ruku": 370,
+			"hizbQuarter": 171,
+			"sajda": false
+		},
+		{
+			"number": 3612,
+			"text": "وَيَرَى الَّذِينَ أُوتُوا الْعِلْمَ الَّذِي أُنْزِلَ إِلَيْكَ مِنْ رَبِّكَ هُوَ الْحَقَّ وَيَهْدِي إِلَىٰ صِرَاطِ الْعَزِيزِ الْحَمِيدِ",
+			"surah": {
+				"number": 34,
+				"name": "سُورَةُ سَبَإٍ",
+				"englishName": "Saba",
+				"englishNameTranslation": "Sheba",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 54
+			},
+			"numberInSurah": 6,
+			"juz": 22,
+			"manzil": 5,
+			"page": 428,
+			"ruku": 370,
+			"hizbQuarter": 171,
+			"sajda": false
+		},
+		{
+			"number": 3613,
+			"text": "وَقَالَ الَّذِينَ كَفَرُوا هَلْ نَدُلُّكُمْ عَلَىٰ رَجُلٍ يُنَبِّئُكُمْ إِذَا مُزِّقْتُمْ كُلَّ مُمَزَّقٍ إِنَّكُمْ لَفِي خَلْقٍ جَدِيدٍ",
+			"surah": {
+				"number": 34,
+				"name": "سُورَةُ سَبَإٍ",
+				"englishName": "Saba",
+				"englishNameTranslation": "Sheba",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 54
+			},
+			"numberInSurah": 7,
+			"juz": 22,
+			"manzil": 5,
+			"page": 428,
+			"ruku": 370,
+			"hizbQuarter": 171,
+			"sajda": false
+		},
+		{
+			"number": 3614,
+			"text": "أَفْتَرَىٰ عَلَى اللَّهِ كَذِبًا أَمْ بِهِ جِنَّةٌ ۗ بَلِ الَّذِينَ لَا يُؤْمِنُونَ بِالْآخِرَةِ فِي الْعَذَابِ وَالضَّلَالِ الْبَعِيدِ",
+			"surah": {
+				"number": 34,
+				"name": "سُورَةُ سَبَإٍ",
+				"englishName": "Saba",
+				"englishNameTranslation": "Sheba",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 54
+			},
+			"numberInSurah": 8,
+			"juz": 22,
+			"manzil": 5,
+			"page": 429,
+			"ruku": 370,
+			"hizbQuarter": 171,
+			"sajda": false
+		},
+		{
+			"number": 3615,
+			"text": "أَفَلَمْ يَرَوْا إِلَىٰ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ مِنَ السَّمَاءِ وَالْأَرْضِ ۚ إِنْ نَشَأْ نَخْسِفْ بِهِمُ الْأَرْضَ أَوْ نُسْقِطْ عَلَيْهِمْ كِسَفًا مِنَ السَّمَاءِ ۚ إِنَّ فِي ذَٰلِكَ لَآيَةً لِكُلِّ عَبْدٍ مُنِيبٍ",
+			"surah": {
+				"number": 34,
+				"name": "سُورَةُ سَبَإٍ",
+				"englishName": "Saba",
+				"englishNameTranslation": "Sheba",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 54
+			},
+			"numberInSurah": 9,
+			"juz": 22,
+			"manzil": 5,
+			"page": 429,
+			"ruku": 370,
+			"hizbQuarter": 171,
+			"sajda": false
+		}
+	],
+	"surahs": {
+		"33": {
+			"number": 33,
+			"name": "سُورَةُ الأَحۡزَابِ",
+			"englishName": "Al-Ahzaab",
+			"englishNameTranslation": "The Clans",
+			"revelationType": "Medinan",
+			"numberOfAyahs": 73
+		},
+		"34": {
+			"number": 34,
+			"name": "سُورَةُ سَبَإٍ",
+			"englishName": "Saba",
+			"englishNameTranslation": "Sheba",
+			"revelationType": "Meccan",
+			"numberOfAyahs": 54
+		}
+	},
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

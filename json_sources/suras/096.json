@@ -1,0 +1,232 @@
+﻿{
+	"number": 96,
+	"name": "سُورَةُ العَلَقِ",
+	"englishName": "Al-Alaq",
+	"englishNameTranslation": "The Clot",
+	"revelationType": "Meccan",
+	"numberOfAyahs": 19,
+	"ayahs": [
+		{
+			"number": 6107,
+			"text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ",
+			"numberInSurah": 1,
+			"juz": 30,
+			"manzil": 7,
+			"page": 597,
+			"ruku": 538,
+			"hizbQuarter": 239,
+			"sajda": false
+		},
+		{
+			"number": 6108,
+			"text": "خَلَقَ الْإِنْسَانَ مِنْ عَلَقٍ",
+			"numberInSurah": 2,
+			"juz": 30,
+			"manzil": 7,
+			"page": 597,
+			"ruku": 538,
+			"hizbQuarter": 239,
+			"sajda": false
+		},
+		{
+			"number": 6109,
+			"text": "اقْرَأْ وَرَبُّكَ الْأَكْرَمُ",
+			"numberInSurah": 3,
+			"juz": 30,
+			"manzil": 7,
+			"page": 597,
+			"ruku": 538,
+			"hizbQuarter": 239,
+			"sajda": false
+		},
+		{
+			"number": 6110,
+			"text": "الَّذِي عَلَّمَ بِالْقَلَمِ",
+			"numberInSurah": 4,
+			"juz": 30,
+			"manzil": 7,
+			"page": 597,
+			"ruku": 538,
+			"hizbQuarter": 239,
+			"sajda": false
+		},
+		{
+			"number": 6111,
+			"text": "عَلَّمَ الْإِنْسَانَ مَا لَمْ يَعْلَمْ",
+			"numberInSurah": 5,
+			"juz": 30,
+			"manzil": 7,
+			"page": 597,
+			"ruku": 538,
+			"hizbQuarter": 239,
+			"sajda": false
+		},
+		{
+			"number": 6112,
+			"text": "كَلَّا إِنَّ الْإِنْسَانَ لَيَطْغَىٰ",
+			"numberInSurah": 6,
+			"juz": 30,
+			"manzil": 7,
+			"page": 597,
+			"ruku": 538,
+			"hizbQuarter": 239,
+			"sajda": false
+		},
+		{
+			"number": 6113,
+			"text": "أَنْ رَآهُ اسْتَغْنَىٰ",
+			"numberInSurah": 7,
+			"juz": 30,
+			"manzil": 7,
+			"page": 597,
+			"ruku": 538,
+			"hizbQuarter": 239,
+			"sajda": false
+		},
+		{
+			"number": 6114,
+			"text": "إِنَّ إِلَىٰ رَبِّكَ الرُّجْعَىٰ",
+			"numberInSurah": 8,
+			"juz": 30,
+			"manzil": 7,
+			"page": 597,
+			"ruku": 538,
+			"hizbQuarter": 239,
+			"sajda": false
+		},
+		{
+			"number": 6115,
+			"text": "أَرَأَيْتَ الَّذِي يَنْهَىٰ",
+			"numberInSurah": 9,
+			"juz": 30,
+			"manzil": 7,
+			"page": 597,
+			"ruku": 538,
+			"hizbQuarter": 239,
+			"sajda": false
+		},
+		{
+			"number": 6116,
+			"text": "عَبْدًا إِذَا صَلَّىٰ",
+			"numberInSurah": 10,
+			"juz": 30,
+			"manzil": 7,
+			"page": 597,
+			"ruku": 538,
+			"hizbQuarter": 239,
+			"sajda": false
+		},
+		{
+			"number": 6117,
+			"text": "أَرَأَيْتَ إِنْ كَانَ عَلَى الْهُدَىٰ",
+			"numberInSurah": 11,
+			"juz": 30,
+			"manzil": 7,
+			"page": 597,
+			"ruku": 538,
+			"hizbQuarter": 239,
+			"sajda": false
+		},
+		{
+			"number": 6118,
+			"text": "أَوْ أَمَرَ بِالتَّقْوَىٰ",
+			"numberInSurah": 12,
+			"juz": 30,
+			"manzil": 7,
+			"page": 597,
+			"ruku": 538,
+			"hizbQuarter": 239,
+			"sajda": false
+		},
+		{
+			"number": 6119,
+			"text": "أَرَأَيْتَ إِنْ كَذَّبَ وَتَوَلَّىٰ",
+			"numberInSurah": 13,
+			"juz": 30,
+			"manzil": 7,
+			"page": 597,
+			"ruku": 538,
+			"hizbQuarter": 239,
+			"sajda": false
+		},
+		{
+			"number": 6120,
+			"text": "أَلَمْ يَعْلَمْ بِأَنَّ اللَّهَ يَرَىٰ",
+			"numberInSurah": 14,
+			"juz": 30,
+			"manzil": 7,
+			"page": 597,
+			"ruku": 538,
+			"hizbQuarter": 239,
+			"sajda": false
+		},
+		{
+			"number": 6121,
+			"text": "كَلَّا لَئِنْ لَمْ يَنْتَهِ لَنَسْفَعًا بِالنَّاصِيَةِ",
+			"numberInSurah": 15,
+			"juz": 30,
+			"manzil": 7,
+			"page": 597,
+			"ruku": 538,
+			"hizbQuarter": 239,
+			"sajda": false
+		},
+		{
+			"number": 6122,
+			"text": "نَاصِيَةٍ كَاذِبَةٍ خَاطِئَةٍ",
+			"numberInSurah": 16,
+			"juz": 30,
+			"manzil": 7,
+			"page": 597,
+			"ruku": 538,
+			"hizbQuarter": 239,
+			"sajda": false
+		},
+		{
+			"number": 6123,
+			"text": "فَلْيَدْعُ نَادِيَهُ",
+			"numberInSurah": 17,
+			"juz": 30,
+			"manzil": 7,
+			"page": 597,
+			"ruku": 538,
+			"hizbQuarter": 239,
+			"sajda": false
+		},
+		{
+			"number": 6124,
+			"text": "سَنَدْعُ الزَّبَانِيَةَ",
+			"numberInSurah": 18,
+			"juz": 30,
+			"manzil": 7,
+			"page": 597,
+			"ruku": 538,
+			"hizbQuarter": 239,
+			"sajda": false
+		},
+		{
+			"number": 6125,
+			"text": "كَلَّا لَا تُطِعْهُ وَاسْجُدْ وَاقْتَرِبْ ۩",
+			"numberInSurah": 19,
+			"juz": 30,
+			"manzil": 7,
+			"page": 597,
+			"ruku": 538,
+			"hizbQuarter": 239,
+			"sajda": {
+				"id": 15,
+				"recommended": false,
+				"obligatory": true
+			}
+		}
+	],
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

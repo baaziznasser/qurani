@@ -1,0 +1,250 @@
+﻿{
+	"number": 92,
+	"name": "سُورَةُ اللَّيۡلِ",
+	"englishName": "Al-Lail",
+	"englishNameTranslation": "The Night",
+	"revelationType": "Meccan",
+	"numberOfAyahs": 21,
+	"ayahs": [
+		{
+			"number": 6059,
+			"text": "«والليل إذا يغشى» بظلمته كل ما بين السماء والأرض.",
+			"numberInSurah": 1,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 534,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6060,
+			"text": "«والنهار إذا تجلى» تكشف وظهر وإذا في الموضوعين لمجرد الظرفية والعامل فيها فعل القسم.",
+			"numberInSurah": 2,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 534,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6061,
+			"text": "«وما» بمعنى من أو مصدرية «خلق الذكر والأنثى» آدم وحواء وكل ذكر وكل أنثى، والخنثى المشكل عندنا ذكر أو أنثى عند الله تعالى فيحنث بتكليمه من حلف لا يكلم لا يكلم ذكرا ولا أنثى.",
+			"numberInSurah": 3,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 534,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6062,
+			"text": "«إن سعيكم» عملكم «لشتى» مختلف فعامل للجنة بالطاعة وعامل للنار بالمعصية.",
+			"numberInSurah": 4,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 534,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6063,
+			"text": "«فأما من أعطى» حق الله «واتقى» الله.",
+			"numberInSurah": 5,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 534,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6064,
+			"text": "«وصدَّق بالحسنى» أي بلا إله إلا الله في الموضوعين.",
+			"numberInSurah": 6,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 534,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6065,
+			"text": "«فسنسيره لليسرى» للجنة.",
+			"numberInSurah": 7,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 534,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6066,
+			"text": "«وأما من بخل» بحق الله «واستغنى» عن ثوابه.",
+			"numberInSurah": 8,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 534,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6067,
+			"text": "«وكذب بالحسنى».",
+			"numberInSurah": 9,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 534,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6068,
+			"text": "«فسنسيره» نهيئه «للعسرى» للنار.",
+			"numberInSurah": 10,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 534,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6069,
+			"text": "«وما» نافية «يغني عنه ماله إذا تردَّى» في النار.",
+			"numberInSurah": 11,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 534,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6070,
+			"text": "«إن علينا لَلهدى» لتبيين طريق الهدى من طريق الضلال ليمتثل أمرنا بسلوك الأول ونهينا عن ارتكاب الثاني.",
+			"numberInSurah": 12,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 534,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6071,
+			"text": "«وإن لنا للآخرة والأولى» أي الدنيا فمن طلبهما من غيرنا فقد أخطأ.",
+			"numberInSurah": 13,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 534,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6072,
+			"text": "«فأنذرتكم» خوفتكم يا أهل مكة «نارا تلظى» بحذف إحدى التاءين من الأصل وقريء بثبوتها، أي تتوقد.",
+			"numberInSurah": 14,
+			"juz": 30,
+			"manzil": 7,
+			"page": 595,
+			"ruku": 534,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6073,
+			"text": "«لا يصلاها» يدخلها «إلا الأشقى» بمعنى الشقي.",
+			"numberInSurah": 15,
+			"juz": 30,
+			"manzil": 7,
+			"page": 596,
+			"ruku": 534,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6074,
+			"text": "(الذي كذب) النبي (وتولى) عن الإيمان وهذا الحصر مؤول لقوله تعالى: \"\" ويغفر ما دون ذلك لمن يشاء \"\" فيكون المراد الصلي المؤبد.",
+			"numberInSurah": 16,
+			"juz": 30,
+			"manzil": 7,
+			"page": 596,
+			"ruku": 534,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6075,
+			"text": "«وسيجنبها» يبعد عنها «الأتقى» بمعنى التقي.",
+			"numberInSurah": 17,
+			"juz": 30,
+			"manzil": 7,
+			"page": 596,
+			"ruku": 534,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6076,
+			"text": "«الذي يؤتي ماله يتزكى» متزكيا به عند الله تعالى بأن يخرجه لله تعالى لا رياء ولا سمعة، فيكون زاكيا عند الله، وهذا نزل في الصدّيق رضي الله عنه لما اشترى بلالا المعذب على إيمانه وأعتقه، فقال الكفار: إنما فعل ذلك ليد كانت له عنده فنزلت.",
+			"numberInSurah": 18,
+			"juz": 30,
+			"manzil": 7,
+			"page": 596,
+			"ruku": 534,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6077,
+			"text": "«وما لأحد عنده من نعمة تُجزى».",
+			"numberInSurah": 19,
+			"juz": 30,
+			"manzil": 7,
+			"page": 596,
+			"ruku": 534,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6078,
+			"text": "«إلا» لكن فعل ذلك «ابتغاء وجه ربه الأعلى» أي طلب ثواب الله.",
+			"numberInSurah": 20,
+			"juz": 30,
+			"manzil": 7,
+			"page": 596,
+			"ruku": 534,
+			"hizbQuarter": 238,
+			"sajda": false
+		},
+		{
+			"number": 6079,
+			"text": "«ولسوف يرضى» بما يُعطاه من الثواب في الجنة والآية تشمل من فعل مثل فعله رضي الله تعالى عنه فيبعده عن النار ويثاب.",
+			"numberInSurah": 21,
+			"juz": 30,
+			"manzil": 7,
+			"page": 596,
+			"ruku": 534,
+			"hizbQuarter": 238,
+			"sajda": false
+		}
+	],
+	"edition": {
+		"identifier": "ar.jalalayn",
+		"language": "ar",
+		"name": "تفسير الجلالين",
+		"englishName": "Jalal ad-Din al-Mahalli and Jalal ad-Din as-Suyuti",
+		"format": "text",
+		"type": "tafsir",
+		"direction": "rtl"
+	}
+}

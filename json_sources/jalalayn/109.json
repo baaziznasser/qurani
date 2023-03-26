@@ -1,0 +1,85 @@
+﻿{
+	"number": 109,
+	"name": "سُورَةُ الكَافِرُونَ",
+	"englishName": "Al-Kaafiroon",
+	"englishNameTranslation": "The Disbelievers",
+	"revelationType": "Meccan",
+	"numberOfAyahs": 6,
+	"ayahs": [
+		{
+			"number": 6208,
+			"text": "«قل يا أيها الكافرون».",
+			"numberInSurah": 1,
+			"juz": 30,
+			"manzil": 7,
+			"page": 603,
+			"ruku": 551,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6209,
+			"text": "«لا أعبد» في الحال «ما تعبدون» من الأصنام.",
+			"numberInSurah": 2,
+			"juz": 30,
+			"manzil": 7,
+			"page": 603,
+			"ruku": 551,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6210,
+			"text": "«ولا أنتم عابدون» في الحال «ما أعبد» وهو الله تعالى وحده.",
+			"numberInSurah": 3,
+			"juz": 30,
+			"manzil": 7,
+			"page": 603,
+			"ruku": 551,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6211,
+			"text": "«ولا أنا عابد» في الاستقبال «ما عبدتم».",
+			"numberInSurah": 4,
+			"juz": 30,
+			"manzil": 7,
+			"page": 603,
+			"ruku": 551,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6212,
+			"text": "«ولا أنتم عابدون» في الاستقبال «ما أعبد» علم الله منهم أنهم لا يؤمنون، وإطلاق ما على الله على وجه المقابلة.",
+			"numberInSurah": 5,
+			"juz": 30,
+			"manzil": 7,
+			"page": 603,
+			"ruku": 551,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6213,
+			"text": "«لكم دينكم» الشرك «ولي دين» الإسلام وهذا قبل أن يؤمر بالحرب وحذف ياء الإضافة القراء السبعة وقفا ووصلا وأثبتها يعقوب في الحالين.",
+			"numberInSurah": 6,
+			"juz": 30,
+			"manzil": 7,
+			"page": 603,
+			"ruku": 551,
+			"hizbQuarter": 240,
+			"sajda": false
+		}
+	],
+	"edition": {
+		"identifier": "ar.jalalayn",
+		"language": "ar",
+		"name": "تفسير الجلالين",
+		"englishName": "Jalal ad-Din al-Mahalli and Jalal ad-Din as-Suyuti",
+		"format": "text",
+		"type": "tafsir",
+		"direction": "rtl"
+	}
+}

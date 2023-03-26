@@ -1,0 +1,404 @@
+﻿{
+	"number": 160,
+	"ayahs": [
+		{
+			"number": 3366,
+			"surah": {
+				"number": 29,
+				"name": "سُورَةُ العَنكَبُوتِ",
+				"englishName": "Al-Ankaboot",
+				"englishNameTranslation": "The Spider",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 69
+			},
+			"numberInSurah": 26,
+			"juz": 20,
+			"manzil": 5,
+			"page": 399,
+			"ruku": 344,
+			"hizbQuarter": 160,
+			"sajda": false,
+			"text": "فَآمَنَ لَهُ لُوطٌ ۘ وَقَالَ إِنِّي مُهَاجِرٌ إِلَىٰ رَبِّي ۖ إِنَّهُ هُوَ الْعَزِيزُ الْحَكِيمُ"
+		},
+		{
+			"number": 3367,
+			"surah": {
+				"number": 29,
+				"name": "سُورَةُ العَنكَبُوتِ",
+				"englishName": "Al-Ankaboot",
+				"englishNameTranslation": "The Spider",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 69
+			},
+			"numberInSurah": 27,
+			"juz": 20,
+			"manzil": 5,
+			"page": 399,
+			"ruku": 344,
+			"hizbQuarter": 160,
+			"sajda": false,
+			"text": "وَوَهَبْنَا لَهُ إِسْحَاقَ وَيَعْقُوبَ وَجَعَلْنَا فِي ذُرِّيَّتِهِ النُّبُوَّةَ وَالْكِتَابَ وَآتَيْنَاهُ أَجْرَهُ فِي الدُّنْيَا ۖ وَإِنَّهُ فِي الْآخِرَةِ لَمِنَ الصَّالِحِينَ"
+		},
+		{
+			"number": 3368,
+			"surah": {
+				"number": 29,
+				"name": "سُورَةُ العَنكَبُوتِ",
+				"englishName": "Al-Ankaboot",
+				"englishNameTranslation": "The Spider",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 69
+			},
+			"numberInSurah": 28,
+			"juz": 20,
+			"manzil": 5,
+			"page": 399,
+			"ruku": 344,
+			"hizbQuarter": 160,
+			"sajda": false,
+			"text": "وَلُوطًا إِذْ قَالَ لِقَوْمِهِ إِنَّكُمْ لَتَأْتُونَ الْفَاحِشَةَ مَا سَبَقَكُم بِهَا مِنْ أَحَدٍ مِّنَ الْعَالَمِينَ"
+		},
+		{
+			"number": 3369,
+			"surah": {
+				"number": 29,
+				"name": "سُورَةُ العَنكَبُوتِ",
+				"englishName": "Al-Ankaboot",
+				"englishNameTranslation": "The Spider",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 69
+			},
+			"numberInSurah": 29,
+			"juz": 20,
+			"manzil": 5,
+			"page": 399,
+			"ruku": 344,
+			"hizbQuarter": 160,
+			"sajda": false,
+			"text": "أَئِنَّكُمْ لَتَأْتُونَ الرِّجَالَ وَتَقْطَعُونَ السَّبِيلَ وَتَأْتُونَ فِي نَادِيكُمُ الْمُنكَرَ ۖ فَمَا كَانَ جَوَابَ قَوْمِهِ إِلَّا أَن قَالُوا ائْتِنَا بِعَذَابِ اللَّهِ إِن كُنتَ مِنَ الصَّادِقِينَ"
+		},
+		{
+			"number": 3370,
+			"surah": {
+				"number": 29,
+				"name": "سُورَةُ العَنكَبُوتِ",
+				"englishName": "Al-Ankaboot",
+				"englishNameTranslation": "The Spider",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 69
+			},
+			"numberInSurah": 30,
+			"juz": 20,
+			"manzil": 5,
+			"page": 399,
+			"ruku": 344,
+			"hizbQuarter": 160,
+			"sajda": false,
+			"text": "قَالَ رَبِّ انصُرْنِي عَلَى الْقَوْمِ الْمُفْسِدِينَ"
+		},
+		{
+			"number": 3371,
+			"surah": {
+				"number": 29,
+				"name": "سُورَةُ العَنكَبُوتِ",
+				"englishName": "Al-Ankaboot",
+				"englishNameTranslation": "The Spider",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 69
+			},
+			"numberInSurah": 31,
+			"juz": 20,
+			"manzil": 5,
+			"page": 400,
+			"ruku": 345,
+			"hizbQuarter": 160,
+			"sajda": false,
+			"text": "وَلَمَّا جَاءَتْ رُسُلُنَا إِبْرَاهِيمَ بِالْبُشْرَىٰ قَالُوا إِنَّا مُهْلِكُو أَهْلِ هَٰذِهِ الْقَرْيَةِ ۖ إِنَّ أَهْلَهَا كَانُوا ظَالِمِينَ"
+		},
+		{
+			"number": 3372,
+			"surah": {
+				"number": 29,
+				"name": "سُورَةُ العَنكَبُوتِ",
+				"englishName": "Al-Ankaboot",
+				"englishNameTranslation": "The Spider",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 69
+			},
+			"numberInSurah": 32,
+			"juz": 20,
+			"manzil": 5,
+			"page": 400,
+			"ruku": 345,
+			"hizbQuarter": 160,
+			"sajda": false,
+			"text": "قَالَ إِنَّ فِيهَا لُوطًا ۚ قَالُوا نَحْنُ أَعْلَمُ بِمَن فِيهَا ۖ لَنُنَجِّيَنَّهُ وَأَهْلَهُ إِلَّا امْرَأَتَهُ كَانَتْ مِنَ الْغَابِرِينَ"
+		},
+		{
+			"number": 3373,
+			"surah": {
+				"number": 29,
+				"name": "سُورَةُ العَنكَبُوتِ",
+				"englishName": "Al-Ankaboot",
+				"englishNameTranslation": "The Spider",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 69
+			},
+			"numberInSurah": 33,
+			"juz": 20,
+			"manzil": 5,
+			"page": 400,
+			"ruku": 345,
+			"hizbQuarter": 160,
+			"sajda": false,
+			"text": "وَلَمَّا أَن جَاءَتْ رُسُلُنَا لُوطًا سِيءَ بِهِمْ وَضَاقَ بِهِمْ ذَرْعًا وَقَالُوا لَا تَخَفْ وَلَا تَحْزَنْ ۖ إِنَّا مُنَجُّوكَ وَأَهْلَكَ إِلَّا امْرَأَتَكَ كَانَتْ مِنَ الْغَابِرِينَ"
+		},
+		{
+			"number": 3374,
+			"surah": {
+				"number": 29,
+				"name": "سُورَةُ العَنكَبُوتِ",
+				"englishName": "Al-Ankaboot",
+				"englishNameTranslation": "The Spider",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 69
+			},
+			"numberInSurah": 34,
+			"juz": 20,
+			"manzil": 5,
+			"page": 400,
+			"ruku": 345,
+			"hizbQuarter": 160,
+			"sajda": false,
+			"text": "إِنَّا مُنزِلُونَ عَلَىٰ أَهْلِ هَٰذِهِ الْقَرْيَةِ رِجْزًا مِّنَ السَّمَاءِ بِمَا كَانُوا يَفْسُقُونَ"
+		},
+		{
+			"number": 3375,
+			"surah": {
+				"number": 29,
+				"name": "سُورَةُ العَنكَبُوتِ",
+				"englishName": "Al-Ankaboot",
+				"englishNameTranslation": "The Spider",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 69
+			},
+			"numberInSurah": 35,
+			"juz": 20,
+			"manzil": 5,
+			"page": 400,
+			"ruku": 345,
+			"hizbQuarter": 160,
+			"sajda": false,
+			"text": "وَلَقَد تَّرَكْنَا مِنْهَا آيَةً بَيِّنَةً لِّقَوْمٍ يَعْقِلُونَ"
+		},
+		{
+			"number": 3376,
+			"surah": {
+				"number": 29,
+				"name": "سُورَةُ العَنكَبُوتِ",
+				"englishName": "Al-Ankaboot",
+				"englishNameTranslation": "The Spider",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 69
+			},
+			"numberInSurah": 36,
+			"juz": 20,
+			"manzil": 5,
+			"page": 400,
+			"ruku": 345,
+			"hizbQuarter": 160,
+			"sajda": false,
+			"text": "وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًا فَقَالَ يَا قَوْمِ اعْبُدُوا اللَّهَ وَارْجُوا الْيَوْمَ الْآخِرَ وَلَا تَعْثَوْا فِي الْأَرْضِ مُفْسِدِينَ"
+		},
+		{
+			"number": 3377,
+			"surah": {
+				"number": 29,
+				"name": "سُورَةُ العَنكَبُوتِ",
+				"englishName": "Al-Ankaboot",
+				"englishNameTranslation": "The Spider",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 69
+			},
+			"numberInSurah": 37,
+			"juz": 20,
+			"manzil": 5,
+			"page": 400,
+			"ruku": 345,
+			"hizbQuarter": 160,
+			"sajda": false,
+			"text": "فَكَذَّبُوهُ فَأَخَذَتْهُمُ الرَّجْفَةُ فَأَصْبَحُوا فِي دَارِهِمْ جَاثِمِينَ"
+		},
+		{
+			"number": 3378,
+			"surah": {
+				"number": 29,
+				"name": "سُورَةُ العَنكَبُوتِ",
+				"englishName": "Al-Ankaboot",
+				"englishNameTranslation": "The Spider",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 69
+			},
+			"numberInSurah": 38,
+			"juz": 20,
+			"manzil": 5,
+			"page": 400,
+			"ruku": 345,
+			"hizbQuarter": 160,
+			"sajda": false,
+			"text": "وَعَادًا وَثَمُودَ وَقَد تَّبَيَّنَ لَكُم مِّن مَّسَاكِنِهِمْ ۖ وَزَيَّنَ لَهُمُ الشَّيْطَانُ أَعْمَالَهُمْ فَصَدَّهُمْ عَنِ السَّبِيلِ وَكَانُوا مُسْتَبْصِرِينَ"
+		},
+		{
+			"number": 3379,
+			"surah": {
+				"number": 29,
+				"name": "سُورَةُ العَنكَبُوتِ",
+				"englishName": "Al-Ankaboot",
+				"englishNameTranslation": "The Spider",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 69
+			},
+			"numberInSurah": 39,
+			"juz": 20,
+			"manzil": 5,
+			"page": 401,
+			"ruku": 345,
+			"hizbQuarter": 160,
+			"sajda": false,
+			"text": "وَقَارُونَ وَفِرْعَوْنَ وَهَامَانَ ۖ وَلَقَدْ جَاءَهُم مُّوسَىٰ بِالْبَيِّنَاتِ فَاسْتَكْبَرُوا فِي الْأَرْضِ وَمَا كَانُوا سَابِقِينَ"
+		},
+		{
+			"number": 3380,
+			"surah": {
+				"number": 29,
+				"name": "سُورَةُ العَنكَبُوتِ",
+				"englishName": "Al-Ankaboot",
+				"englishNameTranslation": "The Spider",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 69
+			},
+			"numberInSurah": 40,
+			"juz": 20,
+			"manzil": 5,
+			"page": 401,
+			"ruku": 345,
+			"hizbQuarter": 160,
+			"sajda": false,
+			"text": "فَكُلًّا أَخَذْنَا بِذَنبِهِ ۖ فَمِنْهُم مَّنْ أَرْسَلْنَا عَلَيْهِ حَاصِبًا وَمِنْهُم مَّنْ أَخَذَتْهُ الصَّيْحَةُ وَمِنْهُم مَّنْ خَسَفْنَا بِهِ الْأَرْضَ وَمِنْهُم مَّنْ أَغْرَقْنَا ۚ وَمَا كَانَ اللَّهُ لِيَظْلِمَهُمْ وَلَٰكِن كَانُوا أَنفُسَهُمْ يَظْلِمُونَ"
+		},
+		{
+			"number": 3381,
+			"surah": {
+				"number": 29,
+				"name": "سُورَةُ العَنكَبُوتِ",
+				"englishName": "Al-Ankaboot",
+				"englishNameTranslation": "The Spider",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 69
+			},
+			"numberInSurah": 41,
+			"juz": 20,
+			"manzil": 5,
+			"page": 401,
+			"ruku": 345,
+			"hizbQuarter": 160,
+			"sajda": false,
+			"text": "مَثَلُ الَّذِينَ اتَّخَذُوا مِن دُونِ اللَّهِ أَوْلِيَاءَ كَمَثَلِ الْعَنكَبُوتِ اتَّخَذَتْ بَيْتًا ۖ وَإِنَّ أَوْهَنَ الْبُيُوتِ لَبَيْتُ الْعَنكَبُوتِ ۖ لَوْ كَانُوا يَعْلَمُونَ"
+		},
+		{
+			"number": 3382,
+			"surah": {
+				"number": 29,
+				"name": "سُورَةُ العَنكَبُوتِ",
+				"englishName": "Al-Ankaboot",
+				"englishNameTranslation": "The Spider",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 69
+			},
+			"numberInSurah": 42,
+			"juz": 20,
+			"manzil": 5,
+			"page": 401,
+			"ruku": 345,
+			"hizbQuarter": 160,
+			"sajda": false,
+			"text": "إِنَّ اللَّهَ يَعْلَمُ مَا يَدْعُونَ مِن دُونِهِ مِن شَيْءٍ ۚ وَهُوَ الْعَزِيزُ الْحَكِيمُ"
+		},
+		{
+			"number": 3383,
+			"surah": {
+				"number": 29,
+				"name": "سُورَةُ العَنكَبُوتِ",
+				"englishName": "Al-Ankaboot",
+				"englishNameTranslation": "The Spider",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 69
+			},
+			"numberInSurah": 43,
+			"juz": 20,
+			"manzil": 5,
+			"page": 401,
+			"ruku": 345,
+			"hizbQuarter": 160,
+			"sajda": false,
+			"text": "وَتِلْكَ الْأَمْثَالُ نَضْرِبُهَا لِلنَّاسِ ۖ وَمَا يَعْقِلُهَا إِلَّا الْعَالِمُونَ"
+		},
+		{
+			"number": 3384,
+			"surah": {
+				"number": 29,
+				"name": "سُورَةُ العَنكَبُوتِ",
+				"englishName": "Al-Ankaboot",
+				"englishNameTranslation": "The Spider",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 69
+			},
+			"numberInSurah": 44,
+			"juz": 20,
+			"manzil": 5,
+			"page": 401,
+			"ruku": 345,
+			"hizbQuarter": 160,
+			"sajda": false,
+			"text": "خَلَقَ اللَّهُ السَّمَاوَاتِ وَالْأَرْضَ بِالْحَقِّ ۚ إِنَّ فِي ذَٰلِكَ لَآيَةً لِّلْمُؤْمِنِينَ"
+		},
+		{
+			"number": 3385,
+			"surah": {
+				"number": 29,
+				"name": "سُورَةُ العَنكَبُوتِ",
+				"englishName": "Al-Ankaboot",
+				"englishNameTranslation": "The Spider",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 69
+			},
+			"numberInSurah": 45,
+			"juz": 20,
+			"manzil": 5,
+			"page": 401,
+			"ruku": 346,
+			"hizbQuarter": 160,
+			"sajda": false,
+			"text": "اتْلُ مَا أُوحِيَ إِلَيْكَ مِنَ الْكِتَابِ وَأَقِمِ الصَّلَاةَ ۖ إِنَّ الصَّلَاةَ تَنْهَىٰ عَنِ الْفَحْشَاءِ وَالْمُنكَرِ ۗ وَلَذِكْرُ اللَّهِ أَكْبَرُ ۗ وَاللَّهُ يَعْلَمُ مَا تَصْنَعُونَ"
+		}
+	],
+	"surahs": {
+		"29": {
+			"number": 29,
+			"name": "سُورَةُ العَنكَبُوتِ",
+			"englishName": "Al-Ankaboot",
+			"englishNameTranslation": "The Spider",
+			"revelationType": "Meccan",
+			"numberOfAyahs": 69
+		}
+	},
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

@@ -1,0 +1,613 @@
+﻿{
+	"number": 581,
+	"ayahs": [
+		{
+			"number": 5642,
+			"text": "أَلَمْ نَخْلُقْكُمْ مِنْ مَاءٍ مَهِينٍ",
+			"surah": {
+				"number": 77,
+				"name": "سُورَةُ المُرۡسَلَاتِ",
+				"englishName": "Al-Mursalaat",
+				"englishNameTranslation": "The Emissaries",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 50
+			},
+			"numberInSurah": 20,
+			"juz": 29,
+			"manzil": 7,
+			"page": 581,
+			"ruku": 516,
+			"hizbQuarter": 232,
+			"sajda": false
+		},
+		{
+			"number": 5643,
+			"text": "فَجَعَلْنَاهُ فِي قَرَارٍ مَكِينٍ",
+			"surah": {
+				"number": 77,
+				"name": "سُورَةُ المُرۡسَلَاتِ",
+				"englishName": "Al-Mursalaat",
+				"englishNameTranslation": "The Emissaries",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 50
+			},
+			"numberInSurah": 21,
+			"juz": 29,
+			"manzil": 7,
+			"page": 581,
+			"ruku": 516,
+			"hizbQuarter": 232,
+			"sajda": false
+		},
+		{
+			"number": 5644,
+			"text": "إِلَىٰ قَدَرٍ مَعْلُومٍ",
+			"surah": {
+				"number": 77,
+				"name": "سُورَةُ المُرۡسَلَاتِ",
+				"englishName": "Al-Mursalaat",
+				"englishNameTranslation": "The Emissaries",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 50
+			},
+			"numberInSurah": 22,
+			"juz": 29,
+			"manzil": 7,
+			"page": 581,
+			"ruku": 516,
+			"hizbQuarter": 232,
+			"sajda": false
+		},
+		{
+			"number": 5645,
+			"text": "فَقَدَرْنَا فَنِعْمَ الْقَادِرُونَ",
+			"surah": {
+				"number": 77,
+				"name": "سُورَةُ المُرۡسَلَاتِ",
+				"englishName": "Al-Mursalaat",
+				"englishNameTranslation": "The Emissaries",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 50
+			},
+			"numberInSurah": 23,
+			"juz": 29,
+			"manzil": 7,
+			"page": 581,
+			"ruku": 516,
+			"hizbQuarter": 232,
+			"sajda": false
+		},
+		{
+			"number": 5646,
+			"text": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ",
+			"surah": {
+				"number": 77,
+				"name": "سُورَةُ المُرۡسَلَاتِ",
+				"englishName": "Al-Mursalaat",
+				"englishNameTranslation": "The Emissaries",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 50
+			},
+			"numberInSurah": 24,
+			"juz": 29,
+			"manzil": 7,
+			"page": 581,
+			"ruku": 516,
+			"hizbQuarter": 232,
+			"sajda": false
+		},
+		{
+			"number": 5647,
+			"text": "أَلَمْ نَجْعَلِ الْأَرْضَ كِفَاتًا",
+			"surah": {
+				"number": 77,
+				"name": "سُورَةُ المُرۡسَلَاتِ",
+				"englishName": "Al-Mursalaat",
+				"englishNameTranslation": "The Emissaries",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 50
+			},
+			"numberInSurah": 25,
+			"juz": 29,
+			"manzil": 7,
+			"page": 581,
+			"ruku": 516,
+			"hizbQuarter": 232,
+			"sajda": false
+		},
+		{
+			"number": 5648,
+			"text": "أَحْيَاءً وَأَمْوَاتًا",
+			"surah": {
+				"number": 77,
+				"name": "سُورَةُ المُرۡسَلَاتِ",
+				"englishName": "Al-Mursalaat",
+				"englishNameTranslation": "The Emissaries",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 50
+			},
+			"numberInSurah": 26,
+			"juz": 29,
+			"manzil": 7,
+			"page": 581,
+			"ruku": 516,
+			"hizbQuarter": 232,
+			"sajda": false
+		},
+		{
+			"number": 5649,
+			"text": "وَجَعَلْنَا فِيهَا رَوَاسِيَ شَامِخَاتٍ وَأَسْقَيْنَاكُمْ مَاءً فُرَاتًا",
+			"surah": {
+				"number": 77,
+				"name": "سُورَةُ المُرۡسَلَاتِ",
+				"englishName": "Al-Mursalaat",
+				"englishNameTranslation": "The Emissaries",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 50
+			},
+			"numberInSurah": 27,
+			"juz": 29,
+			"manzil": 7,
+			"page": 581,
+			"ruku": 516,
+			"hizbQuarter": 232,
+			"sajda": false
+		},
+		{
+			"number": 5650,
+			"text": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ",
+			"surah": {
+				"number": 77,
+				"name": "سُورَةُ المُرۡسَلَاتِ",
+				"englishName": "Al-Mursalaat",
+				"englishNameTranslation": "The Emissaries",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 50
+			},
+			"numberInSurah": 28,
+			"juz": 29,
+			"manzil": 7,
+			"page": 581,
+			"ruku": 516,
+			"hizbQuarter": 232,
+			"sajda": false
+		},
+		{
+			"number": 5651,
+			"text": "انْطَلِقُوا إِلَىٰ مَا كُنْتُمْ بِهِ تُكَذِّبُونَ",
+			"surah": {
+				"number": 77,
+				"name": "سُورَةُ المُرۡسَلَاتِ",
+				"englishName": "Al-Mursalaat",
+				"englishNameTranslation": "The Emissaries",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 50
+			},
+			"numberInSurah": 29,
+			"juz": 29,
+			"manzil": 7,
+			"page": 581,
+			"ruku": 516,
+			"hizbQuarter": 232,
+			"sajda": false
+		},
+		{
+			"number": 5652,
+			"text": "انْطَلِقُوا إِلَىٰ ظِلٍّ ذِي ثَلَاثِ شُعَبٍ",
+			"surah": {
+				"number": 77,
+				"name": "سُورَةُ المُرۡسَلَاتِ",
+				"englishName": "Al-Mursalaat",
+				"englishNameTranslation": "The Emissaries",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 50
+			},
+			"numberInSurah": 30,
+			"juz": 29,
+			"manzil": 7,
+			"page": 581,
+			"ruku": 516,
+			"hizbQuarter": 232,
+			"sajda": false
+		},
+		{
+			"number": 5653,
+			"text": "لَا ظَلِيلٍ وَلَا يُغْنِي مِنَ اللَّهَبِ",
+			"surah": {
+				"number": 77,
+				"name": "سُورَةُ المُرۡسَلَاتِ",
+				"englishName": "Al-Mursalaat",
+				"englishNameTranslation": "The Emissaries",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 50
+			},
+			"numberInSurah": 31,
+			"juz": 29,
+			"manzil": 7,
+			"page": 581,
+			"ruku": 516,
+			"hizbQuarter": 232,
+			"sajda": false
+		},
+		{
+			"number": 5654,
+			"text": "إِنَّهَا تَرْمِي بِشَرَرٍ كَالْقَصْرِ",
+			"surah": {
+				"number": 77,
+				"name": "سُورَةُ المُرۡسَلَاتِ",
+				"englishName": "Al-Mursalaat",
+				"englishNameTranslation": "The Emissaries",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 50
+			},
+			"numberInSurah": 32,
+			"juz": 29,
+			"manzil": 7,
+			"page": 581,
+			"ruku": 516,
+			"hizbQuarter": 232,
+			"sajda": false
+		},
+		{
+			"number": 5655,
+			"text": "كَأَنَّهُ جِمَالَتٌ صُفْرٌ",
+			"surah": {
+				"number": 77,
+				"name": "سُورَةُ المُرۡسَلَاتِ",
+				"englishName": "Al-Mursalaat",
+				"englishNameTranslation": "The Emissaries",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 50
+			},
+			"numberInSurah": 33,
+			"juz": 29,
+			"manzil": 7,
+			"page": 581,
+			"ruku": 516,
+			"hizbQuarter": 232,
+			"sajda": false
+		},
+		{
+			"number": 5656,
+			"text": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ",
+			"surah": {
+				"number": 77,
+				"name": "سُورَةُ المُرۡسَلَاتِ",
+				"englishName": "Al-Mursalaat",
+				"englishNameTranslation": "The Emissaries",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 50
+			},
+			"numberInSurah": 34,
+			"juz": 29,
+			"manzil": 7,
+			"page": 581,
+			"ruku": 516,
+			"hizbQuarter": 232,
+			"sajda": false
+		},
+		{
+			"number": 5657,
+			"text": "هَٰذَا يَوْمُ لَا يَنْطِقُونَ",
+			"surah": {
+				"number": 77,
+				"name": "سُورَةُ المُرۡسَلَاتِ",
+				"englishName": "Al-Mursalaat",
+				"englishNameTranslation": "The Emissaries",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 50
+			},
+			"numberInSurah": 35,
+			"juz": 29,
+			"manzil": 7,
+			"page": 581,
+			"ruku": 516,
+			"hizbQuarter": 232,
+			"sajda": false
+		},
+		{
+			"number": 5658,
+			"text": "وَلَا يُؤْذَنُ لَهُمْ فَيَعْتَذِرُونَ",
+			"surah": {
+				"number": 77,
+				"name": "سُورَةُ المُرۡسَلَاتِ",
+				"englishName": "Al-Mursalaat",
+				"englishNameTranslation": "The Emissaries",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 50
+			},
+			"numberInSurah": 36,
+			"juz": 29,
+			"manzil": 7,
+			"page": 581,
+			"ruku": 516,
+			"hizbQuarter": 232,
+			"sajda": false
+		},
+		{
+			"number": 5659,
+			"text": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ",
+			"surah": {
+				"number": 77,
+				"name": "سُورَةُ المُرۡسَلَاتِ",
+				"englishName": "Al-Mursalaat",
+				"englishNameTranslation": "The Emissaries",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 50
+			},
+			"numberInSurah": 37,
+			"juz": 29,
+			"manzil": 7,
+			"page": 581,
+			"ruku": 516,
+			"hizbQuarter": 232,
+			"sajda": false
+		},
+		{
+			"number": 5660,
+			"text": "هَٰذَا يَوْمُ الْفَصْلِ ۖ جَمَعْنَاكُمْ وَالْأَوَّلِينَ",
+			"surah": {
+				"number": 77,
+				"name": "سُورَةُ المُرۡسَلَاتِ",
+				"englishName": "Al-Mursalaat",
+				"englishNameTranslation": "The Emissaries",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 50
+			},
+			"numberInSurah": 38,
+			"juz": 29,
+			"manzil": 7,
+			"page": 581,
+			"ruku": 516,
+			"hizbQuarter": 232,
+			"sajda": false
+		},
+		{
+			"number": 5661,
+			"text": "فَإِنْ كَانَ لَكُمْ كَيْدٌ فَكِيدُونِ",
+			"surah": {
+				"number": 77,
+				"name": "سُورَةُ المُرۡسَلَاتِ",
+				"englishName": "Al-Mursalaat",
+				"englishNameTranslation": "The Emissaries",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 50
+			},
+			"numberInSurah": 39,
+			"juz": 29,
+			"manzil": 7,
+			"page": 581,
+			"ruku": 516,
+			"hizbQuarter": 232,
+			"sajda": false
+		},
+		{
+			"number": 5662,
+			"text": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ",
+			"surah": {
+				"number": 77,
+				"name": "سُورَةُ المُرۡسَلَاتِ",
+				"englishName": "Al-Mursalaat",
+				"englishNameTranslation": "The Emissaries",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 50
+			},
+			"numberInSurah": 40,
+			"juz": 29,
+			"manzil": 7,
+			"page": 581,
+			"ruku": 516,
+			"hizbQuarter": 232,
+			"sajda": false
+		},
+		{
+			"number": 5663,
+			"text": "إِنَّ الْمُتَّقِينَ فِي ظِلَالٍ وَعُيُونٍ",
+			"surah": {
+				"number": 77,
+				"name": "سُورَةُ المُرۡسَلَاتِ",
+				"englishName": "Al-Mursalaat",
+				"englishNameTranslation": "The Emissaries",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 50
+			},
+			"numberInSurah": 41,
+			"juz": 29,
+			"manzil": 7,
+			"page": 581,
+			"ruku": 517,
+			"hizbQuarter": 232,
+			"sajda": false
+		},
+		{
+			"number": 5664,
+			"text": "وَفَوَاكِهَ مِمَّا يَشْتَهُونَ",
+			"surah": {
+				"number": 77,
+				"name": "سُورَةُ المُرۡسَلَاتِ",
+				"englishName": "Al-Mursalaat",
+				"englishNameTranslation": "The Emissaries",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 50
+			},
+			"numberInSurah": 42,
+			"juz": 29,
+			"manzil": 7,
+			"page": 581,
+			"ruku": 517,
+			"hizbQuarter": 232,
+			"sajda": false
+		},
+		{
+			"number": 5665,
+			"text": "كُلُوا وَاشْرَبُوا هَنِيئًا بِمَا كُنْتُمْ تَعْمَلُونَ",
+			"surah": {
+				"number": 77,
+				"name": "سُورَةُ المُرۡسَلَاتِ",
+				"englishName": "Al-Mursalaat",
+				"englishNameTranslation": "The Emissaries",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 50
+			},
+			"numberInSurah": 43,
+			"juz": 29,
+			"manzil": 7,
+			"page": 581,
+			"ruku": 517,
+			"hizbQuarter": 232,
+			"sajda": false
+		},
+		{
+			"number": 5666,
+			"text": "إِنَّا كَذَٰلِكَ نَجْزِي الْمُحْسِنِينَ",
+			"surah": {
+				"number": 77,
+				"name": "سُورَةُ المُرۡسَلَاتِ",
+				"englishName": "Al-Mursalaat",
+				"englishNameTranslation": "The Emissaries",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 50
+			},
+			"numberInSurah": 44,
+			"juz": 29,
+			"manzil": 7,
+			"page": 581,
+			"ruku": 517,
+			"hizbQuarter": 232,
+			"sajda": false
+		},
+		{
+			"number": 5667,
+			"text": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ",
+			"surah": {
+				"number": 77,
+				"name": "سُورَةُ المُرۡسَلَاتِ",
+				"englishName": "Al-Mursalaat",
+				"englishNameTranslation": "The Emissaries",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 50
+			},
+			"numberInSurah": 45,
+			"juz": 29,
+			"manzil": 7,
+			"page": 581,
+			"ruku": 517,
+			"hizbQuarter": 232,
+			"sajda": false
+		},
+		{
+			"number": 5668,
+			"text": "كُلُوا وَتَمَتَّعُوا قَلِيلًا إِنَّكُمْ مُجْرِمُونَ",
+			"surah": {
+				"number": 77,
+				"name": "سُورَةُ المُرۡسَلَاتِ",
+				"englishName": "Al-Mursalaat",
+				"englishNameTranslation": "The Emissaries",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 50
+			},
+			"numberInSurah": 46,
+			"juz": 29,
+			"manzil": 7,
+			"page": 581,
+			"ruku": 517,
+			"hizbQuarter": 232,
+			"sajda": false
+		},
+		{
+			"number": 5669,
+			"text": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ",
+			"surah": {
+				"number": 77,
+				"name": "سُورَةُ المُرۡسَلَاتِ",
+				"englishName": "Al-Mursalaat",
+				"englishNameTranslation": "The Emissaries",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 50
+			},
+			"numberInSurah": 47,
+			"juz": 29,
+			"manzil": 7,
+			"page": 581,
+			"ruku": 517,
+			"hizbQuarter": 232,
+			"sajda": false
+		},
+		{
+			"number": 5670,
+			"text": "وَإِذَا قِيلَ لَهُمُ ارْكَعُوا لَا يَرْكَعُونَ",
+			"surah": {
+				"number": 77,
+				"name": "سُورَةُ المُرۡسَلَاتِ",
+				"englishName": "Al-Mursalaat",
+				"englishNameTranslation": "The Emissaries",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 50
+			},
+			"numberInSurah": 48,
+			"juz": 29,
+			"manzil": 7,
+			"page": 581,
+			"ruku": 517,
+			"hizbQuarter": 232,
+			"sajda": false
+		},
+		{
+			"number": 5671,
+			"text": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ",
+			"surah": {
+				"number": 77,
+				"name": "سُورَةُ المُرۡسَلَاتِ",
+				"englishName": "Al-Mursalaat",
+				"englishNameTranslation": "The Emissaries",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 50
+			},
+			"numberInSurah": 49,
+			"juz": 29,
+			"manzil": 7,
+			"page": 581,
+			"ruku": 517,
+			"hizbQuarter": 232,
+			"sajda": false
+		},
+		{
+			"number": 5672,
+			"text": "فَبِأَيِّ حَدِيثٍ بَعْدَهُ يُؤْمِنُونَ",
+			"surah": {
+				"number": 77,
+				"name": "سُورَةُ المُرۡسَلَاتِ",
+				"englishName": "Al-Mursalaat",
+				"englishNameTranslation": "The Emissaries",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 50
+			},
+			"numberInSurah": 50,
+			"juz": 29,
+			"manzil": 7,
+			"page": 581,
+			"ruku": 517,
+			"hizbQuarter": 232,
+			"sajda": false
+		}
+	],
+	"surahs": {
+		"77": {
+			"number": 77,
+			"name": "سُورَةُ المُرۡسَلَاتِ",
+			"englishName": "Al-Mursalaat",
+			"englishNameTranslation": "The Emissaries",
+			"revelationType": "Meccan",
+			"numberOfAyahs": 50
+		}
+	},
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

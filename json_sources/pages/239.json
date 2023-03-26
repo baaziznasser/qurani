@@ -1,0 +1,157 @@
+﻿{
+	"number": 239,
+	"ayahs": [
+		{
+			"number": 1627,
+			"text": "فَلَمَّا سَمِعَتْ بِمَكْرِهِنَّ أَرْسَلَتْ إِلَيْهِنَّ وَأَعْتَدَتْ لَهُنَّ مُتَّكَأً وَآتَتْ كُلَّ وَاحِدَةٍ مِنْهُنَّ سِكِّينًا وَقَالَتِ اخْرُجْ عَلَيْهِنَّ ۖ فَلَمَّا رَأَيْنَهُ أَكْبَرْنَهُ وَقَطَّعْنَ أَيْدِيَهُنَّ وَقُلْنَ حَاشَ لِلَّهِ مَا هَٰذَا بَشَرًا إِنْ هَٰذَا إِلَّا مَلَكٌ كَرِيمٌ",
+			"surah": {
+				"number": 12,
+				"name": "سُورَةُ يُوسُفَ",
+				"englishName": "Yusuf",
+				"englishNameTranslation": "Joseph",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 31,
+			"juz": 12,
+			"manzil": 3,
+			"page": 239,
+			"ruku": 196,
+			"hizbQuarter": 96,
+			"sajda": false
+		},
+		{
+			"number": 1628,
+			"text": "قَالَتْ فَذَٰلِكُنَّ الَّذِي لُمْتُنَّنِي فِيهِ ۖ وَلَقَدْ رَاوَدْتُهُ عَنْ نَفْسِهِ فَاسْتَعْصَمَ ۖ وَلَئِنْ لَمْ يَفْعَلْ مَا آمُرُهُ لَيُسْجَنَنَّ وَلَيَكُونًا مِنَ الصَّاغِرِينَ",
+			"surah": {
+				"number": 12,
+				"name": "سُورَةُ يُوسُفَ",
+				"englishName": "Yusuf",
+				"englishNameTranslation": "Joseph",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 32,
+			"juz": 12,
+			"manzil": 3,
+			"page": 239,
+			"ruku": 196,
+			"hizbQuarter": 96,
+			"sajda": false
+		},
+		{
+			"number": 1629,
+			"text": "قَالَ رَبِّ السِّجْنُ أَحَبُّ إِلَيَّ مِمَّا يَدْعُونَنِي إِلَيْهِ ۖ وَإِلَّا تَصْرِفْ عَنِّي كَيْدَهُنَّ أَصْبُ إِلَيْهِنَّ وَأَكُنْ مِنَ الْجَاهِلِينَ",
+			"surah": {
+				"number": 12,
+				"name": "سُورَةُ يُوسُفَ",
+				"englishName": "Yusuf",
+				"englishNameTranslation": "Joseph",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 33,
+			"juz": 12,
+			"manzil": 3,
+			"page": 239,
+			"ruku": 196,
+			"hizbQuarter": 96,
+			"sajda": false
+		},
+		{
+			"number": 1630,
+			"text": "فَاسْتَجَابَ لَهُ رَبُّهُ فَصَرَفَ عَنْهُ كَيْدَهُنَّ ۚ إِنَّهُ هُوَ السَّمِيعُ الْعَلِيمُ",
+			"surah": {
+				"number": 12,
+				"name": "سُورَةُ يُوسُفَ",
+				"englishName": "Yusuf",
+				"englishNameTranslation": "Joseph",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 34,
+			"juz": 12,
+			"manzil": 3,
+			"page": 239,
+			"ruku": 196,
+			"hizbQuarter": 96,
+			"sajda": false
+		},
+		{
+			"number": 1631,
+			"text": "ثُمَّ بَدَا لَهُمْ مِنْ بَعْدِ مَا رَأَوُا الْآيَاتِ لَيَسْجُنُنَّهُ حَتَّىٰ حِينٍ",
+			"surah": {
+				"number": 12,
+				"name": "سُورَةُ يُوسُفَ",
+				"englishName": "Yusuf",
+				"englishNameTranslation": "Joseph",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 35,
+			"juz": 12,
+			"manzil": 3,
+			"page": 239,
+			"ruku": 196,
+			"hizbQuarter": 96,
+			"sajda": false
+		},
+		{
+			"number": 1632,
+			"text": "وَدَخَلَ مَعَهُ السِّجْنَ فَتَيَانِ ۖ قَالَ أَحَدُهُمَا إِنِّي أَرَانِي أَعْصِرُ خَمْرًا ۖ وَقَالَ الْآخَرُ إِنِّي أَرَانِي أَحْمِلُ فَوْقَ رَأْسِي خُبْزًا تَأْكُلُ الطَّيْرُ مِنْهُ ۖ نَبِّئْنَا بِتَأْوِيلِهِ ۖ إِنَّا نَرَاكَ مِنَ الْمُحْسِنِينَ",
+			"surah": {
+				"number": 12,
+				"name": "سُورَةُ يُوسُفَ",
+				"englishName": "Yusuf",
+				"englishNameTranslation": "Joseph",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 36,
+			"juz": 12,
+			"manzil": 3,
+			"page": 239,
+			"ruku": 197,
+			"hizbQuarter": 96,
+			"sajda": false
+		},
+		{
+			"number": 1633,
+			"text": "قَالَ لَا يَأْتِيكُمَا طَعَامٌ تُرْزَقَانِهِ إِلَّا نَبَّأْتُكُمَا بِتَأْوِيلِهِ قَبْلَ أَنْ يَأْتِيَكُمَا ۚ ذَٰلِكُمَا مِمَّا عَلَّمَنِي رَبِّي ۚ إِنِّي تَرَكْتُ مِلَّةَ قَوْمٍ لَا يُؤْمِنُونَ بِاللَّهِ وَهُمْ بِالْآخِرَةِ هُمْ كَافِرُونَ",
+			"surah": {
+				"number": 12,
+				"name": "سُورَةُ يُوسُفَ",
+				"englishName": "Yusuf",
+				"englishNameTranslation": "Joseph",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 111
+			},
+			"numberInSurah": 37,
+			"juz": 12,
+			"manzil": 3,
+			"page": 239,
+			"ruku": 197,
+			"hizbQuarter": 96,
+			"sajda": false
+		}
+	],
+	"surahs": {
+		"12": {
+			"number": 12,
+			"name": "سُورَةُ يُوسُفَ",
+			"englishName": "Yusuf",
+			"englishNameTranslation": "Joseph",
+			"revelationType": "Meccan",
+			"numberOfAyahs": 111
+		}
+	},
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

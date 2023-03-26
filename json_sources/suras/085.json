@@ -1,0 +1,261 @@
+﻿{
+	"number": 85,
+	"name": "سُورَةُ البُرُوجِ",
+	"englishName": "Al-Burooj",
+	"englishNameTranslation": "The Constellations",
+	"revelationType": "Meccan",
+	"numberOfAyahs": 22,
+	"ayahs": [
+		{
+			"number": 5910,
+			"text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ وَالسَّمَاءِ ذَاتِ الْبُرُوجِ",
+			"numberInSurah": 1,
+			"juz": 30,
+			"manzil": 7,
+			"page": 590,
+			"ruku": 527,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5911,
+			"text": "وَالْيَوْمِ الْمَوْعُودِ",
+			"numberInSurah": 2,
+			"juz": 30,
+			"manzil": 7,
+			"page": 590,
+			"ruku": 527,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5912,
+			"text": "وَشَاهِدٍ وَمَشْهُودٍ",
+			"numberInSurah": 3,
+			"juz": 30,
+			"manzil": 7,
+			"page": 590,
+			"ruku": 527,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5913,
+			"text": "قُتِلَ أَصْحَابُ الْأُخْدُودِ",
+			"numberInSurah": 4,
+			"juz": 30,
+			"manzil": 7,
+			"page": 590,
+			"ruku": 527,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5914,
+			"text": "النَّارِ ذَاتِ الْوَقُودِ",
+			"numberInSurah": 5,
+			"juz": 30,
+			"manzil": 7,
+			"page": 590,
+			"ruku": 527,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5915,
+			"text": "إِذْ هُمْ عَلَيْهَا قُعُودٌ",
+			"numberInSurah": 6,
+			"juz": 30,
+			"manzil": 7,
+			"page": 590,
+			"ruku": 527,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5916,
+			"text": "وَهُمْ عَلَىٰ مَا يَفْعَلُونَ بِالْمُؤْمِنِينَ شُهُودٌ",
+			"numberInSurah": 7,
+			"juz": 30,
+			"manzil": 7,
+			"page": 590,
+			"ruku": 527,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5917,
+			"text": "وَمَا نَقَمُوا مِنْهُمْ إِلَّا أَنْ يُؤْمِنُوا بِاللَّهِ الْعَزِيزِ الْحَمِيدِ",
+			"numberInSurah": 8,
+			"juz": 30,
+			"manzil": 7,
+			"page": 590,
+			"ruku": 527,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5918,
+			"text": "الَّذِي لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ ۚ وَاللَّهُ عَلَىٰ كُلِّ شَيْءٍ شَهِيدٌ",
+			"numberInSurah": 9,
+			"juz": 30,
+			"manzil": 7,
+			"page": 590,
+			"ruku": 527,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5919,
+			"text": "إِنَّ الَّذِينَ فَتَنُوا الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ ثُمَّ لَمْ يَتُوبُوا فَلَهُمْ عَذَابُ جَهَنَّمَ وَلَهُمْ عَذَابُ الْحَرِيقِ",
+			"numberInSurah": 10,
+			"juz": 30,
+			"manzil": 7,
+			"page": 590,
+			"ruku": 527,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5920,
+			"text": "إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ جَنَّاتٌ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ ۚ ذَٰلِكَ الْفَوْزُ الْكَبِيرُ",
+			"numberInSurah": 11,
+			"juz": 30,
+			"manzil": 7,
+			"page": 590,
+			"ruku": 527,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5921,
+			"text": "إِنَّ بَطْشَ رَبِّكَ لَشَدِيدٌ",
+			"numberInSurah": 12,
+			"juz": 30,
+			"manzil": 7,
+			"page": 590,
+			"ruku": 527,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5922,
+			"text": "إِنَّهُ هُوَ يُبْدِئُ وَيُعِيدُ",
+			"numberInSurah": 13,
+			"juz": 30,
+			"manzil": 7,
+			"page": 590,
+			"ruku": 527,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5923,
+			"text": "وَهُوَ الْغَفُورُ الْوَدُودُ",
+			"numberInSurah": 14,
+			"juz": 30,
+			"manzil": 7,
+			"page": 590,
+			"ruku": 527,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5924,
+			"text": "ذُو الْعَرْشِ الْمَجِيدُ",
+			"numberInSurah": 15,
+			"juz": 30,
+			"manzil": 7,
+			"page": 590,
+			"ruku": 527,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5925,
+			"text": "فَعَّالٌ لِمَا يُرِيدُ",
+			"numberInSurah": 16,
+			"juz": 30,
+			"manzil": 7,
+			"page": 590,
+			"ruku": 527,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5926,
+			"text": "هَلْ أَتَاكَ حَدِيثُ الْجُنُودِ",
+			"numberInSurah": 17,
+			"juz": 30,
+			"manzil": 7,
+			"page": 590,
+			"ruku": 527,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5927,
+			"text": "فِرْعَوْنَ وَثَمُودَ",
+			"numberInSurah": 18,
+			"juz": 30,
+			"manzil": 7,
+			"page": 590,
+			"ruku": 527,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5928,
+			"text": "بَلِ الَّذِينَ كَفَرُوا فِي تَكْذِيبٍ",
+			"numberInSurah": 19,
+			"juz": 30,
+			"manzil": 7,
+			"page": 590,
+			"ruku": 527,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5929,
+			"text": "وَاللَّهُ مِنْ وَرَائِهِمْ مُحِيطٌ",
+			"numberInSurah": 20,
+			"juz": 30,
+			"manzil": 7,
+			"page": 590,
+			"ruku": 527,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5930,
+			"text": "بَلْ هُوَ قُرْآنٌ مَجِيدٌ",
+			"numberInSurah": 21,
+			"juz": 30,
+			"manzil": 7,
+			"page": 590,
+			"ruku": 527,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5931,
+			"text": "فِي لَوْحٍ مَحْفُوظٍ",
+			"numberInSurah": 22,
+			"juz": 30,
+			"manzil": 7,
+			"page": 590,
+			"ruku": 527,
+			"hizbQuarter": 236,
+			"sajda": false
+		}
+	],
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

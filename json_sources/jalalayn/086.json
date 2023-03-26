@@ -1,0 +1,206 @@
+﻿{
+	"number": 86,
+	"name": "سُورَةُ الطَّارِقِ",
+	"englishName": "At-Taariq",
+	"englishNameTranslation": "The Morning Star",
+	"revelationType": "Meccan",
+	"numberOfAyahs": 17,
+	"ayahs": [
+		{
+			"number": 5932,
+			"text": "«والسماء والطارق» أصله كل آت ليلا ومنه النجوم لطلوعها ليلا.",
+			"numberInSurah": 1,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 528,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5933,
+			"text": "«وما أدراك» أعلمك «ما الطارق» مبتدأ وخبر في محل المفعول الثاني لأدرى وما بعد الأولى خبرها وفيه تعظيم لشأن الطارق المفسر بما بعده هو.",
+			"numberInSurah": 2,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 528,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5934,
+			"text": "«النجم» أي الثريا أو كل نجم «الثاقب» المضيء لثقبه الظلام بضوئه وجواب القسم.",
+			"numberInSurah": 3,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 528,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5935,
+			"text": "«إن كل نفس لمَا عليها حافظ» بتخفيف ما فهي مزيدة وإن مخففة من الثقيلة واسمها محذوف، أي إنه واللام فارقة وبتشديدها فإن نافية ولما بمعنى إلا والحافظ من الملائكة يحفظ عملها من خير وشر.",
+			"numberInSurah": 4,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 528,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5936,
+			"text": "«فلينظر الإنسان» نظر اعتبار «ممَّ خُلق» من أي شيء.",
+			"numberInSurah": 5,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 528,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5937,
+			"text": "جوابه «خُلق من ماء دافق» ذي اندفاق من الرجل والمرأة في رحمها.",
+			"numberInSurah": 6,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 528,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5938,
+			"text": "«يخرج من بين الصلب» للرجل «والترائب» للمرأة وهي عظام الصدر.",
+			"numberInSurah": 7,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 528,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5939,
+			"text": "«إنه» تعالى «على رجعه» بعث الإنسان بعد موته «لقادر» فإذا اعتبر أصله علم أن القادر على ذلك قادر على بعثه.",
+			"numberInSurah": 8,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 528,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5940,
+			"text": "«يوم تبلى» تختبر وتكشف «السرائر» ضمائر القلوب في العقائد والنيات.",
+			"numberInSurah": 9,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 528,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5941,
+			"text": "«فما له» لمنكر البعث «من قوة» يمتنع بها من العذاب «ولا ناصر» يدفعه عنه.",
+			"numberInSurah": 10,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 528,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5942,
+			"text": "«والسماء ذات الرجع» المطر لعوده كل حين.",
+			"numberInSurah": 11,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 528,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5943,
+			"text": "«والأرض ذات الصدع» الشق عن النبات.",
+			"numberInSurah": 12,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 528,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5944,
+			"text": "«إنه» أي القرآن «لقول فصل» يفصل بين الحق والباطل.",
+			"numberInSurah": 13,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 528,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5945,
+			"text": "«وما هو بالهزل» باللعب والباطل.",
+			"numberInSurah": 14,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 528,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5946,
+			"text": "«إنهم» أي الكفار «يكيدون كيدا» يعملون المكايد للنبي صلى الله عليه وسلم.",
+			"numberInSurah": 15,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 528,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5947,
+			"text": "«وأكيد كيدا» أستدرجهم من حيث لا يعلمون.",
+			"numberInSurah": 16,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 528,
+			"hizbQuarter": 236,
+			"sajda": false
+		},
+		{
+			"number": 5948,
+			"text": "«فمهِّل» يا محمد «الكافرين أمهلهم» تأكيد حسَّنهُ مخالفة اللفظ، أي أنظرهم «رويدا» قليلا وهو مصدر مؤكد لمعنى العامل مصغر رود أو أرواد على الترخيم وقد أخذهم الله تعالى ببدر ونسخ الإمهال بآية السيف، أي الأمر بالقتال والجهاد.",
+			"numberInSurah": 17,
+			"juz": 30,
+			"manzil": 7,
+			"page": 591,
+			"ruku": 528,
+			"hizbQuarter": 236,
+			"sajda": false
+		}
+	],
+	"edition": {
+		"identifier": "ar.jalalayn",
+		"language": "ar",
+		"name": "تفسير الجلالين",
+		"englishName": "Jalal ad-Din al-Mahalli and Jalal ad-Din as-Suyuti",
+		"format": "text",
+		"type": "tafsir",
+		"direction": "rtl"
+	}
+}

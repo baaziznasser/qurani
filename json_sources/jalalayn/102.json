@@ -1,0 +1,107 @@
+﻿{
+	"number": 102,
+	"name": "سُورَةُ التَّكَاثُرِ",
+	"englishName": "At-Takaathur",
+	"englishNameTranslation": "Competition",
+	"revelationType": "Meccan",
+	"numberOfAyahs": 8,
+	"ayahs": [
+		{
+			"number": 6169,
+			"text": "«ألهاكم» شغلكم عن طاعة الله «التكاثر» التفاخر بالأموال والأولاد والرجال.",
+			"numberInSurah": 1,
+			"juz": 30,
+			"manzil": 7,
+			"page": 600,
+			"ruku": 544,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6170,
+			"text": "«حتى زرتم المقابر» بأن متم فدفنتم فيها، أو عددتم الموتى تكاثرا.",
+			"numberInSurah": 2,
+			"juz": 30,
+			"manzil": 7,
+			"page": 600,
+			"ruku": 544,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6171,
+			"text": "«كلا» ردع «سوف تعلمون».",
+			"numberInSurah": 3,
+			"juz": 30,
+			"manzil": 7,
+			"page": 600,
+			"ruku": 544,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6172,
+			"text": "«ثم كلا سوف تعلمون» سوء عاقبة تفاخركم عند النزع ثم في القبر.",
+			"numberInSurah": 4,
+			"juz": 30,
+			"manzil": 7,
+			"page": 600,
+			"ruku": 544,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6173,
+			"text": "«كلا» حقا «لو تعلمون علم اليقين» علما يقينا عاقبة التفاخر ما اشتغلتم به.",
+			"numberInSurah": 5,
+			"juz": 30,
+			"manzil": 7,
+			"page": 600,
+			"ruku": 544,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6174,
+			"text": "«لترون الجحيم» النار جواب قسم محذوف وحذف منه لام الفعل وعينه وألقت حركتها على الراء.",
+			"numberInSurah": 6,
+			"juz": 30,
+			"manzil": 7,
+			"page": 600,
+			"ruku": 544,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6175,
+			"text": "«ثم لترونها» تأكيد «عين اليقين» مصدر لأن رأى وعاين بمعنى واحد.",
+			"numberInSurah": 7,
+			"juz": 30,
+			"manzil": 7,
+			"page": 600,
+			"ruku": 544,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6176,
+			"text": "«ثم لتسألُن» حذف منه نون الرفع لتوالي النونات وواو ضمير الجمع لالتقاء الساكنين «يومئذ» يوم رؤيتها «عن النعيم» ما يلتذ به في الدنيا من الصحة والفراغ والأمن والمطعم والمشرب وغير ذلك.",
+			"numberInSurah": 8,
+			"juz": 30,
+			"manzil": 7,
+			"page": 600,
+			"ruku": 544,
+			"hizbQuarter": 240,
+			"sajda": false
+		}
+	],
+	"edition": {
+		"identifier": "ar.jalalayn",
+		"language": "ar",
+		"name": "تفسير الجلالين",
+		"englishName": "Jalal ad-Din al-Mahalli and Jalal ad-Din as-Suyuti",
+		"format": "text",
+		"type": "tafsir",
+		"direction": "rtl"
+	}
+}

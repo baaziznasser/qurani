@@ -1,0 +1,325 @@
+﻿{
+	"number": 604,
+	"ayahs": [
+		{
+			"number": 6222,
+			"text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ قُلْ هُوَ اللَّهُ أَحَدٌ",
+			"surah": {
+				"number": 112,
+				"name": "سُورَةُ الإِخۡلَاصِ",
+				"englishName": "Al-Ikhlaas",
+				"englishNameTranslation": "Sincerity",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 4
+			},
+			"numberInSurah": 1,
+			"juz": 30,
+			"manzil": 7,
+			"page": 604,
+			"ruku": 554,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6223,
+			"text": "اللَّهُ الصَّمَدُ",
+			"surah": {
+				"number": 112,
+				"name": "سُورَةُ الإِخۡلَاصِ",
+				"englishName": "Al-Ikhlaas",
+				"englishNameTranslation": "Sincerity",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 4
+			},
+			"numberInSurah": 2,
+			"juz": 30,
+			"manzil": 7,
+			"page": 604,
+			"ruku": 554,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6224,
+			"text": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+			"surah": {
+				"number": 112,
+				"name": "سُورَةُ الإِخۡلَاصِ",
+				"englishName": "Al-Ikhlaas",
+				"englishNameTranslation": "Sincerity",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 4
+			},
+			"numberInSurah": 3,
+			"juz": 30,
+			"manzil": 7,
+			"page": 604,
+			"ruku": 554,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6225,
+			"text": "وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ",
+			"surah": {
+				"number": 112,
+				"name": "سُورَةُ الإِخۡلَاصِ",
+				"englishName": "Al-Ikhlaas",
+				"englishNameTranslation": "Sincerity",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 4
+			},
+			"numberInSurah": 4,
+			"juz": 30,
+			"manzil": 7,
+			"page": 604,
+			"ruku": 554,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6226,
+			"text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ",
+			"surah": {
+				"number": 113,
+				"name": "سُورَةُ الفَلَقِ",
+				"englishName": "Al-Falaq",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 5
+			},
+			"numberInSurah": 1,
+			"juz": 30,
+			"manzil": 7,
+			"page": 604,
+			"ruku": 555,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6227,
+			"text": "مِنْ شَرِّ مَا خَلَقَ",
+			"surah": {
+				"number": 113,
+				"name": "سُورَةُ الفَلَقِ",
+				"englishName": "Al-Falaq",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 5
+			},
+			"numberInSurah": 2,
+			"juz": 30,
+			"manzil": 7,
+			"page": 604,
+			"ruku": 555,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6228,
+			"text": "وَمِنْ شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+			"surah": {
+				"number": 113,
+				"name": "سُورَةُ الفَلَقِ",
+				"englishName": "Al-Falaq",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 5
+			},
+			"numberInSurah": 3,
+			"juz": 30,
+			"manzil": 7,
+			"page": 604,
+			"ruku": 555,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6229,
+			"text": "وَمِنْ شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ",
+			"surah": {
+				"number": 113,
+				"name": "سُورَةُ الفَلَقِ",
+				"englishName": "Al-Falaq",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 5
+			},
+			"numberInSurah": 4,
+			"juz": 30,
+			"manzil": 7,
+			"page": 604,
+			"ruku": 555,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6230,
+			"text": "وَمِنْ شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+			"surah": {
+				"number": 113,
+				"name": "سُورَةُ الفَلَقِ",
+				"englishName": "Al-Falaq",
+				"englishNameTranslation": "The Dawn",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 5
+			},
+			"numberInSurah": 5,
+			"juz": 30,
+			"manzil": 7,
+			"page": 604,
+			"ruku": 555,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6231,
+			"text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ النَّاسِ",
+			"surah": {
+				"number": 114,
+				"name": "سُورَةُ النَّاسِ",
+				"englishName": "An-Naas",
+				"englishNameTranslation": "Mankind",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 6
+			},
+			"numberInSurah": 1,
+			"juz": 30,
+			"manzil": 7,
+			"page": 604,
+			"ruku": 556,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6232,
+			"text": "مَلِكِ النَّاسِ",
+			"surah": {
+				"number": 114,
+				"name": "سُورَةُ النَّاسِ",
+				"englishName": "An-Naas",
+				"englishNameTranslation": "Mankind",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 6
+			},
+			"numberInSurah": 2,
+			"juz": 30,
+			"manzil": 7,
+			"page": 604,
+			"ruku": 556,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6233,
+			"text": "إِلَٰهِ النَّاسِ",
+			"surah": {
+				"number": 114,
+				"name": "سُورَةُ النَّاسِ",
+				"englishName": "An-Naas",
+				"englishNameTranslation": "Mankind",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 6
+			},
+			"numberInSurah": 3,
+			"juz": 30,
+			"manzil": 7,
+			"page": 604,
+			"ruku": 556,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6234,
+			"text": "مِنْ شَرِّ الْوَسْوَاسِ الْخَنَّاسِ",
+			"surah": {
+				"number": 114,
+				"name": "سُورَةُ النَّاسِ",
+				"englishName": "An-Naas",
+				"englishNameTranslation": "Mankind",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 6
+			},
+			"numberInSurah": 4,
+			"juz": 30,
+			"manzil": 7,
+			"page": 604,
+			"ruku": 556,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6235,
+			"text": "الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ",
+			"surah": {
+				"number": 114,
+				"name": "سُورَةُ النَّاسِ",
+				"englishName": "An-Naas",
+				"englishNameTranslation": "Mankind",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 6
+			},
+			"numberInSurah": 5,
+			"juz": 30,
+			"manzil": 7,
+			"page": 604,
+			"ruku": 556,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6236,
+			"text": "مِنَ الْجِنَّةِ وَالنَّاسِ",
+			"surah": {
+				"number": 114,
+				"name": "سُورَةُ النَّاسِ",
+				"englishName": "An-Naas",
+				"englishNameTranslation": "Mankind",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 6
+			},
+			"numberInSurah": 6,
+			"juz": 30,
+			"manzil": 7,
+			"page": 604,
+			"ruku": 556,
+			"hizbQuarter": 240,
+			"sajda": false
+		}
+	],
+	"surahs": {
+		"112": {
+			"number": 112,
+			"name": "سُورَةُ الإِخۡلَاصِ",
+			"englishName": "Al-Ikhlaas",
+			"englishNameTranslation": "Sincerity",
+			"revelationType": "Meccan",
+			"numberOfAyahs": 4
+		},
+		"113": {
+			"number": 113,
+			"name": "سُورَةُ الفَلَقِ",
+			"englishName": "Al-Falaq",
+			"englishNameTranslation": "The Dawn",
+			"revelationType": "Meccan",
+			"numberOfAyahs": 5
+		},
+		"114": {
+			"number": 114,
+			"name": "سُورَةُ النَّاسِ",
+			"englishName": "An-Naas",
+			"englishNameTranslation": "Mankind",
+			"revelationType": "Meccan",
+			"numberOfAyahs": 6
+		}
+	},
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

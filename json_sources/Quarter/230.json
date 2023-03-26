@@ -1,0 +1,1115 @@
+﻿{
+	"number": 230,
+	"ayahs": [
+		{
+			"number": 5495,
+			"surah": {
+				"number": 73,
+				"name": "سُورَةُ المُزَّمِّلِ",
+				"englishName": "Al-Muzzammil",
+				"englishNameTranslation": "The Enshrouded One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 20
+			},
+			"numberInSurah": 20,
+			"juz": 29,
+			"manzil": 7,
+			"page": 575,
+			"ruku": 509,
+			"hizbQuarter": 230,
+			"sajda": false,
+			"text": "إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَىٰ مِن ثُلُثَيِ اللَّيْلِ وَنِصْفَهُ وَثُلُثَهُ وَطَائِفَةٌ مِّنَ الَّذِينَ مَعَكَ ۚ وَاللَّهُ يُقَدِّرُ اللَّيْلَ وَالنَّهَارَ ۚ عَلِمَ أَن لَّن تُحْصُوهُ فَتَابَ عَلَيْكُمْ ۖ فَاقْرَءُوا مَا تَيَسَّرَ مِنَ الْقُرْآنِ ۚ عَلِمَ أَن سَيَكُونُ مِنكُم مَّرْضَىٰ ۙ وَآخَرُونَ يَضْرِبُونَ فِي الْأَرْضِ يَبْتَغُونَ مِن فَضْلِ اللَّهِ ۙ وَآخَرُونَ يُقَاتِلُونَ فِي سَبِيلِ اللَّهِ ۖ فَاقْرَءُوا مَا تَيَسَّرَ مِنْهُ ۚ وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ وَأَقْرِضُوا اللَّهَ قَرْضًا حَسَنًا ۚ وَمَا تُقَدِّمُوا لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ اللَّهِ هُوَ خَيْرًا وَأَعْظَمَ أَجْرًا ۚ وَاسْتَغْفِرُوا اللَّهَ ۖ إِنَّ اللَّهَ غَفُورٌ رَّحِيمٌ"
+		},
+		{
+			"number": 5496,
+			"surah": {
+				"number": 74,
+				"name": "سُورَةُ المُدَّثِّرِ",
+				"englishName": "Al-Muddaththir",
+				"englishNameTranslation": "The Cloaked One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 56
+			},
+			"numberInSurah": 1,
+			"juz": 29,
+			"manzil": 7,
+			"page": 575,
+			"ruku": 510,
+			"hizbQuarter": 230,
+			"sajda": false,
+			"text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ يَا أَيُّهَا الْمُدَّثِّرُ"
+		},
+		{
+			"number": 5497,
+			"surah": {
+				"number": 74,
+				"name": "سُورَةُ المُدَّثِّرِ",
+				"englishName": "Al-Muddaththir",
+				"englishNameTranslation": "The Cloaked One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 56
+			},
+			"numberInSurah": 2,
+			"juz": 29,
+			"manzil": 7,
+			"page": 575,
+			"ruku": 510,
+			"hizbQuarter": 230,
+			"sajda": false,
+			"text": "قُمْ فَأَنذِرْ"
+		},
+		{
+			"number": 5498,
+			"surah": {
+				"number": 74,
+				"name": "سُورَةُ المُدَّثِّرِ",
+				"englishName": "Al-Muddaththir",
+				"englishNameTranslation": "The Cloaked One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 56
+			},
+			"numberInSurah": 3,
+			"juz": 29,
+			"manzil": 7,
+			"page": 575,
+			"ruku": 510,
+			"hizbQuarter": 230,
+			"sajda": false,
+			"text": "وَرَبَّكَ فَكَبِّرْ"
+		},
+		{
+			"number": 5499,
+			"surah": {
+				"number": 74,
+				"name": "سُورَةُ المُدَّثِّرِ",
+				"englishName": "Al-Muddaththir",
+				"englishNameTranslation": "The Cloaked One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 56
+			},
+			"numberInSurah": 4,
+			"juz": 29,
+			"manzil": 7,
+			"page": 575,
+			"ruku": 510,
+			"hizbQuarter": 230,
+			"sajda": false,
+			"text": "وَثِيَابَكَ فَطَهِّرْ"
+		},
+		{
+			"number": 5500,
+			"surah": {
+				"number": 74,
+				"name": "سُورَةُ المُدَّثِّرِ",
+				"englishName": "Al-Muddaththir",
+				"englishNameTranslation": "The Cloaked One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 56
+			},
+			"numberInSurah": 5,
+			"juz": 29,
+			"manzil": 7,
+			"page": 575,
+			"ruku": 510,
+			"hizbQuarter": 230,
+			"sajda": false,
+			"text": "وَالرُّجْزَ فَاهْجُرْ"
+		},
+		{
+			"number": 5501,
+			"surah": {
+				"number": 74,
+				"name": "سُورَةُ المُدَّثِّرِ",
+				"englishName": "Al-Muddaththir",
+				"englishNameTranslation": "The Cloaked One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 56
+			},
+			"numberInSurah": 6,
+			"juz": 29,
+			"manzil": 7,
+			"page": 575,
+			"ruku": 510,
+			"hizbQuarter": 230,
+			"sajda": false,
+			"text": "وَلَا تَمْنُن تَسْتَكْثِرُ"
+		},
+		{
+			"number": 5502,
+			"surah": {
+				"number": 74,
+				"name": "سُورَةُ المُدَّثِّرِ",
+				"englishName": "Al-Muddaththir",
+				"englishNameTranslation": "The Cloaked One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 56
+			},
+			"numberInSurah": 7,
+			"juz": 29,
+			"manzil": 7,
+			"page": 575,
+			"ruku": 510,
+			"hizbQuarter": 230,
+			"sajda": false,
+			"text": "وَلِرَبِّكَ فَاصْبِرْ"
+		},
+		{
+			"number": 5503,
+			"surah": {
+				"number": 74,
+				"name": "سُورَةُ المُدَّثِّرِ",
+				"englishName": "Al-Muddaththir",
+				"englishNameTranslation": "The Cloaked One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 56
+			},
+			"numberInSurah": 8,
+			"juz": 29,
+			"manzil": 7,
+			"page": 575,
+			"ruku": 510,
+			"hizbQuarter": 230,
+			"sajda": false,
+			"text": "فَإِذَا نُقِرَ فِي النَّاقُورِ"
+		},
+		{
+			"number": 5504,
+			"surah": {
+				"number": 74,
+				"name": "سُورَةُ المُدَّثِّرِ",
+				"englishName": "Al-Muddaththir",
+				"englishNameTranslation": "The Cloaked One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 56
+			},
+			"numberInSurah": 9,
+			"juz": 29,
+			"manzil": 7,
+			"page": 575,
+			"ruku": 510,
+			"hizbQuarter": 230,
+			"sajda": false,
+			"text": "فَذَٰلِكَ يَوْمَئِذٍ يَوْمٌ عَسِيرٌ"
+		},
+		{
+			"number": 5505,
+			"surah": {
+				"number": 74,
+				"name": "سُورَةُ المُدَّثِّرِ",
+				"englishName": "Al-Muddaththir",
+				"englishNameTranslation": "The Cloaked One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 56
+			},
+			"numberInSurah": 10,
+			"juz": 29,
+			"manzil": 7,
+			"page": 575,
+			"ruku": 510,
+			"hizbQuarter": 230,
+			"sajda": false,
+			"text": "عَلَى الْكَافِرِينَ غَيْرُ يَسِيرٍ"
+		},
+		{
+			"number": 5506,
+			"surah": {
+				"number": 74,
+				"name": "سُورَةُ المُدَّثِّرِ",
+				"englishName": "Al-Muddaththir",
+				"englishNameTranslation": "The Cloaked One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 56
+			},
+			"numberInSurah": 11,
+			"juz": 29,
+			"manzil": 7,
+			"page": 575,
+			"ruku": 510,
+			"hizbQuarter": 230,
+			"sajda": false,
+			"text": "ذَرْنِي وَمَنْ خَلَقْتُ وَحِيدًا"
+		},
+		{
+			"number": 5507,
+			"surah": {
+				"number": 74,
+				"name": "سُورَةُ المُدَّثِّرِ",
+				"englishName": "Al-Muddaththir",
+				"englishNameTranslation": "The Cloaked One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 56
+			},
+			"numberInSurah": 12,
+			"juz": 29,
+			"manzil": 7,
+			"page": 575,
+			"ruku": 510,
+			"hizbQuarter": 230,
+			"sajda": false,
+			"text": "وَجَعَلْتُ لَهُ مَالًا مَّمْدُودًا"
+		},
+		{
+			"number": 5508,
+			"surah": {
+				"number": 74,
+				"name": "سُورَةُ المُدَّثِّرِ",
+				"englishName": "Al-Muddaththir",
+				"englishNameTranslation": "The Cloaked One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 56
+			},
+			"numberInSurah": 13,
+			"juz": 29,
+			"manzil": 7,
+			"page": 575,
+			"ruku": 510,
+			"hizbQuarter": 230,
+			"sajda": false,
+			"text": "وَبَنِينَ شُهُودًا"
+		},
+		{
+			"number": 5509,
+			"surah": {
+				"number": 74,
+				"name": "سُورَةُ المُدَّثِّرِ",
+				"englishName": "Al-Muddaththir",
+				"englishNameTranslation": "The Cloaked One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 56
+			},
+			"numberInSurah": 14,
+			"juz": 29,
+			"manzil": 7,
+			"page": 575,
+			"ruku": 510,
+			"hizbQuarter": 230,
+			"sajda": false,
+			"text": "وَمَهَّدتُّ لَهُ تَمْهِيدًا"
+		},
+		{
+			"number": 5510,
+			"surah": {
+				"number": 74,
+				"name": "سُورَةُ المُدَّثِّرِ",
+				"englishName": "Al-Muddaththir",
+				"englishNameTranslation": "The Cloaked One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 56
+			},
+			"numberInSurah": 15,
+			"juz": 29,
+			"manzil": 7,
+			"page": 575,
+			"ruku": 510,
+			"hizbQuarter": 230,
+			"sajda": false,
+			"text": "ثُمَّ يَطْمَعُ أَنْ أَزِيدَ"
+		},
+		{
+			"number": 5511,
+			"surah": {
+				"number": 74,
+				"name": "سُورَةُ المُدَّثِّرِ",
+				"englishName": "Al-Muddaththir",
+				"englishNameTranslation": "The Cloaked One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 56
+			},
+			"numberInSurah": 16,
+			"juz": 29,
+			"manzil": 7,
+			"page": 575,
+			"ruku": 510,
+			"hizbQuarter": 230,
+			"sajda": false,
+			"text": "كَلَّا ۖ إِنَّهُ كَانَ لِآيَاتِنَا عَنِيدًا"
+		},
+		{
+			"number": 5512,
+			"surah": {
+				"number": 74,
+				"name": "سُورَةُ المُدَّثِّرِ",
+				"englishName": "Al-Muddaththir",
+				"englishNameTranslation": "The Cloaked One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 56
+			},
+			"numberInSurah": 17,
+			"juz": 29,
+			"manzil": 7,
+			"page": 575,
+			"ruku": 510,
+			"hizbQuarter": 230,
+			"sajda": false,
+			"text": "سَأُرْهِقُهُ صَعُودًا"
+		},
+		{
+			"number": 5513,
+			"surah": {
+				"number": 74,
+				"name": "سُورَةُ المُدَّثِّرِ",
+				"englishName": "Al-Muddaththir",
+				"englishNameTranslation": "The Cloaked One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 56
+			},
+			"numberInSurah": 18,
+			"juz": 29,
+			"manzil": 7,
+			"page": 576,
+			"ruku": 510,
+			"hizbQuarter": 230,
+			"sajda": false,
+			"text": "إِنَّهُ فَكَّرَ وَقَدَّرَ"
+		},
+		{
+			"number": 5514,
+			"surah": {
+				"number": 74,
+				"name": "سُورَةُ المُدَّثِّرِ",
+				"englishName": "Al-Muddaththir",
+				"englishNameTranslation": "The Cloaked One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 56
+			},
+			"numberInSurah": 19,
+			"juz": 29,
+			"manzil": 7,
+			"page": 576,
+			"ruku": 510,
+			"hizbQuarter": 230,
+			"sajda": false,
+			"text": "فَقُتِلَ كَيْفَ قَدَّرَ"
+		},
+		{
+			"number": 5515,
+			"surah": {
+				"number": 74,
+				"name": "سُورَةُ المُدَّثِّرِ",
+				"englishName": "Al-Muddaththir",
+				"englishNameTranslation": "The Cloaked One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 56
+			},
+			"numberInSurah": 20,
+			"juz": 29,
+			"manzil": 7,
+			"page": 576,
+			"ruku": 510,
+			"hizbQuarter": 230,
+			"sajda": false,
+			"text": "ثُمَّ قُتِلَ كَيْفَ قَدَّرَ"
+		},
+		{
+			"number": 5516,
+			"surah": {
+				"number": 74,
+				"name": "سُورَةُ المُدَّثِّرِ",
+				"englishName": "Al-Muddaththir",
+				"englishNameTranslation": "The Cloaked One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 56
+			},
+			"numberInSurah": 21,
+			"juz": 29,
+			"manzil": 7,
+			"page": 576,
+			"ruku": 510,
+			"hizbQuarter": 230,
+			"sajda": false,
+			"text": "ثُمَّ نَظَرَ"
+		},
+		{
+			"number": 5517,
+			"surah": {
+				"number": 74,
+				"name": "سُورَةُ المُدَّثِّرِ",
+				"englishName": "Al-Muddaththir",
+				"englishNameTranslation": "The Cloaked One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 56
+			},
+			"numberInSurah": 22,
+			"juz": 29,
+			"manzil": 7,
+			"page": 576,
+			"ruku": 510,
+			"hizbQuarter": 230,
+			"sajda": false,
+			"text": "ثُمَّ عَبَسَ وَبَسَرَ"
+		},
+		{
+			"number": 5518,
+			"surah": {
+				"number": 74,
+				"name": "سُورَةُ المُدَّثِّرِ",
+				"englishName": "Al-Muddaththir",
+				"englishNameTranslation": "The Cloaked One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 56
+			},
+			"numberInSurah": 23,
+			"juz": 29,
+			"manzil": 7,
+			"page": 576,
+			"ruku": 510,
+			"hizbQuarter": 230,
+			"sajda": false,
+			"text": "ثُمَّ أَدْبَرَ وَاسْتَكْبَرَ"
+		},
+		{
+			"number": 5519,
+			"surah": {
+				"number": 74,
+				"name": "سُورَةُ المُدَّثِّرِ",
+				"englishName": "Al-Muddaththir",
+				"englishNameTranslation": "The Cloaked One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 56
+			},
+			"numberInSurah": 24,
+			"juz": 29,
+			"manzil": 7,
+			"page": 576,
+			"ruku": 510,
+			"hizbQuarter": 230,
+			"sajda": false,
+			"text": "فَقَالَ إِنْ هَٰذَا إِلَّا سِحْرٌ يُؤْثَرُ"
+		},
+		{
+			"number": 5520,
+			"surah": {
+				"number": 74,
+				"name": "سُورَةُ المُدَّثِّرِ",
+				"englishName": "Al-Muddaththir",
+				"englishNameTranslation": "The Cloaked One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 56
+			},
+			"numberInSurah": 25,
+			"juz": 29,
+			"manzil": 7,
+			"page": 576,
+			"ruku": 510,
+			"hizbQuarter": 230,
+			"sajda": false,
+			"text": "إِنْ هَٰذَا إِلَّا قَوْلُ الْبَشَرِ"
+		},
+		{
+			"number": 5521,
+			"surah": {
+				"number": 74,
+				"name": "سُورَةُ المُدَّثِّرِ",
+				"englishName": "Al-Muddaththir",
+				"englishNameTranslation": "The Cloaked One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 56
+			},
+			"numberInSurah": 26,
+			"juz": 29,
+			"manzil": 7,
+			"page": 576,
+			"ruku": 510,
+			"hizbQuarter": 230,
+			"sajda": false,
+			"text": "سَأُصْلِيهِ سَقَرَ"
+		},
+		{
+			"number": 5522,
+			"surah": {
+				"number": 74,
+				"name": "سُورَةُ المُدَّثِّرِ",
+				"englishName": "Al-Muddaththir",
+				"englishNameTranslation": "The Cloaked One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 56
+			},
+			"numberInSurah": 27,
+			"juz": 29,
+			"manzil": 7,
+			"page": 576,
+			"ruku": 510,
+			"hizbQuarter": 230,
+			"sajda": false,
+			"text": "وَمَا أَدْرَاكَ مَا سَقَرُ"
+		},
+		{
+			"number": 5523,
+			"surah": {
+				"number": 74,
+				"name": "سُورَةُ المُدَّثِّرِ",
+				"englishName": "Al-Muddaththir",
+				"englishNameTranslation": "The Cloaked One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 56
+			},
+			"numberInSurah": 28,
+			"juz": 29,
+			"manzil": 7,
+			"page": 576,
+			"ruku": 510,
+			"hizbQuarter": 230,
+			"sajda": false,
+			"text": "لَا تُبْقِي وَلَا تَذَرُ"
+		},
+		{
+			"number": 5524,
+			"surah": {
+				"number": 74,
+				"name": "سُورَةُ المُدَّثِّرِ",
+				"englishName": "Al-Muddaththir",
+				"englishNameTranslation": "The Cloaked One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 56
+			},
+			"numberInSurah": 29,
+			"juz": 29,
+			"manzil": 7,
+			"page": 576,
+			"ruku": 510,
+			"hizbQuarter": 230,
+			"sajda": false,
+			"text": "لَوَّاحَةٌ لِّلْبَشَرِ"
+		},
+		{
+			"number": 5525,
+			"surah": {
+				"number": 74,
+				"name": "سُورَةُ المُدَّثِّرِ",
+				"englishName": "Al-Muddaththir",
+				"englishNameTranslation": "The Cloaked One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 56
+			},
+			"numberInSurah": 30,
+			"juz": 29,
+			"manzil": 7,
+			"page": 576,
+			"ruku": 510,
+			"hizbQuarter": 230,
+			"sajda": false,
+			"text": "عَلَيْهَا تِسْعَةَ عَشَرَ"
+		},
+		{
+			"number": 5526,
+			"surah": {
+				"number": 74,
+				"name": "سُورَةُ المُدَّثِّرِ",
+				"englishName": "Al-Muddaththir",
+				"englishNameTranslation": "The Cloaked One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 56
+			},
+			"numberInSurah": 31,
+			"juz": 29,
+			"manzil": 7,
+			"page": 576,
+			"ruku": 510,
+			"hizbQuarter": 230,
+			"sajda": false,
+			"text": "وَمَا جَعَلْنَا أَصْحَابَ النَّارِ إِلَّا مَلَائِكَةً ۙ وَمَا جَعَلْنَا عِدَّتَهُمْ إِلَّا فِتْنَةً لِّلَّذِينَ كَفَرُوا لِيَسْتَيْقِنَ الَّذِينَ أُوتُوا الْكِتَابَ وَيَزْدَادَ الَّذِينَ آمَنُوا إِيمَانًا ۙ وَلَا يَرْتَابَ الَّذِينَ أُوتُوا الْكِتَابَ وَالْمُؤْمِنُونَ ۙ وَلِيَقُولَ الَّذِينَ فِي قُلُوبِهِم مَّرَضٌ وَالْكَافِرُونَ مَاذَا أَرَادَ اللَّهُ بِهَٰذَا مَثَلًا ۚ كَذَٰلِكَ يُضِلُّ اللَّهُ مَن يَشَاءُ وَيَهْدِي مَن يَشَاءُ ۚ وَمَا يَعْلَمُ جُنُودَ رَبِّكَ إِلَّا هُوَ ۚ وَمَا هِيَ إِلَّا ذِكْرَىٰ لِلْبَشَرِ"
+		},
+		{
+			"number": 5527,
+			"surah": {
+				"number": 74,
+				"name": "سُورَةُ المُدَّثِّرِ",
+				"englishName": "Al-Muddaththir",
+				"englishNameTranslation": "The Cloaked One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 56
+			},
+			"numberInSurah": 32,
+			"juz": 29,
+			"manzil": 7,
+			"page": 576,
+			"ruku": 511,
+			"hizbQuarter": 230,
+			"sajda": false,
+			"text": "كَلَّا وَالْقَمَرِ"
+		},
+		{
+			"number": 5528,
+			"surah": {
+				"number": 74,
+				"name": "سُورَةُ المُدَّثِّرِ",
+				"englishName": "Al-Muddaththir",
+				"englishNameTranslation": "The Cloaked One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 56
+			},
+			"numberInSurah": 33,
+			"juz": 29,
+			"manzil": 7,
+			"page": 576,
+			"ruku": 511,
+			"hizbQuarter": 230,
+			"sajda": false,
+			"text": "وَاللَّيْلِ إِذْ أَدْبَرَ"
+		},
+		{
+			"number": 5529,
+			"surah": {
+				"number": 74,
+				"name": "سُورَةُ المُدَّثِّرِ",
+				"englishName": "Al-Muddaththir",
+				"englishNameTranslation": "The Cloaked One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 56
+			},
+			"numberInSurah": 34,
+			"juz": 29,
+			"manzil": 7,
+			"page": 576,
+			"ruku": 511,
+			"hizbQuarter": 230,
+			"sajda": false,
+			"text": "وَالصُّبْحِ إِذَا أَسْفَرَ"
+		},
+		{
+			"number": 5530,
+			"surah": {
+				"number": 74,
+				"name": "سُورَةُ المُدَّثِّرِ",
+				"englishName": "Al-Muddaththir",
+				"englishNameTranslation": "The Cloaked One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 56
+			},
+			"numberInSurah": 35,
+			"juz": 29,
+			"manzil": 7,
+			"page": 576,
+			"ruku": 511,
+			"hizbQuarter": 230,
+			"sajda": false,
+			"text": "إِنَّهَا لَإِحْدَى الْكُبَرِ"
+		},
+		{
+			"number": 5531,
+			"surah": {
+				"number": 74,
+				"name": "سُورَةُ المُدَّثِّرِ",
+				"englishName": "Al-Muddaththir",
+				"englishNameTranslation": "The Cloaked One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 56
+			},
+			"numberInSurah": 36,
+			"juz": 29,
+			"manzil": 7,
+			"page": 576,
+			"ruku": 511,
+			"hizbQuarter": 230,
+			"sajda": false,
+			"text": "نَذِيرًا لِّلْبَشَرِ"
+		},
+		{
+			"number": 5532,
+			"surah": {
+				"number": 74,
+				"name": "سُورَةُ المُدَّثِّرِ",
+				"englishName": "Al-Muddaththir",
+				"englishNameTranslation": "The Cloaked One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 56
+			},
+			"numberInSurah": 37,
+			"juz": 29,
+			"manzil": 7,
+			"page": 576,
+			"ruku": 511,
+			"hizbQuarter": 230,
+			"sajda": false,
+			"text": "لِمَن شَاءَ مِنكُمْ أَن يَتَقَدَّمَ أَوْ يَتَأَخَّرَ"
+		},
+		{
+			"number": 5533,
+			"surah": {
+				"number": 74,
+				"name": "سُورَةُ المُدَّثِّرِ",
+				"englishName": "Al-Muddaththir",
+				"englishNameTranslation": "The Cloaked One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 56
+			},
+			"numberInSurah": 38,
+			"juz": 29,
+			"manzil": 7,
+			"page": 576,
+			"ruku": 511,
+			"hizbQuarter": 230,
+			"sajda": false,
+			"text": "كُلُّ نَفْسٍ بِمَا كَسَبَتْ رَهِينَةٌ"
+		},
+		{
+			"number": 5534,
+			"surah": {
+				"number": 74,
+				"name": "سُورَةُ المُدَّثِّرِ",
+				"englishName": "Al-Muddaththir",
+				"englishNameTranslation": "The Cloaked One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 56
+			},
+			"numberInSurah": 39,
+			"juz": 29,
+			"manzil": 7,
+			"page": 576,
+			"ruku": 511,
+			"hizbQuarter": 230,
+			"sajda": false,
+			"text": "إِلَّا أَصْحَابَ الْيَمِينِ"
+		},
+		{
+			"number": 5535,
+			"surah": {
+				"number": 74,
+				"name": "سُورَةُ المُدَّثِّرِ",
+				"englishName": "Al-Muddaththir",
+				"englishNameTranslation": "The Cloaked One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 56
+			},
+			"numberInSurah": 40,
+			"juz": 29,
+			"manzil": 7,
+			"page": 576,
+			"ruku": 511,
+			"hizbQuarter": 230,
+			"sajda": false,
+			"text": "فِي جَنَّاتٍ يَتَسَاءَلُونَ"
+		},
+		{
+			"number": 5536,
+			"surah": {
+				"number": 74,
+				"name": "سُورَةُ المُدَّثِّرِ",
+				"englishName": "Al-Muddaththir",
+				"englishNameTranslation": "The Cloaked One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 56
+			},
+			"numberInSurah": 41,
+			"juz": 29,
+			"manzil": 7,
+			"page": 576,
+			"ruku": 511,
+			"hizbQuarter": 230,
+			"sajda": false,
+			"text": "عَنِ الْمُجْرِمِينَ"
+		},
+		{
+			"number": 5537,
+			"surah": {
+				"number": 74,
+				"name": "سُورَةُ المُدَّثِّرِ",
+				"englishName": "Al-Muddaththir",
+				"englishNameTranslation": "The Cloaked One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 56
+			},
+			"numberInSurah": 42,
+			"juz": 29,
+			"manzil": 7,
+			"page": 576,
+			"ruku": 511,
+			"hizbQuarter": 230,
+			"sajda": false,
+			"text": "مَا سَلَكَكُمْ فِي سَقَرَ"
+		},
+		{
+			"number": 5538,
+			"surah": {
+				"number": 74,
+				"name": "سُورَةُ المُدَّثِّرِ",
+				"englishName": "Al-Muddaththir",
+				"englishNameTranslation": "The Cloaked One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 56
+			},
+			"numberInSurah": 43,
+			"juz": 29,
+			"manzil": 7,
+			"page": 576,
+			"ruku": 511,
+			"hizbQuarter": 230,
+			"sajda": false,
+			"text": "قَالُوا لَمْ نَكُ مِنَ الْمُصَلِّينَ"
+		},
+		{
+			"number": 5539,
+			"surah": {
+				"number": 74,
+				"name": "سُورَةُ المُدَّثِّرِ",
+				"englishName": "Al-Muddaththir",
+				"englishNameTranslation": "The Cloaked One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 56
+			},
+			"numberInSurah": 44,
+			"juz": 29,
+			"manzil": 7,
+			"page": 576,
+			"ruku": 511,
+			"hizbQuarter": 230,
+			"sajda": false,
+			"text": "وَلَمْ نَكُ نُطْعِمُ الْمِسْكِينَ"
+		},
+		{
+			"number": 5540,
+			"surah": {
+				"number": 74,
+				"name": "سُورَةُ المُدَّثِّرِ",
+				"englishName": "Al-Muddaththir",
+				"englishNameTranslation": "The Cloaked One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 56
+			},
+			"numberInSurah": 45,
+			"juz": 29,
+			"manzil": 7,
+			"page": 576,
+			"ruku": 511,
+			"hizbQuarter": 230,
+			"sajda": false,
+			"text": "وَكُنَّا نَخُوضُ مَعَ الْخَائِضِينَ"
+		},
+		{
+			"number": 5541,
+			"surah": {
+				"number": 74,
+				"name": "سُورَةُ المُدَّثِّرِ",
+				"englishName": "Al-Muddaththir",
+				"englishNameTranslation": "The Cloaked One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 56
+			},
+			"numberInSurah": 46,
+			"juz": 29,
+			"manzil": 7,
+			"page": 576,
+			"ruku": 511,
+			"hizbQuarter": 230,
+			"sajda": false,
+			"text": "وَكُنَّا نُكَذِّبُ بِيَوْمِ الدِّينِ"
+		},
+		{
+			"number": 5542,
+			"surah": {
+				"number": 74,
+				"name": "سُورَةُ المُدَّثِّرِ",
+				"englishName": "Al-Muddaththir",
+				"englishNameTranslation": "The Cloaked One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 56
+			},
+			"numberInSurah": 47,
+			"juz": 29,
+			"manzil": 7,
+			"page": 576,
+			"ruku": 511,
+			"hizbQuarter": 230,
+			"sajda": false,
+			"text": "حَتَّىٰ أَتَانَا الْيَقِينُ"
+		},
+		{
+			"number": 5543,
+			"surah": {
+				"number": 74,
+				"name": "سُورَةُ المُدَّثِّرِ",
+				"englishName": "Al-Muddaththir",
+				"englishNameTranslation": "The Cloaked One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 56
+			},
+			"numberInSurah": 48,
+			"juz": 29,
+			"manzil": 7,
+			"page": 577,
+			"ruku": 511,
+			"hizbQuarter": 230,
+			"sajda": false,
+			"text": "فَمَا تَنفَعُهُمْ شَفَاعَةُ الشَّافِعِينَ"
+		},
+		{
+			"number": 5544,
+			"surah": {
+				"number": 74,
+				"name": "سُورَةُ المُدَّثِّرِ",
+				"englishName": "Al-Muddaththir",
+				"englishNameTranslation": "The Cloaked One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 56
+			},
+			"numberInSurah": 49,
+			"juz": 29,
+			"manzil": 7,
+			"page": 577,
+			"ruku": 511,
+			"hizbQuarter": 230,
+			"sajda": false,
+			"text": "فَمَا لَهُمْ عَنِ التَّذْكِرَةِ مُعْرِضِينَ"
+		},
+		{
+			"number": 5545,
+			"surah": {
+				"number": 74,
+				"name": "سُورَةُ المُدَّثِّرِ",
+				"englishName": "Al-Muddaththir",
+				"englishNameTranslation": "The Cloaked One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 56
+			},
+			"numberInSurah": 50,
+			"juz": 29,
+			"manzil": 7,
+			"page": 577,
+			"ruku": 511,
+			"hizbQuarter": 230,
+			"sajda": false,
+			"text": "كَأَنَّهُمْ حُمُرٌ مُّسْتَنفِرَةٌ"
+		},
+		{
+			"number": 5546,
+			"surah": {
+				"number": 74,
+				"name": "سُورَةُ المُدَّثِّرِ",
+				"englishName": "Al-Muddaththir",
+				"englishNameTranslation": "The Cloaked One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 56
+			},
+			"numberInSurah": 51,
+			"juz": 29,
+			"manzil": 7,
+			"page": 577,
+			"ruku": 511,
+			"hizbQuarter": 230,
+			"sajda": false,
+			"text": "فَرَّتْ مِن قَسْوَرَةٍ"
+		},
+		{
+			"number": 5547,
+			"surah": {
+				"number": 74,
+				"name": "سُورَةُ المُدَّثِّرِ",
+				"englishName": "Al-Muddaththir",
+				"englishNameTranslation": "The Cloaked One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 56
+			},
+			"numberInSurah": 52,
+			"juz": 29,
+			"manzil": 7,
+			"page": 577,
+			"ruku": 511,
+			"hizbQuarter": 230,
+			"sajda": false,
+			"text": "بَلْ يُرِيدُ كُلُّ امْرِئٍ مِّنْهُمْ أَن يُؤْتَىٰ صُحُفًا مُّنَشَّرَةً"
+		},
+		{
+			"number": 5548,
+			"surah": {
+				"number": 74,
+				"name": "سُورَةُ المُدَّثِّرِ",
+				"englishName": "Al-Muddaththir",
+				"englishNameTranslation": "The Cloaked One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 56
+			},
+			"numberInSurah": 53,
+			"juz": 29,
+			"manzil": 7,
+			"page": 577,
+			"ruku": 511,
+			"hizbQuarter": 230,
+			"sajda": false,
+			"text": "كَلَّا ۖ بَل لَّا يَخَافُونَ الْآخِرَةَ"
+		},
+		{
+			"number": 5549,
+			"surah": {
+				"number": 74,
+				"name": "سُورَةُ المُدَّثِّرِ",
+				"englishName": "Al-Muddaththir",
+				"englishNameTranslation": "The Cloaked One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 56
+			},
+			"numberInSurah": 54,
+			"juz": 29,
+			"manzil": 7,
+			"page": 577,
+			"ruku": 511,
+			"hizbQuarter": 230,
+			"sajda": false,
+			"text": "كَلَّا إِنَّهُ تَذْكِرَةٌ"
+		},
+		{
+			"number": 5550,
+			"surah": {
+				"number": 74,
+				"name": "سُورَةُ المُدَّثِّرِ",
+				"englishName": "Al-Muddaththir",
+				"englishNameTranslation": "The Cloaked One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 56
+			},
+			"numberInSurah": 55,
+			"juz": 29,
+			"manzil": 7,
+			"page": 577,
+			"ruku": 511,
+			"hizbQuarter": 230,
+			"sajda": false,
+			"text": "فَمَن شَاءَ ذَكَرَهُ"
+		},
+		{
+			"number": 5551,
+			"surah": {
+				"number": 74,
+				"name": "سُورَةُ المُدَّثِّرِ",
+				"englishName": "Al-Muddaththir",
+				"englishNameTranslation": "The Cloaked One",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 56
+			},
+			"numberInSurah": 56,
+			"juz": 29,
+			"manzil": 7,
+			"page": 577,
+			"ruku": 511,
+			"hizbQuarter": 230,
+			"sajda": false,
+			"text": "وَمَا يَذْكُرُونَ إِلَّا أَن يَشَاءَ اللَّهُ ۚ هُوَ أَهْلُ التَّقْوَىٰ وَأَهْلُ الْمَغْفِرَةِ"
+		}
+	],
+	"surahs": {
+		"73": {
+			"number": 73,
+			"name": "سُورَةُ المُزَّمِّلِ",
+			"englishName": "Al-Muzzammil",
+			"englishNameTranslation": "The Enshrouded One",
+			"revelationType": "Meccan",
+			"numberOfAyahs": 20
+		},
+		"74": {
+			"number": 74,
+			"name": "سُورَةُ المُدَّثِّرِ",
+			"englishName": "Al-Muddaththir",
+			"englishNameTranslation": "The Cloaked One",
+			"revelationType": "Meccan",
+			"numberOfAyahs": 56
+		}
+	},
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

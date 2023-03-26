@@ -1,0 +1,74 @@
+﻿{
+	"number": 111,
+	"name": "سُورَةُ المَسَدِ",
+	"englishName": "Al-Masad",
+	"englishNameTranslation": "The Palm Fibre",
+	"revelationType": "Meccan",
+	"numberOfAyahs": 5,
+	"ayahs": [
+		{
+			"number": 6217,
+			"text": "لما دعا النبي صلى الله عليه وسلم قومه وقال: إني نذير لكم بين يدي عذاب شديد، فقال عمه أبو لهب: تبًا لك ألهذا دعوتنا، نزل «تبت» خسرت «يدا أبي لهب» أي جملته وعبر عنها باليدين مجازًا لأن أكثر الأفعال تزاول بهما، وهذه الجملة دعاء «وتبَّ» خسر هو، وهذه خبر كقولهم: أهلكه الله وقد هلك، ولما خوَّفه النبي بالعذاب، فقال: إن كان ابن أخي حقاً فإني أفتدي منه بمالي وولدي نزل: «ما أغنى عنه ماله وما كسب».",
+			"numberInSurah": 1,
+			"juz": 30,
+			"manzil": 7,
+			"page": 603,
+			"ruku": 553,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6218,
+			"text": "«ما أَغنى عنه ماله وما كسب» أي وكسبه، أي ولده ما أغنى بمعنى يغني.",
+			"numberInSurah": 2,
+			"juz": 30,
+			"manzil": 7,
+			"page": 603,
+			"ruku": 553,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6219,
+			"text": "«سيصلى ناراً ذات لهب» أي تلهب وتوقد فهي مآل تكنيته لتلهب وجهه إشراقاً وحمرة.",
+			"numberInSurah": 3,
+			"juz": 30,
+			"manzil": 7,
+			"page": 603,
+			"ruku": 553,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6220,
+			"text": "«وامرأته» عطف على ضمير يصلى سوغه الفصل بالمفعول وصفته وهي أم جميل «حمالة» بالرفع والنصب «الحطب» الشوك والسعدان تلقيه في طريق النبي صلى الله عليه وسلم.",
+			"numberInSurah": 4,
+			"juz": 30,
+			"manzil": 7,
+			"page": 603,
+			"ruku": 553,
+			"hizbQuarter": 240,
+			"sajda": false
+		},
+		{
+			"number": 6221,
+			"text": "«في جيدها» عنقها «حبل من مسد» أي ليف وهذه الجملة حال من حمالة الحطب الذي هو نعت لامرأته أو خبر مبتدأ مقدر.",
+			"numberInSurah": 5,
+			"juz": 30,
+			"manzil": 7,
+			"page": 603,
+			"ruku": 553,
+			"hizbQuarter": 240,
+			"sajda": false
+		}
+	],
+	"edition": {
+		"identifier": "ar.jalalayn",
+		"language": "ar",
+		"name": "تفسير الجلالين",
+		"englishName": "Jalal ad-Din al-Mahalli and Jalal ad-Din as-Suyuti",
+		"format": "text",
+		"type": "tafsir",
+		"direction": "rtl"
+	}
+}

@@ -1,0 +1,165 @@
+﻿{
+	"number": 554,
+	"ayahs": [
+		{
+			"number": 5186,
+			"text": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا نُودِيَ لِلصَّلَاةِ مِنْ يَوْمِ الْجُمُعَةِ فَاسْعَوْا إِلَىٰ ذِكْرِ اللَّهِ وَذَرُوا الْبَيْعَ ۚ ذَٰلِكُمْ خَيْرٌ لَكُمْ إِنْ كُنْتُمْ تَعْلَمُونَ",
+			"surah": {
+				"number": 62,
+				"name": "سُورَةُ الجُمُعَةِ",
+				"englishName": "Al-Jumu'a",
+				"englishNameTranslation": "Friday",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 11
+			},
+			"numberInSurah": 9,
+			"juz": 28,
+			"manzil": 7,
+			"page": 554,
+			"ruku": 487,
+			"hizbQuarter": 221,
+			"sajda": false
+		},
+		{
+			"number": 5187,
+			"text": "فَإِذَا قُضِيَتِ الصَّلَاةُ فَانْتَشِرُوا فِي الْأَرْضِ وَابْتَغُوا مِنْ فَضْلِ اللَّهِ وَاذْكُرُوا اللَّهَ كَثِيرًا لَعَلَّكُمْ تُفْلِحُونَ",
+			"surah": {
+				"number": 62,
+				"name": "سُورَةُ الجُمُعَةِ",
+				"englishName": "Al-Jumu'a",
+				"englishNameTranslation": "Friday",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 11
+			},
+			"numberInSurah": 10,
+			"juz": 28,
+			"manzil": 7,
+			"page": 554,
+			"ruku": 487,
+			"hizbQuarter": 221,
+			"sajda": false
+		},
+		{
+			"number": 5188,
+			"text": "وَإِذَا رَأَوْا تِجَارَةً أَوْ لَهْوًا انْفَضُّوا إِلَيْهَا وَتَرَكُوكَ قَائِمًا ۚ قُلْ مَا عِنْدَ اللَّهِ خَيْرٌ مِنَ اللَّهْوِ وَمِنَ التِّجَارَةِ ۚ وَاللَّهُ خَيْرُ الرَّازِقِينَ",
+			"surah": {
+				"number": 62,
+				"name": "سُورَةُ الجُمُعَةِ",
+				"englishName": "Al-Jumu'a",
+				"englishNameTranslation": "Friday",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 11
+			},
+			"numberInSurah": 11,
+			"juz": 28,
+			"manzil": 7,
+			"page": 554,
+			"ruku": 487,
+			"hizbQuarter": 221,
+			"sajda": false
+		},
+		{
+			"number": 5189,
+			"text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ إِذَا جَاءَكَ الْمُنَافِقُونَ قَالُوا نَشْهَدُ إِنَّكَ لَرَسُولُ اللَّهِ ۗ وَاللَّهُ يَعْلَمُ إِنَّكَ لَرَسُولُهُ وَاللَّهُ يَشْهَدُ إِنَّ الْمُنَافِقِينَ لَكَاذِبُونَ",
+			"surah": {
+				"number": 63,
+				"name": "سُورَةُ المُنَافِقُونَ",
+				"englishName": "Al-Munaafiqoon",
+				"englishNameTranslation": "The Hypocrites",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 11
+			},
+			"numberInSurah": 1,
+			"juz": 28,
+			"manzil": 7,
+			"page": 554,
+			"ruku": 488,
+			"hizbQuarter": 221,
+			"sajda": false
+		},
+		{
+			"number": 5190,
+			"text": "اتَّخَذُوا أَيْمَانَهُمْ جُنَّةً فَصَدُّوا عَنْ سَبِيلِ اللَّهِ ۚ إِنَّهُمْ سَاءَ مَا كَانُوا يَعْمَلُونَ",
+			"surah": {
+				"number": 63,
+				"name": "سُورَةُ المُنَافِقُونَ",
+				"englishName": "Al-Munaafiqoon",
+				"englishNameTranslation": "The Hypocrites",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 11
+			},
+			"numberInSurah": 2,
+			"juz": 28,
+			"manzil": 7,
+			"page": 554,
+			"ruku": 488,
+			"hizbQuarter": 221,
+			"sajda": false
+		},
+		{
+			"number": 5191,
+			"text": "ذَٰلِكَ بِأَنَّهُمْ آمَنُوا ثُمَّ كَفَرُوا فَطُبِعَ عَلَىٰ قُلُوبِهِمْ فَهُمْ لَا يَفْقَهُونَ",
+			"surah": {
+				"number": 63,
+				"name": "سُورَةُ المُنَافِقُونَ",
+				"englishName": "Al-Munaafiqoon",
+				"englishNameTranslation": "The Hypocrites",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 11
+			},
+			"numberInSurah": 3,
+			"juz": 28,
+			"manzil": 7,
+			"page": 554,
+			"ruku": 488,
+			"hizbQuarter": 221,
+			"sajda": false
+		},
+		{
+			"number": 5192,
+			"text": "۞ وَإِذَا رَأَيْتَهُمْ تُعْجِبُكَ أَجْسَامُهُمْ ۖ وَإِنْ يَقُولُوا تَسْمَعْ لِقَوْلِهِمْ ۖ كَأَنَّهُمْ خُشُبٌ مُسَنَّدَةٌ ۖ يَحْسَبُونَ كُلَّ صَيْحَةٍ عَلَيْهِمْ ۚ هُمُ الْعَدُوُّ فَاحْذَرْهُمْ ۚ قَاتَلَهُمُ اللَّهُ ۖ أَنَّىٰ يُؤْفَكُونَ",
+			"surah": {
+				"number": 63,
+				"name": "سُورَةُ المُنَافِقُونَ",
+				"englishName": "Al-Munaafiqoon",
+				"englishNameTranslation": "The Hypocrites",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 11
+			},
+			"numberInSurah": 4,
+			"juz": 28,
+			"manzil": 7,
+			"page": 554,
+			"ruku": 488,
+			"hizbQuarter": 222,
+			"sajda": false
+		}
+	],
+	"surahs": {
+		"62": {
+			"number": 62,
+			"name": "سُورَةُ الجُمُعَةِ",
+			"englishName": "Al-Jumu'a",
+			"englishNameTranslation": "Friday",
+			"revelationType": "Medinan",
+			"numberOfAyahs": 11
+		},
+		"63": {
+			"number": 63,
+			"name": "سُورَةُ المُنَافِقُونَ",
+			"englishName": "Al-Munaafiqoon",
+			"englishNameTranslation": "The Hypocrites",
+			"revelationType": "Medinan",
+			"numberOfAyahs": 11
+		}
+	},
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

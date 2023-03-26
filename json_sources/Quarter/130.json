@@ -1,0 +1,442 @@
+﻿{
+	"number": 130,
+	"ayahs": [
+		{
+			"number": 2512,
+			"surah": {
+				"number": 21,
+				"name": "سُورَةُ الأَنبِيَاءِ",
+				"englishName": "Al-Anbiyaa",
+				"englishNameTranslation": "The Prophets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 112
+			},
+			"numberInSurah": 29,
+			"juz": 17,
+			"manzil": 4,
+			"page": 324,
+			"ruku": 279,
+			"hizbQuarter": 130,
+			"sajda": false,
+			"text": "وَمَن يَقُلْ مِنْهُمْ إِنِّي إِلَٰهٌ مِّن دُونِهِ فَذَٰلِكَ نَجْزِيهِ جَهَنَّمَ ۚ كَذَٰلِكَ نَجْزِي الظَّالِمِينَ"
+		},
+		{
+			"number": 2513,
+			"surah": {
+				"number": 21,
+				"name": "سُورَةُ الأَنبِيَاءِ",
+				"englishName": "Al-Anbiyaa",
+				"englishNameTranslation": "The Prophets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 112
+			},
+			"numberInSurah": 30,
+			"juz": 17,
+			"manzil": 4,
+			"page": 324,
+			"ruku": 280,
+			"hizbQuarter": 130,
+			"sajda": false,
+			"text": "أَوَلَمْ يَرَ الَّذِينَ كَفَرُوا أَنَّ السَّمَاوَاتِ وَالْأَرْضَ كَانَتَا رَتْقًا فَفَتَقْنَاهُمَا ۖ وَجَعَلْنَا مِنَ الْمَاءِ كُلَّ شَيْءٍ حَيٍّ ۖ أَفَلَا يُؤْمِنُونَ"
+		},
+		{
+			"number": 2514,
+			"surah": {
+				"number": 21,
+				"name": "سُورَةُ الأَنبِيَاءِ",
+				"englishName": "Al-Anbiyaa",
+				"englishNameTranslation": "The Prophets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 112
+			},
+			"numberInSurah": 31,
+			"juz": 17,
+			"manzil": 4,
+			"page": 324,
+			"ruku": 280,
+			"hizbQuarter": 130,
+			"sajda": false,
+			"text": "وَجَعَلْنَا فِي الْأَرْضِ رَوَاسِيَ أَن تَمِيدَ بِهِمْ وَجَعَلْنَا فِيهَا فِجَاجًا سُبُلًا لَّعَلَّهُمْ يَهْتَدُونَ"
+		},
+		{
+			"number": 2515,
+			"surah": {
+				"number": 21,
+				"name": "سُورَةُ الأَنبِيَاءِ",
+				"englishName": "Al-Anbiyaa",
+				"englishNameTranslation": "The Prophets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 112
+			},
+			"numberInSurah": 32,
+			"juz": 17,
+			"manzil": 4,
+			"page": 324,
+			"ruku": 280,
+			"hizbQuarter": 130,
+			"sajda": false,
+			"text": "وَجَعَلْنَا السَّمَاءَ سَقْفًا مَّحْفُوظًا ۖ وَهُمْ عَنْ آيَاتِهَا مُعْرِضُونَ"
+		},
+		{
+			"number": 2516,
+			"surah": {
+				"number": 21,
+				"name": "سُورَةُ الأَنبِيَاءِ",
+				"englishName": "Al-Anbiyaa",
+				"englishNameTranslation": "The Prophets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 112
+			},
+			"numberInSurah": 33,
+			"juz": 17,
+			"manzil": 4,
+			"page": 324,
+			"ruku": 280,
+			"hizbQuarter": 130,
+			"sajda": false,
+			"text": "وَهُوَ الَّذِي خَلَقَ اللَّيْلَ وَالنَّهَارَ وَالشَّمْسَ وَالْقَمَرَ ۖ كُلٌّ فِي فَلَكٍ يَسْبَحُونَ"
+		},
+		{
+			"number": 2517,
+			"surah": {
+				"number": 21,
+				"name": "سُورَةُ الأَنبِيَاءِ",
+				"englishName": "Al-Anbiyaa",
+				"englishNameTranslation": "The Prophets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 112
+			},
+			"numberInSurah": 34,
+			"juz": 17,
+			"manzil": 4,
+			"page": 324,
+			"ruku": 280,
+			"hizbQuarter": 130,
+			"sajda": false,
+			"text": "وَمَا جَعَلْنَا لِبَشَرٍ مِّن قَبْلِكَ الْخُلْدَ ۖ أَفَإِن مِّتَّ فَهُمُ الْخَالِدُونَ"
+		},
+		{
+			"number": 2518,
+			"surah": {
+				"number": 21,
+				"name": "سُورَةُ الأَنبِيَاءِ",
+				"englishName": "Al-Anbiyaa",
+				"englishNameTranslation": "The Prophets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 112
+			},
+			"numberInSurah": 35,
+			"juz": 17,
+			"manzil": 4,
+			"page": 324,
+			"ruku": 280,
+			"hizbQuarter": 130,
+			"sajda": false,
+			"text": "كُلُّ نَفْسٍ ذَائِقَةُ الْمَوْتِ ۗ وَنَبْلُوكُم بِالشَّرِّ وَالْخَيْرِ فِتْنَةً ۖ وَإِلَيْنَا تُرْجَعُونَ"
+		},
+		{
+			"number": 2519,
+			"surah": {
+				"number": 21,
+				"name": "سُورَةُ الأَنبِيَاءِ",
+				"englishName": "Al-Anbiyaa",
+				"englishNameTranslation": "The Prophets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 112
+			},
+			"numberInSurah": 36,
+			"juz": 17,
+			"manzil": 4,
+			"page": 325,
+			"ruku": 280,
+			"hizbQuarter": 130,
+			"sajda": false,
+			"text": "وَإِذَا رَآكَ الَّذِينَ كَفَرُوا إِن يَتَّخِذُونَكَ إِلَّا هُزُوًا أَهَٰذَا الَّذِي يَذْكُرُ آلِهَتَكُمْ وَهُم بِذِكْرِ الرَّحْمَٰنِ هُمْ كَافِرُونَ"
+		},
+		{
+			"number": 2520,
+			"surah": {
+				"number": 21,
+				"name": "سُورَةُ الأَنبِيَاءِ",
+				"englishName": "Al-Anbiyaa",
+				"englishNameTranslation": "The Prophets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 112
+			},
+			"numberInSurah": 37,
+			"juz": 17,
+			"manzil": 4,
+			"page": 325,
+			"ruku": 280,
+			"hizbQuarter": 130,
+			"sajda": false,
+			"text": "خُلِقَ الْإِنسَانُ مِنْ عَجَلٍ ۚ سَأُرِيكُمْ آيَاتِي فَلَا تَسْتَعْجِلُونِ"
+		},
+		{
+			"number": 2521,
+			"surah": {
+				"number": 21,
+				"name": "سُورَةُ الأَنبِيَاءِ",
+				"englishName": "Al-Anbiyaa",
+				"englishNameTranslation": "The Prophets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 112
+			},
+			"numberInSurah": 38,
+			"juz": 17,
+			"manzil": 4,
+			"page": 325,
+			"ruku": 280,
+			"hizbQuarter": 130,
+			"sajda": false,
+			"text": "وَيَقُولُونَ مَتَىٰ هَٰذَا الْوَعْدُ إِن كُنتُمْ صَادِقِينَ"
+		},
+		{
+			"number": 2522,
+			"surah": {
+				"number": 21,
+				"name": "سُورَةُ الأَنبِيَاءِ",
+				"englishName": "Al-Anbiyaa",
+				"englishNameTranslation": "The Prophets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 112
+			},
+			"numberInSurah": 39,
+			"juz": 17,
+			"manzil": 4,
+			"page": 325,
+			"ruku": 280,
+			"hizbQuarter": 130,
+			"sajda": false,
+			"text": "لَوْ يَعْلَمُ الَّذِينَ كَفَرُوا حِينَ لَا يَكُفُّونَ عَن وُجُوهِهِمُ النَّارَ وَلَا عَن ظُهُورِهِمْ وَلَا هُمْ يُنصَرُونَ"
+		},
+		{
+			"number": 2523,
+			"surah": {
+				"number": 21,
+				"name": "سُورَةُ الأَنبِيَاءِ",
+				"englishName": "Al-Anbiyaa",
+				"englishNameTranslation": "The Prophets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 112
+			},
+			"numberInSurah": 40,
+			"juz": 17,
+			"manzil": 4,
+			"page": 325,
+			"ruku": 280,
+			"hizbQuarter": 130,
+			"sajda": false,
+			"text": "بَلْ تَأْتِيهِم بَغْتَةً فَتَبْهَتُهُمْ فَلَا يَسْتَطِيعُونَ رَدَّهَا وَلَا هُمْ يُنظَرُونَ"
+		},
+		{
+			"number": 2524,
+			"surah": {
+				"number": 21,
+				"name": "سُورَةُ الأَنبِيَاءِ",
+				"englishName": "Al-Anbiyaa",
+				"englishNameTranslation": "The Prophets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 112
+			},
+			"numberInSurah": 41,
+			"juz": 17,
+			"manzil": 4,
+			"page": 325,
+			"ruku": 280,
+			"hizbQuarter": 130,
+			"sajda": false,
+			"text": "وَلَقَدِ اسْتُهْزِئَ بِرُسُلٍ مِّن قَبْلِكَ فَحَاقَ بِالَّذِينَ سَخِرُوا مِنْهُم مَّا كَانُوا بِهِ يَسْتَهْزِئُونَ"
+		},
+		{
+			"number": 2525,
+			"surah": {
+				"number": 21,
+				"name": "سُورَةُ الأَنبِيَاءِ",
+				"englishName": "Al-Anbiyaa",
+				"englishNameTranslation": "The Prophets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 112
+			},
+			"numberInSurah": 42,
+			"juz": 17,
+			"manzil": 4,
+			"page": 325,
+			"ruku": 281,
+			"hizbQuarter": 130,
+			"sajda": false,
+			"text": "قُلْ مَن يَكْلَؤُكُم بِاللَّيْلِ وَالنَّهَارِ مِنَ الرَّحْمَٰنِ ۗ بَلْ هُمْ عَن ذِكْرِ رَبِّهِم مُّعْرِضُونَ"
+		},
+		{
+			"number": 2526,
+			"surah": {
+				"number": 21,
+				"name": "سُورَةُ الأَنبِيَاءِ",
+				"englishName": "Al-Anbiyaa",
+				"englishNameTranslation": "The Prophets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 112
+			},
+			"numberInSurah": 43,
+			"juz": 17,
+			"manzil": 4,
+			"page": 325,
+			"ruku": 281,
+			"hizbQuarter": 130,
+			"sajda": false,
+			"text": "أَمْ لَهُمْ آلِهَةٌ تَمْنَعُهُم مِّن دُونِنَا ۚ لَا يَسْتَطِيعُونَ نَصْرَ أَنفُسِهِمْ وَلَا هُم مِّنَّا يُصْحَبُونَ"
+		},
+		{
+			"number": 2527,
+			"surah": {
+				"number": 21,
+				"name": "سُورَةُ الأَنبِيَاءِ",
+				"englishName": "Al-Anbiyaa",
+				"englishNameTranslation": "The Prophets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 112
+			},
+			"numberInSurah": 44,
+			"juz": 17,
+			"manzil": 4,
+			"page": 325,
+			"ruku": 281,
+			"hizbQuarter": 130,
+			"sajda": false,
+			"text": "بَلْ مَتَّعْنَا هَٰؤُلَاءِ وَآبَاءَهُمْ حَتَّىٰ طَالَ عَلَيْهِمُ الْعُمُرُ ۗ أَفَلَا يَرَوْنَ أَنَّا نَأْتِي الْأَرْضَ نَنقُصُهَا مِنْ أَطْرَافِهَا ۚ أَفَهُمُ الْغَالِبُونَ"
+		},
+		{
+			"number": 2528,
+			"surah": {
+				"number": 21,
+				"name": "سُورَةُ الأَنبِيَاءِ",
+				"englishName": "Al-Anbiyaa",
+				"englishNameTranslation": "The Prophets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 112
+			},
+			"numberInSurah": 45,
+			"juz": 17,
+			"manzil": 4,
+			"page": 326,
+			"ruku": 281,
+			"hizbQuarter": 130,
+			"sajda": false,
+			"text": "قُلْ إِنَّمَا أُنذِرُكُم بِالْوَحْيِ ۚ وَلَا يَسْمَعُ الصُّمُّ الدُّعَاءَ إِذَا مَا يُنذَرُونَ"
+		},
+		{
+			"number": 2529,
+			"surah": {
+				"number": 21,
+				"name": "سُورَةُ الأَنبِيَاءِ",
+				"englishName": "Al-Anbiyaa",
+				"englishNameTranslation": "The Prophets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 112
+			},
+			"numberInSurah": 46,
+			"juz": 17,
+			"manzil": 4,
+			"page": 326,
+			"ruku": 281,
+			"hizbQuarter": 130,
+			"sajda": false,
+			"text": "وَلَئِن مَّسَّتْهُمْ نَفْحَةٌ مِّنْ عَذَابِ رَبِّكَ لَيَقُولُنَّ يَا وَيْلَنَا إِنَّا كُنَّا ظَالِمِينَ"
+		},
+		{
+			"number": 2530,
+			"surah": {
+				"number": 21,
+				"name": "سُورَةُ الأَنبِيَاءِ",
+				"englishName": "Al-Anbiyaa",
+				"englishNameTranslation": "The Prophets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 112
+			},
+			"numberInSurah": 47,
+			"juz": 17,
+			"manzil": 4,
+			"page": 326,
+			"ruku": 281,
+			"hizbQuarter": 130,
+			"sajda": false,
+			"text": "وَنَضَعُ الْمَوَازِينَ الْقِسْطَ لِيَوْمِ الْقِيَامَةِ فَلَا تُظْلَمُ نَفْسٌ شَيْئًا ۖ وَإِن كَانَ مِثْقَالَ حَبَّةٍ مِّنْ خَرْدَلٍ أَتَيْنَا بِهَا ۗ وَكَفَىٰ بِنَا حَاسِبِينَ"
+		},
+		{
+			"number": 2531,
+			"surah": {
+				"number": 21,
+				"name": "سُورَةُ الأَنبِيَاءِ",
+				"englishName": "Al-Anbiyaa",
+				"englishNameTranslation": "The Prophets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 112
+			},
+			"numberInSurah": 48,
+			"juz": 17,
+			"manzil": 4,
+			"page": 326,
+			"ruku": 281,
+			"hizbQuarter": 130,
+			"sajda": false,
+			"text": "وَلَقَدْ آتَيْنَا مُوسَىٰ وَهَارُونَ الْفُرْقَانَ وَضِيَاءً وَذِكْرًا لِّلْمُتَّقِينَ"
+		},
+		{
+			"number": 2532,
+			"surah": {
+				"number": 21,
+				"name": "سُورَةُ الأَنبِيَاءِ",
+				"englishName": "Al-Anbiyaa",
+				"englishNameTranslation": "The Prophets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 112
+			},
+			"numberInSurah": 49,
+			"juz": 17,
+			"manzil": 4,
+			"page": 326,
+			"ruku": 281,
+			"hizbQuarter": 130,
+			"sajda": false,
+			"text": "الَّذِينَ يَخْشَوْنَ رَبَّهُم بِالْغَيْبِ وَهُم مِّنَ السَّاعَةِ مُشْفِقُونَ"
+		},
+		{
+			"number": 2533,
+			"surah": {
+				"number": 21,
+				"name": "سُورَةُ الأَنبِيَاءِ",
+				"englishName": "Al-Anbiyaa",
+				"englishNameTranslation": "The Prophets",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 112
+			},
+			"numberInSurah": 50,
+			"juz": 17,
+			"manzil": 4,
+			"page": 326,
+			"ruku": 281,
+			"hizbQuarter": 130,
+			"sajda": false,
+			"text": "وَهَٰذَا ذِكْرٌ مُّبَارَكٌ أَنزَلْنَاهُ ۚ أَفَأَنتُمْ لَهُ مُنكِرُونَ"
+		}
+	],
+	"surahs": {
+		"21": {
+			"number": 21,
+			"name": "سُورَةُ الأَنبِيَاءِ",
+			"englishName": "Al-Anbiyaa",
+			"englishNameTranslation": "The Prophets",
+			"revelationType": "Meccan",
+			"numberOfAyahs": 112
+		}
+	},
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

@@ -1,0 +1,74 @@
+﻿{
+	"number": 97,
+	"name": "سُورَةُ القَدۡرِ",
+	"englishName": "Al-Qadr",
+	"englishNameTranslation": "The Power, Fate",
+	"revelationType": "Meccan",
+	"numberOfAyahs": 5,
+	"ayahs": [
+		{
+			"number": 6126,
+			"text": "«إنا أنزلناه» أي القرآن جملة واحدة من اللوح المحفوظ إلى السماء الدنيا «في ليلة القدر» أي الشرف العظيم.",
+			"numberInSurah": 1,
+			"juz": 30,
+			"manzil": 7,
+			"page": 598,
+			"ruku": 539,
+			"hizbQuarter": 239,
+			"sajda": false
+		},
+		{
+			"number": 6127,
+			"text": "«وما أدراك» أعلمك يا محمد «ما ليلة القدر» تعظيم لشانها وتعجيب منه.",
+			"numberInSurah": 2,
+			"juz": 30,
+			"manzil": 7,
+			"page": 598,
+			"ruku": 539,
+			"hizbQuarter": 239,
+			"sajda": false
+		},
+		{
+			"number": 6128,
+			"text": "«ليلة القدر خير من ألف شهر» ليس فيها ليلة القدر فالعمل الصالح فيها خير منه في ألف شهر ليست فيها.",
+			"numberInSurah": 3,
+			"juz": 30,
+			"manzil": 7,
+			"page": 598,
+			"ruku": 539,
+			"hizbQuarter": 239,
+			"sajda": false
+		},
+		{
+			"number": 6129,
+			"text": "«تنزَّل الملائكة» بحذف إحدى التاءين من الأصل «والروح» أي جبريل «فيها» في الليلة «بإذن ربهم» بأمره «من كل أمر» قضاه الله فيها لتلك السنة إلى قابل ومن سببيه بمعنى الباء.",
+			"numberInSurah": 4,
+			"juz": 30,
+			"manzil": 7,
+			"page": 598,
+			"ruku": 539,
+			"hizbQuarter": 239,
+			"sajda": false
+		},
+		{
+			"number": 6130,
+			"text": "«سلام هي» خبر مقدم ومبتدأ «حتى مطلع الفجر» بفتح اللام وكسرها إلى وقت طلوعه، جُعلت سلاما لكثرة السلام فيها من الملائكة لا تمر بمؤمن ولا مؤمنة إلا سلمت عليه.",
+			"numberInSurah": 5,
+			"juz": 30,
+			"manzil": 7,
+			"page": 598,
+			"ruku": 539,
+			"hizbQuarter": 239,
+			"sajda": false
+		}
+	],
+	"edition": {
+		"identifier": "ar.jalalayn",
+		"language": "ar",
+		"name": "تفسير الجلالين",
+		"englishName": "Jalal ad-Din al-Mahalli and Jalal ad-Din as-Suyuti",
+		"format": "text",
+		"type": "tafsir",
+		"direction": "rtl"
+	}
+}

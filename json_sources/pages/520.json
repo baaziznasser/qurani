@@ -1,0 +1,336 @@
+﻿{
+	"number": 520,
+	"ayahs": [
+		{
+			"number": 4666,
+			"text": "وَكَمْ أَهْلَكْنَا قَبْلَهُمْ مِنْ قَرْنٍ هُمْ أَشَدُّ مِنْهُمْ بَطْشًا فَنَقَّبُوا فِي الْبِلَادِ هَلْ مِنْ مَحِيصٍ",
+			"surah": {
+				"number": 50,
+				"name": "سُورَةُ قٓ",
+				"englishName": "Qaaf",
+				"englishNameTranslation": "The letter Qaaf",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 45
+			},
+			"numberInSurah": 36,
+			"juz": 26,
+			"manzil": 7,
+			"page": 520,
+			"ruku": 454,
+			"hizbQuarter": 208,
+			"sajda": false
+		},
+		{
+			"number": 4667,
+			"text": "إِنَّ فِي ذَٰلِكَ لَذِكْرَىٰ لِمَنْ كَانَ لَهُ قَلْبٌ أَوْ أَلْقَى السَّمْعَ وَهُوَ شَهِيدٌ",
+			"surah": {
+				"number": 50,
+				"name": "سُورَةُ قٓ",
+				"englishName": "Qaaf",
+				"englishNameTranslation": "The letter Qaaf",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 45
+			},
+			"numberInSurah": 37,
+			"juz": 26,
+			"manzil": 7,
+			"page": 520,
+			"ruku": 454,
+			"hizbQuarter": 208,
+			"sajda": false
+		},
+		{
+			"number": 4668,
+			"text": "وَلَقَدْ خَلَقْنَا السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا فِي سِتَّةِ أَيَّامٍ وَمَا مَسَّنَا مِنْ لُغُوبٍ",
+			"surah": {
+				"number": 50,
+				"name": "سُورَةُ قٓ",
+				"englishName": "Qaaf",
+				"englishNameTranslation": "The letter Qaaf",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 45
+			},
+			"numberInSurah": 38,
+			"juz": 26,
+			"manzil": 7,
+			"page": 520,
+			"ruku": 454,
+			"hizbQuarter": 208,
+			"sajda": false
+		},
+		{
+			"number": 4669,
+			"text": "فَاصْبِرْ عَلَىٰ مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ الْغُرُوبِ",
+			"surah": {
+				"number": 50,
+				"name": "سُورَةُ قٓ",
+				"englishName": "Qaaf",
+				"englishNameTranslation": "The letter Qaaf",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 45
+			},
+			"numberInSurah": 39,
+			"juz": 26,
+			"manzil": 7,
+			"page": 520,
+			"ruku": 454,
+			"hizbQuarter": 208,
+			"sajda": false
+		},
+		{
+			"number": 4670,
+			"text": "وَمِنَ اللَّيْلِ فَسَبِّحْهُ وَأَدْبَارَ السُّجُودِ",
+			"surah": {
+				"number": 50,
+				"name": "سُورَةُ قٓ",
+				"englishName": "Qaaf",
+				"englishNameTranslation": "The letter Qaaf",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 45
+			},
+			"numberInSurah": 40,
+			"juz": 26,
+			"manzil": 7,
+			"page": 520,
+			"ruku": 454,
+			"hizbQuarter": 208,
+			"sajda": false
+		},
+		{
+			"number": 4671,
+			"text": "وَاسْتَمِعْ يَوْمَ يُنَادِ الْمُنَادِ مِنْ مَكَانٍ قَرِيبٍ",
+			"surah": {
+				"number": 50,
+				"name": "سُورَةُ قٓ",
+				"englishName": "Qaaf",
+				"englishNameTranslation": "The letter Qaaf",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 45
+			},
+			"numberInSurah": 41,
+			"juz": 26,
+			"manzil": 7,
+			"page": 520,
+			"ruku": 454,
+			"hizbQuarter": 208,
+			"sajda": false
+		},
+		{
+			"number": 4672,
+			"text": "يَوْمَ يَسْمَعُونَ الصَّيْحَةَ بِالْحَقِّ ۚ ذَٰلِكَ يَوْمُ الْخُرُوجِ",
+			"surah": {
+				"number": 50,
+				"name": "سُورَةُ قٓ",
+				"englishName": "Qaaf",
+				"englishNameTranslation": "The letter Qaaf",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 45
+			},
+			"numberInSurah": 42,
+			"juz": 26,
+			"manzil": 7,
+			"page": 520,
+			"ruku": 454,
+			"hizbQuarter": 208,
+			"sajda": false
+		},
+		{
+			"number": 4673,
+			"text": "إِنَّا نَحْنُ نُحْيِي وَنُمِيتُ وَإِلَيْنَا الْمَصِيرُ",
+			"surah": {
+				"number": 50,
+				"name": "سُورَةُ قٓ",
+				"englishName": "Qaaf",
+				"englishNameTranslation": "The letter Qaaf",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 45
+			},
+			"numberInSurah": 43,
+			"juz": 26,
+			"manzil": 7,
+			"page": 520,
+			"ruku": 454,
+			"hizbQuarter": 208,
+			"sajda": false
+		},
+		{
+			"number": 4674,
+			"text": "يَوْمَ تَشَقَّقُ الْأَرْضُ عَنْهُمْ سِرَاعًا ۚ ذَٰلِكَ حَشْرٌ عَلَيْنَا يَسِيرٌ",
+			"surah": {
+				"number": 50,
+				"name": "سُورَةُ قٓ",
+				"englishName": "Qaaf",
+				"englishNameTranslation": "The letter Qaaf",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 45
+			},
+			"numberInSurah": 44,
+			"juz": 26,
+			"manzil": 7,
+			"page": 520,
+			"ruku": 454,
+			"hizbQuarter": 208,
+			"sajda": false
+		},
+		{
+			"number": 4675,
+			"text": "نَحْنُ أَعْلَمُ بِمَا يَقُولُونَ ۖ وَمَا أَنْتَ عَلَيْهِمْ بِجَبَّارٍ ۖ فَذَكِّرْ بِالْقُرْآنِ مَنْ يَخَافُ وَعِيدِ",
+			"surah": {
+				"number": 50,
+				"name": "سُورَةُ قٓ",
+				"englishName": "Qaaf",
+				"englishNameTranslation": "The letter Qaaf",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 45
+			},
+			"numberInSurah": 45,
+			"juz": 26,
+			"manzil": 7,
+			"page": 520,
+			"ruku": 454,
+			"hizbQuarter": 208,
+			"sajda": false
+		},
+		{
+			"number": 4676,
+			"text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ وَالذَّارِيَاتِ ذَرْوًا",
+			"surah": {
+				"number": 51,
+				"name": "سُورَةُ الذَّارِيَاتِ",
+				"englishName": "Adh-Dhaariyat",
+				"englishNameTranslation": "The Winnowing Winds",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 60
+			},
+			"numberInSurah": 1,
+			"juz": 26,
+			"manzil": 7,
+			"page": 520,
+			"ruku": 455,
+			"hizbQuarter": 208,
+			"sajda": false
+		},
+		{
+			"number": 4677,
+			"text": "فَالْحَامِلَاتِ وِقْرًا",
+			"surah": {
+				"number": 51,
+				"name": "سُورَةُ الذَّارِيَاتِ",
+				"englishName": "Adh-Dhaariyat",
+				"englishNameTranslation": "The Winnowing Winds",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 60
+			},
+			"numberInSurah": 2,
+			"juz": 26,
+			"manzil": 7,
+			"page": 520,
+			"ruku": 455,
+			"hizbQuarter": 208,
+			"sajda": false
+		},
+		{
+			"number": 4678,
+			"text": "فَالْجَارِيَاتِ يُسْرًا",
+			"surah": {
+				"number": 51,
+				"name": "سُورَةُ الذَّارِيَاتِ",
+				"englishName": "Adh-Dhaariyat",
+				"englishNameTranslation": "The Winnowing Winds",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 60
+			},
+			"numberInSurah": 3,
+			"juz": 26,
+			"manzil": 7,
+			"page": 520,
+			"ruku": 455,
+			"hizbQuarter": 208,
+			"sajda": false
+		},
+		{
+			"number": 4679,
+			"text": "فَالْمُقَسِّمَاتِ أَمْرًا",
+			"surah": {
+				"number": 51,
+				"name": "سُورَةُ الذَّارِيَاتِ",
+				"englishName": "Adh-Dhaariyat",
+				"englishNameTranslation": "The Winnowing Winds",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 60
+			},
+			"numberInSurah": 4,
+			"juz": 26,
+			"manzil": 7,
+			"page": 520,
+			"ruku": 455,
+			"hizbQuarter": 208,
+			"sajda": false
+		},
+		{
+			"number": 4680,
+			"text": "إِنَّمَا تُوعَدُونَ لَصَادِقٌ",
+			"surah": {
+				"number": 51,
+				"name": "سُورَةُ الذَّارِيَاتِ",
+				"englishName": "Adh-Dhaariyat",
+				"englishNameTranslation": "The Winnowing Winds",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 60
+			},
+			"numberInSurah": 5,
+			"juz": 26,
+			"manzil": 7,
+			"page": 520,
+			"ruku": 455,
+			"hizbQuarter": 208,
+			"sajda": false
+		},
+		{
+			"number": 4681,
+			"text": "وَإِنَّ الدِّينَ لَوَاقِعٌ",
+			"surah": {
+				"number": 51,
+				"name": "سُورَةُ الذَّارِيَاتِ",
+				"englishName": "Adh-Dhaariyat",
+				"englishNameTranslation": "The Winnowing Winds",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 60
+			},
+			"numberInSurah": 6,
+			"juz": 26,
+			"manzil": 7,
+			"page": 520,
+			"ruku": 455,
+			"hizbQuarter": 208,
+			"sajda": false
+		}
+	],
+	"surahs": {
+		"50": {
+			"number": 50,
+			"name": "سُورَةُ قٓ",
+			"englishName": "Qaaf",
+			"englishNameTranslation": "The letter Qaaf",
+			"revelationType": "Meccan",
+			"numberOfAyahs": 45
+		},
+		"51": {
+			"number": 51,
+			"name": "سُورَةُ الذَّارِيَاتِ",
+			"englishName": "Adh-Dhaariyat",
+			"englishNameTranslation": "The Winnowing Winds",
+			"revelationType": "Meccan",
+			"numberOfAyahs": 60
+		}
+	},
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

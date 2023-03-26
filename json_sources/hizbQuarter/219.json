@@ -1,0 +1,412 @@
+﻿{
+	"number": 219,
+	"ayahs": [
+		{
+			"number": 5137,
+			"text": "۞ أَلَمْ تَرَ إِلَى الَّذِينَ نَافَقُوا يَقُولُونَ لِإِخْوَانِهِمُ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ لَئِنْ أُخْرِجْتُمْ لَنَخْرُجَنَّ مَعَكُمْ وَلَا نُطِيعُ فِيكُمْ أَحَدًا أَبَدًا وَإِنْ قُوتِلْتُمْ لَنَنْصُرَنَّكُمْ وَاللَّهُ يَشْهَدُ إِنَّهُمْ لَكَاذِبُونَ",
+			"surah": {
+				"number": 59,
+				"name": "سُورَةُ الحَشۡرِ",
+				"englishName": "Al-Hashr",
+				"englishNameTranslation": "The Exile",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 24
+			},
+			"numberInSurah": 11,
+			"juz": 28,
+			"manzil": 7,
+			"page": 547,
+			"ruku": 480,
+			"hizbQuarter": 219,
+			"sajda": false
+		},
+		{
+			"number": 5138,
+			"text": "لَئِنْ أُخْرِجُوا لَا يَخْرُجُونَ مَعَهُمْ وَلَئِنْ قُوتِلُوا لَا يَنْصُرُونَهُمْ وَلَئِنْ نَصَرُوهُمْ لَيُوَلُّنَّ الْأَدْبَارَ ثُمَّ لَا يُنْصَرُونَ",
+			"surah": {
+				"number": 59,
+				"name": "سُورَةُ الحَشۡرِ",
+				"englishName": "Al-Hashr",
+				"englishNameTranslation": "The Exile",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 24
+			},
+			"numberInSurah": 12,
+			"juz": 28,
+			"manzil": 7,
+			"page": 547,
+			"ruku": 480,
+			"hizbQuarter": 219,
+			"sajda": false
+		},
+		{
+			"number": 5139,
+			"text": "لَأَنْتُمْ أَشَدُّ رَهْبَةً فِي صُدُورِهِمْ مِنَ اللَّهِ ۚ ذَٰلِكَ بِأَنَّهُمْ قَوْمٌ لَا يَفْقَهُونَ",
+			"surah": {
+				"number": 59,
+				"name": "سُورَةُ الحَشۡرِ",
+				"englishName": "Al-Hashr",
+				"englishNameTranslation": "The Exile",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 24
+			},
+			"numberInSurah": 13,
+			"juz": 28,
+			"manzil": 7,
+			"page": 547,
+			"ruku": 480,
+			"hizbQuarter": 219,
+			"sajda": false
+		},
+		{
+			"number": 5140,
+			"text": "لَا يُقَاتِلُونَكُمْ جَمِيعًا إِلَّا فِي قُرًى مُحَصَّنَةٍ أَوْ مِنْ وَرَاءِ جُدُرٍ ۚ بَأْسُهُمْ بَيْنَهُمْ شَدِيدٌ ۚ تَحْسَبُهُمْ جَمِيعًا وَقُلُوبُهُمْ شَتَّىٰ ۚ ذَٰلِكَ بِأَنَّهُمْ قَوْمٌ لَا يَعْقِلُونَ",
+			"surah": {
+				"number": 59,
+				"name": "سُورَةُ الحَشۡرِ",
+				"englishName": "Al-Hashr",
+				"englishNameTranslation": "The Exile",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 24
+			},
+			"numberInSurah": 14,
+			"juz": 28,
+			"manzil": 7,
+			"page": 547,
+			"ruku": 480,
+			"hizbQuarter": 219,
+			"sajda": false
+		},
+		{
+			"number": 5141,
+			"text": "كَمَثَلِ الَّذِينَ مِنْ قَبْلِهِمْ قَرِيبًا ۖ ذَاقُوا وَبَالَ أَمْرِهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+			"surah": {
+				"number": 59,
+				"name": "سُورَةُ الحَشۡرِ",
+				"englishName": "Al-Hashr",
+				"englishNameTranslation": "The Exile",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 24
+			},
+			"numberInSurah": 15,
+			"juz": 28,
+			"manzil": 7,
+			"page": 547,
+			"ruku": 480,
+			"hizbQuarter": 219,
+			"sajda": false
+		},
+		{
+			"number": 5142,
+			"text": "كَمَثَلِ الشَّيْطَانِ إِذْ قَالَ لِلْإِنْسَانِ اكْفُرْ فَلَمَّا كَفَرَ قَالَ إِنِّي بَرِيءٌ مِنْكَ إِنِّي أَخَافُ اللَّهَ رَبَّ الْعَالَمِينَ",
+			"surah": {
+				"number": 59,
+				"name": "سُورَةُ الحَشۡرِ",
+				"englishName": "Al-Hashr",
+				"englishNameTranslation": "The Exile",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 24
+			},
+			"numberInSurah": 16,
+			"juz": 28,
+			"manzil": 7,
+			"page": 547,
+			"ruku": 480,
+			"hizbQuarter": 219,
+			"sajda": false
+		},
+		{
+			"number": 5143,
+			"text": "فَكَانَ عَاقِبَتَهُمَا أَنَّهُمَا فِي النَّارِ خَالِدَيْنِ فِيهَا ۚ وَذَٰلِكَ جَزَاءُ الظَّالِمِينَ",
+			"surah": {
+				"number": 59,
+				"name": "سُورَةُ الحَشۡرِ",
+				"englishName": "Al-Hashr",
+				"englishNameTranslation": "The Exile",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 24
+			},
+			"numberInSurah": 17,
+			"juz": 28,
+			"manzil": 7,
+			"page": 548,
+			"ruku": 480,
+			"hizbQuarter": 219,
+			"sajda": false
+		},
+		{
+			"number": 5144,
+			"text": "يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَلْتَنْظُرْ نَفْسٌ مَا قَدَّمَتْ لِغَدٍ ۖ وَاتَّقُوا اللَّهَ ۚ إِنَّ اللَّهَ خَبِيرٌ بِمَا تَعْمَلُونَ",
+			"surah": {
+				"number": 59,
+				"name": "سُورَةُ الحَشۡرِ",
+				"englishName": "Al-Hashr",
+				"englishNameTranslation": "The Exile",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 24
+			},
+			"numberInSurah": 18,
+			"juz": 28,
+			"manzil": 7,
+			"page": 548,
+			"ruku": 481,
+			"hizbQuarter": 219,
+			"sajda": false
+		},
+		{
+			"number": 5145,
+			"text": "وَلَا تَكُونُوا كَالَّذِينَ نَسُوا اللَّهَ فَأَنْسَاهُمْ أَنْفُسَهُمْ ۚ أُولَٰئِكَ هُمُ الْفَاسِقُونَ",
+			"surah": {
+				"number": 59,
+				"name": "سُورَةُ الحَشۡرِ",
+				"englishName": "Al-Hashr",
+				"englishNameTranslation": "The Exile",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 24
+			},
+			"numberInSurah": 19,
+			"juz": 28,
+			"manzil": 7,
+			"page": 548,
+			"ruku": 481,
+			"hizbQuarter": 219,
+			"sajda": false
+		},
+		{
+			"number": 5146,
+			"text": "لَا يَسْتَوِي أَصْحَابُ النَّارِ وَأَصْحَابُ الْجَنَّةِ ۚ أَصْحَابُ الْجَنَّةِ هُمُ الْفَائِزُونَ",
+			"surah": {
+				"number": 59,
+				"name": "سُورَةُ الحَشۡرِ",
+				"englishName": "Al-Hashr",
+				"englishNameTranslation": "The Exile",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 24
+			},
+			"numberInSurah": 20,
+			"juz": 28,
+			"manzil": 7,
+			"page": 548,
+			"ruku": 481,
+			"hizbQuarter": 219,
+			"sajda": false
+		},
+		{
+			"number": 5147,
+			"text": "لَوْ أَنْزَلْنَا هَٰذَا الْقُرْآنَ عَلَىٰ جَبَلٍ لَرَأَيْتَهُ خَاشِعًا مُتَصَدِّعًا مِنْ خَشْيَةِ اللَّهِ ۚ وَتِلْكَ الْأَمْثَالُ نَضْرِبُهَا لِلنَّاسِ لَعَلَّهُمْ يَتَفَكَّرُونَ",
+			"surah": {
+				"number": 59,
+				"name": "سُورَةُ الحَشۡرِ",
+				"englishName": "Al-Hashr",
+				"englishNameTranslation": "The Exile",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 24
+			},
+			"numberInSurah": 21,
+			"juz": 28,
+			"manzil": 7,
+			"page": 548,
+			"ruku": 481,
+			"hizbQuarter": 219,
+			"sajda": false
+		},
+		{
+			"number": 5148,
+			"text": "هُوَ اللَّهُ الَّذِي لَا إِلَٰهَ إِلَّا هُوَ ۖ عَالِمُ الْغَيْبِ وَالشَّهَادَةِ ۖ هُوَ الرَّحْمَٰنُ الرَّحِيمُ",
+			"surah": {
+				"number": 59,
+				"name": "سُورَةُ الحَشۡرِ",
+				"englishName": "Al-Hashr",
+				"englishNameTranslation": "The Exile",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 24
+			},
+			"numberInSurah": 22,
+			"juz": 28,
+			"manzil": 7,
+			"page": 548,
+			"ruku": 481,
+			"hizbQuarter": 219,
+			"sajda": false
+		},
+		{
+			"number": 5149,
+			"text": "هُوَ اللَّهُ الَّذِي لَا إِلَٰهَ إِلَّا هُوَ الْمَلِكُ الْقُدُّوسُ السَّلَامُ الْمُؤْمِنُ الْمُهَيْمِنُ الْعَزِيزُ الْجَبَّارُ الْمُتَكَبِّرُ ۚ سُبْحَانَ اللَّهِ عَمَّا يُشْرِكُونَ",
+			"surah": {
+				"number": 59,
+				"name": "سُورَةُ الحَشۡرِ",
+				"englishName": "Al-Hashr",
+				"englishNameTranslation": "The Exile",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 24
+			},
+			"numberInSurah": 23,
+			"juz": 28,
+			"manzil": 7,
+			"page": 548,
+			"ruku": 481,
+			"hizbQuarter": 219,
+			"sajda": false
+		},
+		{
+			"number": 5150,
+			"text": "هُوَ اللَّهُ الْخَالِقُ الْبَارِئُ الْمُصَوِّرُ ۖ لَهُ الْأَسْمَاءُ الْحُسْنَىٰ ۚ يُسَبِّحُ لَهُ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ ۖ وَهُوَ الْعَزِيزُ الْحَكِيمُ",
+			"surah": {
+				"number": 59,
+				"name": "سُورَةُ الحَشۡرِ",
+				"englishName": "Al-Hashr",
+				"englishNameTranslation": "The Exile",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 24
+			},
+			"numberInSurah": 24,
+			"juz": 28,
+			"manzil": 7,
+			"page": 548,
+			"ruku": 481,
+			"hizbQuarter": 219,
+			"sajda": false
+		},
+		{
+			"number": 5151,
+			"text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَتَّخِذُوا عَدُوِّي وَعَدُوَّكُمْ أَوْلِيَاءَ تُلْقُونَ إِلَيْهِمْ بِالْمَوَدَّةِ وَقَدْ كَفَرُوا بِمَا جَاءَكُمْ مِنَ الْحَقِّ يُخْرِجُونَ الرَّسُولَ وَإِيَّاكُمْ ۙ أَنْ تُؤْمِنُوا بِاللَّهِ رَبِّكُمْ إِنْ كُنْتُمْ خَرَجْتُمْ جِهَادًا فِي سَبِيلِي وَابْتِغَاءَ مَرْضَاتِي ۚ تُسِرُّونَ إِلَيْهِمْ بِالْمَوَدَّةِ وَأَنَا أَعْلَمُ بِمَا أَخْفَيْتُمْ وَمَا أَعْلَنْتُمْ ۚ وَمَنْ يَفْعَلْهُ مِنْكُمْ فَقَدْ ضَلَّ سَوَاءَ السَّبِيلِ",
+			"surah": {
+				"number": 60,
+				"name": "سُورَةُ المُمۡتَحنَةِ",
+				"englishName": "Al-Mumtahana",
+				"englishNameTranslation": "She that is to be examined",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 13
+			},
+			"numberInSurah": 1,
+			"juz": 28,
+			"manzil": 7,
+			"page": 549,
+			"ruku": 482,
+			"hizbQuarter": 219,
+			"sajda": false
+		},
+		{
+			"number": 5152,
+			"text": "إِنْ يَثْقَفُوكُمْ يَكُونُوا لَكُمْ أَعْدَاءً وَيَبْسُطُوا إِلَيْكُمْ أَيْدِيَهُمْ وَأَلْسِنَتَهُمْ بِالسُّوءِ وَوَدُّوا لَوْ تَكْفُرُونَ",
+			"surah": {
+				"number": 60,
+				"name": "سُورَةُ المُمۡتَحنَةِ",
+				"englishName": "Al-Mumtahana",
+				"englishNameTranslation": "She that is to be examined",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 13
+			},
+			"numberInSurah": 2,
+			"juz": 28,
+			"manzil": 7,
+			"page": 549,
+			"ruku": 482,
+			"hizbQuarter": 219,
+			"sajda": false
+		},
+		{
+			"number": 5153,
+			"text": "لَنْ تَنْفَعَكُمْ أَرْحَامُكُمْ وَلَا أَوْلَادُكُمْ ۚ يَوْمَ الْقِيَامَةِ يَفْصِلُ بَيْنَكُمْ ۚ وَاللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ",
+			"surah": {
+				"number": 60,
+				"name": "سُورَةُ المُمۡتَحنَةِ",
+				"englishName": "Al-Mumtahana",
+				"englishNameTranslation": "She that is to be examined",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 13
+			},
+			"numberInSurah": 3,
+			"juz": 28,
+			"manzil": 7,
+			"page": 549,
+			"ruku": 482,
+			"hizbQuarter": 219,
+			"sajda": false
+		},
+		{
+			"number": 5154,
+			"text": "قَدْ كَانَتْ لَكُمْ أُسْوَةٌ حَسَنَةٌ فِي إِبْرَاهِيمَ وَالَّذِينَ مَعَهُ إِذْ قَالُوا لِقَوْمِهِمْ إِنَّا بُرَآءُ مِنْكُمْ وَمِمَّا تَعْبُدُونَ مِنْ دُونِ اللَّهِ كَفَرْنَا بِكُمْ وَبَدَا بَيْنَنَا وَبَيْنَكُمُ الْعَدَاوَةُ وَالْبَغْضَاءُ أَبَدًا حَتَّىٰ تُؤْمِنُوا بِاللَّهِ وَحْدَهُ إِلَّا قَوْلَ إِبْرَاهِيمَ لِأَبِيهِ لَأَسْتَغْفِرَنَّ لَكَ وَمَا أَمْلِكُ لَكَ مِنَ اللَّهِ مِنْ شَيْءٍ ۖ رَبَّنَا عَلَيْكَ تَوَكَّلْنَا وَإِلَيْكَ أَنَبْنَا وَإِلَيْكَ الْمَصِيرُ",
+			"surah": {
+				"number": 60,
+				"name": "سُورَةُ المُمۡتَحنَةِ",
+				"englishName": "Al-Mumtahana",
+				"englishNameTranslation": "She that is to be examined",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 13
+			},
+			"numberInSurah": 4,
+			"juz": 28,
+			"manzil": 7,
+			"page": 549,
+			"ruku": 482,
+			"hizbQuarter": 219,
+			"sajda": false
+		},
+		{
+			"number": 5155,
+			"text": "رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِلَّذِينَ كَفَرُوا وَاغْفِرْ لَنَا رَبَّنَا ۖ إِنَّكَ أَنْتَ الْعَزِيزُ الْحَكِيمُ",
+			"surah": {
+				"number": 60,
+				"name": "سُورَةُ المُمۡتَحنَةِ",
+				"englishName": "Al-Mumtahana",
+				"englishNameTranslation": "She that is to be examined",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 13
+			},
+			"numberInSurah": 5,
+			"juz": 28,
+			"manzil": 7,
+			"page": 549,
+			"ruku": 482,
+			"hizbQuarter": 219,
+			"sajda": false
+		},
+		{
+			"number": 5156,
+			"text": "لَقَدْ كَانَ لَكُمْ فِيهِمْ أُسْوَةٌ حَسَنَةٌ لِمَنْ كَانَ يَرْجُو اللَّهَ وَالْيَوْمَ الْآخِرَ ۚ وَمَنْ يَتَوَلَّ فَإِنَّ اللَّهَ هُوَ الْغَنِيُّ الْحَمِيدُ",
+			"surah": {
+				"number": 60,
+				"name": "سُورَةُ المُمۡتَحنَةِ",
+				"englishName": "Al-Mumtahana",
+				"englishNameTranslation": "She that is to be examined",
+				"revelationType": "Medinan",
+				"numberOfAyahs": 13
+			},
+			"numberInSurah": 6,
+			"juz": 28,
+			"manzil": 7,
+			"page": 550,
+			"ruku": 482,
+			"hizbQuarter": 219,
+			"sajda": false
+		}
+	],
+	"surahs": {
+		"59": {
+			"number": 59,
+			"name": "سُورَةُ الحَشۡرِ",
+			"englishName": "Al-Hashr",
+			"englishNameTranslation": "The Exile",
+			"revelationType": "Medinan",
+			"numberOfAyahs": 24
+		},
+		"60": {
+			"number": 60,
+			"name": "سُورَةُ المُمۡتَحنَةِ",
+			"englishName": "Al-Mumtahana",
+			"englishNameTranslation": "She that is to be examined",
+			"revelationType": "Medinan",
+			"numberOfAyahs": 13
+		}
+	},
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}

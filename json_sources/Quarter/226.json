@@ -1,0 +1,1012 @@
+﻿{
+	"number": 226,
+	"ayahs": [
+		{
+			"number": 5272,
+			"surah": {
+				"number": 68,
+				"name": "سُورَةُ القَلَمِ",
+				"englishName": "Al-Qalam",
+				"englishNameTranslation": "The Pen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 1,
+			"juz": 29,
+			"manzil": 7,
+			"page": 564,
+			"ruku": 498,
+			"hizbQuarter": 226,
+			"sajda": false,
+			"text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ ن ۚ وَالْقَلَمِ وَمَا يَسْطُرُونَ"
+		},
+		{
+			"number": 5273,
+			"surah": {
+				"number": 68,
+				"name": "سُورَةُ القَلَمِ",
+				"englishName": "Al-Qalam",
+				"englishNameTranslation": "The Pen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 2,
+			"juz": 29,
+			"manzil": 7,
+			"page": 564,
+			"ruku": 498,
+			"hizbQuarter": 226,
+			"sajda": false,
+			"text": "مَا أَنتَ بِنِعْمَةِ رَبِّكَ بِمَجْنُونٍ"
+		},
+		{
+			"number": 5274,
+			"surah": {
+				"number": 68,
+				"name": "سُورَةُ القَلَمِ",
+				"englishName": "Al-Qalam",
+				"englishNameTranslation": "The Pen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 3,
+			"juz": 29,
+			"manzil": 7,
+			"page": 564,
+			"ruku": 498,
+			"hizbQuarter": 226,
+			"sajda": false,
+			"text": "وَإِنَّ لَكَ لَأَجْرًا غَيْرَ مَمْنُونٍ"
+		},
+		{
+			"number": 5275,
+			"surah": {
+				"number": 68,
+				"name": "سُورَةُ القَلَمِ",
+				"englishName": "Al-Qalam",
+				"englishNameTranslation": "The Pen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 4,
+			"juz": 29,
+			"manzil": 7,
+			"page": 564,
+			"ruku": 498,
+			"hizbQuarter": 226,
+			"sajda": false,
+			"text": "وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍ"
+		},
+		{
+			"number": 5276,
+			"surah": {
+				"number": 68,
+				"name": "سُورَةُ القَلَمِ",
+				"englishName": "Al-Qalam",
+				"englishNameTranslation": "The Pen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 5,
+			"juz": 29,
+			"manzil": 7,
+			"page": 564,
+			"ruku": 498,
+			"hizbQuarter": 226,
+			"sajda": false,
+			"text": "فَسَتُبْصِرُ وَيُبْصِرُونَ"
+		},
+		{
+			"number": 5277,
+			"surah": {
+				"number": 68,
+				"name": "سُورَةُ القَلَمِ",
+				"englishName": "Al-Qalam",
+				"englishNameTranslation": "The Pen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 6,
+			"juz": 29,
+			"manzil": 7,
+			"page": 564,
+			"ruku": 498,
+			"hizbQuarter": 226,
+			"sajda": false,
+			"text": "بِأَييِّكُمُ الْمَفْتُونُ"
+		},
+		{
+			"number": 5278,
+			"surah": {
+				"number": 68,
+				"name": "سُورَةُ القَلَمِ",
+				"englishName": "Al-Qalam",
+				"englishNameTranslation": "The Pen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 7,
+			"juz": 29,
+			"manzil": 7,
+			"page": 564,
+			"ruku": 498,
+			"hizbQuarter": 226,
+			"sajda": false,
+			"text": "إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ"
+		},
+		{
+			"number": 5279,
+			"surah": {
+				"number": 68,
+				"name": "سُورَةُ القَلَمِ",
+				"englishName": "Al-Qalam",
+				"englishNameTranslation": "The Pen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 8,
+			"juz": 29,
+			"manzil": 7,
+			"page": 564,
+			"ruku": 498,
+			"hizbQuarter": 226,
+			"sajda": false,
+			"text": "فَلَا تُطِعِ الْمُكَذِّبِينَ"
+		},
+		{
+			"number": 5280,
+			"surah": {
+				"number": 68,
+				"name": "سُورَةُ القَلَمِ",
+				"englishName": "Al-Qalam",
+				"englishNameTranslation": "The Pen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 9,
+			"juz": 29,
+			"manzil": 7,
+			"page": 564,
+			"ruku": 498,
+			"hizbQuarter": 226,
+			"sajda": false,
+			"text": "وَدُّوا لَوْ تُدْهِنُ فَيُدْهِنُونَ"
+		},
+		{
+			"number": 5281,
+			"surah": {
+				"number": 68,
+				"name": "سُورَةُ القَلَمِ",
+				"englishName": "Al-Qalam",
+				"englishNameTranslation": "The Pen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 10,
+			"juz": 29,
+			"manzil": 7,
+			"page": 564,
+			"ruku": 498,
+			"hizbQuarter": 226,
+			"sajda": false,
+			"text": "وَلَا تُطِعْ كُلَّ حَلَّافٍ مَّهِينٍ"
+		},
+		{
+			"number": 5282,
+			"surah": {
+				"number": 68,
+				"name": "سُورَةُ القَلَمِ",
+				"englishName": "Al-Qalam",
+				"englishNameTranslation": "The Pen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 11,
+			"juz": 29,
+			"manzil": 7,
+			"page": 564,
+			"ruku": 498,
+			"hizbQuarter": 226,
+			"sajda": false,
+			"text": "هَمَّازٍ مَّشَّاءٍ بِنَمِيمٍ"
+		},
+		{
+			"number": 5283,
+			"surah": {
+				"number": 68,
+				"name": "سُورَةُ القَلَمِ",
+				"englishName": "Al-Qalam",
+				"englishNameTranslation": "The Pen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 12,
+			"juz": 29,
+			"manzil": 7,
+			"page": 564,
+			"ruku": 498,
+			"hizbQuarter": 226,
+			"sajda": false,
+			"text": "مَّنَّاعٍ لِّلْخَيْرِ مُعْتَدٍ أَثِيمٍ"
+		},
+		{
+			"number": 5284,
+			"surah": {
+				"number": 68,
+				"name": "سُورَةُ القَلَمِ",
+				"englishName": "Al-Qalam",
+				"englishNameTranslation": "The Pen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 13,
+			"juz": 29,
+			"manzil": 7,
+			"page": 564,
+			"ruku": 498,
+			"hizbQuarter": 226,
+			"sajda": false,
+			"text": "عُتُلٍّ بَعْدَ ذَٰلِكَ زَنِيمٍ"
+		},
+		{
+			"number": 5285,
+			"surah": {
+				"number": 68,
+				"name": "سُورَةُ القَلَمِ",
+				"englishName": "Al-Qalam",
+				"englishNameTranslation": "The Pen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 14,
+			"juz": 29,
+			"manzil": 7,
+			"page": 564,
+			"ruku": 498,
+			"hizbQuarter": 226,
+			"sajda": false,
+			"text": "أَن كَانَ ذَا مَالٍ وَبَنِينَ"
+		},
+		{
+			"number": 5286,
+			"surah": {
+				"number": 68,
+				"name": "سُورَةُ القَلَمِ",
+				"englishName": "Al-Qalam",
+				"englishNameTranslation": "The Pen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 15,
+			"juz": 29,
+			"manzil": 7,
+			"page": 564,
+			"ruku": 498,
+			"hizbQuarter": 226,
+			"sajda": false,
+			"text": "إِذَا تُتْلَىٰ عَلَيْهِ آيَاتُنَا قَالَ أَسَاطِيرُ الْأَوَّلِينَ"
+		},
+		{
+			"number": 5287,
+			"surah": {
+				"number": 68,
+				"name": "سُورَةُ القَلَمِ",
+				"englishName": "Al-Qalam",
+				"englishNameTranslation": "The Pen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 16,
+			"juz": 29,
+			"manzil": 7,
+			"page": 565,
+			"ruku": 498,
+			"hizbQuarter": 226,
+			"sajda": false,
+			"text": "سَنَسِمُهُ عَلَى الْخُرْطُومِ"
+		},
+		{
+			"number": 5288,
+			"surah": {
+				"number": 68,
+				"name": "سُورَةُ القَلَمِ",
+				"englishName": "Al-Qalam",
+				"englishNameTranslation": "The Pen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 17,
+			"juz": 29,
+			"manzil": 7,
+			"page": 565,
+			"ruku": 498,
+			"hizbQuarter": 226,
+			"sajda": false,
+			"text": "إِنَّا بَلَوْنَاهُمْ كَمَا بَلَوْنَا أَصْحَابَ الْجَنَّةِ إِذْ أَقْسَمُوا لَيَصْرِمُنَّهَا مُصْبِحِينَ"
+		},
+		{
+			"number": 5289,
+			"surah": {
+				"number": 68,
+				"name": "سُورَةُ القَلَمِ",
+				"englishName": "Al-Qalam",
+				"englishNameTranslation": "The Pen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 18,
+			"juz": 29,
+			"manzil": 7,
+			"page": 565,
+			"ruku": 498,
+			"hizbQuarter": 226,
+			"sajda": false,
+			"text": "وَلَا يَسْتَثْنُونَ"
+		},
+		{
+			"number": 5290,
+			"surah": {
+				"number": 68,
+				"name": "سُورَةُ القَلَمِ",
+				"englishName": "Al-Qalam",
+				"englishNameTranslation": "The Pen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 19,
+			"juz": 29,
+			"manzil": 7,
+			"page": 565,
+			"ruku": 498,
+			"hizbQuarter": 226,
+			"sajda": false,
+			"text": "فَطَافَ عَلَيْهَا طَائِفٌ مِّن رَّبِّكَ وَهُمْ نَائِمُونَ"
+		},
+		{
+			"number": 5291,
+			"surah": {
+				"number": 68,
+				"name": "سُورَةُ القَلَمِ",
+				"englishName": "Al-Qalam",
+				"englishNameTranslation": "The Pen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 20,
+			"juz": 29,
+			"manzil": 7,
+			"page": 565,
+			"ruku": 498,
+			"hizbQuarter": 226,
+			"sajda": false,
+			"text": "فَأَصْبَحَتْ كَالصَّرِيمِ"
+		},
+		{
+			"number": 5292,
+			"surah": {
+				"number": 68,
+				"name": "سُورَةُ القَلَمِ",
+				"englishName": "Al-Qalam",
+				"englishNameTranslation": "The Pen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 21,
+			"juz": 29,
+			"manzil": 7,
+			"page": 565,
+			"ruku": 498,
+			"hizbQuarter": 226,
+			"sajda": false,
+			"text": "فَتَنَادَوْا مُصْبِحِينَ"
+		},
+		{
+			"number": 5293,
+			"surah": {
+				"number": 68,
+				"name": "سُورَةُ القَلَمِ",
+				"englishName": "Al-Qalam",
+				"englishNameTranslation": "The Pen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 22,
+			"juz": 29,
+			"manzil": 7,
+			"page": 565,
+			"ruku": 498,
+			"hizbQuarter": 226,
+			"sajda": false,
+			"text": "أَنِ اغْدُوا عَلَىٰ حَرْثِكُمْ إِن كُنتُمْ صَارِمِينَ"
+		},
+		{
+			"number": 5294,
+			"surah": {
+				"number": 68,
+				"name": "سُورَةُ القَلَمِ",
+				"englishName": "Al-Qalam",
+				"englishNameTranslation": "The Pen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 23,
+			"juz": 29,
+			"manzil": 7,
+			"page": 565,
+			"ruku": 498,
+			"hizbQuarter": 226,
+			"sajda": false,
+			"text": "فَانطَلَقُوا وَهُمْ يَتَخَافَتُونَ"
+		},
+		{
+			"number": 5295,
+			"surah": {
+				"number": 68,
+				"name": "سُورَةُ القَلَمِ",
+				"englishName": "Al-Qalam",
+				"englishNameTranslation": "The Pen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 24,
+			"juz": 29,
+			"manzil": 7,
+			"page": 565,
+			"ruku": 498,
+			"hizbQuarter": 226,
+			"sajda": false,
+			"text": "أَن لَّا يَدْخُلَنَّهَا الْيَوْمَ عَلَيْكُم مِّسْكِينٌ"
+		},
+		{
+			"number": 5296,
+			"surah": {
+				"number": 68,
+				"name": "سُورَةُ القَلَمِ",
+				"englishName": "Al-Qalam",
+				"englishNameTranslation": "The Pen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 25,
+			"juz": 29,
+			"manzil": 7,
+			"page": 565,
+			"ruku": 498,
+			"hizbQuarter": 226,
+			"sajda": false,
+			"text": "وَغَدَوْا عَلَىٰ حَرْدٍ قَادِرِينَ"
+		},
+		{
+			"number": 5297,
+			"surah": {
+				"number": 68,
+				"name": "سُورَةُ القَلَمِ",
+				"englishName": "Al-Qalam",
+				"englishNameTranslation": "The Pen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 26,
+			"juz": 29,
+			"manzil": 7,
+			"page": 565,
+			"ruku": 498,
+			"hizbQuarter": 226,
+			"sajda": false,
+			"text": "فَلَمَّا رَأَوْهَا قَالُوا إِنَّا لَضَالُّونَ"
+		},
+		{
+			"number": 5298,
+			"surah": {
+				"number": 68,
+				"name": "سُورَةُ القَلَمِ",
+				"englishName": "Al-Qalam",
+				"englishNameTranslation": "The Pen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 27,
+			"juz": 29,
+			"manzil": 7,
+			"page": 565,
+			"ruku": 498,
+			"hizbQuarter": 226,
+			"sajda": false,
+			"text": "بَلْ نَحْنُ مَحْرُومُونَ"
+		},
+		{
+			"number": 5299,
+			"surah": {
+				"number": 68,
+				"name": "سُورَةُ القَلَمِ",
+				"englishName": "Al-Qalam",
+				"englishNameTranslation": "The Pen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 28,
+			"juz": 29,
+			"manzil": 7,
+			"page": 565,
+			"ruku": 498,
+			"hizbQuarter": 226,
+			"sajda": false,
+			"text": "قَالَ أَوْسَطُهُمْ أَلَمْ أَقُل لَّكُمْ لَوْلَا تُسَبِّحُونَ"
+		},
+		{
+			"number": 5300,
+			"surah": {
+				"number": 68,
+				"name": "سُورَةُ القَلَمِ",
+				"englishName": "Al-Qalam",
+				"englishNameTranslation": "The Pen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 29,
+			"juz": 29,
+			"manzil": 7,
+			"page": 565,
+			"ruku": 498,
+			"hizbQuarter": 226,
+			"sajda": false,
+			"text": "قَالُوا سُبْحَانَ رَبِّنَا إِنَّا كُنَّا ظَالِمِينَ"
+		},
+		{
+			"number": 5301,
+			"surah": {
+				"number": 68,
+				"name": "سُورَةُ القَلَمِ",
+				"englishName": "Al-Qalam",
+				"englishNameTranslation": "The Pen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 30,
+			"juz": 29,
+			"manzil": 7,
+			"page": 565,
+			"ruku": 498,
+			"hizbQuarter": 226,
+			"sajda": false,
+			"text": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَلَاوَمُونَ"
+		},
+		{
+			"number": 5302,
+			"surah": {
+				"number": 68,
+				"name": "سُورَةُ القَلَمِ",
+				"englishName": "Al-Qalam",
+				"englishNameTranslation": "The Pen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 31,
+			"juz": 29,
+			"manzil": 7,
+			"page": 565,
+			"ruku": 498,
+			"hizbQuarter": 226,
+			"sajda": false,
+			"text": "قَالُوا يَا وَيْلَنَا إِنَّا كُنَّا طَاغِينَ"
+		},
+		{
+			"number": 5303,
+			"surah": {
+				"number": 68,
+				"name": "سُورَةُ القَلَمِ",
+				"englishName": "Al-Qalam",
+				"englishNameTranslation": "The Pen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 32,
+			"juz": 29,
+			"manzil": 7,
+			"page": 565,
+			"ruku": 498,
+			"hizbQuarter": 226,
+			"sajda": false,
+			"text": "عَسَىٰ رَبُّنَا أَن يُبْدِلَنَا خَيْرًا مِّنْهَا إِنَّا إِلَىٰ رَبِّنَا رَاغِبُونَ"
+		},
+		{
+			"number": 5304,
+			"surah": {
+				"number": 68,
+				"name": "سُورَةُ القَلَمِ",
+				"englishName": "Al-Qalam",
+				"englishNameTranslation": "The Pen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 33,
+			"juz": 29,
+			"manzil": 7,
+			"page": 565,
+			"ruku": 498,
+			"hizbQuarter": 226,
+			"sajda": false,
+			"text": "كَذَٰلِكَ الْعَذَابُ ۖ وَلَعَذَابُ الْآخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا يَعْلَمُونَ"
+		},
+		{
+			"number": 5305,
+			"surah": {
+				"number": 68,
+				"name": "سُورَةُ القَلَمِ",
+				"englishName": "Al-Qalam",
+				"englishNameTranslation": "The Pen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 34,
+			"juz": 29,
+			"manzil": 7,
+			"page": 565,
+			"ruku": 499,
+			"hizbQuarter": 226,
+			"sajda": false,
+			"text": "إِنَّ لِلْمُتَّقِينَ عِندَ رَبِّهِمْ جَنَّاتِ النَّعِيمِ"
+		},
+		{
+			"number": 5306,
+			"surah": {
+				"number": 68,
+				"name": "سُورَةُ القَلَمِ",
+				"englishName": "Al-Qalam",
+				"englishNameTranslation": "The Pen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 35,
+			"juz": 29,
+			"manzil": 7,
+			"page": 565,
+			"ruku": 499,
+			"hizbQuarter": 226,
+			"sajda": false,
+			"text": "أَفَنَجْعَلُ الْمُسْلِمِينَ كَالْمُجْرِمِينَ"
+		},
+		{
+			"number": 5307,
+			"surah": {
+				"number": 68,
+				"name": "سُورَةُ القَلَمِ",
+				"englishName": "Al-Qalam",
+				"englishNameTranslation": "The Pen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 36,
+			"juz": 29,
+			"manzil": 7,
+			"page": 565,
+			"ruku": 499,
+			"hizbQuarter": 226,
+			"sajda": false,
+			"text": "مَا لَكُمْ كَيْفَ تَحْكُمُونَ"
+		},
+		{
+			"number": 5308,
+			"surah": {
+				"number": 68,
+				"name": "سُورَةُ القَلَمِ",
+				"englishName": "Al-Qalam",
+				"englishNameTranslation": "The Pen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 37,
+			"juz": 29,
+			"manzil": 7,
+			"page": 565,
+			"ruku": 499,
+			"hizbQuarter": 226,
+			"sajda": false,
+			"text": "أَمْ لَكُمْ كِتَابٌ فِيهِ تَدْرُسُونَ"
+		},
+		{
+			"number": 5309,
+			"surah": {
+				"number": 68,
+				"name": "سُورَةُ القَلَمِ",
+				"englishName": "Al-Qalam",
+				"englishNameTranslation": "The Pen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 38,
+			"juz": 29,
+			"manzil": 7,
+			"page": 565,
+			"ruku": 499,
+			"hizbQuarter": 226,
+			"sajda": false,
+			"text": "إِنَّ لَكُمْ فِيهِ لَمَا تَخَيَّرُونَ"
+		},
+		{
+			"number": 5310,
+			"surah": {
+				"number": 68,
+				"name": "سُورَةُ القَلَمِ",
+				"englishName": "Al-Qalam",
+				"englishNameTranslation": "The Pen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 39,
+			"juz": 29,
+			"manzil": 7,
+			"page": 565,
+			"ruku": 499,
+			"hizbQuarter": 226,
+			"sajda": false,
+			"text": "أَمْ لَكُمْ أَيْمَانٌ عَلَيْنَا بَالِغَةٌ إِلَىٰ يَوْمِ الْقِيَامَةِ ۙ إِنَّ لَكُمْ لَمَا تَحْكُمُونَ"
+		},
+		{
+			"number": 5311,
+			"surah": {
+				"number": 68,
+				"name": "سُورَةُ القَلَمِ",
+				"englishName": "Al-Qalam",
+				"englishNameTranslation": "The Pen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 40,
+			"juz": 29,
+			"manzil": 7,
+			"page": 565,
+			"ruku": 499,
+			"hizbQuarter": 226,
+			"sajda": false,
+			"text": "سَلْهُمْ أَيُّهُم بِذَٰلِكَ زَعِيمٌ"
+		},
+		{
+			"number": 5312,
+			"surah": {
+				"number": 68,
+				"name": "سُورَةُ القَلَمِ",
+				"englishName": "Al-Qalam",
+				"englishNameTranslation": "The Pen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 41,
+			"juz": 29,
+			"manzil": 7,
+			"page": 565,
+			"ruku": 499,
+			"hizbQuarter": 226,
+			"sajda": false,
+			"text": "أَمْ لَهُمْ شُرَكَاءُ فَلْيَأْتُوا بِشُرَكَائِهِمْ إِن كَانُوا صَادِقِينَ"
+		},
+		{
+			"number": 5313,
+			"surah": {
+				"number": 68,
+				"name": "سُورَةُ القَلَمِ",
+				"englishName": "Al-Qalam",
+				"englishNameTranslation": "The Pen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 42,
+			"juz": 29,
+			"manzil": 7,
+			"page": 565,
+			"ruku": 499,
+			"hizbQuarter": 226,
+			"sajda": false,
+			"text": "يَوْمَ يُكْشَفُ عَن سَاقٍ وَيُدْعَوْنَ إِلَى السُّجُودِ فَلَا يَسْتَطِيعُونَ"
+		},
+		{
+			"number": 5314,
+			"surah": {
+				"number": 68,
+				"name": "سُورَةُ القَلَمِ",
+				"englishName": "Al-Qalam",
+				"englishNameTranslation": "The Pen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 43,
+			"juz": 29,
+			"manzil": 7,
+			"page": 566,
+			"ruku": 499,
+			"hizbQuarter": 226,
+			"sajda": false,
+			"text": "خَاشِعَةً أَبْصَارُهُمْ تَرْهَقُهُمْ ذِلَّةٌ ۖ وَقَدْ كَانُوا يُدْعَوْنَ إِلَى السُّجُودِ وَهُمْ سَالِمُونَ"
+		},
+		{
+			"number": 5315,
+			"surah": {
+				"number": 68,
+				"name": "سُورَةُ القَلَمِ",
+				"englishName": "Al-Qalam",
+				"englishNameTranslation": "The Pen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 44,
+			"juz": 29,
+			"manzil": 7,
+			"page": 566,
+			"ruku": 499,
+			"hizbQuarter": 226,
+			"sajda": false,
+			"text": "فَذَرْنِي وَمَن يُكَذِّبُ بِهَٰذَا الْحَدِيثِ ۖ سَنَسْتَدْرِجُهُم مِّنْ حَيْثُ لَا يَعْلَمُونَ"
+		},
+		{
+			"number": 5316,
+			"surah": {
+				"number": 68,
+				"name": "سُورَةُ القَلَمِ",
+				"englishName": "Al-Qalam",
+				"englishNameTranslation": "The Pen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 45,
+			"juz": 29,
+			"manzil": 7,
+			"page": 566,
+			"ruku": 499,
+			"hizbQuarter": 226,
+			"sajda": false,
+			"text": "وَأُمْلِي لَهُمْ ۚ إِنَّ كَيْدِي مَتِينٌ"
+		},
+		{
+			"number": 5317,
+			"surah": {
+				"number": 68,
+				"name": "سُورَةُ القَلَمِ",
+				"englishName": "Al-Qalam",
+				"englishNameTranslation": "The Pen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 46,
+			"juz": 29,
+			"manzil": 7,
+			"page": 566,
+			"ruku": 499,
+			"hizbQuarter": 226,
+			"sajda": false,
+			"text": "أَمْ تَسْأَلُهُمْ أَجْرًا فَهُم مِّن مَّغْرَمٍ مُّثْقَلُونَ"
+		},
+		{
+			"number": 5318,
+			"surah": {
+				"number": 68,
+				"name": "سُورَةُ القَلَمِ",
+				"englishName": "Al-Qalam",
+				"englishNameTranslation": "The Pen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 47,
+			"juz": 29,
+			"manzil": 7,
+			"page": 566,
+			"ruku": 499,
+			"hizbQuarter": 226,
+			"sajda": false,
+			"text": "أَمْ عِندَهُمُ الْغَيْبُ فَهُمْ يَكْتُبُونَ"
+		},
+		{
+			"number": 5319,
+			"surah": {
+				"number": 68,
+				"name": "سُورَةُ القَلَمِ",
+				"englishName": "Al-Qalam",
+				"englishNameTranslation": "The Pen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 48,
+			"juz": 29,
+			"manzil": 7,
+			"page": 566,
+			"ruku": 499,
+			"hizbQuarter": 226,
+			"sajda": false,
+			"text": "فَاصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تَكُن كَصَاحِبِ الْحُوتِ إِذْ نَادَىٰ وَهُوَ مَكْظُومٌ"
+		},
+		{
+			"number": 5320,
+			"surah": {
+				"number": 68,
+				"name": "سُورَةُ القَلَمِ",
+				"englishName": "Al-Qalam",
+				"englishNameTranslation": "The Pen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 49,
+			"juz": 29,
+			"manzil": 7,
+			"page": 566,
+			"ruku": 499,
+			"hizbQuarter": 226,
+			"sajda": false,
+			"text": "لَّوْلَا أَن تَدَارَكَهُ نِعْمَةٌ مِّن رَّبِّهِ لَنُبِذَ بِالْعَرَاءِ وَهُوَ مَذْمُومٌ"
+		},
+		{
+			"number": 5321,
+			"surah": {
+				"number": 68,
+				"name": "سُورَةُ القَلَمِ",
+				"englishName": "Al-Qalam",
+				"englishNameTranslation": "The Pen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 50,
+			"juz": 29,
+			"manzil": 7,
+			"page": 566,
+			"ruku": 499,
+			"hizbQuarter": 226,
+			"sajda": false,
+			"text": "فَاجْتَبَاهُ رَبُّهُ فَجَعَلَهُ مِنَ الصَّالِحِينَ"
+		},
+		{
+			"number": 5322,
+			"surah": {
+				"number": 68,
+				"name": "سُورَةُ القَلَمِ",
+				"englishName": "Al-Qalam",
+				"englishNameTranslation": "The Pen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 51,
+			"juz": 29,
+			"manzil": 7,
+			"page": 566,
+			"ruku": 499,
+			"hizbQuarter": 226,
+			"sajda": false,
+			"text": "وَإِن يَكَادُ الَّذِينَ كَفَرُوا لَيُزْلِقُونَكَ بِأَبْصَارِهِمْ لَمَّا سَمِعُوا الذِّكْرَ وَيَقُولُونَ إِنَّهُ لَمَجْنُونٌ"
+		},
+		{
+			"number": 5323,
+			"surah": {
+				"number": 68,
+				"name": "سُورَةُ القَلَمِ",
+				"englishName": "Al-Qalam",
+				"englishNameTranslation": "The Pen",
+				"revelationType": "Meccan",
+				"numberOfAyahs": 52
+			},
+			"numberInSurah": 52,
+			"juz": 29,
+			"manzil": 7,
+			"page": 566,
+			"ruku": 499,
+			"hizbQuarter": 226,
+			"sajda": false,
+			"text": "وَمَا هُوَ إِلَّا ذِكْرٌ لِّلْعَالَمِينَ"
+		}
+	],
+	"surahs": {
+		"68": {
+			"number": 68,
+			"name": "سُورَةُ القَلَمِ",
+			"englishName": "Al-Qalam",
+			"englishNameTranslation": "The Pen",
+			"revelationType": "Meccan",
+			"numberOfAyahs": 52
+		}
+	},
+	"edition": {
+		"identifier": "quran-simple",
+		"language": "ar",
+		"name": "القرآن الكريم المبسط (تشكيل بسيط)",
+		"englishName": "Simple",
+		"format": "text",
+		"type": "quran",
+		"direction": "rtl"
+	}
+}
