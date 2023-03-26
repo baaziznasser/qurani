@@ -46,7 +46,7 @@ Global $s_last_played = "", $i_repetition = readSettings(".settings.Rep_num", 1)
 
 
 Global $s_recitersDir = "", $i_reciterId = 0
-Global $S_crnt_VersionString = "1.1.0.0"
+Global $S_crnt_VersionString = "1.2.0.0"
 
 _check_fonts()
 LoadSettings()
@@ -138,6 +138,7 @@ If @error Then
 	MsgBox(16, "error", "error opening audio library")
 	Exit
 EndIf
+
 OnAutoItExitRegister("quit")
 Global $h_stream = -1, $i_volume = 100
 ### functions ###

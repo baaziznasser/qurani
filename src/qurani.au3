@@ -22,13 +22,13 @@
 Opt("GUICloseOnESC", 0)
 Opt("GUIOnEventMode", 1)
 Opt("GUIResizeMode", 1)
-
+global $i_crnt_pos = -1
 Global Enum $id_info = 1000, $id_tafsir, $id_e3rab, $id_tanzil, $id_copy
 #build the main GUI
-Global $h_Main = GUICreate("قرآني", 800, 700, -1, -1, BitOR($WS_HSCROLL, $WS_MAXIMIZEBOX, $WS_MINIMIZEBOX, $WS_SIZEBOX, $WS_SYSMENU, $WS_VSCROLL), $WS_EX_LAYOUTRTL)
+Global $h_Main = GUICreate("قرآني", 900, 800, -1, -1, BitOR($WS_HSCROLL, $WS_MAXIMIZEBOX, $WS_MINIMIZEBOX, $WS_SIZEBOX, $WS_SYSMENU, $WS_VSCROLL), $WS_EX_LAYOUTRTL + $WS_EX_CONTROLPARENT)
 GUISetHelp('hh.exe "' & @ScriptDir & '\Qurani.chm"')
 GUISetIcon(@ScriptDir & "\icons\QURANI.ico")
-GUISetOnEvent($GUI_event_close, "quit")
+GUISetOnEvent($GUI_Event_Close, "quit")
 
 $h_main_Menu = GUICtrlCreateMenu("البرنامج")
 $i_suwar = GUICtrlCreateMenuItem("السوَر (shift+1)", $h_main_Menu, -1, 1)
@@ -173,14 +173,15 @@ GUICtrlSetResizing(-1, 1)
 
 GUIStartGroup("")
 
-$i_title = GUICtrlCreateLabel("الصفحة 1", 150, 20, 400, 20, $SS_CENTER)
+$i_title = GUICtrlCreateLabel("الصفحة 1", 250, 20, 400, 20, $SS_CENTER)
 GUICtrlSetFont(-1, 18, 700, 0, "Times New Roman")
 GUICtrlSetResizing(-1, 1)
 GUIStartGroup("")
-$h_text = _GUICtrlRichEdit_Create($h_Main, "", 20, 40, 760, 400, BitOR($ES_MULTILINE, $WS_VSCROLL, $ES_AUTOVSCROLL, 0x8000))
+global $h_text = _GUICtrlRichEdit_Create($h_Main, "", 20, 40, 860, 400, BitOR($ES_MULTILINE, $WS_VSCROLL, $ES_AUTOVSCROLL, 0x8000))
+ControlFocus($h_Main, "", $h_text)
 ;_GUICtrlSetResizingEx($h_text, 1)
 _GUICtrlRichEdit_SetRECT($h_text, 50, 50, 50, 50)
-
+_GUICtrlRichEdit_SetEventMask($h_text, $ENM_KEYEVENTS)
 _setdefault_font()
 setBkGColor()
 
@@ -450,19 +451,21 @@ Func _set_volumedown()
 	If $b_accessibility Then UniversalSpeech_SpeechSay(Round($i_volume / 2) & "%", 1)
 EndFunc   ;==>_set_volumedown
 
-Func nav_next()
-	If $i_crnt_Num + 1 > $i_CRNt_Max Then $i_crnt_Num = 0
-	;	GUICtrlSetState($h_text, $GUI_focus)
+Func nav_next($Loop = True)
+if not (IsDeclared("loop")) then local $loop = True
+	If ($i_crnt_Num + 1 > $i_CRNt_Max) and ($Loop) Then $i_crnt_Num = 0
 	$i_crnt_Num += 1
-	If $i_crnt_Num >= $i_CRNt_Max Then
+	If $i_crnt_Num > $i_CRNt_Max Then
+Return False
 		$i_crnt_Num = $i_CRNt_Max
 	EndIf
 
-
+			If readSettings(".settings.pagenotif", 1) = 1 Then _BASS_ChannelPlay(_BASS_StreamCreateFile(False, @scriptDir & "\audio\page.wav", 0, 0, $BASS_STREAM_AUTOFREE), 1)
 	If $i_crnt_type = 1 Then
 		_GUICtrlRichEdit_SetText($h_text, read_sura($i_crnt_Num))
 		GUICtrlSetData($i_title, $a_currentlist[1][3])
-		If $b_accessibility Then UniversalSpeech_SpeechSay(GUICtrlRead($i_title), 1)
+
+		If ($b_accessibility) and ($loop)  Then UniversalSpeech_SpeechSay(GUICtrlRead($i_title), 1)
 	ElseIf $i_crnt_type = 2 Then
 		GUICtrlSetData($i_title, "الصفحة " & $i_crnt_Num)
 		If $b_accessibility Then UniversalSpeech_SpeechSay(GUICtrlRead($i_title), 1)
@@ -488,22 +491,26 @@ Func nav_next()
 
 	_GUICtrlRichEdit_GotoCharPos($h_text, 0)
 	$i_prev_pos = 0
+return True
 EndFunc   ;==>nav_next
 
-Func nav_prev()
-	If $i_crnt_Num - 1 < 1 Then $i_crnt_Num = $i_CRNt_Max + 1
-	;	GUICtrlSetState($h_text, $GUI_focus)
+Func nav_prev($loop = True)
+if not (IsDeclared("loop")) then local $loop = True
+
+	If ($i_crnt_Num - 1 < 1) and ($loop) Then $i_crnt_Num = $i_CRNt_Max + 1
 	$i_crnt_Num -= 1
-	If $i_crnt_Num <= 1 Then
+	If $i_crnt_Num < 1 Then
+return False
 		$i_crnt_Num = 1
 	EndIf
 
-
+			If readSettings(".settings.pagenotif", 1) = 1 Then _BASS_ChannelPlay(_BASS_StreamCreateFile(False, @scriptDir & "\audio\page.wav", 0, 0, $BASS_STREAM_AUTOFREE), 1)
 	If $i_crnt_type = 1 Then
 
 		_GUICtrlRichEdit_SetText($h_text, read_sura($i_crnt_Num))
 		GUICtrlSetData($i_title, $a_currentlist[1][3])
-		If $b_accessibility Then UniversalSpeech_SpeechSay(GUICtrlRead($i_title), 1)
+
+		If ($b_accessibility) and ($loop)  Then UniversalSpeech_SpeechSay(GUICtrlRead($i_title), 1)
 	ElseIf $i_crnt_type = 2 Then
 		GUICtrlSetData($i_title, "الصفحة " & $i_crnt_Num)
 		If $b_accessibility Then UniversalSpeech_SpeechSay(GUICtrlRead($i_title), 1)
@@ -529,6 +536,7 @@ Func nav_prev()
 
 	_GUICtrlRichEdit_GotoCharPos($h_text, 0)
 	$i_prev_pos = 0
+Return True
 EndFunc   ;==>nav_prev
 Func nav_goto()
 	Do
@@ -1063,7 +1071,7 @@ Func _settings_GUI()
 	Opt("GUICloseOnESC", 1)
 	Opt("GUIOnEventMode", 0)
 	GUISetState(@SW_DISABLE, $h_Main)
-	Local $h_stg_GUI = GUICreate("إعدادات البرنامج", 400, 600, -1, -1, BitOR($WS_SYSMENU, $WS_CLIPCHILDREN, $WS_CLIPSIBLINGS, $WS_MAXIMIZEBOX, $WS_MINIMIZEBOX, $WS_SIZEBOX, $WS_SYSMENU), BitOR($WS_EX_LAYOUTRTL, $WS_EX_MDICHILD), $h_Main)
+	Local $h_stg_GUI = GUICreate("إعدادات البرنامج", 400, 700, -1, -1, BitOR($WS_SYSMENU, $WS_CLIPCHILDREN, $WS_CLIPSIBLINGS, $WS_MAXIMIZEBOX, $WS_MINIMIZEBOX, $WS_SIZEBOX), BitOR($WS_EX_LAYOUTRTL, $WS_EX_MDICHILD), $h_Main)
 	GUICtrlCreateLabel("التبويبة الافتراضية", 10, 20, 120, 20)
 	GUICtrlSetFont(-1, 14, 700, 0, "Times New Roman")
 	GUICtrlSetResizing(-1, 1)
@@ -1081,43 +1089,47 @@ Func _settings_GUI()
 	GUICtrlSetFont(-1, 14, 400, 0, "Times New Roman")
 	GUICtrlSetResizing(-1, 1)
 	If readSettings(".settings.basmala", 1) = 1 Then GUICtrlSetState(-1, $GUI_checked)
-	Local $i_se_ignorenumbers = GUICtrlCreateCheckbox("إخفاء أرقام الآيات", 240, 80, 150, 30)
+	Local $i_se_page_sound = GUICtrlCreateCheckbox("تشغيل تنبيه صوتي عند تغيير الصفحة", 180, 80, 210, 30)
+	GUICtrlSetFont(-1, 14, 400, 0, "Times New Roman")
+	GUICtrlSetResizing(-1, 1)
+	If readSettings(".settings.pagenotif", 1) = 1 Then GUICtrlSetState(-1, $GUI_checked)
+	Local $i_se_ignorenumbers = GUICtrlCreateCheckbox("إخفاء أرقام الآيات", 10, 80, 150, 30)
 	GUICtrlSetFont(-1, 14, 400, 0, "Times New Roman")
 	GUICtrlSetResizing(-1, 1)
 	If readSettings(".settings.hideAyaNumber", 0) = 1 Then GUICtrlSetState(-1, $GUI_checked)
-	Local $i_se_ignoretashkil = GUICtrlCreateCheckbox("تجاهل التشكيل", 10, 120, 150, 30)
+	Local $i_se_ignoretashkil = GUICtrlCreateCheckbox("تجاهل التشكيل", 240, 120, 150, 30)
 	GUICtrlSetFont(-1, 14, 400, 0, "Times New Roman")
 	GUICtrlSetResizing(-1, 1)
 	If readSettings(".settings.hideAyatashkil", 0) = 1 Then GUICtrlSetState(-1, $GUI_checked)
-	Local $i_se_ignoresimboles = GUICtrlCreateCheckbox("تجاهل علامات الترتيل", 240, 120, 150, 30)
+	Local $i_se_ignoresimboles = GUICtrlCreateCheckbox("تجاهل علامات الترتيل", 120, 160, 150, 30)
 	GUICtrlSetFont(-1, 14, 400, 0, "Times New Roman")
 	GUICtrlSetResizing(-1, 1)
 	If readSettings(".settings.hideAyaSimbols", 0) = 1 Then GUICtrlSetState(-1, $GUI_checked)
-	GUICtrlCreateLabel("خط القرآن المستخدم", 100, 160, 200, 20)
+	GUICtrlCreateLabel("خط القرآن المستخدم", 100, 190, 200, 20)
 	GUICtrlSetFont(-1, 14, 700, 0, "Times New Roman")
 	GUICtrlSetResizing(-1, 1)
-	Local $i_styleused = GUICtrlCreateCombo("", 100, 180, 200, 30, BitOR($GUI_SS_DEFAULT_COMBO, $CBS_DROPDOWNLIST))
+	Local $i_styleused = GUICtrlCreateCombo("", 100, 210, 200, 30, BitOR($GUI_SS_DEFAULT_COMBO, $CBS_DROPDOWNLIST))
 	GUICtrlSetFont(-1, 14, 400, 0, "Times New Roman")
 	GUICtrlSetResizing(-1, 1)
 	GUICtrlSetData(-1, "الخط الإملائي الحديث|الخط العثماني")
 	_GUICtrlComboBox_SetCurSel($i_styleused, readSettings(".settings.quranstyle", 0))
-	Local $ayah_sel = GUICtrlCreateCheckbox("تحديد الآية عند الإستماع", 100, 230, 200, 30)
+	Local $ayah_sel = GUICtrlCreateCheckbox("تحديد الآية عند الإستماع", 100, 250, 200, 30)
 	GUICtrlSetFont(-1, 14, 400, 0, "Times New Roman")
 	GUICtrlSetResizing(-1, 1)
 	If ReadSettings(".settings.aya_sel", 1) = 1 Then GUICtrlSetState(-1, $GUI_checked)
-	Local $ayah_devise = GUICtrlCreateCheckbox("وضع كل آية في سطر", 100, 280, 200, 30)
+	Local $ayah_devise = GUICtrlCreateCheckbox("وضع كل آية في سطر", 100, 290, 200, 30)
 	GUICtrlSetFont(-1, 14, 400, 0, "Times New Roman")
 	GUICtrlSetResizing(-1, 1)
 	If ReadSettings(".settings.ayahnewline", 1) = 1 Then GUICtrlSetState(-1, $GUI_checked)
-	GUICtrlCreateLabel("التحقق قبل تحميل المصحف الصوتي", 50, 320, 300, 20)
+	GUICtrlCreateLabel("التحقق قبل تحميل المصحف الصوتي", 50, 340, 300, 20)
 	GUICtrlSetFont(-1, 14, 700, 0, "Times New Roman")
 	GUICtrlSetResizing(-1, 1)
-	Local $i_download_check = GUICtrlCreateCombo("", 50, 340, 300, 30, BitOR($GUI_SS_DEFAULT_COMBO, $CBS_DROPDOWNLIST))
+	Local $i_download_check = GUICtrlCreateCombo("", 50, 360, 300, 30, BitOR($GUI_SS_DEFAULT_COMBO, $CBS_DROPDOWNLIST))
 	GUICtrlSetFont(-1, 14, 400, 0, "Times New Roman")
 	GUICtrlSetResizing(-1, 1)
 	GUICtrlSetData(-1, "لا تتحقق من وجود الملفات|تحقق من وجود أسماء الملفات فقط|تحقق من وجود أسماء الملفات ومقارنة أحجامها")
 	_GUICtrlComboBox_SetCurSel(-1, Int(ReadSettings(".settings.downloadCheckFile", 2)))
-	Local $i_disable_sleep = GUICtrlCreateCheckbox("منع الحاسوب من الدخول في وضع السكون تلقائيا", 50, 390, 300, 30)
+	Local $i_disable_sleep = GUICtrlCreateCheckbox("منع الحاسوب من الدخول في وضع السكون تلقائيا", 50, 400, 300, 30)
 	GUICtrlSetFont(-1, 14, 400, 0, "Times New Roman")
 	GUICtrlSetResizing(-1, 1)
 	If ReadSettings(".settings.preventSleep", 1) = 1 Then GUICtrlSetState(-1, $GUI_checked)
@@ -1125,10 +1137,10 @@ Func _settings_GUI()
 	GUICtrlSetFont(-1, 14, 400, 0, "Times New Roman")
 	GUICtrlSetResizing(-1, 1)
 	If ReadSettings(".settings.Accessibility", _CheckScreenReader()) = 1 Then GUICtrlSetState(-1, $GUI_checked)
-	Local $i_ok_btn = GUICtrlCreateButton("حفظ", 10, 500, 90, 30, 0x01)
+	Local $i_ok_btn = GUICtrlCreateButton("حفظ", 10, 550, 90, 30, 0x01)
 	GUICtrlSetFont(-1, 14, 400, 0, "Times New Roman")
 	GUICtrlSetResizing(-1, 1)
-	Local $i_Cancel_btn = GUICtrlCreateButton("إلغاء", 300, 500, 90, 30)
+	Local $i_Cancel_btn = GUICtrlCreateButton("إلغاء", 300, 550, 90, 30)
 	GUICtrlSetFont(-1, 14, 400, 0, "Times New Roman")
 	GUICtrlSetResizing(-1, 1)
 	GUIStartGroup("")
@@ -1152,6 +1164,12 @@ Func _settings_GUI()
 				Else
 					WriteSettings(".settings.basmala", 0)
 				EndIf
+				If _IsChecked($i_se_page_sound) Then
+					WriteSettings(".settings.pagenotif", 1)
+				Else
+					WriteSettings(".settings.pagenotif", 0)
+				EndIf
+
 				If _IsChecked($i_se_ignorenumbers) Then
 					WriteSettings(".settings.hideAyaNumber", 1)
 				Else
@@ -1219,7 +1237,7 @@ Func _search_func()
 	Opt("GUICloseOnESC", 1)
 	Opt("GUIOnEventMode", 0)
 	GUISetState(@SW_DISABLE, $h_Main)
-	Local $h_SrchGUI = GUICreate("البحث في القرآن الكريم", 400, 360, -1, -1, BitOR($WS_SYSMENU, $WS_CLIPCHILDREN, $WS_CLIPSIBLINGS, $WS_MAXIMIZEBOX, $WS_MINIMIZEBOX, $WS_SIZEBOX, $WS_SYSMENU), BitOR($WS_EX_LAYOUTRTL, $WS_EX_MDICHILD), $h_Main)
+	Local $h_SrchGUI = GUICreate("البحث في القرآن الكريم", 400, 360, -1, -1, BitOR($WS_SYSMENU, $WS_CLIPCHILDREN, $WS_CLIPSIBLINGS, $WS_MAXIMIZEBOX, $WS_MINIMIZEBOX, $WS_SIZEBOX, $WS_CHILD), BitOR($WS_EX_LAYOUTRTL, $WS_EX_MDICHILD, ), $h_Main)
 
 
 	GUICtrlCreateLabel("عبارة البحث", 150, 10, 100, 20)
@@ -2203,14 +2221,35 @@ Func WM_NOTIFY($hWnd, $iMsg, $wParam, $lParam)
 							;					Local $a_pos = _GUICtrlRichEdit_GetXYFromCharPos($h_text, _GUICtrlRichEdit_GetSel($h_text)[1])
 							;					MouseMove($a_pos[0], $a_pos[1])
 							ShowMenu($h_Main, $h_text, $h_ContextMenu)
-						Else
-							If (_IsPressed(10) And _IsPressed(79)) Then
+						else
+If (_IsPressed(10) And _IsPressed(79)) Then
 								While (_IsPressed(10) And _IsPressed(79))
 									Sleep(25)
 								WEnd
 								ShowMenu($h_Main, $h_text, $h_ContextMenu)
+endIf
+
+$iKeyCode = DllStructGetData($tMsgFilter, "wParam")
+if ($iKeyCode = 38) or ($iKeyCode = 39) then
+if _GUICtrlRichEdit_GetSel($h_text)[0] = 0 and $i_crnt_pos = 0 then
+$i_crnt_pos = -1
+if nav_prev(False) then _GUICtrlRichEdit_GotoCharPos($h_text, _GUICtrlRichEdit_GetTextLength($h_text, True, true, 0))
+else
+$i_crnt_pos = _GUICtrlRichEdit_GetSel($h_text)[0]
+endIf
+elseif ($iKeyCode = 37) or ($iKeyCode = 40) then
+
+if (_GUICtrlRichEdit_GetSel($h_text)[1] >= (_GUICtrlRichEdit_GetTextLength($h_text, True, true, 0))) and ($i_crnt_pos >= (_GUICtrlRichEdit_GetTextLength($h_text, True, True, 0))) then
+$i_crnt_pos = -1
+if nav_next(False) then _GUICtrlRichEdit_GotoCharPos($h_text, 0)
+
+else
+$i_crnt_pos = _GUICtrlRichEdit_GetSel($h_text)[1]
+endIf
+
+endIf
 							EndIf
-						EndIf
+
 					ElseIf DllStructGetData($tMsgFilter, "msg") = $WM_SYSKEYDOWN Then
 						If (_IsPressed(10) And _IsPressed(79)) Then
 							While (_IsPressed(10) And _IsPressed(79))
