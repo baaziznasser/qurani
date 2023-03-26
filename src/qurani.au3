@@ -11,9 +11,9 @@
 #AutoIt3Wrapper_Res_LegalCopyright=copyright © 2023, nacer baaziz
 #AutoIt3Wrapper_Res_Language=5121
 #AutoIt3Wrapper_Run_AU3Check=n
-#AutoIt3Wrapper_Run_Tidy=y
+#AutoIt3Wrapper_Run_Tidy=n
 #AutoIt3Wrapper_Run_Au3Stripper=y
-#Au3Stripper_Parameters=/sf /sv /rm /pe /tl /debug
+#Au3Stripper_Parameters=/sf /sv /rm /pe /tl
 #EndRegion ;**** Directives created by AutoIt3Wrapper_GUI ****
 ;import the header file
 #include <qurani_header.au3>
@@ -1352,15 +1352,14 @@ Func _search_func()
 					ContinueLoop
 				EndIf
 
-
-				$s_searchSTR = GUICtrlRead($i_searchinp)
+				$s_searchSTR = StringRegExpReplace(GUICtrlRead($i_searchinp), "[أإآئءؤ]", "ا")
 				Local $s_sqldt, $s_tabletosearch, $s_regexp_expr
 				If _IsChecked($i_search_check1) Then
 					$s_tabletosearch = "text_No_tashkil"
-					$s_regexp_expr = "[^ا-يةئءؤأإآى\s]+"
+					$s_regexp_expr = "[^ا-يةئءؤأإآى\s\[\]]+"
 				Else
 					$s_tabletosearch = "text"
-					$s_regexp_expr = "[^ا-يةئءؤأإآى\sًٌٍَُِّْ]+"
+					$s_regexp_expr = "[^ا-يةئءؤأإآى\sًٌٍَُِّْ\[\]]+"
 				EndIf
 				If _IsChecked($i_search_check2) Then
 					$i_sel_surah_from = Json_get($a_surahs_meta[_GUICtrlComboBox_GetCurSel($i_from_surah)], ".firstAyahNumber")
@@ -1372,10 +1371,13 @@ Func _search_func()
 						$i_sel_surah_from = $i_sel_surah_to
 						$i_sel_surah_to = $i_temp_ayah
 					EndIf
-					$s_sqldt = "SELECT text, number, sura_name, sura_number, numberInSurah FROM quran WHERE number between " & $i_sel_surah_from & " AND " & $i_sel_surah_to & " AND INSTR(" & $s_tabletosearch & ", '" & StringRegExpReplace(GUICtrlRead($i_searchinp), $s_regexp_expr, "") & "');"
+					$s_sqldt = "SELECT text, number, sura_name, sura_number, numberInSurah FROM quran WHERE number between " & $i_sel_surah_from & " AND " & $i_sel_surah_to & " AND INSTR(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(" & $s_tabletosearch & ", 'أ', 'ا'), 'إ', 'ا'), 'آ', 'ا'), 'ؤ', 'ا'), 'ئ', 'ا'), 'ء', 'ا'), 'ٱ', 'ا'), '" & StringRegExpReplace($s_searchSTR, $s_regexp_expr, "") & "') > 0;"
+
+;					$s_sqldt = "SELECT text, number, sura_name, sura_number, numberInSurah FROM quran WHERE number between " & $i_sel_surah_from & " AND " & $i_sel_surah_to & " AND INSTR(" & $s_tabletosearch & ", '" & StringRegExpReplace($s_searchSTR, $s_regexp_expr, "") & "');"
 				Else
-					$s_sqldt = "SELECT text, number, sura_name, sura_number, numberInSurah FROM quran WHERE  INSTR(" & $s_tabletosearch & ", '" & StringRegExpReplace(GUICtrlRead($i_searchinp), $s_regexp_expr, "") & "');"
+					$s_sqldt = "SELECT text, number, sura_name, sura_number, numberInSurah FROM quran WHERE INSTR(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(" & $s_tabletosearch & ", 'أ', 'ا'), 'إ', 'ا'), 'آ', 'ا'), 'ؤ', 'ا'), 'ئ', 'ا'), 'ء', 'ا'), 'ٱ', 'ا'), '" & StringRegExpReplace($s_searchSTR, $s_regexp_expr, "") & "') > 0;"
 				EndIf
+
 				Local $hh_db_open = _SQLite_Open(@ScriptDir & "\database\quran\Verses.DB")
 				If @error Then
 					MsgBox(16,, "error", "we couldn't load database", "", $h_SrchGUI)
