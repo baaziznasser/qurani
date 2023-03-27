@@ -2,6 +2,8 @@ import sqlite3
 
 class quran_mgr:
 	def __init__(self):
+		self.show_ayah_number = True
+		self.aya_to_line = False
 		self.data_list = []
 		self.conn = None
 		self.cursor = None
@@ -52,10 +54,10 @@ class quran_mgr:
 			ayah_text = ayah[0]
 			ayah_number = ayah[4]
 
-			if show_numbers:
+			if self.show_ayah_number:
 				ayah_text += f" ({ayah_number})"
 
-			if aya_to_line:
+			if self.aya_to_line:
 				ayah_text = f"{ayah_text}\n"
 			else:
 				ayah_text += " "
@@ -68,8 +70,3 @@ class quran_mgr:
 
 		self.text = text
 		return text
-
-quran = quran_mgr()
-quran.load_quran(r"D:\my_projectes\Autoit Projectes\qurani\v1.2\source_code\database\quran\quran.DB")
-
-print(quran.get_surah(1))
