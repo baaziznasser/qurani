@@ -1,3 +1,23 @@
+"""
+This file is part of the Qurani project, created by Nacer Baaziz.
+Copyright (c) 2023 Nacer Baaziz
+Qurani is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+Qurani is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+You should have received a copy of the GNU General Public License
+along with Qurani. If not, see https://www.gnu.org/licenses/.
+You are free to modify this file, but please keep this header.
+For more information, visit: https://github.com/baaziznasser/qurani
+"""
+
+#code start here
+
+
 import sqlite3
 
 class quran_mgr:
@@ -101,6 +121,24 @@ class quran_mgr:
 			return self.get_hizb(self.current_pos)
 		else:
 			return self.get_juzz(self.current_pos)
+
+
+	def goto(self, goto):
+		if goto > self.max_pos:
+			return ""
+		self.current_pos goto
+
+		if self.type == 0:
+			return self.get_page(self.current_pos)
+		elif self.type == 1:
+			return self.get_surah(self.current_pos)
+		elif self.type == 2:
+			return self.get_quarter(self.current_pos)
+		elif self.type == 3:
+			return self.get_hizb(self.current_pos)
+		else:
+			return self.get_juzz(self.current_pos)
+
 
 	def get_text(self):
 		if not self.data_list:
