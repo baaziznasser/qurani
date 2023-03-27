@@ -4,6 +4,9 @@ class quran_mgr:
 	def __init__(self):
 		self.show_ayah_number = True
 		self.aya_to_line = False
+		self.current_pos = 1
+		self.max_pos = 604
+		self.type = 0
 		self.data_list = []
 		self.conn = None
 		self.cursor = None
@@ -14,36 +17,92 @@ class quran_mgr:
 		self.cursor = self.conn.cursor()
 
 	def get_surah(self, surah_number):
+		self.current_pos = surah_number
+		self.max_pos = 114
+		self.type = 1
+		self.current_pos == self.max_pos if self.current_pos > self.max_pos else self.current_pos
+
 		self.cursor.execute(f"SELECT * FROM quran WHERE sura_number={surah_number}")
 		rows = self.cursor.fetchall()
 		self.data_list = [(row[0], row[1], row[2], row[3], row[4], row[5], row[6], row[7], row[8], row[9], row[10], None, None) for row in rows]
 		return self.get_text()
 
 	def get_hizb(self, hizb_number):
+		self.current_pos = hizb_number
+		self.max_pos = 60
+		self.type = 3
+		self.current_pos == self.max_pos if self.current_pos > self.max_pos else self.current_pos
+
 		self.cursor.execute(f"SELECT * FROM quran WHERE hizb={hizb_number}")
 		rows = self.cursor.fetchall()
 		self.data_list = [(row[0], row[1], row[2], row[3], row[4], row[5], row[6], row[7], row[8], row[9], row[10], None, None) for row in rows]
 		return self.get_text()
 
 	def get_juzz(self, juzz_number):
+		self.current_pos = juzz_number
+		self.max_pos = 30
+		self.type = 3
+		self.current_pos == self.max_pos if self.current_pos > self.max_pos else self.current_pos
 		self.cursor.execute(f"SELECT * FROM quran WHERE juz={juzz_number}")
 		rows = self.cursor.fetchall()
 		self.data_list = [(row[0], row[1], row[2], row[3], row[4], row[5], row[6], row[7], row[8], row[9], row[10], None, None) for row in rows]
 		return self.get_text()
 
 	def get_quarter(self, quarter_number):
+		self.current_pos = quarter_number
+		self.max_pos = 240
+		self.type = 2
+		self.current_pos == self.max_pos if self.current_pos > self.max_pos else self.current_pos
+
 		self.cursor.execute(f"SELECT * FROM quran WHERE hizbQuarter={quarter_number}")
 		rows = self.cursor.fetchall()
 		self.data_list = [(row[0], row[1], row[2], row[3], row[4], row[5], row[6], row[7], row[8], row[9], row[10], None, None) for row in rows]
 		return self.get_text()
 
 	def get_page(self, page_number):
+		self.current_pos = page_number
+		self.max_pos = 604
+		self.type = 0
+		self.current_pos == self.max_pos if self.current_pos > self.max_pos else self.current_pos
+
 		self.cursor.execute(f"SELECT * FROM quran WHERE page={page_number}")
 		rows = self.cursor.fetchall()
 		self.data_list = [(row[0], row[1], row[2], row[3], row[4], row[5], row[6], row[7], row[8], row[9], row[10], None, None) for row in rows]
 		return self.get_text()
 
-	def get_text(self, aya_to_line=False, show_numbers=True):
+	def next(self):
+		if self.current_pos >= self.max_pos:
+			return ""
+		self.current_pos += 1
+		if self.type == 0:
+			return self.get_page(self.current_pos)
+		elif self.type == 1:
+			return self.get_surah(self.current_pos)
+		elif self.type == 2:
+			return self.get_quarter(self.current_pos)
+		elif self.type == 3:
+			return self.get_hizb(self.current_pos)
+		else:
+			return self.get_juzz(self.current_pos)
+
+
+	def back(self):
+		if self.current_pos <= 1:
+			return ""
+		self.current_pos -= 1
+
+		if self.type == 0:
+			return self.get_page(self.current_pos)
+		elif self.type == 1:
+			return self.get_surah(self.current_pos)
+		elif self.type == 2:
+			return self.get_quarter(self.current_pos)
+		elif self.type == 3:
+			return self.get_hizb(self.current_pos)
+		else:
+			return self.get_juzz(self.current_pos)
+
+	def get_text(self):
 		if not self.data_list:
 			return ""
 
