@@ -1237,7 +1237,7 @@ Func _search_func()
 	Opt("GUICloseOnESC", 1)
 	Opt("GUIOnEventMode", 0)
 	GUISetState(@SW_DISABLE, $h_Main)
-	Local $h_SrchGUI = GUICreate("البحث في القرآن الكريم", 400, 360, -1, -1, BitOR($WS_SYSMENU, $WS_CLIPCHILDREN, $WS_CLIPSIBLINGS, $WS_MAXIMIZEBOX, $WS_MINIMIZEBOX, $WS_SIZEBOX, $WS_CHILD), BitOR($WS_EX_LAYOUTRTL, $WS_EX_MDICHILD, ), $h_Main)
+	Local $h_SrchGUI = GUICreate("البحث في القرآن الكريم", 400, 360, -1, -1, BitOR($WS_SYSMENU, $WS_CLIPCHILDREN, $WS_CLIPSIBLINGS, $WS_MAXIMIZEBOX, $WS_MINIMIZEBOX, $WS_SIZEBOX), BitOR($WS_EX_LAYOUTRTL, $WS_EX_MDICHILD), $h_Main)
 
 
 	GUICtrlCreateLabel("عبارة البحث", 150, 10, 100, 20)
