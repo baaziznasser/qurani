@@ -181,7 +181,7 @@ class quran_mgr:
 
 	def get_ayah_from_pos(self, pos):
 		indices = [i for i in range(len(self.data_list)) if self.data_list[i][11] <= pos <= self.data_list[i][12]]
-		return int(indices[0]) if len(indices) >= 1 else 0
+		return int(indices[0]) if len(indices) >= 1 else -1 if pos > self.data_list[0][11] and len(self.data_list) >= 1 else 0
 	def get_text(self):
 		if not self.data_list:
 			return ""
@@ -210,7 +210,7 @@ class quran_mgr:
 
 			text += ayah_text
 
-			end = start + len(ayah_text)
+			end = start + len(ayah_text)-1
 			self.data_list[ayah_index] += (start, end)
 			start = end+1
 
